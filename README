@@ -1,0 +1,7 @@
+-The ClauseIE folder contains each system's output on each data set in the corresponding folders. The Nemex outputs have either "TD" or "BU" in their file names, representing the top-down and bottom-up approaches, respectively.
+
+-The nemexDetailedOutputs contains the detailed results of running Nemex on the individual data sets.
+
+-evaluation.py is a Python script that evaluates the outputs of the systems according to the ClauseIE paper. It is to be run on Python 3, with the matplotlib library used for plotting purposes (Anaconda is recommended, since it packages matplotlib with Python 3).
+
+-nemexImprovments is a file containing potential improvements to Nemex, based on its outputs.

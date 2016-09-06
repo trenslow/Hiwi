@@ -1,0 +1,9 @@
+All files are tab-separated.
+
+sentences.txt                           Input sentences (sentence id + sentence)
+extractions-all.txt                     Extractions from all systems (sentence id + extraction)
+extractions-all-labeled.txt             Labels for all extractions (sentence id + extraction + label)
+extractions-clausie.txt                 Extractions by ClausIE (with CC processing)
+extractions-clausie-ncc.txt             Extractions by ClausIE (with CC processing in verbs only)
+extractions-ollie.txt                   Extractions by OLLIE
+extractions-reverb.txt                  Extractions by Reverb

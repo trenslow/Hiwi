@@ -98,8 +98,8 @@ def compare(gold, output):
     return prec_by_extr
 
 
-def graph(dat, color, data_name, xlim, sys_name):
-    plt.plot(dat, color=color, label=sys_name, linewidth=2.0)
+def graph(dat, color, style, sys_name, width, data_name, xlim):
+    plt.plot(dat, color=color, linestyle=style, label=sys_name, linewidth=width)
     plt.xlabel('Number of extractions')
     plt.ylabel('Precision')
     plt.title(data_name + ' data set')
@@ -111,10 +111,10 @@ def graph(dat, color, data_name, xlim, sys_name):
         mng.window.showMaximized()
 
 
-def graph_subplots(plot_num, dat, color, test, data_name, xlim, sys_name):
+def graph_subplots(plot_num, dat, color, style, sys_name, width, test, data_name, xlim):
     plt.subplot(2, 1, plot_num)
     plt.subplots_adjust(hspace=0.35)
-    plt.plot(dat, color=color, label=sys_name, linewidth=2.0)
+    plt.plot(dat, color=color, linestyle=style, label=sys_name, linewidth=width)
     plt.xlabel('Number of extractions')
     plt.ylabel('Precision')
     if test:
@@ -157,7 +157,7 @@ if __name__ == '__main__':
               'nemex-penn-TD': 'darkgreen',
               'nemex-ud-TD': 'black',
               'nemex-penn-BU': 'purple',
-              'nemex-ud-BU': 'yellow'
+              'nemex-ud-BU': 'gold'
               }
 
     # loop over all paths in all the folders
@@ -178,11 +178,19 @@ if __name__ == '__main__':
                 precision_by_extraction = compare(gold_index, extraction_index)
                 total_extractions = len(precision_by_extraction)
 
-                # plot results
+                # plot results, making the Nemex lines stand out more
+                if 'nemex' in system:
+                    line_width = 2.0
+                    line_style = 'solid'
+                else:
+                    line_width = 1.0
+                    line_style = 'dashed'
+                # for plots analogous to those on the ClauseIE paper
                 if full_plots:
                     if total_extractions > x_limit:
                         x_limit = total_extractions
-                    graph(precision_by_extraction, colors[system], data_set_name, x_limit, system)
+                    graph(precision_by_extraction, colors[system], line_style, system, line_width,
+                          data_set_name, x_limit)
                 # plot a development and test set
                 else:
                     # slice the data into development and test sets
@@ -192,8 +200,10 @@ if __name__ == '__main__':
                     test_set = precision_by_extraction[slice_idx:]
                     if slice_idx + 1 > x_limit:
                         x_limit = slice_idx + 1
-                    graph_subplots(1, dev_set, colors[system], False, data_set_name, x_limit, system)
-                    graph_subplots(2, test_set, colors[system], True, data_set_name, x_limit, system)
+                    graph_subplots(1, dev_set, colors[system], line_style, system, line_width,
+                                   False, data_set_name, x_limit)
+                    graph_subplots(2, test_set, colors[system], line_style, system, line_width,
+                                   True, data_set_name, x_limit)
 
         plt.show()
         plt.clf()

@@ -131,9 +131,9 @@ def graph_subplots(plot_num, dat, color, style, sys_name, width, test, data_name
 
 if __name__ == '__main__':
     system_name = r'extractions-(.*?).txt'
-    nyt_folder = 'ClauseIE/nyt/'
-    reverb_folder = 'ClauseIE/reverb/'
-    wiki_folder = 'ClauseIE/wikipedia/'
+    nyt_folder = 'ClausIE/nyt/'
+    reverb_folder = 'ClausIE/reverb/'
+    wiki_folder = 'ClausIE/wikipedia/'
     full_plots = True
 
     # index that keeps track of all the paths to the output files
@@ -172,7 +172,7 @@ if __name__ == '__main__':
                 gold_index = read_gold_standard(path + gold_file)
                 # read the output file and collect all the data into a dictionary
                 extraction_index = read_extraction_file(path + out_file)
-                data_set_name = re.findall(r'ClauseIE/(.*?)/', path)[0]
+                data_set_name = re.findall(r'ClausIE/(.*?)/', path)[0]
                 print('for the system ' + system + ', on the ' + data_set_name + ' data set:')
                 # compare a system's output against the gold standard
                 precision_by_extraction = compare(gold_index, extraction_index)
@@ -185,7 +185,7 @@ if __name__ == '__main__':
                 else:
                     line_width = 1.0
                     line_style = 'dashed'
-                # for plots analogous to those on the ClauseIE paper
+                # for plots analogous to those on the ClausIE paper
                 if full_plots:
                     if total_extractions > x_limit:
                         x_limit = total_extractions

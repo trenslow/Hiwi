@@ -62,23 +62,37 @@ def read_extraction_file(output):
     return extract_idx
 
 
-def compare(gold, output):
+def compare(gold, output, out_folder, dat_set):
     corr_and_conf = []
-    not_in_gold = []
+    path_to_txt = out_folder + dat_set + '/'
+    correct_file = 'correct.txt'
+    incorrect_file = 'incorrect.txt'
+    novel_file = 'novel.txt'
+    correct_out = open(path_to_txt + correct_file, 'w+')
+    incorrect_out = open(path_to_txt + incorrect_file, 'w+')
+    novel_out = open(path_to_txt + novel_file, 'w+')
 
     for o_id, o_ex in output.items():
         for ex in o_ex:
             confidence = output[o_id][ex]
             if o_id not in gold:
                 gold[o_id] = dict()
-
+            output_line = str(o_id) + '\t' + str(ex) + '\n'
             if ex in gold[o_id]:
+                # if the extraction is in gold standard and marked as correct
                 if gold[o_id][ex] == 1:
                     corr_and_conf.append((1, confidence))
+                    correct_out.write(output_line)
+                # if the extraction is in gold standard and marked as incorrect
                 else:
                     corr_and_conf.append((0, confidence))
+                    incorrect_out.write(output_line)
+            # if the extraction is not found in the gold standard
             else:
-                not_in_gold.append((o_id, ex))
+                novel_out.write(output_line)
+    correct_out.close()
+    incorrect_out.close()
+    novel_out.close()
 
     # initialize the count of correct extractions and total extractions
     # initialize a list to collect precision values for the k-th extraction to be graphed
@@ -106,9 +120,6 @@ def graph(dat, color, style, sys_name, width, data_name, xlim):
     plt.xlim(-.05 * xlim, xlim)
     plt.ylim(-0.05, 1.05)
     plt.legend(loc='lower right', framealpha=0.5)
-    if sys.platform.startswith('linux'):
-        mng = plt.get_current_fig_manager()
-        mng.window.showMaximized()
 
 
 def graph_subplots(plot_num, dat, color, style, sys_name, width, test, data_name, xlim):
@@ -124,9 +135,15 @@ def graph_subplots(plot_num, dat, color, style, sys_name, width, test, data_name
     plt.xlim(-.05 * xlim, xlim)
     plt.ylim(-0.05, 1.05)
     plt.legend(loc='lower right', framealpha=0.5)
-    if sys.platform.startswith('linux'):
-        mng = plt.get_current_fig_manager()
-        mng.window.showMaximized()
+
+
+def create_output_directory(out_folder):
+    if not os.path.exists(out_folder + 'nyt/'):
+        os.makedirs(out_folder + 'nyt/')
+    if not os.path.exists(out_folder + 'reverb/'):
+        os.makedirs(out_folder + 'reverb/')
+    if not os.path.exists(out_folder + 'wikipedia/'):
+        os.makedirs(out_folder + 'wikipedia/')
 
 
 if __name__ == '__main__':
@@ -134,6 +151,8 @@ if __name__ == '__main__':
     nyt_folder = 'ClausIE/nyt/'
     reverb_folder = 'ClausIE/reverb/'
     wiki_folder = 'ClausIE/wikipedia/'
+    output_folder = 'nemexOutputs/'
+    create_output_directory(output_folder)
     full_plots = True
 
     # index that keeps track of all the paths to the output files
@@ -164,6 +183,7 @@ if __name__ == '__main__':
     for path, data in sorted(output_file_index.items(), key=operator.itemgetter(0)):
         # initialize the number of max extractions to be used for setting x-axis limits later
         x_limit = 0
+        data_set_name = re.findall(r'ClausIE/(.*?)/', path)[0]
         for system, out_file in sorted(data.items(), key=operator.itemgetter(0)):
             # skip over the all files
             if 'all' not in out_file:
@@ -172,12 +192,10 @@ if __name__ == '__main__':
                 gold_index = read_gold_standard(path + gold_file)
                 # read the output file and collect all the data into a dictionary
                 extraction_index = read_extraction_file(path + out_file)
-                data_set_name = re.findall(r'ClausIE/(.*?)/', path)[0]
                 print('for the system ' + system + ', on the ' + data_set_name + ' data set:')
                 # compare a system's output against the gold standard
-                precision_by_extraction = compare(gold_index, extraction_index)
+                precision_by_extraction = compare(gold_index, extraction_index, output_folder, data_set_name)
                 total_extractions = len(precision_by_extraction)
-
                 # plot results, making the Nemex lines stand out more
                 if 'nemex' in system:
                     line_width = 2.0
@@ -205,6 +223,6 @@ if __name__ == '__main__':
                     graph_subplots(2, test_set, colors[system], line_style, system, line_width,
                                    True, data_set_name, x_limit)
 
-        plt.show()
+        plt.savefig(output_folder + data_set_name + '/' + 'plot.png')
         plt.clf()
         print('\n*********************************************\n')

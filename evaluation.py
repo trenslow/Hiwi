@@ -8,33 +8,6 @@ import operator
 import sys
 
 
-def read_gold_standard(gold):
-    gold_idx = dict()
-
-    with open(gold, encoding='latin-1') as f:
-        for line in f:
-            # split line by tabs
-            ln = line.strip().split('\t')
-            # in the case the line in the file is the original sentence, skip the line
-            if len(ln) == 1:
-                continue
-            else:
-                # break apart the line into sentence id, extraction and rating
-                sent_id = int(ln[0])
-                extraction = tuple(ln[1:-1])
-                rating = int(ln[-1])
-                # initialize the gold index entry with the index as key and empty dict as value
-                if sent_id not in gold_idx:
-                    gold_idx[sent_id] = dict()
-                # initialize the dict for each gold index with extraction as key and rating as value
-                if extraction not in gold_idx[sent_id]:
-                    gold_idx[sent_id][extraction] = dict()
-                # add each relation to the gold index
-                gold_idx[sent_id][extraction] = rating
-
-    return gold_idx
-
-
 def read_extraction_file(output):
     extract_idx = dict()
 
@@ -62,37 +35,37 @@ def read_extraction_file(output):
     return extract_idx
 
 
-def compare(gold, output, out_folder, dat_set):
+def compare(gold, extractions):
     corr_and_conf = []
-    path_to_txt = out_folder + dat_set + '/'
-    correct_file = 'correct.txt'
-    incorrect_file = 'incorrect.txt'
-    novel_file = 'novel.txt'
-    correct_out = open(path_to_txt + correct_file, 'w+')
-    incorrect_out = open(path_to_txt + incorrect_file, 'w+')
-    novel_out = open(path_to_txt + novel_file, 'w+')
+    corr, incorr, unknown = [], [], []
+    arg1, rel, arg2 = "", "", ""
 
-    for o_id, o_ex in output.items():
+    for o_id, o_ex in extractions.items():
         for ex in o_ex:
-            confidence = output[o_id][ex]
+            confidence = extractions[o_id][ex]
             if o_id not in gold:
                 gold[o_id] = dict()
-            output_line = str(o_id) + '\t' + str(ex) + '\n'
+
+            if len(ex) == 3:
+                arg1, rel, arg2 = ex
+            elif len(ex) == 2:
+                arg1, rel = ex
+                arg2 = ""
+
+            out_line = str(o_id) + '\t' + str(arg1) + '\t' + str(rel) + '\t' + str(arg2) + '\n'
             if ex in gold[o_id]:
                 # if the extraction is in gold standard and marked as correct
                 if gold[o_id][ex] == 1:
                     corr_and_conf.append((1, confidence))
-                    correct_out.write(output_line)
+                    corr.append(out_line)
                 # if the extraction is in gold standard and marked as incorrect
                 else:
                     corr_and_conf.append((0, confidence))
-                    incorrect_out.write(output_line)
+                    incorr.append(out_line)
             # if the extraction is not found in the gold standard
             else:
-                novel_out.write(output_line)
-    correct_out.close()
-    incorrect_out.close()
-    novel_out.close()
+                unknown.append(out_line)
+
 
     # initialize the count of correct extractions and total extractions
     # initialize a list to collect precision values for the k-th extraction to be graphed
@@ -109,7 +82,21 @@ def compare(gold, output, out_folder, dat_set):
         prec_by_extr.append(precision)
 
     print('precision =', num_correct, '/', num_extractions, '=', num_correct / num_extractions)
-    return prec_by_extr
+    return prec_by_extr, corr, incorr, unknown
+
+
+def write_eval_results(corrs, incorrs, unkwns, out_folder, dat_set, system):
+    path_to_txt = out_folder + dat_set + '/'
+    correct_file = path_to_txt + system + '_' + 'correct.txt'
+    incorrect_file = path_to_txt + system + '_' + 'incorrect.txt'
+    unknown_file = path_to_txt + system + '_' + 'unknown.txt'
+
+    with open(correct_file, 'w+') as c:
+        c.writelines(corrs)
+    with open(incorrect_file, 'w+') as i:
+        i.writelines(incorrs)
+    with open(unknown_file, 'w+') as u:
+        u.writelines(unkwns)
 
 
 def graph(dat, color, style, sys_name, width, data_name, xlim):
@@ -189,21 +176,22 @@ if __name__ == '__main__':
             if 'all' not in out_file:
                 # fetch gold standard path and read its data into a dictionary
                 gold_file = data['all-labeled']
-                gold_index = read_gold_standard(path + gold_file)
+                gold_index = read_extraction_file(path + gold_file)
                 # read the output file and collect all the data into a dictionary
                 extraction_index = read_extraction_file(path + out_file)
                 print('for the system ' + system + ', on the ' + data_set_name + ' data set:')
                 # compare a system's output against the gold standard
-                precision_by_extraction = compare(gold_index, extraction_index, output_folder, data_set_name)
-                total_extractions = len(precision_by_extraction)
+                precision_by_extraction, corrects, incorrects, unknowns = compare(gold_index, extraction_index)
                 # plot results, making the Nemex lines stand out more
                 if 'nemex' in system:
                     line_width = 2.0
                     line_style = 'solid'
+                    write_eval_results(corrects, incorrects, unknowns, output_folder, data_set_name, system)
                 else:
                     line_width = 1.0
                     line_style = 'dashed'
                 # for plots analogous to those on the ClausIE paper
+                total_extractions = len(precision_by_extraction)
                 if full_plots:
                     if total_extractions > x_limit:
                         x_limit = total_extractions
@@ -223,6 +211,6 @@ if __name__ == '__main__':
                     graph_subplots(2, test_set, colors[system], line_style, system, line_width,
                                    True, data_set_name, x_limit)
 
-        plt.savefig(output_folder + data_set_name + '/' + 'plot.png')
+        plt.savefig(output_folder + data_set_name + '/plot.png')
         plt.clf()
         print('\n*********************************************\n')

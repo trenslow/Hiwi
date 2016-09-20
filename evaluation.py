@@ -9,13 +9,14 @@ import sys
 
 
 def read_extraction_file(output):
-    extract_idx = dict()
+    extraction_idx = {}
 
     with open(output, encoding='latin-1') as f:
         for line in f:
             # split line by tabs
             ln = line.strip().split('\t')
-            # in the case the line in the file is the original sentence, skip the line
+            # In the case the line in the file is the original sentence, skip the line.
+            # Otherwise, create an index for the sentences to be used later.
             if len(ln) == 1:
                 continue
             else:
@@ -24,48 +25,48 @@ def read_extraction_file(output):
                 extraction = tuple(ln[1:-1])
                 conf = float(ln[-1])
                 # initialize the extraction index entry with the index as key and empty dict as value
-                if sent_id not in extract_idx:
-                    extract_idx[sent_id] = dict()
+                if sent_id not in extraction_idx:
+                    extraction_idx[sent_id] = {}
                 # initialize the dict for each extraction index with extraction as key and confidence as value
-                if extraction not in extract_idx[sent_id]:
-                    extract_idx[sent_id][extraction] = dict()
+                if extraction not in extraction_idx[sent_id]:
+                    extraction_idx[sent_id][extraction] = {}
                 # add each relation to the extraction index with its corresponding confidence value
-                extract_idx[sent_id][extraction] = conf
+                extraction_idx[sent_id][extraction] = conf
 
-    return extract_idx
+    return extraction_idx
 
 
 def compare(gold, extractions):
     corr_and_conf = []
-    corr, incorr, unknown = [], [], []
-    arg1, rel, arg2 = "", "", ""
+    corr, incorr, unknown = {}, {}, {}
 
-    for o_id, o_ex in extractions.items():
-        for ex in o_ex:
-            confidence = extractions[o_id][ex]
-            if o_id not in gold:
-                gold[o_id] = dict()
+    for e_id, ex in extractions.items():
+        corr[e_id], incorr[e_id], unknown[e_id] = [], [], []
+        if e_id not in gold:
+            gold[e_id] = {}
+        for e in ex:
+            confidence = extractions[e_id][e]
+            if len(e) == 3:
+                arg1, rel, arg2 = e
+                out_line = str(e_id) + '\t' + str(arg1) + '\t' + str(rel) + '\t' + str(arg2) + '\n'
+            elif len(e) == 2:
+                arg1, rel = e
+                out_line = str(e_id) + '\t' + str(arg1) + '\t' + str(rel) + '\t' + "" + '\n'
+            else:
+                continue
 
-            if len(ex) == 3:
-                arg1, rel, arg2 = ex
-            elif len(ex) == 2:
-                arg1, rel = ex
-                arg2 = ""
-
-            out_line = str(o_id) + '\t' + str(arg1) + '\t' + str(rel) + '\t' + str(arg2) + '\n'
-            if ex in gold[o_id]:
+            if e in gold[e_id]:
                 # if the extraction is in gold standard and marked as correct
-                if gold[o_id][ex] == 1:
+                if gold[e_id][e] == 1:
                     corr_and_conf.append((1, confidence))
-                    corr.append(out_line)
+                    corr[e_id].append(out_line)
                 # if the extraction is in gold standard and marked as incorrect
                 else:
                     corr_and_conf.append((0, confidence))
-                    incorr.append(out_line)
+                    incorr[e_id].append(out_line)
             # if the extraction is not found in the gold standard
             else:
-                unknown.append(out_line)
-
+                unknown[e_id].append(out_line)
 
     # initialize the count of correct extractions and total extractions
     # initialize a list to collect precision values for the k-th extraction to be graphed
@@ -85,18 +86,26 @@ def compare(gold, extractions):
     return prec_by_extr, corr, incorr, unknown
 
 
-def write_eval_results(corrs, incorrs, unkwns, out_folder, dat_set, system):
+def write_eval_results(corrs, incorrs, unkwns, out_folder, dat_set, system, sent_idx):
     path_to_txt = out_folder + dat_set + '/'
-    correct_file = path_to_txt + system + '_' + 'correct.txt'
-    incorrect_file = path_to_txt + system + '_' + 'incorrect.txt'
-    unknown_file = path_to_txt + system + '_' + 'unknown.txt'
+    correct_file = open(path_to_txt + system + '_' + 'correct.txt', 'w+')
+    incorrect_file = open(path_to_txt + system + '_' + 'incorrect.txt', 'w+')
+    unknown_file = open(path_to_txt + system + '_' + 'unknown.txt', 'w+')
 
-    with open(correct_file, 'w+') as c:
-        c.writelines(corrs)
-    with open(incorrect_file, 'w+') as i:
-        i.writelines(incorrs)
-    with open(unknown_file, 'w+') as u:
-        u.writelines(unkwns)
+    for id, sent in sorted(sent_idx.items(), key=operator.itemgetter(0)):
+        correct_file.write(sent)
+        incorrect_file.write(sent)
+        unknown_file.write(sent)
+        if id in corrs:
+            correct_file.writelines(corrs[id])
+        if id in incorrs:
+            incorrect_file.writelines(incorrs[id])
+        if id in unkwns:
+            unknown_file.writelines(unkwns[id])
+
+    correct_file.close()
+    incorrect_file.close()
+    unknown_file.close()
 
 
 def graph(dat, color, style, sys_name, width, data_name, xlim):
@@ -170,23 +179,27 @@ if __name__ == '__main__':
     for path, data in sorted(output_file_index.items(), key=operator.itemgetter(0)):
         # initialize the number of max extractions to be used for setting x-axis limits later
         x_limit = 0
+        path_to_gold = path + data['all-labeled']
+        with open(path_to_gold, encoding='latin-1') as f:
+            sentence_index = {id:sent for id, sent in enumerate([line for line in f
+                                                                 if len(line.strip().split('\t')) == 1])}
         data_set_name = re.findall(r'ClausIE/(.*?)/', path)[0]
         for system, out_file in sorted(data.items(), key=operator.itemgetter(0)):
             # skip over the all files
             if 'all' not in out_file:
                 # fetch gold standard path and read its data into a dictionary
-                gold_file = data['all-labeled']
-                gold_index = read_extraction_file(path + gold_file)
+                gold_index = read_extraction_file(path_to_gold)
                 # read the output file and collect all the data into a dictionary
                 extraction_index = read_extraction_file(path + out_file)
                 print('for the system ' + system + ', on the ' + data_set_name + ' data set:')
                 # compare a system's output against the gold standard
                 precision_by_extraction, corrects, incorrects, unknowns = compare(gold_index, extraction_index)
-                # plot results, making the Nemex lines stand out more
+                # plot results, making the Nemex lines stand out more, and write Nemex results to file
                 if 'nemex' in system:
                     line_width = 2.0
                     line_style = 'solid'
-                    write_eval_results(corrects, incorrects, unknowns, output_folder, data_set_name, system)
+                    write_eval_results(corrects, incorrects, unknowns,
+                                       output_folder, data_set_name, system, sentence_index)
                 else:
                     line_width = 1.0
                     line_style = 'dashed'

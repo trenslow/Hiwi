@@ -45,24 +45,22 @@ def compare(gold, extractions):
         if e_id not in gold:
             gold[e_id] = {}
         for e in ex:
-            confidence = extractions[e_id][e]
+            weight = extractions[e_id][e]
             if len(e) == 3:
                 arg1, rel, arg2 = e
-                out_line = str(e_id) + '\t' + str(arg1) + '\t' + str(rel) + '\t' + str(arg2) + '\n'
+                out_line = str(e_id) + '\t' + str(arg1) + '\t' + str(rel) + '\t' + str(arg2) + '\t' + str(weight) + '\n'
             elif len(e) == 2:
                 arg1, rel = e
-                out_line = str(e_id) + '\t' + str(arg1) + '\t' + str(rel) + '\t' + "" + '\n'
-            else:
-                continue
+                out_line = str(e_id) + '\t' + str(arg1) + '\t' + str(rel) + '\t' + "" + '\t' + str(weight) + '\n'
 
             if e in gold[e_id]:
                 # if the extraction is in gold standard and marked as correct
                 if gold[e_id][e] == 1:
-                    corr_and_conf.append((1, confidence))
+                    corr_and_conf.append((1, weight))
                     corr[e_id].append(out_line)
                 # if the extraction is in gold standard and marked as incorrect
                 else:
-                    corr_and_conf.append((0, confidence))
+                    corr_and_conf.append((0, weight))
                     incorr[e_id].append(out_line)
             # if the extraction is not found in the gold standard
             else:

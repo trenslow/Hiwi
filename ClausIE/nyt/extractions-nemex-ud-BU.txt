@@ -39,41 +39,41 @@ CourtLink , which has 160 employees , developed a filing system that enables jud
 0	"court clerks"	"connection"	"process pleadings"	-0.16666666666666669
 0	"court clerks"	"connection"	"motions"	-0.16666666666666669
 0	"court clerks"	"connection motions"	"other documents"	0.0
-0	"court clerks"	"lawyers connection employees CourtLink has employees"	"that enables judges , lawyers and court clerks to process pleadings , motions and other documents electronically over a secure connection"	0.08333333333333334
+0	"court clerks"	"lawyers connection employees CourtLink has employees"	"that enables judges  lawyers and court clerks to process pleadings  motions and other documents electronically over a secure connection"	0.08333333333333334
 0	"process pleadings"	"connection"	"motions"	0.0
 0	"process pleadings"	"connection motions"	"other documents"	0.16666666666666669
-0	"process pleadings"	"connection employees CourtLink has employees"	"that enables judges , lawyers and court clerks to process pleadings , motions and other documents electronically over a secure connection"	0.04999999999999999
+0	"process pleadings"	"connection employees CourtLink has employees"	"that enables judges  lawyers and court clerks to process pleadings  motions and other documents electronically over a secure connection"	0.04999999999999999
 0	"motions"	"motions"	"other documents"	1.5
-0	"motions"	"connection employees CourtLink has employees"	"that enables judges , lawyers and court clerks to process pleadings , motions and other documents electronically over a secure connection"	0.04999999999999999
-0	"other documents"	"motions connection employees CourtLink has employees"	"that enables judges , lawyers and court clerks to process pleadings , motions and other documents electronically over a secure connection"	0.08333333333333334
+0	"motions"	"connection employees CourtLink has employees"	"that enables judges  lawyers and court clerks to process pleadings  motions and other documents electronically over a secure connection"	0.04999999999999999
+0	"other documents"	"motions connection employees CourtLink has employees"	"that enables judges  lawyers and court clerks to process pleadings  motions and other documents electronically over a secure connection"	0.08333333333333334
 A graduate of the University of Arizona , she is a lecturer in writing at Princeton University and an author under the name of Kathryn Watterson Burkhart . 
 1	"A graduate"	"graduate"	"of the University"	1.5
 1	"A graduate"	"University"	"of Arizona"	1.3333333333333333
 1	"A graduate"	"lecturer"	"she"	0.0
-1	"A graduate"	"lecturer"	"A graduate of the University of Arizona , she is a lecturer"	1.5
+1	"A graduate"	"lecturer"	"A graduate of the University of Arizona  she is a lecturer"	1.5
 1	"A graduate"	"lecturer"	"in writing"	1.0
 1	"A graduate"	"lecturer writing"	"at Princeton University"	0.8333333333333333
 1	"of the University"	"University"	"of Arizona"	1.5
 1	"of the University"	"lecturer"	"she"	-0.16666666666666669
-1	"of the University"	"lecturer"	"A graduate of the University of Arizona , she is a lecturer"	1.3333333333333333
+1	"of the University"	"lecturer"	"A graduate of the University of Arizona  she is a lecturer"	1.3333333333333333
 1	"of the University"	"lecturer"	"in writing"	0.8333333333333333
 1	"of the University"	"lecturer writing"	"at Princeton University"	0.6666666666666666
 1	"of the University"	"lecturer"	"an author"	0.8333333333333333
 1	"of Arizona"	"University lecturer"	"she"	-0.25
-1	"of Arizona"	"University lecturer"	"A graduate of the University of Arizona , she is a lecturer"	1.25
+1	"of Arizona"	"University lecturer"	"A graduate of the University of Arizona  she is a lecturer"	1.25
 1	"of Arizona"	"University lecturer"	"in writing"	0.75
 1	"of Arizona"	"University lecturer writing"	"at Princeton University"	0.5833333333333333
 1	"of Arizona"	"University lecturer"	"an author"	0.75
-1	"she"	"lecturer"	"A graduate of the University of Arizona , she is a lecturer"	1.5
+1	"she"	"lecturer"	"A graduate of the University of Arizona  she is a lecturer"	1.5
 1	"she"	"lecturer"	"in writing"	1.0
 1	"she"	"lecturer writing"	"at Princeton University"	0.8333333333333333
 1	"she"	"lecturer"	"an author"	1.0
 1	"she"	"lecturer author"	"under the name"	0.8333333333333333
-1	"A graduate of the University of Arizona , she is a lecturer"	"lecturer"	"in writing"	1.5
-1	"A graduate of the University of Arizona , she is a lecturer"	"writing"	"at Princeton University"	1.3333333333333333
-1	"A graduate of the University of Arizona , she is a lecturer"	"lecturer"	"an author"	1.5
-1	"A graduate of the University of Arizona , she is a lecturer"	"author"	"under the name"	1.3333333333333333
-1	"A graduate of the University of Arizona , she is a lecturer"	"author name"	"of Kathryn Watterson Burkhart"	1.25
+1	"A graduate of the University of Arizona  she is a lecturer"	"lecturer"	"in writing"	1.5
+1	"A graduate of the University of Arizona  she is a lecturer"	"writing"	"at Princeton University"	1.3333333333333333
+1	"A graduate of the University of Arizona  she is a lecturer"	"lecturer"	"an author"	1.5
+1	"A graduate of the University of Arizona  she is a lecturer"	"author"	"under the name"	1.3333333333333333
+1	"A graduate of the University of Arizona  she is a lecturer"	"author name"	"of Kathryn Watterson Burkhart"	1.25
 1	"in writing"	"writing"	"at Princeton University"	1.5
 1	"in writing"	"lecturer"	"an author"	0.0
 1	"in writing"	"lecturer author"	"under the name"	-0.16666666666666669
@@ -148,17 +148,17 @@ He also had stints with the New York Philharmonic , Metropolitan Opera Orchestra
 6	"Metropolitan Opera Orchestra"	"Philharmonic"	"Symphony"	0.0
 6	"Metropolitan Opera Orchestra"	"Philharmonic"	"of the Air"	0.0
 6	"Metropolitan Opera Orchestra"	"had successor"	"the NBC Symphony"	0.0
-6	"Metropolitan Opera Orchestra"	"had"	", the NBC Symphony 's successor"	0.16666666666666669
+6	"Metropolitan Opera Orchestra"	"had"	" the NBC Symphony 's successor"	0.16666666666666669
 6	"CBS Symphony"	"Philharmonic"	"Symphony"	0.0
 6	"CBS Symphony"	"Philharmonic"	"of the Air"	0.0
 6	"CBS Symphony"	"had successor"	"the NBC Symphony"	0.0
-6	"CBS Symphony"	"had"	", the NBC Symphony 's successor"	0.16666666666666669
+6	"CBS Symphony"	"had"	" the NBC Symphony 's successor"	0.16666666666666669
 6	"Symphony"	"Philharmonic"	"of the Air"	0.0
 6	"Symphony"	"had successor"	"the NBC Symphony"	0.0
-6	"Symphony"	"had"	", the NBC Symphony 's successor"	0.16666666666666669
+6	"Symphony"	"had"	" the NBC Symphony 's successor"	0.16666666666666669
 6	"of the Air"	"had successor"	"the NBC Symphony"	0.0
-6	"of the Air"	"had"	", the NBC Symphony 's successor"	0.16666666666666669
-6	"the NBC Symphony"	"had"	", the NBC Symphony 's successor"	0.16666666666666669
+6	"of the Air"	"had"	" the NBC Symphony 's successor"	0.16666666666666669
+6	"the NBC Symphony"	"had"	" the NBC Symphony 's successor"	0.16666666666666669
 In recent weeks , as the incentive wars have escalated , other automakers have beefed up their warranties . 
 7	"In recent weeks"	"escalated"	"as the incentive wars"	0.0
 7	"In recent weeks"	"escalated beefed"	"other automakers"	0.8333333333333333
@@ -194,13 +194,13 @@ President Bush deserves much credit for sharply increasing United States financi
 9	"his"	"coming trip"	"to Britain"	0.8333333333333333
 9	"trip"	"trip"	"to Britain"	1.5
 And , since , as any reputable language teacher knows , bilingualism in the school merely reinforces what the child hears at home - and slows his learning of English - the whole idea is pointless . 
-10	"any reputable language teacher"	"pointless"	"And , since , as any reputable language teacher knows , bilingualism"	-0.6666666666666667
+10	"any reputable language teacher"	"pointless"	"And  since  as any reputable language teacher knows  bilingualism"	-0.6666666666666667
 10	"any reputable language teacher"	"pointless"	"in the school"	-0.16666666666666669
 10	"any reputable language teacher"	"pointless reinforces"	"what"	0.0
 10	"any reputable language teacher"	"pointless reinforces"	"the child hears"	0.0
-10	"And , since , as any reputable language teacher knows , bilingualism"	"pointless"	"in the school"	0.5
-10	"And , since , as any reputable language teacher knows , bilingualism"	"pointless reinforces"	"what"	0.6666666666666667
-10	"And , since , as any reputable language teacher knows , bilingualism"	"pointless reinforces"	"the child hears"	0.6666666666666667
+10	"And  since  as any reputable language teacher knows  bilingualism"	"pointless"	"in the school"	0.5
+10	"And  since  as any reputable language teacher knows  bilingualism"	"pointless reinforces"	"what"	0.6666666666666667
+10	"And  since  as any reputable language teacher knows  bilingualism"	"pointless reinforces"	"the child hears"	0.6666666666666667
 10	"in the school"	"pointless reinforces"	"what"	0.16666666666666669
 10	"in the school"	"pointless reinforces"	"the child hears"	0.16666666666666669
 10	"in the school"	"pointless slows"	"his learning"	0.16666666666666669
@@ -298,9 +298,9 @@ We can use a little more of that trust this year .
 16	"We"	"use trust"	"this year"	0.8333333333333333
 16	"of that"	"use trust"	"this year"	0.0
 The Embassy said 6,700 Americans were in Pakistan . 
-17	"The Embassy"	"said Pakistan"	"6,700 Americans"	0.8333333333333333
-17	"The Embassy"	"said"	"6,700 Americans were in Pakistan"	1.0
-17	"6,700 Americans"	"said"	"6,700 Americans were in Pakistan"	0.16666666666666669
+17	"The Embassy"	"said Pakistan"	"6700 Americans"	0.8333333333333333
+17	"The Embassy"	"said"	"6700 Americans were in Pakistan"	1.0
+17	"6700 Americans"	"said"	"6700 Americans were in Pakistan"	0.16666666666666669
 Along with Dow Jones and Microsoft , the companies included CNN , but not its parent , AOL Time Warner . 
 18	"Along with Dow Jones"	"Jones"	"Microsoft"	1.5
 18	"Along with Dow Jones"	"Jones"	"the companies"	1.5
@@ -338,14 +338,14 @@ Doctors in Pennsylvania and West Virginia are expected to notify S.M.I. bioterro
 21	"West Virginia"	"Pennsylvania expected notify"	"S.M.I. bioterror experts"	0.5833333333333333
 21	"West Virginia"	"Pennsylvania expected notify"	"of any  suspicious event"	0.5833333333333333
 21	"S.M.I. bioterror experts"	"notify"	"of any  suspicious event"	0.0
-21	"S.M.I. bioterror experts"	"expected"	",  from an unusual rash"	0.16666666666666669
+21	"S.M.I. bioterror experts"	"expected"	"  from an unusual rash"	0.16666666666666669
 21	"S.M.I. bioterror experts"	"expected rash"	"to a finger"	0.0
-21	"of any  suspicious event"	"expected"	",  from an unusual rash"	0.16666666666666669
+21	"of any  suspicious event"	"expected"	"  from an unusual rash"	0.16666666666666669
 21	"of any  suspicious event"	"expected rash"	"to a finger"	0.0
 21	"of any  suspicious event"	"expected rash finger lost"	"in an explosion"	-0.1333333333333333
-21	",  from an unusual rash"	"rash"	"to a finger"	1.5
-21	",  from an unusual rash"	"finger lost"	"in an explosion"	1.25
-21	",  from an unusual rash"	"expected informing"	"the patient"	-0.16666666666666669
+21	"  from an unusual rash"	"rash"	"to a finger"	1.5
+21	"  from an unusual rash"	"finger lost"	"in an explosion"	1.25
+21	"  from an unusual rash"	"expected informing"	"the patient"	-0.16666666666666669
 21	"to a finger"	"lost"	"in an explosion"	1.3333333333333333
 21	"to a finger"	"expected informing"	"the patient"	0.0
 21	"in an explosion"	"lost finger expected informing"	"the patient"	0.1333333333333333
@@ -595,13 +595,13 @@ My words were as perishable as doodles on an Etch-a-Sketch , I got half the mone
 Although the classic loafer can travel anywhere , this spring 's variations are certainly a step in a new direction . 
 35	"the classic loafer"	"step variations"	"this spring"	0.0
 35	"the classic loafer"	"step"	"this spring 's variations"	-0.16666666666666669
-35	"the classic loafer"	"step"	"Although the classic loafer can travel anywhere , this spring 's variations are certainly a step"	1.3333333333333333
+35	"the classic loafer"	"step"	"Although the classic loafer can travel anywhere  this spring 's variations are certainly a step"	1.3333333333333333
 35	"this spring"	"step"	"this spring 's variations"	-0.16666666666666669
-35	"this spring"	"step"	"Although the classic loafer can travel anywhere , this spring 's variations are certainly a step"	1.3333333333333333
+35	"this spring"	"step"	"Although the classic loafer can travel anywhere  this spring 's variations are certainly a step"	1.3333333333333333
 35	"this spring"	"step"	"in a new direction"	0.8333333333333333
-35	"this spring 's variations"	"step"	"Although the classic loafer can travel anywhere , this spring 's variations are certainly a step"	1.5
+35	"this spring 's variations"	"step"	"Although the classic loafer can travel anywhere  this spring 's variations are certainly a step"	1.5
 35	"this spring 's variations"	"step"	"in a new direction"	1.0
-35	"Although the classic loafer can travel anywhere , this spring 's variations are certainly a step"	"step"	"in a new direction"	1.5
+35	"Although the classic loafer can travel anywhere  this spring 's variations are certainly a step"	"step"	"in a new direction"	1.5
 Eventually , they say , fares should cover about 50 percent of the costs of the system , up from the current 25 to 38 percent , depending on the method of calculation . 
 36	"they"	"say cover"	"fares"	0.8333333333333333
 36	"they"	"say cover"	"about 50 percent"	0.8333333333333333
@@ -744,12 +744,12 @@ John Lamar Odom , pastor of the First Presbyterian Church in Oceanside , L.I. , 
 41	"L.I."	"married"	"yesterday"	0.8333333333333333
 The World Health Organization has issued a report detailing an ambitious , often covert effort by the tobacco industry to curb global anti-smoking initiatives , dating back to the late 1980 's . 
 42	"The World Health Organization"	"issued"	"a report"	1.0
-42	"The World Health Organization"	"issued report detailing"	"an ambitious , often covert effort"	0.75
+42	"The World Health Organization"	"issued report detailing"	"an ambitious  often covert effort"	0.75
 42	"The World Health Organization"	"issued report detailing effort"	"by the tobacco industry"	0.7
-42	"a report"	"detailing"	"an ambitious , often covert effort"	1.3333333333333333
+42	"a report"	"detailing"	"an ambitious  often covert effort"	1.3333333333333333
 42	"a report"	"detailing effort"	"by the tobacco industry"	1.25
-42	"an ambitious , often covert effort"	"effort"	"by the tobacco industry"	1.5
-42	"an ambitious , often covert effort"	"curb"	"global anti-smoking initiatives"	1.3333333333333333
+42	"an ambitious  often covert effort"	"effort"	"by the tobacco industry"	1.5
+42	"an ambitious  often covert effort"	"curb"	"global anti-smoking initiatives"	1.3333333333333333
 42	"by the tobacco industry"	"effort curb"	"global anti-smoking initiatives"	-0.16666666666666669
 Kent was not told of the situation until the game was over . 
 43	"Kent"	"told"	"of the situation"	1.0
@@ -873,14 +873,14 @@ In times past , getting a taxi at a New York City airport was often a Darwinian 
 51	"a taxi"	"taxi"	"at a New York City airport"	1.5
 51	"a taxi"	"getting"	"was often a Darwinian affair"	0.0
 51	"at a New York City airport"	"getting"	"was often a Darwinian affair"	0.16666666666666669
-51	"at a New York City airport"	"getting affair"	"a frenzied , survival-of-the-fittest scene"	0.0
+51	"at a New York City airport"	"getting affair"	"a frenzied  survival-of-the-fittest scene"	0.0
 51	"at a New York City airport"	"getting affair scene"	"of piled-up luggage"	-0.08333333333333331
-51	"was often a Darwinian affair"	"affair"	"a frenzied , survival-of-the-fittest scene"	1.5
+51	"was often a Darwinian affair"	"affair"	"a frenzied  survival-of-the-fittest scene"	1.5
 51	"was often a Darwinian affair"	"scene"	"of piled-up luggage"	1.3333333333333333
 51	"was often a Darwinian affair"	"shouting"	"cabbies"	1.3333333333333333
-51	"a frenzied , survival-of-the-fittest scene"	"scene"	"of piled-up luggage"	1.5
-51	"a frenzied , survival-of-the-fittest scene"	"affair shouting"	"cabbies"	-0.16666666666666669
-51	"a frenzied , survival-of-the-fittest scene"	"affair shouting cabbies looking"	"for an edge"	-0.3
+51	"a frenzied  survival-of-the-fittest scene"	"scene"	"of piled-up luggage"	1.5
+51	"a frenzied  survival-of-the-fittest scene"	"affair shouting"	"cabbies"	-0.16666666666666669
+51	"a frenzied  survival-of-the-fittest scene"	"affair shouting cabbies looking"	"for an edge"	-0.3
 51	"of piled-up luggage"	"affair shouting"	"cabbies"	0.0
 51	"of piled-up luggage"	"affair shouting cabbies looking"	"for an edge"	-0.1333333333333333
 51	"cabbies"	"looking"	"for an edge"	1.3333333333333333
@@ -945,11 +945,11 @@ A defense spokesman added that British officials were " aware of the potential "
 55	"between the province"	"border"	"the Irish republic"	0.0
 Like all good pamphlets , " The Missionary Position , " by Christopher Hitchens , is very short , zealously overwritten , and rails wildly in defense of an almost nonsensical proposition : that Mother Teresa of Calcutta is actually not a saint but an evil and selfish old woman . 
 56	"Like all good pamphlets"	"short"	"The Missionary Position"	0.0
-56	"Like all good pamphlets"	"short Position"	",  by Christopher Hitchens"	0.16666666666666669
-56	"The Missionary Position"	"Position"	",  by Christopher Hitchens"	1.5
+56	"Like all good pamphlets"	"short Position"	"  by Christopher Hitchens"	0.16666666666666669
+56	"The Missionary Position"	"Position"	"  by Christopher Hitchens"	1.5
 56	"The Missionary Position"	"short"	"rails"	1.0
-56	",  by Christopher Hitchens"	"short"	"rails"	0.8333333333333333
-56	",  by Christopher Hitchens"	"short rails"	"in defense"	0.6666666666666666
+56	"  by Christopher Hitchens"	"short"	"rails"	0.8333333333333333
+56	"  by Christopher Hitchens"	"short rails"	"in defense"	0.6666666666666666
 56	"rails"	"rails"	"in defense"	1.5
 56	"rails"	"defense"	"of an almost nonsensical proposition"	1.3333333333333333
 56	"rails"	"short saint"	"Mother Teresa"	-0.16666666666666669
@@ -1059,19 +1059,19 @@ I readied my gear for a truly local fishing trip .
 Yesterday , when The News led with " Friendly Fire " and " 30 Marines wounded in attack near Nassiriya , " The Post said , " Saddam 's evil order to kids : Fight or your parents die , " followed by " How low can Iraq sink . 
 66	"Yesterday"	"Marines led"	"The News"	0.16666666666666669
 66	"Yesterday"	"Marines led"	"with  Friendly Fire"	0.16666666666666669
-66	"Yesterday"	"Marines"	"Yesterday , when The News led with  Friendly Fire  and  30 Marines"	1.5
+66	"Yesterday"	"Marines"	"Yesterday  when The News led with  Friendly Fire  and  30 Marines"	1.5
 66	"The News"	"led"	"with  Friendly Fire"	1.0
-66	"The News"	"Marines"	"Yesterday , when The News led with  Friendly Fire  and  30 Marines"	1.3333333333333333
+66	"The News"	"Marines"	"Yesterday  when The News led with  Friendly Fire  and  30 Marines"	1.3333333333333333
 66	"The News"	"Marines wounded"	"in attack"	0.6666666666666666
 66	"The News"	"Marines wounded attack"	"near Nassiriya"	0.5833333333333333
-66	"with  Friendly Fire"	"Marines"	"Yesterday , when The News led with  Friendly Fire  and  30 Marines"	1.3333333333333333
+66	"with  Friendly Fire"	"Marines"	"Yesterday  when The News led with  Friendly Fire  and  30 Marines"	1.3333333333333333
 66	"with  Friendly Fire"	"Marines wounded"	"in attack"	0.6666666666666666
 66	"with  Friendly Fire"	"Marines wounded attack"	"near Nassiriya"	0.5833333333333333
 66	"with  Friendly Fire"	"Marines said"	"The Post"	0.6666666666666666
-66	"Yesterday , when The News led with  Friendly Fire  and  30 Marines"	"wounded"	"in attack"	1.3333333333333333
-66	"Yesterday , when The News led with  Friendly Fire  and  30 Marines"	"wounded attack"	"near Nassiriya"	1.25
-66	"Yesterday , when The News led with  Friendly Fire  and  30 Marines"	"said"	"The Post"	1.3333333333333333
-66	"Yesterday , when The News led with  Friendly Fire  and  30 Marines"	"Fight order"	"Saddam"	1.25
+66	"Yesterday  when The News led with  Friendly Fire  and  30 Marines"	"wounded"	"in attack"	1.3333333333333333
+66	"Yesterday  when The News led with  Friendly Fire  and  30 Marines"	"wounded attack"	"near Nassiriya"	1.25
+66	"Yesterday  when The News led with  Friendly Fire  and  30 Marines"	"said"	"The Post"	1.3333333333333333
+66	"Yesterday  when The News led with  Friendly Fire  and  30 Marines"	"Fight order"	"Saddam"	1.25
 66	"in attack"	"attack"	"near Nassiriya"	1.5
 66	"in attack"	"Marines said"	"The Post"	0.0
 66	"in attack"	"Marines Fight order"	"Saddam"	-0.08333333333333331
@@ -1148,21 +1148,21 @@ They live with Dirk , Weetzie 's gay best friend , his lover , Duck , and Weetzi
 Among his many honors , he won the Waterford International Biomedical Award and Eli Lilly Award in Bacteriology and citations from the American Association of Medical Colleges and the American Society of Cell Biology . 
 68	"his"	"Award"	"Among his many honors"	-0.16666666666666669
 68	"his"	"Award"	"he"	-0.16666666666666669
-68	"his"	"Award"	"Among his many honors , he won the Waterford International Biomedical Award"	1.3333333333333333
+68	"his"	"Award"	"Among his many honors  he won the Waterford International Biomedical Award"	1.3333333333333333
 68	"his"	"Award"	"Eli Lilly Award"	0.8333333333333333
 68	"Among his many honors"	"Award"	"he"	0.0
-68	"Among his many honors"	"Award"	"Among his many honors , he won the Waterford International Biomedical Award"	1.5
+68	"Among his many honors"	"Award"	"Among his many honors  he won the Waterford International Biomedical Award"	1.5
 68	"Among his many honors"	"Award"	"Eli Lilly Award"	1.0
 68	"Among his many honors"	"Award"	"in Bacteriology"	1.0
-68	"he"	"Award"	"Among his many honors , he won the Waterford International Biomedical Award"	1.5
+68	"he"	"Award"	"Among his many honors  he won the Waterford International Biomedical Award"	1.5
 68	"he"	"Award"	"Eli Lilly Award"	1.0
 68	"he"	"Award"	"in Bacteriology"	1.0
 68	"he"	"Award Bacteriology"	"citations"	0.8333333333333333
-68	"Among his many honors , he won the Waterford International Biomedical Award"	"Award"	"Eli Lilly Award"	1.5
-68	"Among his many honors , he won the Waterford International Biomedical Award"	"Award"	"in Bacteriology"	1.5
-68	"Among his many honors , he won the Waterford International Biomedical Award"	"Bacteriology"	"citations"	1.3333333333333333
-68	"Among his many honors , he won the Waterford International Biomedical Award"	"Bacteriology citations"	"from the American Association"	1.25
-68	"Among his many honors , he won the Waterford International Biomedical Award"	"Bacteriology citations Association"	"of Medical Colleges"	1.2
+68	"Among his many honors  he won the Waterford International Biomedical Award"	"Award"	"Eli Lilly Award"	1.5
+68	"Among his many honors  he won the Waterford International Biomedical Award"	"Award"	"in Bacteriology"	1.5
+68	"Among his many honors  he won the Waterford International Biomedical Award"	"Bacteriology"	"citations"	1.3333333333333333
+68	"Among his many honors  he won the Waterford International Biomedical Award"	"Bacteriology citations"	"from the American Association"	1.25
+68	"Among his many honors  he won the Waterford International Biomedical Award"	"Bacteriology citations Association"	"of Medical Colleges"	1.2
 68	"Eli Lilly Award"	"Award"	"in Bacteriology"	0.0
 68	"Eli Lilly Award"	"Award Bacteriology"	"citations"	-0.16666666666666669
 68	"Eli Lilly Award"	"Award Bacteriology citations"	"from the American Association"	-0.25
@@ -1188,10 +1188,10 @@ Sheik Thamer is the deputy to Grand Ayatollah Ali al-Sestani , the country 's mo
 69	"Sheik Thamer"	"deputy cleric"	"the country"	0.8333333333333333
 69	"Sheik Thamer is the deputy"	"al-Sestani"	"Grand Ayatollah Ali"	1.3333333333333333
 69	"Sheik Thamer is the deputy"	"cleric"	"the country"	1.3333333333333333
-69	"Sheik Thamer is the deputy"	"deputy"	", the country 's most senior Shiite cleric"	1.5
+69	"Sheik Thamer is the deputy"	"deputy"	" the country 's most senior Shiite cleric"	1.5
 69	"Grand Ayatollah Ali"	"deputy cleric"	"the country"	0.0
-69	"Grand Ayatollah Ali"	"deputy"	", the country 's most senior Shiite cleric"	0.16666666666666669
-69	"the country"	"deputy"	", the country 's most senior Shiite cleric"	0.16666666666666669
+69	"Grand Ayatollah Ali"	"deputy"	" the country 's most senior Shiite cleric"	0.16666666666666669
+69	"the country"	"deputy"	" the country 's most senior Shiite cleric"	0.16666666666666669
 The limits , which have not been made definite , will be even lower for economy and business-class travelers . 
 70	"The limits"	"made"	"which"	1.3333333333333333
 70	"The limits"	"lower"	"for economy"	1.0
@@ -1598,25 +1598,25 @@ Russia 's eavesdropping station at Lourdes , Cuba , is a cold war jewel : 28 squ
 94	"Russia"	"eavesdropping"	"station"	1.0
 94	"Russia"	"eavesdropping"	"at Lourdes"	1.0
 94	"Russia"	"eavesdropping Lourdes"	"Cuba"	0.8333333333333333
-94	"Russia"	"eavesdropping"	", is a cold war jewel"	1.0
+94	"Russia"	"eavesdropping"	" is a cold war jewel"	1.0
 94	"station"	"eavesdropping"	"at Lourdes"	0.0
 94	"station"	"eavesdropping Lourdes"	"Cuba"	-0.16666666666666669
-94	"station"	"eavesdropping"	", is a cold war jewel"	0.0
+94	"station"	"eavesdropping"	" is a cold war jewel"	0.0
 94	"station"	"eavesdropping"	"miles"	0.0
 94	"at Lourdes"	"Lourdes"	"Cuba"	1.5
-94	"at Lourdes"	"eavesdropping"	", is a cold war jewel"	0.0
+94	"at Lourdes"	"eavesdropping"	" is a cold war jewel"	0.0
 94	"at Lourdes"	"eavesdropping"	"miles"	0.0
 94	"at Lourdes"	"eavesdropping miles"	"of antennae"	-0.16666666666666669
-94	"Cuba"	"eavesdropping"	", is a cold war jewel"	0.16666666666666669
+94	"Cuba"	"eavesdropping"	" is a cold war jewel"	0.16666666666666669
 94	"Cuba"	"eavesdropping"	"miles"	0.16666666666666669
 94	"Cuba"	"eavesdropping miles"	"of antennae"	0.0
 94	"Cuba"	"eavesdropping miles antennae"	"computers"	-0.08333333333333331
-94	", is a cold war jewel"	"eavesdropping"	"miles"	0.0
-94	", is a cold war jewel"	"eavesdropping miles"	"of antennae"	-0.16666666666666669
-94	", is a cold war jewel"	"eavesdropping miles antennae"	"computers"	-0.25
-94	", is a cold war jewel"	"eavesdropping embassies"	"message"	-0.16666666666666669
-94	", is a cold war jewel"	"eavesdropping"	"that message Russian embassies"	0.0
-94	", is a cold war jewel"	"eavesdropping embassies"	"submarines"	-0.16666666666666669
+94	" is a cold war jewel"	"eavesdropping"	"miles"	0.0
+94	" is a cold war jewel"	"eavesdropping miles"	"of antennae"	-0.16666666666666669
+94	" is a cold war jewel"	"eavesdropping miles antennae"	"computers"	-0.25
+94	" is a cold war jewel"	"eavesdropping embassies"	"message"	-0.16666666666666669
+94	" is a cold war jewel"	"eavesdropping"	"that message Russian embassies"	0.0
+94	" is a cold war jewel"	"eavesdropping embassies"	"submarines"	-0.16666666666666669
 94	"miles"	"miles"	"of antennae"	1.5
 94	"miles"	"antennae"	"computers"	1.3333333333333333
 94	"miles"	"eavesdropping embassies"	"message"	-0.16666666666666669
@@ -2749,10 +2749,10 @@ On Fridays and Saturdays the only nights it is open , every inch of that floor i
 148	"of that floor"	"inch Side rocking people"	"who are mostly from uptown"	-0.3
 148	"with people"	"uptown"	"who"	1.3333333333333333
 148	"with people"	"people"	"who are mostly from uptown"	1.5
-148	"with people"	"rocking Side nights inch"	"is rocking with people who are mostly from uptown -- specifically , the Upper East Side"	0.1333333333333333
+148	"with people"	"rocking Side nights inch"	"is rocking with people who are mostly from uptown -- specifically  the Upper East Side"	0.1333333333333333
 148	"who"	"uptown people rocking Side nights inch Side rocking people"	"who are mostly from uptown"	0.023809523809523808
-148	"who"	"uptown people rocking Side nights inch"	"is rocking with people who are mostly from uptown -- specifically , the Upper East Side"	0.19047619047619047
-148	"who are mostly from uptown"	"people rocking Side nights inch"	"is rocking with people who are mostly from uptown -- specifically , the Upper East Side"	0.16666666666666666
+148	"who"	"uptown people rocking Side nights inch"	"is rocking with people who are mostly from uptown -- specifically  the Upper East Side"	0.19047619047619047
+148	"who are mostly from uptown"	"people rocking Side nights inch"	"is rocking with people who are mostly from uptown -- specifically  the Upper East Side"	0.16666666666666666
 Leopold complained about this approach in the 1940 's , saying the landowner had " an obligation to manage his land in the interest of the community , as well as in his own interest . 
 149	"Leopold"	"complained"	"about this approach"	1.0
 149	"Leopold"	"complained"	"the 1940"	1.0
@@ -2962,15 +2962,15 @@ The day after the Bulls ' Dennis Rodman suggested that they were " yellow " in T
 158	"Rodman"	"Rodman suggested laughed"	"as Rodman merely being Rodman"	0.08333333333333331
 Unlike the Rangers , that is one commodity Steinbrenner does n't seem bent on buying , no matter how good the price . 
 159	"Unlike the Rangers"	"commodity"	"that"	0.0
-159	"Unlike the Rangers"	"commodity"	"Unlike the Rangers , that is one commodity"	1.5
+159	"Unlike the Rangers"	"commodity"	"Unlike the Rangers  that is one commodity"	1.5
 159	"Unlike the Rangers"	"commodity seem"	"Steinbrenner"	0.8333333333333333
 159	"Unlike the Rangers"	"commodity"	"no matter"	1.0
-159	"that"	"commodity"	"Unlike the Rangers , that is one commodity"	1.5
+159	"that"	"commodity"	"Unlike the Rangers  that is one commodity"	1.5
 159	"that"	"commodity seem"	"Steinbrenner"	0.8333333333333333
 159	"that"	"commodity"	"no matter"	1.0
-159	"Unlike the Rangers , that is one commodity"	"seem"	"Steinbrenner"	1.3333333333333333
-159	"Unlike the Rangers , that is one commodity"	"commodity"	"no matter"	1.5
-159	"Unlike the Rangers , that is one commodity"	"commodity"	"the price"	1.5
+159	"Unlike the Rangers  that is one commodity"	"seem"	"Steinbrenner"	1.3333333333333333
+159	"Unlike the Rangers  that is one commodity"	"commodity"	"no matter"	1.5
+159	"Unlike the Rangers  that is one commodity"	"commodity"	"the price"	1.5
 159	"Steinbrenner"	"commodity"	"no matter"	0.16666666666666669
 159	"Steinbrenner"	"commodity"	"the price"	0.16666666666666669
 159	"no matter"	"commodity"	"the price"	0.0
@@ -3050,25 +3050,25 @@ Tierney Finn , an actress , and Mark Fitzmartin , a television commercial produc
 162	"for Fernbach Productions"	"Productions"	"in New York"	1.5
 162	"for Fernbach Productions"	"Finn"	"both graduates"	0.16666666666666669
 162	"for Fernbach Productions"	"Finn graduates"	"of New York University"	0.0
-162	"for Fernbach Productions"	"producer School"	"Tierney Finn , an actress , and Mark Fitzmartin , a television commercial producer for Fernbach Productions in New York , both graduates of New York University 's Tisch School"	1.25
+162	"for Fernbach Productions"	"producer School"	"Tierney Finn  an actress  and Mark Fitzmartin  a television commercial producer for Fernbach Productions in New York  both graduates of New York University 's Tisch School"	1.25
 162	"in New York"	"Productions Finn"	"both graduates"	0.25
 162	"in New York"	"Productions Finn graduates"	"of New York University"	0.08333333333333331
-162	"in New York"	"Productions producer School"	"Tierney Finn , an actress , and Mark Fitzmartin , a television commercial producer for Fernbach Productions in New York , both graduates of New York University 's Tisch School"	1.2
+162	"in New York"	"Productions producer School"	"Tierney Finn  an actress  and Mark Fitzmartin  a television commercial producer for Fernbach Productions in New York  both graduates of New York University 's Tisch School"	1.2
 162	"in New York"	"Productions producer School"	"of the Arts"	0.7
 162	"both graduates"	"graduates"	"of New York University"	1.5
-162	"both graduates"	"School"	"Tierney Finn , an actress , and Mark Fitzmartin , a television commercial producer for Fernbach Productions in New York , both graduates of New York University 's Tisch School"	1.3333333333333333
+162	"both graduates"	"School"	"Tierney Finn  an actress  and Mark Fitzmartin  a television commercial producer for Fernbach Productions in New York  both graduates of New York University 's Tisch School"	1.3333333333333333
 162	"both graduates"	"School"	"of the Arts"	0.8333333333333333
 162	"both graduates"	"School married"	"yesterday"	0.6666666666666666
-162	"of New York University"	"graduates School"	"Tierney Finn , an actress , and Mark Fitzmartin , a television commercial producer for Fernbach Productions in New York , both graduates of New York University 's Tisch School"	1.25
+162	"of New York University"	"graduates School"	"Tierney Finn  an actress  and Mark Fitzmartin  a television commercial producer for Fernbach Productions in New York  both graduates of New York University 's Tisch School"	1.25
 162	"of New York University"	"graduates School"	"of the Arts"	0.75
 162	"of New York University"	"graduates School married"	"yesterday"	0.5833333333333333
 162	"of New York University"	"graduates School married"	"in Holy Trinity"	0.5833333333333333
 162	"of New York University"	"graduates School"	"Chapel"	0.75
-162	"Tierney Finn , an actress , and Mark Fitzmartin , a television commercial producer for Fernbach Productions in New York , both graduates of New York University 's Tisch School"	"School"	"of the Arts"	1.5
-162	"Tierney Finn , an actress , and Mark Fitzmartin , a television commercial producer for Fernbach Productions in New York , both graduates of New York University 's Tisch School"	"married"	"yesterday"	1.3333333333333333
-162	"Tierney Finn , an actress , and Mark Fitzmartin , a television commercial producer for Fernbach Productions in New York , both graduates of New York University 's Tisch School"	"married"	"in Holy Trinity"	1.3333333333333333
-162	"Tierney Finn , an actress , and Mark Fitzmartin , a television commercial producer for Fernbach Productions in New York , both graduates of New York University 's Tisch School"	"School"	"Chapel"	1.5
-162	"Tierney Finn , an actress , and Mark Fitzmartin , a television commercial producer for Fernbach Productions in New York , both graduates of New York University 's Tisch School"	"Chapel"	"at N.Y.U."	1.3333333333333333
+162	"Tierney Finn  an actress  and Mark Fitzmartin  a television commercial producer for Fernbach Productions in New York  both graduates of New York University 's Tisch School"	"School"	"of the Arts"	1.5
+162	"Tierney Finn  an actress  and Mark Fitzmartin  a television commercial producer for Fernbach Productions in New York  both graduates of New York University 's Tisch School"	"married"	"yesterday"	1.3333333333333333
+162	"Tierney Finn  an actress  and Mark Fitzmartin  a television commercial producer for Fernbach Productions in New York  both graduates of New York University 's Tisch School"	"married"	"in Holy Trinity"	1.3333333333333333
+162	"Tierney Finn  an actress  and Mark Fitzmartin  a television commercial producer for Fernbach Productions in New York  both graduates of New York University 's Tisch School"	"School"	"Chapel"	1.5
+162	"Tierney Finn  an actress  and Mark Fitzmartin  a television commercial producer for Fernbach Productions in New York  both graduates of New York University 's Tisch School"	"Chapel"	"at N.Y.U."	1.3333333333333333
 162	"of the Arts"	"School married"	"yesterday"	-0.16666666666666669
 162	"of the Arts"	"School married"	"in Holy Trinity"	-0.16666666666666669
 162	"of the Arts"	"School"	"Chapel"	0.0
@@ -3408,25 +3408,25 @@ The Digital Domain column last Sunday , about Craigslist , the online bulletin b
 182	"the online bulletin board"	"misstated"	"the name"	1.0
 182	"the online bulletin board"	"misstated name"	"of a consulting firm"	0.8333333333333333
 182	"the online bulletin board"	"misstated fall found"	"in a survey"	-0.08333333333333331
-182	"the online bulletin board"	"misstated fall"	"The Digital Domain column last Sunday , about Craigslist , the online bulletin board , misstated the name of a consulting firm that found in a survey last fall"	1.25
+182	"the online bulletin board"	"misstated fall"	"The Digital Domain column last Sunday  about Craigslist  the online bulletin board  misstated the name of a consulting firm that found in a survey last fall"	1.25
 182	"the name"	"name"	"of a consulting firm"	1.5
 182	"the name"	"misstated fall found"	"in a survey"	-0.08333333333333331
-182	"the name"	"misstated fall"	"The Digital Domain column last Sunday , about Craigslist , the online bulletin board , misstated the name of a consulting firm that found in a survey last fall"	1.25
+182	"the name"	"misstated fall"	"The Digital Domain column last Sunday  about Craigslist  the online bulletin board  misstated the name of a consulting firm that found in a survey last fall"	1.25
 182	"the name"	"misstated fall unaware"	"that"	0.5833333333333333
 182	"of a consulting firm"	"name misstated fall found"	"in a survey"	-0.1333333333333333
-182	"of a consulting firm"	"name misstated fall"	"The Digital Domain column last Sunday , about Craigslist , the online bulletin board , misstated the name of a consulting firm that found in a survey last fall"	1.2
+182	"of a consulting firm"	"name misstated fall"	"The Digital Domain column last Sunday  about Craigslist  the online bulletin board  misstated the name of a consulting firm that found in a survey last fall"	1.2
 182	"of a consulting firm"	"name misstated fall unaware"	"that"	0.5333333333333333
 182	"of a consulting firm"	"name misstated fall unaware"	"many newspaper industry executives"	0.5333333333333333
-182	"in a survey"	"fall"	"The Digital Domain column last Sunday , about Craigslist , the online bulletin board , misstated the name of a consulting firm that found in a survey last fall"	1.3333333333333333
+182	"in a survey"	"fall"	"The Digital Domain column last Sunday  about Craigslist  the online bulletin board  misstated the name of a consulting firm that found in a survey last fall"	1.3333333333333333
 182	"in a survey"	"fall unaware"	"that"	0.6666666666666666
 182	"in a survey"	"fall unaware"	"many newspaper industry executives"	0.6666666666666666
 182	"in a survey"	"fall unaware arrival"	"the site"	0.5833333333333333
 182	"in a survey"	"fall unaware"	"of the site 's arrival"	0.6666666666666666
-182	"The Digital Domain column last Sunday , about Craigslist , the online bulletin board , misstated the name of a consulting firm that found in a survey last fall"	"unaware"	"that"	1.3333333333333333
-182	"The Digital Domain column last Sunday , about Craigslist , the online bulletin board , misstated the name of a consulting firm that found in a survey last fall"	"unaware"	"many newspaper industry executives"	1.3333333333333333
-182	"The Digital Domain column last Sunday , about Craigslist , the online bulletin board , misstated the name of a consulting firm that found in a survey last fall"	"unaware arrival"	"the site"	1.25
-182	"The Digital Domain column last Sunday , about Craigslist , the online bulletin board , misstated the name of a consulting firm that found in a survey last fall"	"unaware"	"of the site 's arrival"	1.3333333333333333
-182	"The Digital Domain column last Sunday , about Craigslist , the online bulletin board , misstated the name of a consulting firm that found in a survey last fall"	"unaware arrival"	"in their cities"	1.25
+182	"The Digital Domain column last Sunday  about Craigslist  the online bulletin board  misstated the name of a consulting firm that found in a survey last fall"	"unaware"	"that"	1.3333333333333333
+182	"The Digital Domain column last Sunday  about Craigslist  the online bulletin board  misstated the name of a consulting firm that found in a survey last fall"	"unaware"	"many newspaper industry executives"	1.3333333333333333
+182	"The Digital Domain column last Sunday  about Craigslist  the online bulletin board  misstated the name of a consulting firm that found in a survey last fall"	"unaware arrival"	"the site"	1.25
+182	"The Digital Domain column last Sunday  about Craigslist  the online bulletin board  misstated the name of a consulting firm that found in a survey last fall"	"unaware"	"of the site 's arrival"	1.3333333333333333
+182	"The Digital Domain column last Sunday  about Craigslist  the online bulletin board  misstated the name of a consulting firm that found in a survey last fall"	"unaware arrival"	"in their cities"	1.25
 182	"that"	"unaware"	"many newspaper industry executives"	0.0
 182	"that"	"unaware arrival"	"the site"	0.8333333333333333
 182	"that"	"unaware"	"of the site 's arrival"	1.0
@@ -3657,17 +3657,17 @@ Bic is being sued by people who say their lighters exploded , causing burns , an
 191	"by people"	"say exploded"	"their lighters"	1.25
 191	"by people"	"say exploded causing"	"burns"	1.2
 191	"by people"	"say exploded death"	"in some cases"	1.2
-191	"by people"	"say exploded"	"in some cases , death"	1.25
+191	"by people"	"say exploded"	"in some cases  death"	1.25
 191	"who"	"say exploded"	"their lighters"	0.8333333333333333
 191	"who"	"say exploded causing"	"burns"	0.75
 191	"who"	"say exploded death"	"in some cases"	0.75
-191	"who"	"say exploded"	"in some cases , death"	0.8333333333333333
+191	"who"	"say exploded"	"in some cases  death"	0.8333333333333333
 191	"their lighters"	"exploded causing"	"burns"	0.8333333333333333
 191	"their lighters"	"exploded death"	"in some cases"	0.8333333333333333
-191	"their lighters"	"exploded"	"in some cases , death"	1.0
+191	"their lighters"	"exploded"	"in some cases  death"	1.0
 191	"burns"	"exploded death"	"in some cases"	0.0
-191	"burns"	"exploded"	"in some cases , death"	0.16666666666666669
-191	"in some cases"	"death exploded say sued people say exploded"	"in some cases , death"	0.033333333333333354
+191	"burns"	"exploded"	"in some cases  death"	0.16666666666666669
+191	"in some cases"	"death exploded say sued people say exploded"	"in some cases  death"	0.033333333333333354
 Indeed , they were treated more fairly than Lawrence H. Summers , the president of Harvard , has been treated by his faculty . 
 192	"they"	"treated fairly"	"than Lawrence H. Summers"	0.8333333333333333
 192	"they"	"treated treated"	"the president"	0.8333333333333333
@@ -3695,17 +3695,17 @@ With the Jets ' training camp opening next Monday , Hadley Engelhard , the agent
 193	"Hadley Engelhard"	"Engelhard"	"the agent"	1.5
 193	"Hadley Engelhard"	"agent pick"	"the team"	1.25
 193	"Hadley Engelhard"	"agent"	"for the team 's first-round draft pick"	1.3333333333333333
-193	"Hadley Engelhard"	"agent pick"	", Dewayne Robertson"	1.25
+193	"Hadley Engelhard"	"agent pick"	" Dewayne Robertson"	1.25
 193	"the agent"	"pick"	"the team"	1.3333333333333333
 193	"the agent"	"agent"	"for the team 's first-round draft pick"	1.5
-193	"the agent"	"pick"	", Dewayne Robertson"	1.3333333333333333
+193	"the agent"	"pick"	" Dewayne Robertson"	1.3333333333333333
 193	"the team"	"pick agent arrive Engelhard agent"	"for the team 's first-round draft pick"	-0.04999999999999999
-193	"the team"	"pick"	", Dewayne Robertson"	1.0
+193	"the team"	"pick"	" Dewayne Robertson"	1.0
 193	"the team"	"pick agent arrive"	"today"	0.7
-193	"for the team 's first-round draft pick"	"pick"	", Dewayne Robertson"	1.5
+193	"for the team 's first-round draft pick"	"pick"	" Dewayne Robertson"	1.5
 193	"for the team 's first-round draft pick"	"agent arrive"	"today"	0.75
-193	", Dewayne Robertson"	"pick agent arrive"	"today"	0.7
-193	", Dewayne Robertson"	"pick agent arrive expects meet"	"with the Jets tomorrow"	0.45
+193	" Dewayne Robertson"	"pick agent arrive"	"today"	0.7
+193	" Dewayne Robertson"	"pick agent arrive expects meet"	"with the Jets tomorrow"	0.45
 193	"today"	"arrive expects meet"	"with the Jets tomorrow"	-0.25
 193	"today"	"arrive expects meet tomorrow"	"in an effort"	-0.3
 193	"today"	"arrive expects meet tomorrow effort start"	"contract negotiations"	-0.35714285714285715
@@ -3744,13 +3744,13 @@ The bride is the stepdaughter of Richard L. Harris .
 196	"The bride"	"stepdaughter"	"of Richard L. Harris"	1.0
 196	"The bride is the stepdaughter"	"stepdaughter"	"of Richard L. Harris"	1.5
 But how about Bodynet , an enveloping computer web in which your wireless-data telephone might actually be a hat ? 
-197	"about Bodynet"	"web"	"But how about Bodynet , an enveloping computer web"	1.3333333333333333
+197	"about Bodynet"	"web"	"But how about Bodynet  an enveloping computer web"	1.3333333333333333
 197	"about Bodynet"	"web hat"	"in which"	0.6666666666666666
 197	"about Bodynet"	"web hat"	"your wireless-data telephone"	0.6666666666666666
 197	"about Bodynet"	"web"	"in which your wireless-data telephone might actually be a hat"	0.8333333333333333
-197	"But how about Bodynet , an enveloping computer web"	"hat"	"in which"	1.3333333333333333
-197	"But how about Bodynet , an enveloping computer web"	"hat"	"your wireless-data telephone"	1.3333333333333333
-197	"But how about Bodynet , an enveloping computer web"	"web"	"in which your wireless-data telephone might actually be a hat"	1.5
+197	"But how about Bodynet  an enveloping computer web"	"hat"	"in which"	1.3333333333333333
+197	"But how about Bodynet  an enveloping computer web"	"hat"	"your wireless-data telephone"	1.3333333333333333
+197	"But how about Bodynet  an enveloping computer web"	"web"	"in which your wireless-data telephone might actually be a hat"	1.5
 197	"in which"	"hat"	"your wireless-data telephone"	0.0
 197	"in which"	"web"	"in which your wireless-data telephone might actually be a hat"	0.16666666666666669
 197	"your wireless-data telephone"	"web"	"in which your wireless-data telephone might actually be a hat"	0.16666666666666669

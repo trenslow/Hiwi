@@ -30,6 +30,7 @@ Programmers always enter a season worried about the future of specific programs 
 A spokesperson for Omega in Rio de Janeiro , was not immediately available for comment .
 Dell Computer Corp. 's quarter also looks good .
 Output was reduced in 1996 after one of its three furnaces exploded , killing one worker .
+20	"Output"	"was reduced in"	"1996"	0.75
 The Residential Internship Program should meet the district 's needs , too , Quiriconi said .
 Esaka and six other top executives will quit to take responsibility for 67.28 million yen in payoffs to corporate racketeer Ryuichi Koike , 54 .
 She 's a hard act to follow , '' said Ruth Brown of London , who was among the crowds Wednesday .
@@ -42,12 +43,14 @@ We are going to have to do it when we see fit , '' said Bobby Brown , Netanyahu 
 Congress holds hearings to consider anti-road-rage legislation .
 29	"Congress"	"holds"	"hearings"	1.0
 I only smoke one .
+30	"I"	"smoke"	"one"	1.0
 I 've been here 19 years and it 's never been a good time .
 31	"I"	"'ve been here"	"19 years"	0.75
 But some conglomerates , like Viacom and the News Corp. , have already bumped up against the limits of the rules .
 E-mail : jsuydamstatesman.com In person Ms. Holloman looks less like a tomboy than her film roles suggest , with her hazel eyes and faint drawl her most beguiling features .
 He died en route to hospital .
 The benchmark 30-year bond rose 3/8 , or $ 3.75 per $ 1,000 bond , to 96 30/32 , pushing its yield down 3 basis points to 6.61 percent .
+35	"The benchmark 30-year bond"	"rose"	"3 / 8"	1.0
 It begins life with a $ 75 million annual debt service burden , and a negative book value of nearly $ 300 million .
 36	"It"	"begins"	"life"	1.0
 Part of this indifference is probably caused by the unearned cynicism of the age .
@@ -71,6 +74,7 @@ If Calcavecchia plays Friday morning , he knows the importance of starting well 
 49	"the Americans"	"have"	"a recent history"	1.0
 On the next play , Tuman , who had lined up on the left side , glided unchecked to the right and caught Griese 's pass for a 53-yard play to the Colorado 2. Two plays later , Chris Floyd 's dive for a 1-yard touchdown put Michigan ahead .
 Although Charles Darwin had written in 1872 about the consistency of expressions in mammals , social scientists of the 1960s and 1970s believed expressions are learned through culture .
+51	"Charles Darwin"	"had written in"	"1872"	0.75
 The Hearst News Service has filed or will file the following for Wednesday .
 Deputies said that as many as 57 deputies who were members of Fatah let Arafat know in a meeting Tuesday night that they intended to vote against him .
 53	"as many as 57 deputies"	"were members of"	"Fatah"	1.2
@@ -82,8 +86,8 @@ For their part , investors kept selling off stocks in trading and deregulated po
 56	"they"	"'re"	"a combined 21-1"	1.0
 Organogenesis Inc. of Canton Monday ended its troubled six-year relationship with giant Novartis Pharma AG , unilaterally terminating a marketing agreement in a move that will likely lead Organogenesis to file for bankruptcy protection from creditors this week .
 In the first effort in Congress to estimate the fiscal cost of an Iraqi war , Democrats on the House Budget Committee released a report on Monday putting the likely price tag at between $ 30 billion and $ 60 billion , less than that of the Gulf War in 1991 .
-58	"a report"	"putting"	"the likely price tag"	1.3333333333333333
 58	"Democrats"	"released"	"a report"	1.0
+58	"a report"	"putting"	"the likely price tag"	1.3333333333333333
 ONE OF THOSE DAYS FOR JARRETT Worn out by the travel and discouraged by agency 's perpetual financial difficulties and the intractable nature of the Palestinian problem , Rennie retired in 1977 at 60 .
 Extendicare Inc. agreed to buy Arbor Health Care Co. for about US$ 432 million in cash and assumed debt , nearly doubling its Florida and Ohio businesses and making it one of North America 's largest long-term health care providers .
 She began her career as a chunky woman , awkward on stage and unsure of her musical direction .
@@ -134,8 +138,8 @@ She sought out the untouchables of our society and she touched them .
 You can venture out 100 yards and still find the water no deeper than 4 feet .
 Died on Aug. 16 , 1938 , in Three Forks , Miss .
 Farris was replaced by sophomore Dustin Long in the second quarter against Pitt , and sophomore Jason Carter and freshman Reggie McNeal played in the opener .
-95	"Farris"	"was replaced in"	"the second quarter"	0.75
 95	"sophomore Jason Carter"	"played in"	"the opener"	0.8333333333333333
+95	"Farris"	"was replaced in"	"the second quarter"	0.75
 BIGGEST CONCERNS Express pilots currently have no pension .
 Japanese automakers have taken some of the biggest strides with their new car models : Honda Motor Co. 's new Accord , likely to be a best-seller , is bigger , better and cheaper .
 Following are excerpts from an interview with Sen. Richard C. Shelby , the Alabama Republican who is the ranking minority member of the Intelligence Committee : `` Maybe God just had a plan for me and wanted me to be around for a little while longer , '' said Johnson , who has a wife , Cookie , and three children .
@@ -145,7 +149,6 @@ Type in your ZIP code and fill out the easy questionnaire , and you 'll get side
 Katzenberg , for example , is feuding with former employer Disney , which he sued for $ 250 million , claiming he was denied his cut of the Disney animated films he helped make .
 100	"Katzenberg"	"is feuding with"	"former employer"	0.75
 So , 1,200-degree air is pumped back to the turbine blades from the compressor in order to cool the blades .
-101	"1,200-degree air"	"is pumped to"	"the turbine blades"	0.75
 NYT News Service And when `` Presidio Med '' fills the time between those scenes with even more stock situations , it may be a sign that it 's time for a moratorium on medical dramas , if not for complete euthanasia .
 102	"it"	"'s time for"	"a moratorium"	0.75
 M2+CDs rose 3.0 percent in the April-June period .
@@ -175,13 +178,14 @@ A grocery store strike between Ralphs ' parent company , Kroger Co. , and 3,300 
 116	"Both strikes"	"involve"	"Kroger stores"	1.0
 Seattle 's roster is old .
 Those three were apprehended Sunday .
+118	"Those three"	"were apprehended"	"Sunday"	0.8333333333333333
 The most unpopular agencies , he noted , are usually those charged with solving the most unsolvable problems .
 There should be about 3 cups vegetables chopped medium fine .
 The movie , a $ 120 million change of pace for arty `` Crouching Tiger , Hidden Dragon '' director Ang Lee , is set to debut in June .
 Kidd , 29 , the team 's star point guard , extended his current contract years ago and may not sign another extension with the Nets before becoming a free agent on July 1 .
 U.S. stocks were mixed after a report on durable goods showed unexpected strength , squelching hopes for a bond market rally that could boost shares .
-123	"a bond market rally"	"could boost"	"shares"	1.25
 123	"U.S. stocks"	"were mixed after"	"a report"	0.75
+123	"a bond market rally"	"could boost"	"shares"	1.25
 Slowing corporate profits and weakening export growth has also forced economic growth expectations lower .
 Euromoney 's executives spent several days this week huddled in negotiations with Robert Teitelman , managing editor of Institutional Investor 's Americas edition , whom they named editor to replace Cudaback .
 125	"Euromoney 's executives"	"spent"	"several days"	1.0
@@ -203,6 +207,7 @@ Politicians , historians , locals and the victims ' families are grappling with 
 Then with sheer determination she shed 70 pounds and became the sleekly beautiful and charismatic musical actress of legend .
 137	"she"	"shed"	"70 pounds"	1.0
 Born in New York City to Greek parents , she returned with her mother to Greece at 14 and entered the conservatory in Athens .
+138	"she"	"returned at"	"14"	0.8333333333333333
 138	"she"	"returned with"	"her mother"	0.8333333333333333
 Gurney boosts backers Stars general manager Bob Gainey said he was uncomfortable with increased team incentives for one player .
 I am having my bathtubs reglazed .
@@ -229,8 +234,8 @@ We get long digressions about the rivalry between Los Alamos and a second nuclea
 154	"We"	"get"	"digressions"	1.0
 He was back in Atlanta last October on a non-guaranteed training camp contract , but the Hawks released him so he could sign a guaranteed deal with Panathinaikos , a Greek team that he led to the Euroleague championship .
 155	"He"	"was on"	"a non-guaranteed training camp contract"	0.8333333333333333
-155	"the Hawks"	"released"	"him"	1.0
 155	"he"	"could sign"	"a guaranteed deal"	0.8333333333333333
+155	"the Hawks"	"released"	"him"	1.0
 Why does this `` moment , '' to use a term bandied about by designers , call for an excess of clothes rendered in guipure lace , with ruffles , ribbons or other frilly edging , in polka-dotted or liquid silks or with lingerie-style details ? $ $ $ Still , traders said they expect investors to look for opportunities to buy temporarily depressed big-company shares , which have outperformed those of smaller companies for the past 2 1/2 years .
 A spokesman for Hayden said Sunday that the senator was looking at several areas for possible legislation , including clarification of existing laws dealing with stalking and trespassing .
 What the team did n't count on was that Boselli would have two more surgical procedures on his shoulder after he became a Texan .
@@ -268,8 +273,8 @@ A similar bill is pending in the Senate , sponsored by Florida Sens. Connie Mack
 Taylor missed only one day of school , but another week went by before she could move her head smoothly to the right , or lift her writing arm up to desk level without pain .
 181	"she"	"could move"	"her head"	0.8333333333333333
 Well , you can still buy a single quart at the corner store , but it 'll cost you a few dollars extra .
-182	"you"	"can buy"	"a single quart"	0.8333333333333333
 182	"it"	"'ll cost"	"you"	0.8333333333333333
+182	"you"	"can buy"	"a single quart"	0.8333333333333333
 If force is necessary , let it be force in the best interest of all , and supported by all who truly want a peaceful world .
 Organizations in the 33 states can use the grants announced today for both education and enforcement efforts -- including funding for enforcement , housing counseling and other activities that will promote fair housing , Clinton said .
 Come to think of it , that would be revolutionary .
@@ -295,8 +300,8 @@ There is no escaping the fact that Arab political emotions have been shaped by t
 For P.T. International , the drought represents the second setback in as many years .
 198	"the drought"	"represents"	"the second setback"	1.0
 Diana raised our consciousness about diseased children in Third World countries , people living with AIDS and the ravages of land mines .
-199	"Diana"	"raised"	"our consciousness"	1.0
 199	"Diana"	"raised consciousness about"	"diseased children"	0.75
+199	"Diana"	"raised"	"our consciousness"	1.0
 Hooters Inc. founded the chain 14 years ago , and owns the company trademark and related rights .
 Story Filed By Cox Newspapers Champions of the National Endowment for the Arts , which congressional conservatives are trying to shut down , have joined CBS , Bravo and others in producing public service announcements about the importance of the arts .
 Waiting in Guyana for their turn , Charles and Charlene looked after each other .
@@ -315,8 +320,8 @@ This quality transcended fashion .
 Dot with food coloring and wait .
 Most were dragged off instantly by police officers who had apparently been warned .
 The public was clearly fed up , and as Congress took up the issue in early 2001 the only question seemed to be one of timing , whether the necessary reforms could be enacted before the 2002 midterm elections .
-213	"the only question"	"seemed to be one of"	"timing"	0.6666666666666666
 213	"the necessary reforms"	"could be enacted before"	"the 2002 midterm elections"	0.7
+213	"the only question"	"seemed to be one of"	"timing"	0.6666666666666666
 Region prospers While a successful Teamsters union strike last month was viewed as a comeback for U.S. labor , the turmoil surrounding President Ron Carey casts doubt on its future .
 214	"the turmoil"	"surrounding"	"President Ron Carey"	1.3333333333333333
 The subject was a Lakers four-peat - a campaign that begins one week from today , when the Lakers open training camp in El Segundo .
@@ -337,14 +342,15 @@ His mother said he was in Saudi Arabia on Sept. 11 .
 The governor 's campaign aides offered a quick retort .
 225	"The governor 's campaign aides"	"offered"	"a quick retort"	1.0
 The proposed accord was reached June 20 by the tobacco industry and 39 states .
+226	"The proposed accord"	"was reached"	"June 20"	0.8333333333333333
 Among the other companies that got a boost from restructurings , Sara Lee Corp. gained 17 percent for the week after announcing it will sell some business and cut costs to raise $ 3 billion for a stock buyback .
 227	"the other companies"	"got"	"a boost"	1.3333333333333333
 227	"it"	"will sell"	"some business"	0.8333333333333333
 The announcement , which came only days after a visit to Pyongyang by Japan 's prime minister , Junichiro Koizumi , marked a significant change of strategy for the administration , which had terminated similar negotiations pursued with North Korea by President Bill Clinton shortly before he left office .
-228	"similar negotiations"	"pursued by"	"President Bill Clinton"	1.25
+228	"he"	"left"	"office"	1.0
 228	"The announcement"	"came after"	"a visit"	1.25
 228	"similar negotiations"	"pursued with"	"North Korea"	1.25
-228	"he"	"left"	"office"	1.0
+228	"similar negotiations"	"pursued by"	"President Bill Clinton"	1.25
 E. Martin Gibson is the company 's chairman and has served as a director of the parent company since 1992 .
 229	"E. Martin Gibson"	"is"	"the company 's chairman"	1.0
 Her friend was waiting for her at a bar , shaken and alone .
@@ -366,7 +372,6 @@ For example , he wants to erect a multiplex theater and virtual-reality amusemen
 They make `` Alabama '' a relatively painless experience , provided , again , you leave before Jewel starts singing .
 240	"Jewel"	"starts"	"singing"	1.0
 At least 170,000 civilian prisoners died at Majdanek , the suit claims , including 13,000 Jews who were murdered within a month of Bucmys 's arrival .
-241	"At least 170,000 civilian prisoners"	"died at"	"Majdanek"	0.8333333333333333
 It was her sheer life force that was almost blinding , so blinding it is hard to believe it was not permanent , such a shock to discover that it could be destroyed or taken away .
 242	"It"	"was"	"her sheer life force"	1.0
 To do so , Selig will have to overcome strong feelings on both sides .
@@ -389,8 +394,8 @@ So they fire up the pits and smoke the briskets for 18 hours over mesquite or hi
 Ruiz hopes Lewis 's decision will give light heavyweight champion Roy Jones Jr. the impetus to take on Ruiz Dec. 7 on HBO , the idea being that the winner would fight the winner of the WBA title next spring .
 255	"the winner"	"would fight"	"next spring"	0.8333333333333333
 Grbac wore a quizzical look , like a guy who was given a wonderful gift by his worst enemy .
-256	"a guy"	"was given"	"a wonderful gift"	1.25
 256	"Grbac"	"wore"	"a quizzical look"	1.0
+256	"a guy"	"was given"	"a wonderful gift"	1.25
 Turnout was light , according to news agency reports from the capital , Conakry .
 257	"Turnout"	"was"	"light"	1.0
 A Swiss Bank spokesman in Basel , Michel Willi , declined to comment on the talks , as did a spokesman in London .
@@ -424,8 +429,8 @@ The original basis for some of them grew out of fears of the experience before W
 275	"totalitarian governments"	"controlled"	"all media outlets"	1.0
 He was so inspired by Snyder 's speech on how he made the program a success that when he learned Snyder had to hurry to the airport , Riley begged to go along for the ride .
 276	"Snyder"	"had to hurry to"	"the airport"	0.7
-276	"He"	"was inspired by"	"Snyder 's speech"	0.75
 276	"Riley"	"begged to go along for"	"the ride"	0.6666666666666666
+276	"He"	"was inspired by"	"Snyder 's speech"	0.75
 We are looking for a middle ground .
 277	"We"	"are looking for"	"a middle ground"	0.75
 Chicken minced very finely may be added if desired .
@@ -448,8 +453,8 @@ El Pueblo Gallery is located in space E-13 on Olvera Street , downtown Los Angel
 Oakland , in need of a catcher after trading Ramon Hernandez to San Diego , acquired Michael Barrett from Montreal for a player to be named later .
 Edge Rams Offensive linemen `` Texans are passionate about cooking briskets , '' McAdams adds .
 Hoffenberg was sentenced in March to 20 years in jail and ordered to pay $ 462.6 million in restitution and a $ 1 million fine for defrauding Tower Financial debt holders of $ 460 million .
-290	"Hoffenberg"	"was sentenced in"	"March"	0.75
 290	"Hoffenberg"	"was sentenced to"	"20 years"	0.75
+290	"Hoffenberg"	"was sentenced in"	"March"	0.75
 When Adecco was formed , the company said it was the market leader in six of 11 countries that make up 90 percent of the temporary employment market , including France --Europe 's biggest temporary employment market -- Spain , Germany , Switzerland , Britain and Australia .
 291	"it"	"was"	"the market leader"	1.0
 Pat Day , the winning jockey , agreed that Royal Indy had been `` a little hot and nervous '' before the race , but added : `` She always seems to be like that , so I was n't that concerned .
@@ -457,6 +462,7 @@ Pat Day , the winning jockey , agreed that Royal Indy had been `` a little hot a
 The Rangers and Giants represent opposite viewpoints .
 Dell Computer said it 's adding 25 million shares to its stock repurchase program , for a total of 125 million shares , almost a third of its 383 million outstanding as of last quarter .
 The last prisoner was released in 1988 .
+296	"The last prisoner"	"was released in"	"1988"	0.75
 Do look at me with just a little lust !
 Pageant officials do not release the winner 's name of the preliminary interview contest until within hours of Saturday night 's final competition .
 And the same things could have been said in Tennessee and Pittsburgh .
@@ -480,8 +486,8 @@ The troubled answers about the campaign against terrorism at home and abroad con
 The findings , which the researchers say probably apply to men too , appear in the current issue of The Journal of the National Cancer Institute .
 That , in itself , is n't awful .
 Nancy Cole , the president of ETS , says that the company is aware that its nonprofit status is a source of concern , particularly to outsiders , as the testing service increases its competition with for-profit businesses .
-314	"the testing service"	"increases competition with"	"for-profit businesses"	0.75
 314	"the testing service"	"increases"	"its competition"	1.0
+314	"the testing service"	"increases competition with"	"for-profit businesses"	0.75
 Led by Guy Hands , managing director for Nomura International 's Principal Finance Group , the unit has completed more than $ 11 billion in securitizations since 1995 , including the 944 million pound securitization of Angel Trains , which the U.K. government sold as part of its rail privatization program ; the 904 million pound securitization of Annington Homes , a group of 57,000 British military houses ; and the 249 million pound securitization of the Phoenix Inns pub chain Nomura also bought from GrandMet and Fosters .
 He said keeping her off the ballot was part of his effort to promote the emergence of new political leaders , though opposition leaders accuse him of manipulation to protect his hold on power .
 316	"opposition leaders"	"accuse"	"him"	1.0
@@ -531,8 +537,8 @@ Playing before a crowd of 39,294 , Army jumped to a 7-0 lead on its second posse
 Houston : Baker Hughes Inc. releases its weekly survey of the number of active oil and gas drilling rigs in the U.S. and Canada .
 Only Nikko Securities Co. has the same top executives it started the year with .
 Illustrating that point , he asserted that Iraq could be a laboratory for terror groups , easily furnishing them with the chemical and biological weapons it had developed .
-350	"Iraq"	"could be laboratory for"	"terror groups"	0.7
 350	"Iraq"	"could be"	"a laboratory"	0.8333333333333333
+350	"Iraq"	"could be laboratory for"	"terror groups"	0.7
 As for labeling the products flops as Pecoriello did , Reilly said : `` It 's very early days to count on the success of brands that were launched just this summer .
 351	"brands"	"were launched"	"just this summer"	1.25
 351	"It"	"'s"	"very early days"	1.0
@@ -541,8 +547,8 @@ Some city tests of the water have indeed found small traces of crude oil , and d
 At least that was the case for linebacker Brendon Ayanbadejo at the Rose Bowl on Saturday .
 He used T-bone , and then carved the steak off the bone and into slices once it was cooked al sangue , which is to say , deliciously rare , though obviously you should cook the steak just how you like to eat it .
 354	"you"	"should cook"	"the steak"	0.8333333333333333
-354	"He"	"used"	"T-bone"	1.0
 354	"you"	"like to eat"	"it"	0.75
+354	"He"	"used"	"T-bone"	1.0
 To make matters worse , they accidentally bumped into each other in the street some distance from their meeting spot .
 Red Sox manager Grady Little kept Ramirez in the game but later admitted he should have benched him .
 356	"he"	"should have benched"	"him"	0.75
@@ -564,13 +570,13 @@ She was a little anxious early on .
 That creature was in turn named for the mythical multiheaded serpent that regrew new heads when one was cut off .
 366	"the mythical multiheaded serpent"	"regrew"	"new heads"	1.3333333333333333
 Hydra , of Cambridge , Mass. , is named after a pond-dwelling creature that can grow two wholes after being sliced in half .
-367	"Hydra"	"is named after"	"a pond-dwelling creature"	0.75
 367	"a pond-dwelling creature"	"can grow"	"two wholes"	1.25
+367	"Hydra"	"is named after"	"a pond-dwelling creature"	0.75
 Yet other studies point to fetal exposure to environmental toxins like lead , cigarettes and alcohol .
 368	"other studies"	"point to"	"fetal exposure"	0.8333333333333333
 With one or two new distributors signing on every week , the Weinbergs are busy planning to expand into clothing hooks and towel racks .
-369	"the Weinbergs"	"are"	"busy planning"	1.0
 369	"one or two new distributors"	"signing on"	"every week"	0.8333333333333333
+369	"the Weinbergs"	"are"	"busy planning"	1.0
 Hevesi said that in managing an investment portfolio , there are a wide array of stocks and that the performance of the broader markets affects the level of return .
 In its report , the IMF also said it cut in half its growth estimate for Japan this year -- to 1.1 percent from May 's estimate of 2.2 percent .
 371	"it"	"cut in"	"half its growth estimate"	0.8333333333333333
@@ -592,9 +598,9 @@ The 12-month target price is HK$ 51.00 per share .
 The exchange next year even may permit growers to trade directly in the market instead of being forced to deal with the 12 market makers authorized by the exchange .
 384	"the 12 market makers"	"authorized by"	"the exchange"	1.25
 Those close to the company say Tigrett lost support on the board last year when the company took a big hit in the wake of a $ 15 million extravaganza at last year 's Summer Olympics .
+385	"Tigrett"	"lost"	"support"	1.0
 385	"the company"	"took"	"a big hit"	1.0
 385	"Tigrett"	"lost support on"	"the board"	0.75
-385	"Tigrett"	"lost"	"support"	1.0
 Ratner has been one of the most aggressive builders in the city in recent years and he needs government approval for many of his projects .
 386	"Ratner"	"has been one of"	"the most aggressive builders"	0.7
 386	"he"	"needs"	"government approval"	1.0
@@ -614,6 +620,7 @@ Koizumi and his foreign ministry have come under harsh criticism for promising N
 They litter the road to redemption with chaos , contraband , broken marriages , jilted women and political aspirations , but there still is a ray of hope and happiness for the residents of a small Cuban town called Guantanamera .
 That sharp drop in confidence was mirrored in follow-up interviews .
 The large multinational companies in the S&AMP;P 500 and the Dow had performed best this year , until those averages peaked on Aug. 6 .
+397	"those averages"	"peaked on"	"Aug. 6"	1.25
 In many quarters , the dead princess is being hailed as a visionary struck down in a battle to drag the stuffy monarchy and all of Britain into the 21st century .
 You likely have all but one of the ingredients in }72847:929434:77 ;*4292092607 ;0940:477973 :4219 9:06309227921482 1: :10941066 7:722d table salt , water , ammonia and laundry bluing .
 In the U.S. , Volkswagen sales peaked at 293,000 in 1980 , dropped to 49,533 in 1993 , then climbed to 135,907 in 1996 .
@@ -671,8 +678,8 @@ Strong wind gusts and most of the heavy rain will remain offshore Tuesday , alth
 434	"a few squalls"	"will reach"	"the immediate coast"	0.8333333333333333
 The test results have just been compiled , said Mills , who added that he wants as much public input and discussion on the new tests as possible .
 We moved boxes and bags , favorite shirts and CDs , computer , new socks , notebooks , tennis racket , and shoebox stuffed with emergency chocolate cupcakes , into a microscopically small dorm room , half of which would be inhabited by a completely unknown quantity and the other half of which would be inhabited by a quantity so known and so loved that I ca n't even remember any time passing at all between his first tiny breath 18 years ago and the one he draws in today so that he can say , `` Bye , Mom .
-436	"We"	"moved"	"boxes"	1.0
 436	"he"	"draws in"	"today"	0.8333333333333333
+436	"We"	"moved"	"boxes"	1.0
 When he failed to have the lawyers dismissed by a judge , he said , he decided to attack them .
 437	"the lawyers"	"dismissed by"	"a judge"	1.25
 437	"he"	"decided to attack"	"them"	0.75
@@ -702,9 +709,9 @@ When the passengers realized that other commercial jets had been hijacked and cr
 Officials at Volvo , long known for safe design , acknowledge that their cars are no match for a large sport utility vehicle .
 453	"their cars"	"are"	"no match"	1.0
 Sacks wrote of how he observed the brothers one day at a state mental hospital as they sat in apparent rapture exchanging six-figure primes that they seemed to pull from their heads .
-454	"they"	"sat in"	"apparent rapture"	0.8333333333333333
 454	"he"	"observed"	"the brothers"	1.0
 454	"they"	"seemed to pull from"	"their heads"	0.7
+454	"they"	"sat in"	"apparent rapture"	0.8333333333333333
 Mary McCarty writes for the Dayton Daily News .
 455	"Mary McCarty"	"writes for"	"the Dayton Daily News"	0.8333333333333333
 You should probably just go online .
@@ -740,14 +747,14 @@ When you have to resort to 1,200-degree air to cool something , you 're running 
 474	"you"	"'re running"	"a hot system"	0.8333333333333333
 I asked the Armenian native if the neighborhood kids or anybody else ever poked fun at the sign , which is basically a Bart Simpson dream come true .
 475	"the sign"	"is"	"a Bart Simpson dream"	1.3333333333333333
-475	"I"	"asked"	"the Armenian native"	1.0
 475	"the neighborhood kids"	"poked"	"fun"	1.0
+475	"I"	"asked"	"the Armenian native"	1.0
 Ariel bought its shares in the mid-teens .
 476	"Ariel"	"bought"	"its shares"	1.0
 They add barbecue sauces developed with Texas taste panels for the chopped and sliced versions .
+477	"barbecue sauces"	"developed with"	"Texas taste panels"	1.25
 477	"They"	"add"	"barbecue sauces"	1.0
 477	"They"	"add sauces developed with"	"Texas taste panels"	0.7
-477	"barbecue sauces"	"developed with"	"Texas taste panels"	1.25
 Lee Janzen IF PUSHED TO THE WALL , ISRAEL MIGHT FIRE NUKES That earned him the respect of analysts and investors , though the public remains skeptical .
 Arnoldy logs about 30,000 miles a year aboard Intrepid , parking it on a private siding in Houston when he 's not riding the rails .
 There were also searches of two warehouses owned by the firms in Schleswig-Holstein state and the office of the firms ' tax adviser in Hamburg .
@@ -755,9 +762,9 @@ The Treasury Department is responsible for U.S. foreign exchange policy .
 481	"The Treasury Department"	"is responsible for"	"U.S. foreign exchange policy"	0.75
 So is Nissan Motor Co. 's Altima .
 Television pictures showed police officers climbing over the roof and entering the offices of two related companies , Tatari Design and Tatex Trading G.m.b.H. , in Fitzbek , a village 35 miles from Hamburg .
-483	"Television pictures"	"showed officers climbing over"	"the roof"	0.7
-483	"Television pictures"	"showed"	"police officers"	1.0
 483	"police officers"	"climbing over"	"the roof"	1.25
+483	"Television pictures"	"showed"	"police officers"	1.0
+483	"Television pictures"	"showed officers climbing over"	"the roof"	0.7
 Sprint Corp. 's recent disclosure that it expects a net loss in wireless customers this quarter helped send the company 's PCS tracking stock below $ 2 on Wednesday for the first time .
 484	"it"	"expects"	"a net loss"	1.0
 They are moving to install side air bags to provide more protection to the head and chest .
@@ -768,22 +775,21 @@ It has outstanding stock options that could swell its roster of shares by 15 per
 487	"It"	"has"	"outstanding stock options"	1.0
 They say it cannot be done , but we beat City Hall , '' said Becky Fenger , a spokesperson for NO Transit Taxes .
 When the university 's president , Richard P. Traina , retired in 2000 , he moved right into a spot on the board of the George I. Alden Trust , a $ 135 million foundation that 's run out of Fletcher , Tilton 's offices and which has been a strong Clark supporter .
+489	"the university 's president"	"retired in"	"2000"	1.25
 489	"he"	"moved into"	"a spot"	0.8333333333333333
 July 's exports surpassed June 's total of $ 24.39 billion , and were well ahead of the previous January benchmark of C$ 24.88 billion .
 Its commercial spine , 18th Avenue , is chock full of pork and pasta stores and the Italian colors of green , white and red everywhere .
-491	"Its commercial spine , 18th Avenue"	"is full of"	"pork and pasta stores"	0.75
 Instead of converging on the meeting place , Hall and Sax both approached from the same direction .
 Musharraf defended his government 's decision to ban Bhutto , now living in exile in London and charged with corruption , from taking part in parliamentary elections .
-493	"Musharraf"	"defended decision to ban"	"Bhutto"	0.7
 493	"Musharraf"	"defended"	"his government 's decision"	1.0
+493	"Musharraf"	"defended decision to ban"	"Bhutto"	0.7
 The demoted starter had not pitched in a week , but showed no signs of the long layoff .
 McDaniel postponed ruling on Reilly 's motion and also on a defense motion to move the trial out of Middlesex County because of the publicity the case has received .
-495	"McDaniel"	"postponed ruling on"	"Reilly 's motion"	0.75
 495	"McDaniel"	"postponed"	"ruling"	1.0
+495	"McDaniel"	"postponed ruling on"	"Reilly 's motion"	0.75
 Beyond these practical considerations , there are other factors that can affect quality of life .
 496	"other factors"	"can affect quality of"	"life"	1.1666666666666667
 That 's enough of a difference to entice pension funds into junk .
 But Dionne said he was skeptical about whether television advertising is so powerful .
 The agency suspended imposition of the $ 100,000-per-voyage fines in April after Japan promised to address U.S. concerns by today .
-499	"The agency"	"suspended imposition of"	"the $ 100,000-per-voyage fines"	0.75
 499	"Japan"	"promised to address"	"U.S. concerns"	0.75

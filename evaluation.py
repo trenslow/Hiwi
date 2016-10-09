@@ -6,6 +6,7 @@ import re
 import matplotlib.pyplot as plt
 import operator
 import sys
+import itertools
 
 
 def read_extraction_file(output):
@@ -38,40 +39,45 @@ def read_extraction_file(output):
 
 def compare(gold, extractions):
     corr_and_conf = []
-    corr, incorr, unknown = {}, {}, {}
+    corr, incorr, unknown = {e: [] for e in extractions}, {e: [] for e in extractions}, {e: [] for e in extractions}
+    gold_corr, gold_incorr = {g: [] for g in gold}, {g: [] for g in gold}
 
-    for e_id, ex in extractions.items():
-        corr[e_id], incorr[e_id], unknown[e_id] = [], [], []
-        if e_id not in gold:
-            gold[e_id] = {}
-        for e in ex:
-            weight = extractions[e_id][e]
-            if len(e) == 3:
-                arg1, rel, arg2 = e
-                out_line = str(e_id) + '\t' + str(arg1) + '\t' + str(rel) + '\t' + str(arg2) + '\t' + str(weight) + '\n'
-            elif len(e) == 2:
-                arg1, rel = e
-                out_line = str(e_id) + '\t' + str(arg1) + '\t' + str(rel) + '\t' + "" + '\t' + str(weight) + '\n'
+    for sent_id, extr in extractions.items():
+        if sent_id not in gold:
+            gold[sent_id] = {}
 
-            if e in gold[e_id]:
+        for ext in extr:
+            weight = extractions[sent_id][ext]
+            out_line = str(sent_id) + '\t' + '\t'.join(ext) + '\t' + str(weight) + '\n'
+            if ext in gold[sent_id]:
                 # if the extraction is in gold standard and marked as correct
-                if gold[e_id][e] == 1:
+                if gold[sent_id][ext] == 1:
                     corr_and_conf.append((1, weight))
-                    corr[e_id].append(out_line)
+                    corr[sent_id].append(out_line)
                 # if the extraction is in gold standard and marked as incorrect
                 else:
                     corr_and_conf.append((0, weight))
-                    incorr[e_id].append(out_line)
+                    incorr[sent_id].append(out_line)
             # if the extraction is not found in the gold standard
             else:
-                unknown[e_id].append(out_line)
+                unknown[sent_id].append(out_line)
 
+        extras = set(gold[sent_id].keys()).symmetric_difference(set(extr.keys()))
+        gold_corr[sent_id] = [str(sent_id) + '\t' + '\t'.join(e) + '\n'
+                              for e in extras if e in gold[sent_id] and gold[sent_id][e] == 1]
+        gold_incorr[sent_id] = [str(sent_id) + '\t' + '\t'.join(e) + '\n'
+                                for e in extras if e in gold[sent_id] and gold[sent_id][e] == 0]
+
+    return corr_and_conf, corr, incorr, unknown, gold_corr, gold_incorr
+
+
+def calculate_precision(c_and_c):
     # initialize the count of correct extractions and total extractions
     # initialize a list to collect precision values for the k-th extraction to be graphed
     num_correct, num_extractions = 0, 0
     prec_by_extr = []
     # sort the correct and confidence tuple list by descending confidence values
-    sort_c_and_c = sorted(corr_and_conf, key=operator.itemgetter(1), reverse=True)
+    sort_c_and_c = sorted(c_and_c, key=operator.itemgetter(1), reverse=True)
     for k in range(len(sort_c_and_c)):
         # increase the count of correct extractions and total number of extractions
         num_correct += sort_c_and_c[k][0]
@@ -81,7 +87,7 @@ def compare(gold, extractions):
         prec_by_extr.append(precision)
 
     print('precision =', num_correct, '/', num_extractions, '=', num_correct / num_extractions)
-    return prec_by_extr, corr, incorr, unknown
+    return prec_by_extr
 
 
 def write_eval_results(corrs, incorrs, unkwns, out_folder, dat_set, system, sent_idx):
@@ -104,6 +110,23 @@ def write_eval_results(corrs, incorrs, unkwns, out_folder, dat_set, system, sent
     correct_file.close()
     incorrect_file.close()
     unknown_file.close()
+
+
+def write_gold_extras(gold_corrs, gold_incorrs, out_folder, dat_set, sent_idx):
+    path_to_txt = out_folder + dat_set + '/'
+    gold_corr_file = open(path_to_txt + 'goldCorrect.txt', 'w+')
+    gold_incorr_file = open(path_to_txt + 'goldIncorrect.txt', 'w+')
+
+    for id, sent in sorted(sent_idx.items(), key=operator.itemgetter(0)):
+        gold_corr_file.write(sent)
+        gold_incorr_file.write(sent)
+        if id in gold_corrs:
+            gold_corr_file.writelines(gold_corrs[id])
+        if id in gold_incorrs:
+            gold_incorr_file.writelines(gold_incorrs[id])
+
+    gold_corr_file.close()
+    gold_incorr_file.close()
 
 
 def graph(dat, color, style, sys_name, width, data_name, xlim):
@@ -148,6 +171,10 @@ if __name__ == '__main__':
     output_folder = 'nemexOutputs/'
     create_output_directory(output_folder)
     full_plots = True
+    compareAll = True
+    compareArg1 = False
+    compareRel = False
+    compareArg2 = False
 
     # index that keeps track of all the paths to the output files
     # filters out any files that don't have extractions in them
@@ -179,8 +206,8 @@ if __name__ == '__main__':
         x_limit = 0
         path_to_gold = path + data['all-labeled']
         with open(path_to_gold, encoding='latin-1') as f:
-            sentence_index = {id:sent for id, sent in enumerate([line for line in f
-                                                                 if len(line.strip().split('\t')) == 1])}
+            sentence_index = {i: sent for i, sent in enumerate([line for line in f
+                                                                if len(line.strip().split('\t')) == 1])}
         data_set_name = re.findall(r'ClausIE/(.*?)/', path)[0]
         for system, out_file in sorted(data.items(), key=operator.itemgetter(0)):
             # skip over the all files
@@ -190,17 +217,24 @@ if __name__ == '__main__':
                 # read the output file and collect all the data into a dictionary
                 extraction_index = read_extraction_file(path + out_file)
                 print('for the system ' + system + ', on the ' + data_set_name + ' data set:')
-                # compare a system's output against the gold standard
-                precision_by_extraction, corrects, incorrects, unknowns = compare(gold_index, extraction_index)
                 # plot results, making the Nemex lines stand out more, and write Nemex results to file
                 if 'nemex' in system:
                     line_width = 2.0
                     line_style = 'solid'
-                    write_eval_results(corrects, incorrects, unknowns,
-                                       output_folder, data_set_name, system, sentence_index)
+                    # compare a nemex's output against the gold standard
+                    correct_and_confidence, corrects, incorrects,\
+                    unknowns, gold_corrects, gold_incorrects = compare(gold_index, extraction_index)
+
+                    write_eval_results(corrects, incorrects, unknowns, output_folder,
+                                       data_set_name, system, sentence_index)
                 else:
                     line_width = 1.0
                     line_style = 'dashed'
+                    # compare a system's output against the gold standard
+                    correct_and_confidence, corrects, incorrects,\
+                    unknowns, gold_corrects, gold_incorrects = compare(gold_index, extraction_index)
+
+                precision_by_extraction = calculate_precision(correct_and_confidence)
                 # for plots analogous to those on the ClausIE paper
                 total_extractions = len(precision_by_extraction)
                 if full_plots:
@@ -222,6 +256,7 @@ if __name__ == '__main__':
                     graph_subplots(2, test_set, colors[system], line_style, system, line_width,
                                    True, data_set_name, x_limit)
 
+        write_gold_extras(gold_corrects, gold_incorrects, output_folder, data_set_name, sentence_index)
         plt.savefig(output_folder + data_set_name + '/plot.png')
         plt.clf()
         print('\n*********************************************\n')

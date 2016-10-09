@@ -9,13 +9,17 @@ Mrs. Yogeswaran was shot five times with a pistol near her Jaffna home on May 17
 1	"Mrs. Yogeswaran"	"was shot"	"five times"	0.8333333333333333
 1	"Mrs. Yogeswaran"	"was shot with"	"a pistol"	0.75
 1	"Mrs. Yogeswaran"	"was shot with pistol near"	"her Jaffna home"	0.6666666666666666
-1	"Mrs. Yogeswaran"	"was shot on 17"	"May"	0.7
+1	"Mrs. Yogeswaran"	"was shot on"	"May 17"	0.75
 1	"five times"	"shot with"	"a pistol"	-0.16666666666666669
 1	"five times"	"shot with pistol near"	"her Jaffna home"	-0.3
-1	"five times"	"shot on 17"	"May"	-0.25
+1	"five times"	"shot on"	"May 17"	-0.16666666666666669
+1	"five times"	"shot on 17"	"1998."	-0.25
 1	"a pistol"	"near"	"her Jaffna home"	1.3333333333333333
-1	"a pistol"	"shot on 17"	"May"	-0.08333333333333331
-1	"her Jaffna home"	"near pistol shot on 17"	"May"	0.04999999999999999
+1	"a pistol"	"shot on"	"May 17"	0.0
+1	"a pistol"	"shot on 17"	"1998."	-0.08333333333333331
+1	"her Jaffna home"	"near pistol shot on"	"May 17"	0.1333333333333333
+1	"her Jaffna home"	"near pistol shot on 17"	"1998."	0.04999999999999999
+1	"May 17"	"17"	"1998."	1.5
 Girard has a bachelor 's degree in political sciences at the Universite de Montreal and did studies for the master 's degree in industrial relations . 
 2	"Girard"	"has degree"	"a bachelor"	0.8333333333333333
 2	"Girard"	"has"	"a bachelor 's degree"	1.0
@@ -44,17 +48,15 @@ Girard has a bachelor 's degree in political sciences at the Universite de Montr
 2	"the master"	"degree in"	"industrial relations"	0.8333333333333333
 2	"the master 's degree"	"in"	"industrial relations"	1.3333333333333333
 It was #109 on the Billboard 200 chart . 
-3	"It"	"was on chart 200"	"Billboard"	0.7
 3	"It"	"was on"	"the Billboard 200 chart"	0.8333333333333333
-3	"Billboard"	"200 chart was on"	"the Billboard 200 chart"	0.1333333333333333
 Robert Barnard born 23 November 1936 is an English crime writer , critic and lecturer . 
-4	"Robert Barnard"	"born 1936"	"November"	0.8333333333333333
+4	"Robert Barnard"	"born"	"23 November 1936"	1.0
 4	"Robert Barnard"	"born is"	"an English crime writer"	0.8333333333333333
 4	"Robert Barnard"	"born is writer"	"critic"	0.75
 4	"Robert Barnard"	"born is writer critic and"	"lecturer"	0.6666666666666666
-4	"November"	"born is"	"an English crime writer"	0.0
-4	"November"	"born is writer"	"critic"	-0.08333333333333331
-4	"November"	"born is writer critic and"	"lecturer"	-0.16666666666666666
+4	"23 November 1936"	"born is"	"an English crime writer"	-0.16666666666666669
+4	"23 November 1936"	"born is writer"	"critic"	-0.25
+4	"23 November 1936"	"born is writer critic and"	"lecturer"	-0.33333333333333337
 4	"an English crime writer"	"writer"	"critic"	1.5
 4	"an English crime writer"	"critic and"	"lecturer"	1.25
 4	"critic"	"and"	"lecturer"	1.3333333333333333
@@ -79,15 +81,20 @@ The secretary / music director for the church , Anne Susan Clark , is wary of ch
 5	"the congregation"	"intended by"	"Hill"	1.25
 " Doing Time on Maple Drive " was released on Region 1 DVD on September 7 , 2004. 
 6	"Time"	"was on"	"Maple Drive "	0.16666666666666669
-6	"Time"	"was released on 1"	"Region"	0.7
+6	"Time"	"was released on"	"Region 1"	0.75
 6	"Time"	"was released on 1"	"DVD"	0.7
-6	"Time"	"was released on 7"	"September"	0.7
-6	"Maple Drive "	"was released on 1"	"Region"	0.5333333333333333
+6	"Time"	"was released on"	"September 7"	0.75
+6	"Time"	"was released on 7"	"2004."	0.7
+6	"Maple Drive "	"was released on"	"Region 1"	0.5833333333333333
 6	"Maple Drive "	"was released on 1"	"DVD"	0.5333333333333333
-6	"Maple Drive "	"was released on 7"	"September"	0.5333333333333333
-6	"Region"	"1"	"DVD"	1.0
-6	"Region"	"1 released on 7"	"September"	0.0
-6	"DVD"	"1 released on 7"	"September"	0.0
+6	"Maple Drive "	"was released on"	"September 7"	0.5833333333333333
+6	"Maple Drive "	"was released on 7"	"2004."	0.5333333333333333
+6	"Region 1"	"1"	"DVD"	1.5
+6	"Region 1"	"released on"	"September 7"	0.0
+6	"Region 1"	"released on 7"	"2004."	-0.08333333333333331
+6	"DVD"	"1 released on"	"September 7"	0.08333333333333331
+6	"DVD"	"1 released on 7"	"2004."	0.0
+6	"September 7"	"7"	"2004."	1.5
 It comprises and includes mountains reaching an altitude of above sea level . 
 7	"It"	"comprises and includes"	"mountains"	0.75
 7	"It"	"comprises and includes mountains reaching"	"an altitude"	0.6666666666666666
@@ -99,9 +106,18 @@ He starred as Lancelot in the national tour of " Spamalot " from 2006 through 20
 8	"He"	"starred as"	"Lancelot"	0.8333333333333333
 8	"He"	"starred in"	"the national tour"	0.8333333333333333
 8	"He"	"starred in tour of"	"Spamalot"	0.7
+8	"He"	"starred from"	"2006"	0.8333333333333333
+8	"He"	"starred from"	"2008."	0.8333333333333333
 8	"Lancelot"	"starred in"	"the national tour"	0.0
 8	"Lancelot"	"starred in tour of"	"Spamalot"	-0.1333333333333333
+8	"Lancelot"	"starred from"	"2006"	0.0
+8	"Lancelot"	"starred from"	"2008."	0.0
 8	"the national tour"	"of"	"Spamalot"	1.3333333333333333
+8	"the national tour"	"starred from"	"2006"	0.0
+8	"the national tour"	"starred from"	"2008."	0.0
+8	"Spamalot"	"of tour starred from"	"2006"	0.1333333333333333
+8	"Spamalot"	"of tour starred from"	"2008."	0.1333333333333333
+8	"2006"	"from"	"2008."	0.0
 The film as well as the musical were criticized by some religious groups . 
 9	"The film"	"were criticized by"	"some religious groups"	0.75
 As in the film , Richards is given the chance to become a Hunter by Killian , though unlike in the film , he accepts . 
@@ -123,12 +139,12 @@ As in the film , Richards is given the chance to become a Hunter by Killian , th
 10	"Killian"	"by become to chance is accepts"	"he"	0.19047619047619047
 10	"the film"	"in unlike though is accepts"	"he"	0.16666666666666666
 The film debuted on October 30 , 1968 December 29 , 1968 London premiere . 
-11	"The film"	"debuted on 30"	"October"	1.2
-11	"The film"	". 29"	"December"	0.16666666666666669
+11	"The film"	"debuted on"	"October 30"	1.25
+11	"The film"	"."	"1968 December 29"	0.0
 11	"The film"	". premiere"	"1968 London"	0.16666666666666669
-11	"October"	"30 on debuted . 29"	"December"	-0.16666666666666666
-11	"October"	"30 on debuted . premiere"	"1968 London"	-0.16666666666666666
-11	"December"	". premiere"	"1968 London"	0.0
+11	"October 30"	"on debuted ."	"1968 December 29"	-0.3
+11	"October 30"	"on debuted . premiere"	"1968 London"	-0.1333333333333333
+11	"1968 December 29"	". premiere"	"1968 London"	0.16666666666666669
 The Arab nationalists aimed , in part , to remove British imperial influence in Iraq . 
 12	"The Arab nationalists"	"aimed in"	"part"	0.8333333333333333
 12	"The Arab nationalists"	"aimed to remove"	"British imperial influence"	0.75
@@ -138,19 +154,26 @@ The Arab nationalists aimed , in part , to remove British imperial influence in 
 12	"British imperial influence"	"in"	"Iraq"	1.3333333333333333
 A sequel , in name only , called " Return of the Ape Man " , followed in 1944 , one year later after this film and starred Bela Lugosi , John Carradine and George Zucco . 
 13	"A sequel"	". in"	"name"	0.16666666666666669
-13	"A sequel"	". after later year"	"only , called  Return"	0.3
+13	"A sequel"	". after later year"	"only  called  Return"	0.3
 13	"A sequel"	". after later year Return of"	"the Ape Man "	0.35714285714285715
-13	"name"	". after later year"	"only , called  Return"	0.1333333333333333
+13	"name"	". after later year"	"only  called  Return"	0.1333333333333333
 13	"name"	". after later year Return of"	"the Ape Man "	0.19047619047619047
-13	"only , called  Return"	"of"	"the Ape Man "	1.3333333333333333
-13	"only , called  Return"	"year later . after later"	"only , called  Return of the Ape Man  , followed in 1944 , one year"	-0.04999999999999999
-13	"the Ape Man "	"of Return year later . after later"	"only , called  Return of the Ape Man  , followed in 1944 , one year"	-0.10714285714285715
+13	"name"	". after later year Return followed in"	"1944"	0.20833333333333331
+13	"only  called  Return"	"of"	"the Ape Man "	1.3333333333333333
+13	"only  called  Return"	"followed in"	"1944"	1.25
+13	"only  called  Return"	"year later . after later"	"only  called  Return of the Ape Man   followed in 1944  one year"	-0.04999999999999999
+13	"the Ape Man "	"Return followed in"	"1944"	-0.08333333333333331
+13	"the Ape Man "	"of Return year later . after later"	"only  called  Return of the Ape Man   followed in 1944  one year"	-0.10714285714285715
 13	"the Ape Man "	"of Return year after"	"this film"	0.6666666666666666
 13	"the Ape Man "	"of Return year after and starred"	"Bela Lugosi"	0.41666666666666663
-13	"only , called  Return of the Ape Man  , followed in 1944 , one year"	"after"	"this film"	0.8333333333333333
-13	"only , called  Return of the Ape Man  , followed in 1944 , one year"	"after and starred"	"Bela Lugosi"	0.5833333333333333
-13	"only , called  Return of the Ape Man  , followed in 1944 , one year"	"after and starred Lugosi"	"John Carradine"	0.5333333333333333
-13	"only , called  Return of the Ape Man  , followed in 1944 , one year"	"after and starred Lugosi Carradine and"	"George Zucco"	0.47619047619047616
+13	"1944"	"in followed Return year later . after later"	"only  called  Return of the Ape Man   followed in 1944  one year"	-0.125
+13	"1944"	"in followed Return year after"	"this film"	0.6428571428571428
+13	"1944"	"in followed Return year after and starred"	"Bela Lugosi"	0.39285714285714285
+13	"1944"	"in followed Return year after and starred Lugosi"	"John Carradine"	0.34285714285714286
+13	"only  called  Return of the Ape Man   followed in 1944  one year"	"after"	"this film"	0.8333333333333333
+13	"only  called  Return of the Ape Man   followed in 1944  one year"	"after and starred"	"Bela Lugosi"	0.5833333333333333
+13	"only  called  Return of the Ape Man   followed in 1944  one year"	"after and starred Lugosi"	"John Carradine"	0.5333333333333333
+13	"only  called  Return of the Ape Man   followed in 1944  one year"	"after and starred Lugosi Carradine and"	"George Zucco"	0.47619047619047616
 13	"this film"	"after and starred"	"Bela Lugosi"	-0.25
 13	"this film"	"after and starred Lugosi"	"John Carradine"	-0.3
 13	"this film"	"after and starred Lugosi Carradine and"	"George Zucco"	-0.35714285714285715
@@ -162,17 +185,17 @@ Dr. Gayatri Bipasha Basu is researching the esoteric practices like voodoo , spi
 14	"Dr. Gayatri Bipasha Basu"	"is . powers"	"spirit possession"	0.75
 14	"Dr. Gayatri Bipasha Basu"	"is . powers possession"	"magic"	0.7
 14	"Dr. Gayatri Bipasha Basu"	"is . powers possession magic and"	"healing"	0.6428571428571428
-14	"Dr. Gayatri Bipasha Basu"	"is ."	"spirit possession , magic and healing powers"	0.8333333333333333
+14	"Dr. Gayatri Bipasha Basu"	"is ."	"spirit possession  magic and healing powers"	0.8333333333333333
 14	"the esoteric practices"	"is . powers"	"spirit possession"	-0.08333333333333331
 14	"the esoteric practices"	"is . powers possession"	"magic"	-0.1333333333333333
 14	"the esoteric practices"	"is . powers possession magic and"	"healing"	-0.19047619047619047
-14	"the esoteric practices"	"is ."	"spirit possession , magic and healing powers"	0.0
+14	"the esoteric practices"	"is ."	"spirit possession  magic and healing powers"	0.0
 14	"spirit possession"	"possession"	"magic"	1.5
 14	"spirit possession"	"magic and"	"healing"	1.25
-14	"spirit possession"	"powers is ."	"spirit possession , magic and healing powers"	0.08333333333333331
+14	"spirit possession"	"powers is ."	"spirit possession  magic and healing powers"	0.08333333333333331
 14	"magic"	"and"	"healing"	1.3333333333333333
-14	"magic"	"possession powers is ."	"spirit possession , magic and healing powers"	0.1333333333333333
-14	"healing"	"and magic possession powers is ."	"spirit possession , magic and healing powers"	0.19047619047619047
+14	"magic"	"possession powers is ."	"spirit possession  magic and healing powers"	0.1333333333333333
+14	"healing"	"and magic possession powers is ."	"spirit possession  magic and healing powers"	0.19047619047619047
 Simultaneously won the " Hope of the World Ballet " Prize . 
 15	"Hope"	". of Prize"	"the World Ballet"	0.25
 15	"Hope"	". of"	"the World Ballet  Prize"	0.16666666666666669
@@ -184,17 +207,35 @@ This version was cut down to 100-minutes in length .
 He was born in New York and died at Livonia , Michigan . 
 17	"He"	"was born in"	"New York"	0.75
 17	"He"	"was and died at Michigan"	"Livonia"	0.6666666666666666
-17	"He"	"was and died at"	"Livonia , Michigan"	0.7
+17	"He"	"was and died at"	"Livonia  Michigan"	0.7
 17	"New York"	"in was and died at Michigan"	"Livonia"	-0.08333333333333334
-17	"New York"	"in was and died at"	"Livonia , Michigan"	-0.04999999999999999
-17	"Livonia"	"Michigan at died was and died at"	"Livonia , Michigan"	0.033333333333333354
+17	"New York"	"in was and died at"	"Livonia  Michigan"	-0.04999999999999999
+17	"Livonia"	"Michigan at died was and died at"	"Livonia  Michigan"	0.033333333333333354
 Fred Kohler April 20 , 1888 - October 28 , 1938 was an American actor known for his " heavy " style of character . 
-18	"Fred Kohler April"	"28"	"October"	0.0
+18	"Fred Kohler April"	"April"	"20"	1.5
+18	"Fred Kohler April"	"28"	"1888"	0.0
+18	"Fred Kohler April"	"was"	"Fred Kohler April 20  1888 - October 28"	-0.16666666666666669
+18	"Fred Kohler April"	"was"	"1938"	-0.16666666666666669
 18	"Fred Kohler April"	"was"	"an American actor"	0.8333333333333333
 18	"Fred Kohler April"	"was actor known for style"	"his"	0.5
-18	"October"	"was"	"an American actor"	0.8333333333333333
-18	"October"	"was actor known for style"	"his"	0.5
-18	"October"	"was actor known for"	"his  heavy  style"	0.5333333333333333
+18	"20"	"28"	"1888"	-0.16666666666666669
+18	"20"	"April was"	"Fred Kohler April 20  1888 - October 28"	-0.25
+18	"20"	"April was"	"1938"	-0.25
+18	"20"	"April was"	"an American actor"	0.75
+18	"20"	"April was actor known for style"	"his"	0.41666666666666663
+18	"1888"	"was"	"Fred Kohler April 20  1888 - October 28"	-0.16666666666666669
+18	"1888"	"was"	"1938"	-0.16666666666666669
+18	"1888"	"was"	"an American actor"	0.8333333333333333
+18	"1888"	"was actor known for style"	"his"	0.5
+18	"Fred Kohler April 20  1888 - October 28"	"was"	"1938"	0.0
+18	"Fred Kohler April 20  1888 - October 28"	"was"	"an American actor"	1.0
+18	"Fred Kohler April 20  1888 - October 28"	"was actor known for style"	"his"	0.6666666666666666
+18	"Fred Kohler April 20  1888 - October 28"	"was actor known for"	"his  heavy  style"	0.7
+18	"Fred Kohler April 20  1888 - October 28"	"was actor known for style of"	"character"	0.6428571428571428
+18	"1938"	"was"	"an American actor"	1.0
+18	"1938"	"was actor known for style"	"his"	0.6666666666666666
+18	"1938"	"was actor known for"	"his  heavy  style"	0.7
+18	"1938"	"was actor known for style of"	"character"	0.6428571428571428
 18	"an American actor"	"known for style"	"his"	1.2
 18	"an American actor"	"known for"	"his  heavy  style"	1.25
 18	"an American actor"	"known for style of"	"character"	1.1666666666666667
@@ -214,13 +255,13 @@ Outpost Harry was a remote Korean War station located on a tiny hilltop in what 
 19	"Iron Triangle"	". on"	"the Korean Peninsula"	0.16666666666666669
 By agreement among the Allied nations , in March 1942 the acific theatre was divided into the South West Pacific Area , under General Douglas MacArthur , and the Pacific Ocean Areas , under Admiral Chester W. Nimitz . 
 20	"agreement"	"among"	"the Allied nations"	1.3333333333333333
-20	"agreement"	". in 1942"	"March"	0.08333333333333331
+20	"agreement"	". in"	"March 1942"	0.0
 20	"agreement"	". was"	"the acific theatre"	0.0
-20	"the Allied nations"	"among agreement . in 1942"	"March"	-0.04999999999999999
+20	"the Allied nations"	"among agreement . in"	"March 1942"	-0.1333333333333333
 20	"the Allied nations"	"among agreement . was"	"the acific theatre"	-0.1333333333333333
 20	"the Allied nations"	"among agreement . was divided into"	"the South West Pacific Area"	0.0
-20	"March"	"1942 . was"	"the acific theatre"	-0.08333333333333331
-20	"March"	"1942 . was divided into"	"the South West Pacific Area"	0.04999999999999999
+20	"March 1942"	". was"	"the acific theatre"	0.0
+20	"March 1942"	". was divided into"	"the South West Pacific Area"	0.1333333333333333
 20	"the acific theatre"	"was divided into"	"the South West Pacific Area"	0.75
 20	"the acific theatre"	"was divided under"	"General Douglas MacArthur"	0.75
 20	"the South West Pacific Area"	"divided under"	"General Douglas MacArthur"	0.0
@@ -231,20 +272,35 @@ By agreement among the Allied nations , in March 1942 the acific theatre was div
 Fighting continued in and around Baidoa , particularly at Iidale and Dinsoor ; approximately 60 and 120 kilometres south of Baidoa respectively . 
 21	"Baidoa"	"around and continued at"	"Iidale"	0.1333333333333333
 21	"Baidoa"	"around and continued at Iidale and"	"Dinsoor"	0.0
+21	"Baidoa"	"around and in . south kilometres approximately"	"60"	-0.033333333333333354
+21	"Baidoa"	"around and in . south kilometres approximately 60 and"	"120"	0.023809523809523808
 21	"Baidoa"	"around and in . south"	"approximately 60 and 120 kilometres"	-0.16666666666666666
 21	"Baidoa"	"around and in . south of"	"Baidoa"	-0.08333333333333334
 21	"Iidale"	"and"	"Dinsoor"	1.3333333333333333
+21	"Iidale"	"at . south kilometres approximately"	"60"	0.04999999999999999
+21	"Iidale"	"at . south kilometres approximately 60 and"	"120"	0.10714285714285715
 21	"Iidale"	"at . south"	"approximately 60 and 120 kilometres"	-0.08333333333333331
 21	"Iidale"	"at . south of"	"Baidoa"	0.0
+21	"Dinsoor"	"and Iidale at . south kilometres approximately"	"60"	-0.033333333333333354
+21	"Dinsoor"	"and Iidale at . south kilometres approximately 60 and"	"120"	0.023809523809523808
 21	"Dinsoor"	"and Iidale at . south"	"approximately 60 and 120 kilometres"	-0.16666666666666666
 21	"Dinsoor"	"and Iidale at . south of"	"Baidoa"	-0.08333333333333334
+21	"60"	"and"	"120"	1.3333333333333333
+21	"60"	"approximately kilometres . south"	"approximately 60 and 120 kilometres"	-0.1333333333333333
+21	"60"	"approximately south of"	"Baidoa"	0.5833333333333333
+21	"120"	"and 60 approximately kilometres . south"	"approximately 60 and 120 kilometres"	-0.19047619047619047
+21	"120"	"and 60 approximately south of"	"Baidoa"	0.5
 21	"approximately 60 and 120 kilometres"	"south of"	"Baidoa"	0.8333333333333333
 Another version of the story was filmed in 1934 , entitled The Courage of Charlie Chan . 
 22	"Another version"	"of"	"the story"	1.3333333333333333
+22	"Another version"	"was filmed in"	"1934"	0.75
 22	"Another version"	"was filmed entitled Chan"	"Courage"	0.7
 22	"Another version"	"was filmed entitled"	"The Courage of Charlie Chan"	0.75
+22	"the story"	"of was filmed in"	"1934"	0.5
 22	"the story"	"of was filmed entitled Chan"	"Courage"	0.45
 22	"the story"	"of was filmed entitled"	"The Courage of Charlie Chan"	0.5
+22	"1934"	"filmed entitled Chan"	"Courage"	-0.08333333333333331
+22	"1934"	"filmed entitled"	"The Courage of Charlie Chan"	0.0
 22	"Courage"	"Chan entitled was filmed entitled"	"The Courage of Charlie Chan"	0.04999999999999999
 He consults his family doctor for solution . 
 23	"He"	"consults"	"his family doctor"	1.0
@@ -255,53 +311,58 @@ The International Center for Research on Women ICRW is a non-profit organization
 24	"The International Center"	"on"	"Women ICRW"	0.8333333333333333
 24	"The International Center"	"for is"	"a non-profit organization"	0.75
 24	"The International Center"	"for is organization headquartered in D.C."	"Washington"	0.41666666666666663
-24	"The International Center"	"for is organization headquartered in"	"Washington , D.C."	0.45
+24	"The International Center"	"for is organization headquartered in"	"Washington  D.C."	0.45
 24	"Research"	"on"	"Women ICRW"	0.8333333333333333
 24	"Research"	"for is"	"a non-profit organization"	0.75
 24	"Research"	"for is organization headquartered in D.C."	"Washington"	0.41666666666666663
-24	"Research"	"for is organization headquartered in"	"Washington , D.C."	0.45
+24	"Research"	"for is organization headquartered in"	"Washington  D.C."	0.45
 24	"Research"	"for is organization headquartered in D.C."	"United States"	0.41666666666666663
 24	"Women ICRW"	"is"	"a non-profit organization"	0.8333333333333333
 24	"Women ICRW"	"is organization headquartered in D.C."	"Washington"	0.5
-24	"Women ICRW"	"is organization headquartered in"	"Washington , D.C."	0.5333333333333333
+24	"Women ICRW"	"is organization headquartered in"	"Washington  D.C."	0.5333333333333333
 24	"Women ICRW"	"is organization headquartered in D.C."	"United States"	0.5
 24	"a non-profit organization"	"headquartered in D.C."	"Washington"	1.2
-24	"a non-profit organization"	"headquartered in"	"Washington , D.C."	1.25
+24	"a non-profit organization"	"headquartered in"	"Washington  D.C."	1.25
 24	"a non-profit organization"	"headquartered in D.C."	"United States"	1.2
 24	"a non-profit organization"	"headquartered in D.C. States with"	"a regional office"	1.1428571428571428
-24	"Washington"	"D.C. in headquartered is organization headquartered in"	"Washington , D.C."	0.033333333333333354
+24	"Washington"	"D.C. in headquartered is organization headquartered in"	"Washington  D.C."	0.033333333333333354
 24	"Washington"	"D.C."	"United States"	1.0
 24	"Washington"	"D.C. States with"	"a regional office"	0.75
 24	"Washington"	"D.C. States with office in India"	"New Delhi"	0.6428571428571428
-24	"Washington"	"D.C. States with office in"	"New Delhi , India"	0.6666666666666666
-24	"Washington , D.C."	"D.C."	"United States"	1.5
-24	"Washington , D.C."	"States with"	"a regional office"	1.25
-24	"Washington , D.C."	"States with office in India"	"New Delhi"	1.1428571428571428
-24	"Washington , D.C."	"States with office in"	"New Delhi , India"	1.1666666666666667
+24	"Washington"	"D.C. States with office in"	"New Delhi  India"	0.6666666666666666
+24	"Washington  D.C."	"D.C."	"United States"	1.5
+24	"Washington  D.C."	"States with"	"a regional office"	1.25
+24	"Washington  D.C."	"States with office in India"	"New Delhi"	1.1428571428571428
+24	"Washington  D.C."	"States with office in"	"New Delhi  India"	1.1666666666666667
 24	"United States"	"with"	"a regional office"	1.3333333333333333
 24	"United States"	"with office in India"	"New Delhi"	1.1666666666666667
-24	"United States"	"with office in"	"New Delhi , India"	1.2
+24	"United States"	"with office in"	"New Delhi  India"	1.2
 24	"a regional office"	"in India"	"New Delhi"	1.25
-24	"a regional office"	"in"	"New Delhi , India"	1.3333333333333333
-24	"New Delhi"	"India in office with States D.C. in headquartered is organization headquartered in D.C. States with office in"	"New Delhi , India"	0.009090909090909094
+24	"a regional office"	"in"	"New Delhi  India"	1.3333333333333333
+24	"New Delhi"	"India in office with States D.C. in headquartered is organization headquartered in D.C. States with office in"	"New Delhi  India"	0.009090909090909094
 His return bout in the UFC occurred at " UFC 81 " , where he submitted Rob Yundt at 1 : 08 in the first round . 
 25	"His return"	"occurred in"	"the UFC"	1.25
-25	"His return"	"occurred at  81"	"UFC"	1.1666666666666667
 25	"His return"	"occurred at"	"UFC 81 "	1.25
 25	"His return"	"occurred at  submitted"	"he"	1.1666666666666667
-25	"the UFC"	"occurred at  81"	"UFC"	0.5333333333333333
 25	"the UFC"	"occurred at"	"UFC 81 "	0.6666666666666666
 25	"the UFC"	"occurred at  submitted"	"he"	0.5333333333333333
 25	"the UFC"	"occurred at  submitted"	"Rob Yundt"	0.5333333333333333
-25	"UFC"	"81  at occurred . return occurred at"	"UFC 81 "	-0.05714285714285716
-25	"UFC"	" submitted"	"he"	0.6666666666666666
-25	"UFC"	" submitted"	"Rob Yundt"	0.6666666666666666
+25	"the UFC"	"occurred at  submitted at"	"1"	0.5
 25	"UFC 81 "	"submitted"	"he"	1.3333333333333333
 25	"UFC 81 "	"submitted"	"Rob Yundt"	1.3333333333333333
+25	"UFC 81 "	"submitted at"	"1"	1.25
+25	"UFC 81 "	"at occurred ."	"08"	-0.3
 25	"UFC 81 "	"at occurred . in"	"the first round"	-0.1333333333333333
 25	"he"	"submitted"	"Rob Yundt"	1.0
+25	"he"	"submitted at"	"1"	0.8333333333333333
+25	"he"	"submitted  at occurred ."	"08"	-0.35714285714285715
 25	"he"	"submitted  at occurred . in"	"the first round"	-0.19047619047619047
+25	"Rob Yundt"	"submitted at"	"1"	-0.16666666666666669
+25	"Rob Yundt"	"submitted  at occurred ."	"08"	-0.35714285714285715
 25	"Rob Yundt"	"submitted  at occurred . in"	"the first round"	-0.19047619047619047
+25	"1"	"at submitted  at occurred ."	"08"	-0.375
+25	"1"	"at submitted  at occurred . in"	"the first round"	-0.20833333333333331
+25	"08"	". in"	"the first round"	0.16666666666666669
 Frank Lanning as Francisco Cortez , escaped convict falsely accused of murder ing Jim Lester 's father . 
 26	"Frank Lanning"	"escaped as"	"Francisco Cortez"	0.16666666666666669
 26	"Frank Lanning"	"escaped"	"convict"	1.0
@@ -321,15 +382,30 @@ Frank Lanning as Francisco Cortez , escaped convict falsely accused of murder in
 Wu worked as a reporter for United Press International from 1973 until 1978 when she joined WGBH-TV , Boston 's public television station , as the Massachusetts State House reporter until 1983. 
 27	"Wu"	"worked"	"as a reporter"	1.0
 27	"Wu"	"worked reporter for"	"United Press International"	0.75
+27	"Wu"	"worked from"	"1973"	0.8333333333333333
+27	"Wu"	"worked from until"	"1978"	0.75
 27	"Wu"	"worked joined"	"she"	0.8333333333333333
 27	"as a reporter"	"for"	"United Press International"	1.3333333333333333
+27	"as a reporter"	"worked from"	"1973"	-0.16666666666666669
+27	"as a reporter"	"worked from until"	"1978"	-0.25
 27	"as a reporter"	"worked joined"	"she"	-0.16666666666666669
 27	"as a reporter"	"worked joined"	"WGBH-TV"	-0.16666666666666669
 27	"as a reporter"	"worked joined WGBH-TV station"	"Boston"	-0.3
+27	"United Press International"	"for worked from"	"1973"	0.08333333333333331
+27	"United Press International"	"for worked from until"	"1978"	0.0
 27	"United Press International"	"for worked joined"	"she"	0.08333333333333331
 27	"United Press International"	"for worked joined"	"WGBH-TV"	0.08333333333333331
 27	"United Press International"	"for worked joined WGBH-TV station"	"Boston"	-0.04999999999999999
 27	"United Press International"	"for worked joined WGBH-TV"	"Boston 's public television station"	0.0
+27	"1973"	"from until"	"1978"	-0.16666666666666669
+27	"1973"	"worked joined"	"she"	0.0
+27	"1973"	"worked joined"	"WGBH-TV"	0.0
+27	"1973"	"worked joined WGBH-TV station"	"Boston"	-0.1333333333333333
+27	"1973"	"worked joined WGBH-TV"	"Boston 's public television station"	-0.08333333333333331
+27	"1978"	"until worked joined"	"she"	0.08333333333333331
+27	"1978"	"until worked joined"	"WGBH-TV"	0.08333333333333331
+27	"1978"	"until worked joined WGBH-TV station"	"Boston"	-0.04999999999999999
+27	"1978"	"until worked joined WGBH-TV"	"Boston 's public television station"	0.0
 27	"she"	"joined"	"WGBH-TV"	1.0
 27	"she"	"joined WGBH-TV station"	"Boston"	0.75
 27	"she"	"joined WGBH-TV"	"Boston 's public television station"	0.8333333333333333
@@ -337,9 +413,13 @@ Wu worked as a reporter for United Press International from 1973 until 1978 when
 27	"WGBH-TV"	"station"	"Boston"	1.3333333333333333
 27	"WGBH-TV"	"WGBH-TV"	"Boston 's public television station"	1.5
 27	"WGBH-TV"	"joined as"	"the Massachusetts State House reporter"	-0.16666666666666669
+27	"WGBH-TV"	"joined until"	"1983."	-0.16666666666666669
 27	"Boston"	"station WGBH-TV worked joined WGBH-TV"	"Boston 's public television station"	0.04999999999999999
 27	"Boston"	"station joined as"	"the Massachusetts State House reporter"	0.08333333333333331
+27	"Boston"	"station joined until"	"1983."	0.08333333333333331
 27	"Boston 's public television station"	"joined as"	"the Massachusetts State House reporter"	0.0
+27	"Boston 's public television station"	"joined until"	"1983."	0.0
+27	"the Massachusetts State House reporter"	"joined until"	"1983."	0.0
 The New Zealand Naval Forces was a Division of the Royal Navy . 
 28	"The New Zealand Naval Forces"	"was ."	"Division"	0.8333333333333333
 28	"The New Zealand Naval Forces"	"was . of"	"the Royal Navy"	0.75
@@ -452,14 +532,34 @@ In his years on Newsnight , he has reported on many of the most compelling forei
 30	"Afghanistan"	"in"	"Iraq"	1.3333333333333333
 30	"War"	"Afghanistan in"	"Iraq"	0.0
 William Dozier February 13 , 1908 - April 23 , 1991 was an American film and television producer and actor . 
-31	"William Dozier February"	"23"	"April"	0.0
+31	"William Dozier February"	"February"	"13"	1.5
+31	"William Dozier February"	"23"	"1908"	0.0
+31	"William Dozier February"	"was"	"William Dozier February 13  1908 - April 23"	-0.16666666666666669
+31	"William Dozier February"	"was"	"1991"	-0.16666666666666669
 31	"William Dozier February"	"was producer"	"film"	0.6666666666666666
 31	"William Dozier February"	"was producer film and"	"television"	0.5333333333333333
 31	"William Dozier February"	"was"	"an American film and television producer"	0.8333333333333333
-31	"April"	"was producer"	"film"	0.6666666666666666
-31	"April"	"was producer film and"	"television"	0.5333333333333333
-31	"April"	"was"	"an American film and television producer"	0.8333333333333333
-31	"April"	"was producer and"	"actor"	0.5833333333333333
+31	"13"	"23"	"1908"	-0.16666666666666669
+31	"13"	"February was"	"William Dozier February 13  1908 - April 23"	-0.25
+31	"13"	"February was"	"1991"	-0.25
+31	"13"	"February was producer"	"film"	0.5833333333333333
+31	"13"	"February was producer film and"	"television"	0.45
+31	"13"	"February was"	"an American film and television producer"	0.75
+31	"1908"	"was"	"William Dozier February 13  1908 - April 23"	-0.16666666666666669
+31	"1908"	"was"	"1991"	-0.16666666666666669
+31	"1908"	"was producer"	"film"	0.6666666666666666
+31	"1908"	"was producer film and"	"television"	0.5333333333333333
+31	"1908"	"was"	"an American film and television producer"	0.8333333333333333
+31	"1908"	"was producer and"	"actor"	0.5833333333333333
+31	"William Dozier February 13  1908 - April 23"	"was"	"1991"	0.0
+31	"William Dozier February 13  1908 - April 23"	"was producer"	"film"	0.8333333333333333
+31	"William Dozier February 13  1908 - April 23"	"was producer film and"	"television"	0.7
+31	"William Dozier February 13  1908 - April 23"	"was"	"an American film and television producer"	1.0
+31	"William Dozier February 13  1908 - April 23"	"was producer and"	"actor"	0.75
+31	"1991"	"was producer"	"film"	0.8333333333333333
+31	"1991"	"was producer film and"	"television"	0.7
+31	"1991"	"was"	"an American film and television producer"	1.0
+31	"1991"	"was producer and"	"actor"	0.75
 31	"film"	"and"	"television"	1.3333333333333333
 31	"film"	"was"	"an American film and television producer"	0.16666666666666669
 31	"film"	"producer and"	"actor"	0.8333333333333333
@@ -470,16 +570,33 @@ When the ZANU-PF-Movement for Democratic Change national unity government was sw
 32	"the ZANU-PF-Movement"	"for government"	"Change"	1.25
 32	"the ZANU-PF-Movement"	"for"	"Democratic Change national unity government"	1.3333333333333333
 32	"the ZANU-PF-Movement"	"was sworn in on 2009"	"February"	0.6666666666666666
+32	"the ZANU-PF-Movement"	"was sworn in on 2009 February"	"13"	0.6428571428571428
+32	"the ZANU-PF-Movement"	"was sworn in on"	"February 13  2009"	0.7
 32	"Change"	"government for was ZANU-PF-Movement for"	"Democratic Change national unity government"	-0.04999999999999999
 32	"Change"	"government for was sworn in on 2009"	"February"	0.3666666666666667
+32	"Change"	"government for was sworn in on 2009 February"	"13"	0.34285714285714286
+32	"Change"	"government for was sworn in on"	"February 13  2009"	0.4
 32	"Change"	"government for was was"	"Nhema"	0.5333333333333333
 32	"Democratic Change national unity government"	"for was sworn in on 2009"	"February"	0.41666666666666663
+32	"Democratic Change national unity government"	"for was sworn in on 2009 February"	"13"	0.39285714285714285
+32	"Democratic Change national unity government"	"for was sworn in on"	"February 13  2009"	0.45
 32	"Democratic Change national unity government"	"for was was"	"Nhema"	0.5833333333333333
 32	"Democratic Change national unity government"	"for was was included in"	"the Cabinet"	0.45
+32	"February"	"February"	"13"	1.5
+32	"February"	"2009 on in was sworn in on"	"February 13  2009"	0.033333333333333354
 32	"February"	"2009 on in was was"	"Nhema"	0.16666666666666666
 32	"February"	"2009 on in was was included in"	"the Cabinet"	0.033333333333333354
 32	"February"	"2009 on in was ."	"Minister"	0.16666666666666666
 32	"February"	"2009 on in was . of"	"the Environment"	0.08333333333333334
+32	"13"	"February 2009 on in was sworn in on"	"February 13  2009"	0.05714285714285716
+32	"13"	"February 2009 on in was was"	"Nhema"	0.19047619047619047
+32	"13"	"February 2009 on in was was included in"	"the Cabinet"	0.05714285714285716
+32	"13"	"February 2009 on in was ."	"Minister"	0.19047619047619047
+32	"13"	"February 2009 on in was . of"	"the Environment"	0.10714285714285715
+32	"February 13  2009"	"on in was was"	"Nhema"	0.1333333333333333
+32	"February 13  2009"	"on in was was included in"	"the Cabinet"	0.0
+32	"February 13  2009"	"on in was ."	"Minister"	0.1333333333333333
+32	"February 13  2009"	"on in was . of"	"the Environment"	0.04999999999999999
 32	"Nhema"	"was included in"	"the Cabinet"	0.75
 32	"Nhema"	"was ."	"Minister"	0.0
 32	"Nhema"	"was . of"	"the Environment"	-0.08333333333333331
@@ -497,13 +614,26 @@ He was Premier of the Republic of China from 1989 to 1990 , serving for one year
 34	"He"	"was ."	"Premier"	0.8333333333333333
 34	"He"	"was . of China"	"Republic"	0.7
 34	"He"	"was . of"	"the Republic of China"	0.75
+34	"He"	"was . from"	"1989"	0.75
+34	"He"	"was . from to"	"1990"	0.7
 34	"Premier"	". of China"	"Republic"	0.25
 34	"Premier"	". of"	"the Republic of China"	0.16666666666666669
+34	"Premier"	". from"	"1989"	0.16666666666666669
+34	"Premier"	". from to"	"1990"	0.25
 34	"Premier"	". from serving for"	"one year"	0.3
 34	"Republic"	"China of was . of"	"the Republic of China"	0.04999999999999999
+34	"Republic"	"China . from"	"1989"	-0.08333333333333331
+34	"Republic"	"China . from to"	"1990"	0.0
 34	"Republic"	"China . from serving for"	"one year"	0.04999999999999999
+34	"the Republic of China"	". from"	"1989"	0.0
+34	"the Republic of China"	". from to"	"1990"	0.08333333333333331
 34	"the Republic of China"	". from serving for"	"one year"	0.1333333333333333
 34	"the Republic of China"	". from serving under"	"former President Lee Teng-hui"	0.1333333333333333
+34	"1989"	"from to"	"1990"	-0.16666666666666669
+34	"1989"	"from serving for"	"one year"	-0.25
+34	"1989"	"from serving under"	"former President Lee Teng-hui"	-0.25
+34	"1990"	"from serving for"	"one year"	-0.08333333333333331
+34	"1990"	"from serving under"	"former President Lee Teng-hui"	-0.08333333333333331
 34	"one year"	"serving under"	"former President Lee Teng-hui"	0.0
 He made his debut in a Champions League game Fenerbahce-Inter 1-0 . 
 35	"He"	"made"	"his debut"	1.0
@@ -539,16 +669,23 @@ The Islamic Jihad Union IJU , also known as Islamic Jihad Group IJG , is a terro
 After three brain surgeries , she died at the age of 53 in Leusden , The Netherlands , where she had lived during her illness . 
 37	"three brain surgeries"	"died"	"she"	-0.16666666666666669
 37	"three brain surgeries"	"died at"	"the age"	0.6666666666666666
+37	"three brain surgeries"	"died at age of"	"53"	0.5333333333333333
 37	"three brain surgeries"	"died at age in"	"Leusden"	0.5333333333333333
 37	"three brain surgeries"	"died ."	"The Netherlands"	0.6666666666666666
 37	"she"	"died at"	"the age"	0.8333333333333333
+37	"she"	"died at age of"	"53"	0.7
 37	"she"	"died at age in"	"Leusden"	0.7
 37	"she"	"died ."	"The Netherlands"	0.8333333333333333
 37	"she"	"died . had"	"she"	0.75
+37	"the age"	"of"	"53"	1.3333333333333333
 37	"the age"	"in"	"Leusden"	1.3333333333333333
 37	"the age"	"died ."	"The Netherlands"	0.0
 37	"the age"	"died . had"	"she"	-0.08333333333333331
 37	"the age"	"died . had lived during"	"her illness"	-0.16666666666666666
+37	"53"	"age in"	"Leusden"	0.0
+37	"53"	"of age died ."	"The Netherlands"	0.1333333333333333
+37	"53"	"of age died . had"	"she"	0.04999999999999999
+37	"53"	"of age died . had lived during"	"her illness"	-0.033333333333333354
 37	"Leusden"	"in age died ."	"The Netherlands"	0.1333333333333333
 37	"Leusden"	"in age died . had"	"she"	0.04999999999999999
 37	"Leusden"	"in age died . had lived during"	"her illness"	-0.033333333333333354
@@ -557,9 +694,13 @@ After three brain surgeries , she died at the age of 53 in Leusden , The Netherl
 37	"she"	"had lived during"	"her illness"	0.75
 Cadabra has also played for FC Cessange Bracarenses Grund 2001 twice and FC Etzella Ettelbruck in Luxembourg . 
 38	"Cadabra"	"has played for Grund"	"FC Cessange Bracarenses"	0.7
+38	"Cadabra"	"has played for Grund"	"2001"	0.7
 38	"Cadabra"	"has played for Grund twice and"	"FC Etzella Ettelbruck"	0.6428571428571428
+38	"FC Cessange Bracarenses"	"Grund"	"2001"	1.0
 38	"FC Cessange Bracarenses"	"Grund twice and"	"FC Etzella Ettelbruck"	0.75
 38	"FC Cessange Bracarenses"	"Grund in"	"Luxembourg"	0.8333333333333333
+38	"2001"	"Grund twice and"	"FC Etzella Ettelbruck"	-0.25
+38	"2001"	"Grund in"	"Luxembourg"	-0.16666666666666669
 38	"FC Etzella Ettelbruck"	"and Grund in"	"Luxembourg"	0.08333333333333331
 He played the healer Goggins who is a Draenei shaman . 
 39	"He"	"played"	"the healer"	1.0
@@ -582,8 +723,16 @@ For the 2006-07 season , Pace played with the Nelson Giants in the New Zealand N
 These policies were enforced by the police . 
 41	"These policies"	"were enforced by"	"the police"	0.75
 On February 6 , 2008 , the post office in Taft was renamed the " Larry S. Pierce Post Office " in his honor . 
+42	"February"	"February"	"6"	1.5
+42	"February"	"2008 was On"	"February 6  2008"	-0.08333333333333331
 42	"February"	"2008 was"	"the post office"	-0.25
 42	"February"	"2008 was office in"	"Taft"	0.0
+42	"6"	"February 2008 was On"	"February 6  2008"	-0.1333333333333333
+42	"6"	"February 2008 was"	"the post office"	-0.3
+42	"6"	"February 2008 was office in"	"Taft"	-0.04999999999999999
+42	"February 6  2008"	"was"	"the post office"	-0.16666666666666669
+42	"February 6  2008"	"was office in"	"Taft"	0.08333333333333331
+42	"February 6  2008"	"was ."	" Larry S. Pierce Post Office"	0.6666666666666666
 42	"the post office"	"in"	"Taft"	1.3333333333333333
 42	"the post office"	"was ."	" Larry S. Pierce Post Office"	0.8333333333333333
 42	"the post office"	"was . Office in"	"his honor"	0.7
@@ -624,39 +773,43 @@ Kuroki is the only Japanese American known to have participated in air combat mi
 45	"operations"	"of theater in missions participated during"	"the war"	0.19047619047619047
 After his service in the United States Army 1968-1971 , Middleton became the owner and operator of Cedar Hill Farm near Waldorf , Maryland . 
 46	"his service"	"in"	"the United States"	1.3333333333333333
-46	"his service"	"became 1968-1971"	"Army"	0.0
+46	"his service"	"became"	"Army 1968-1971"	-0.16666666666666669
 46	"his service"	"became"	"Middleton"	-0.16666666666666669
 46	"his service"	"became"	"the owner"	0.8333333333333333
 46	"his service"	"became owner and"	"operator"	0.5833333333333333
-46	"the United States"	"in service became 1968-1971"	"Army"	-0.1333333333333333
+46	"the United States"	"in service became"	"Army 1968-1971"	-0.3
 46	"the United States"	"in service became"	"Middleton"	-0.3
 46	"the United States"	"in service became"	"the owner"	0.7
 46	"the United States"	"in service became owner and"	"operator"	0.45
 46	"the United States"	"in service became owner of"	"Cedar Hill Farm"	0.45
 46	"the United States"	"in service became near Maryland"	"Waldorf"	0.45
-46	"Army"	"became"	"Middleton"	-0.16666666666666669
-46	"Army"	"became"	"the owner"	0.8333333333333333
-46	"Army"	"became owner and"	"operator"	0.5833333333333333
-46	"Army"	"became owner of"	"Cedar Hill Farm"	0.5833333333333333
-46	"Army"	"became near Maryland"	"Waldorf"	0.5833333333333333
+46	"Army 1968-1971"	"became"	"Middleton"	0.0
+46	"Army 1968-1971"	"became"	"the owner"	1.0
+46	"Army 1968-1971"	"became owner and"	"operator"	0.75
+46	"Army 1968-1971"	"became owner of"	"Cedar Hill Farm"	0.75
+46	"Army 1968-1971"	"became near Maryland"	"Waldorf"	0.75
+46	"Army 1968-1971"	"became near"	"Waldorf  Maryland"	0.8333333333333333
 46	"Middleton"	"became"	"the owner"	1.0
 46	"Middleton"	"became owner and"	"operator"	0.75
 46	"Middleton"	"became owner of"	"Cedar Hill Farm"	0.75
 46	"Middleton"	"became near Maryland"	"Waldorf"	0.75
-46	"Middleton"	"became near"	"Waldorf , Maryland"	0.8333333333333333
+46	"Middleton"	"became near"	"Waldorf  Maryland"	0.8333333333333333
 46	"the owner"	"and"	"operator"	1.3333333333333333
 46	"the owner"	"of"	"Cedar Hill Farm"	1.3333333333333333
 46	"the owner"	"became near Maryland"	"Waldorf"	-0.25
-46	"the owner"	"became near"	"Waldorf , Maryland"	-0.16666666666666669
+46	"the owner"	"became near"	"Waldorf  Maryland"	-0.16666666666666669
 46	"operator"	"owner of"	"Cedar Hill Farm"	0.0
 46	"operator"	"and became near Maryland"	"Waldorf"	0.0
-46	"operator"	"and became near"	"Waldorf , Maryland"	0.08333333333333331
+46	"operator"	"and became near"	"Waldorf  Maryland"	0.08333333333333331
 46	"Cedar Hill Farm"	"of became near Maryland"	"Waldorf"	0.0
-46	"Cedar Hill Farm"	"of became near"	"Waldorf , Maryland"	0.08333333333333331
-46	"Waldorf"	"Maryland became near"	"Waldorf , Maryland"	0.08333333333333331
+46	"Cedar Hill Farm"	"of became near"	"Waldorf  Maryland"	0.08333333333333331
+46	"Waldorf"	"Maryland became near"	"Waldorf  Maryland"	0.08333333333333331
 " The Candy Trail " is a 1916 silent comedy film featuring Oliver Hardy . 
+47	"The Candy Trail"	"is film"	"1916"	0.8333333333333333
 47	"The Candy Trail"	"is"	"a 1916 silent comedy film"	1.0
 47	"The Candy Trail"	"is film featuring"	"Oliver Hardy"	0.75
+47	"1916"	"film . is"	"a 1916 silent comedy film"	-0.08333333333333331
+47	"1916"	"film featuring"	"Oliver Hardy"	0.8333333333333333
 47	"a 1916 silent comedy film"	"featuring"	"Oliver Hardy"	1.3333333333333333
 Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria Bueno better known as Ana Rosetti , Gabriel was born in San Fernando , Cadiz , but spent her childhood in Madrid . 
 48	"Daughter"	"of"	"the actor"	1.3333333333333333
@@ -685,20 +838,20 @@ Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria Bu
 48	"Ana Maria Bueno"	"writer and actress Abellan known as"	"Ana Rosetti"	0.08333333333333334
 48	"Ana Maria Bueno"	"writer and actress and Abellan actor of was"	"Gabriel"	-0.4
 48	"Ana Maria Bueno"	"writer and actress and Abellan actor of was born in Cadiz"	"San Fernando"	0.30000000000000004
-48	"Ana Maria Bueno"	"writer and actress and Abellan actor of was born in"	"San Fernando , Cadiz"	0.35
+48	"Ana Maria Bueno"	"writer and actress and Abellan actor of was born in"	"San Fernando  Cadiz"	0.35
 48	"Ana Rosetti"	"as known Abellan actor of was"	"Gabriel"	-0.375
 48	"Ana Rosetti"	"as known Abellan actor of was born in Cadiz"	"San Fernando"	0.325
-48	"Ana Rosetti"	"as known Abellan actor of was born in"	"San Fernando , Cadiz"	0.375
+48	"Ana Rosetti"	"as known Abellan actor of was born in"	"San Fernando  Cadiz"	0.375
 48	"Ana Rosetti"	"as known Abellan actor of was but spent"	"her childhood"	0.375
 48	"Gabriel"	"was born in Cadiz"	"San Fernando"	0.7
-48	"Gabriel"	"was born in"	"San Fernando , Cadiz"	0.75
+48	"Gabriel"	"was born in"	"San Fernando  Cadiz"	0.75
 48	"Gabriel"	"was but spent"	"her childhood"	0.75
 48	"Gabriel"	"was but spent childhood in"	"Madrid"	0.6666666666666666
-48	"San Fernando"	"Cadiz in was born in"	"San Fernando , Cadiz"	0.04999999999999999
+48	"San Fernando"	"Cadiz in was born in"	"San Fernando  Cadiz"	0.04999999999999999
 48	"San Fernando"	"Cadiz in was but spent"	"her childhood"	0.04999999999999999
 48	"San Fernando"	"Cadiz in was but spent childhood in"	"Madrid"	-0.033333333333333354
-48	"San Fernando , Cadiz"	"in was but spent"	"her childhood"	0.0
-48	"San Fernando , Cadiz"	"in was but spent childhood in"	"Madrid"	-0.08333333333333334
+48	"San Fernando  Cadiz"	"in was but spent"	"her childhood"	0.0
+48	"San Fernando  Cadiz"	"in was but spent childhood in"	"Madrid"	-0.08333333333333334
 48	"her childhood"	"in"	"Madrid"	1.3333333333333333
 He was made an Officer of the Order of Australia in the Australia Day honours of 2003 , for service to the Australian Labor Party and to politics through the introduction of modern campaign techniques , fundraising protocols for all political parties , affirmative action guidelines , and by strengthening the party 's organisational and financial structure . 
 49	"He"	"was ."	"Officer"	0.8333333333333333
@@ -708,16 +861,24 @@ He was made an Officer of the Order of Australia in the Australia Day honours of
 49	"Officer"	". of"	"the Order"	0.16666666666666669
 49	"Officer"	". of Order of"	"Australia"	0.3
 49	"Officer"	". of Order in"	"the Australia Day honours"	0.3
+49	"Officer"	". of Order in honours of"	"2003"	0.35714285714285715
 49	"Officer"	". to for"	"service"	0.25
 49	"the Order"	"of"	"Australia"	1.3333333333333333
 49	"the Order"	"in"	"the Australia Day honours"	1.3333333333333333
+49	"the Order"	"in honours of"	"2003"	1.2
 49	"the Order"	". to for"	"service"	0.08333333333333331
 49	"Australia"	"Order in"	"the Australia Day honours"	0.0
+49	"Australia"	"Order in honours of"	"2003"	-0.1333333333333333
 49	"Australia"	"of Order . to for"	"service"	-0.04999999999999999
 49	"Australia"	"of Order . to"	"the Australian Labor Party"	-0.1333333333333333
+49	"the Australia Day honours"	"of"	"2003"	1.3333333333333333
 49	"the Australia Day honours"	"in Order . to for"	"service"	-0.04999999999999999
 49	"the Australia Day honours"	"in Order . to"	"the Australian Labor Party"	-0.1333333333333333
 49	"the Australia Day honours"	"in Order . to and to"	"politics"	0.0
+49	"2003"	"of honours in Order . to for"	"service"	-0.10714285714285715
+49	"2003"	"of honours in Order . to"	"the Australian Labor Party"	-0.19047619047619047
+49	"2003"	"of honours in Order . to and to"	"politics"	-0.05714285714285716
+49	"2003"	"of honours in Order . through"	"the introduction"	-0.19047619047619047
 49	"service"	"to"	"the Australian Labor Party"	0.8333333333333333
 49	"service"	"to and to"	"politics"	0.5833333333333333
 49	"service"	"for . through"	"the introduction"	-0.08333333333333331
@@ -733,18 +894,18 @@ He was made an Officer of the Order of Australia in the Australia Day honours of
 49	"the introduction"	"of"	"modern campaign techniques"	1.3333333333333333
 49	"the introduction"	". guidelines"	"fundraising protocols"	0.0
 49	"the introduction"	". guidelines protocols for"	"all political parties"	0.1333333333333333
-49	"the introduction"	"."	"fundraising protocols for all political parties , affirmative action guidelines"	-0.16666666666666669
+49	"the introduction"	"."	"fundraising protocols for all political parties  affirmative action guidelines"	-0.16666666666666669
 49	"modern campaign techniques"	"of introduction . guidelines"	"fundraising protocols"	-0.1333333333333333
 49	"modern campaign techniques"	"of introduction . guidelines protocols for"	"all political parties"	0.0
-49	"modern campaign techniques"	"of introduction ."	"fundraising protocols for all political parties , affirmative action guidelines"	-0.3
+49	"modern campaign techniques"	"of introduction ."	"fundraising protocols for all political parties  affirmative action guidelines"	-0.3
 49	"fundraising protocols"	"for"	"all political parties"	1.3333333333333333
-49	"fundraising protocols"	"guidelines was ."	"fundraising protocols for all political parties , affirmative action guidelines"	0.08333333333333331
+49	"fundraising protocols"	"guidelines was ."	"fundraising protocols for all political parties  affirmative action guidelines"	0.08333333333333331
 49	"fundraising protocols"	". by strengthening structure"	"the party"	0.1333333333333333
-49	"all political parties"	"for protocols guidelines was ."	"fundraising protocols for all political parties , affirmative action guidelines"	0.16666666666666666
+49	"all political parties"	"for protocols guidelines was ."	"fundraising protocols for all political parties  affirmative action guidelines"	0.16666666666666666
 49	"all political parties"	"for protocols . by strengthening structure"	"the party"	0.0
 49	"all political parties"	"for protocols . by strengthening"	"the party 's organisational and financial structure"	-0.04999999999999999
-49	"fundraising protocols for all political parties , affirmative action guidelines"	". by strengthening structure"	"the party"	0.3
-49	"fundraising protocols for all political parties , affirmative action guidelines"	". by strengthening"	"the party 's organisational and financial structure"	0.25
+49	"fundraising protocols for all political parties  affirmative action guidelines"	". by strengthening structure"	"the party"	0.3
+49	"fundraising protocols for all political parties  affirmative action guidelines"	". by strengthening"	"the party 's organisational and financial structure"	0.25
 49	"the party"	"structure strengthening by was . by strengthening"	"the party 's organisational and financial structure"	0.033333333333333354
 Dissatisfaction with progress and lack of resettlement of refugees caused the CNDP forces to declare war on the FDLR and hostilities to resume , including civilian atrocities . 
 50	"Dissatisfaction"	"with"	"progress"	1.3333333333333333
@@ -828,18 +989,27 @@ Since the British also knew that by law the fleet could only land at Cadiz , as 
 Tomkins made his Premier League debut on 22 March 2008 in a 1-1 draw away to Everton . 
 53	"Tomkins"	"made debut"	"his"	0.8333333333333333
 53	"Tomkins"	"made"	"his Premier League debut"	1.0
-53	"Tomkins"	"made on 2008"	"March"	0.75
+53	"Tomkins"	"made on"	"22 March 2008"	0.8333333333333333
+53	"Tomkins"	"made in draw"	"1-1"	0.75
 53	"his"	"made"	"his Premier League debut"	0.16666666666666669
-53	"his"	"made on 2008"	"March"	-0.08333333333333331
+53	"his"	"made on"	"22 March 2008"	0.0
+53	"his"	"made in draw"	"1-1"	-0.08333333333333331
 53	"his"	"made in draw to"	"Everton"	-0.1333333333333333
-53	"his Premier League debut"	"made on 2008"	"March"	-0.25
+53	"his Premier League debut"	"made on"	"22 March 2008"	-0.16666666666666669
+53	"his Premier League debut"	"made in draw"	"1-1"	-0.25
 53	"his Premier League debut"	"made in draw to"	"Everton"	-0.3
-53	"March"	"2008 made in draw to"	"Everton"	-0.04999999999999999
+53	"22 March 2008"	"made in draw"	"1-1"	-0.08333333333333331
+53	"22 March 2008"	"made in draw to"	"Everton"	-0.1333333333333333
+53	"1-1"	"draw to"	"Everton"	0.8333333333333333
 He then went on to work for Cisco Systems , one of the world 's largest high-tech businesses . 
 54	"He"	"went to work for"	"Cisco Systems"	0.7
+54	"He"	"went to work"	"one"	0.75
 54	"He"	"went to work one of businesses"	"the world"	0.6428571428571428
+54	"Cisco Systems"	"work"	"one"	0.16666666666666669
 54	"Cisco Systems"	"work one of businesses"	"the world"	-0.1333333333333333
 54	"Cisco Systems"	"work one of"	"the world 's largest high-tech businesses"	-0.08333333333333331
+54	"one"	"of businesses"	"the world"	1.25
+54	"one"	"of"	"the world 's largest high-tech businesses"	1.3333333333333333
 54	"the world"	"businesses of one work went to work one of"	"the world 's largest high-tech businesses"	0.023809523809523808
 He fathered two children , Edna and Donald , and lived in Aberdeen until his death from tuberculosis in 1942. 
 55	"He"	"fathered"	"two children"	1.0
@@ -856,29 +1026,51 @@ He fathered two children , Edna and Donald , and lived in Aberdeen until his dea
 55	"Edna"	"fathered and lived in"	"Aberdeen"	-0.1333333333333333
 55	"Edna"	"fathered until"	"his death"	0.0
 55	"Edna"	"fathered until death from"	"tuberculosis"	-0.1333333333333333
+55	"Edna"	"fathered until death in"	"1942."	-0.1333333333333333
 55	"Donald"	"and Edna fathered and lived in"	"Aberdeen"	0.0
 55	"Donald"	"and Edna fathered until"	"his death"	0.1333333333333333
 55	"Donald"	"and Edna fathered until death from"	"tuberculosis"	0.0
+55	"Donald"	"and Edna fathered until death in"	"1942."	0.0
 55	"Aberdeen"	"in lived fathered until"	"his death"	0.1333333333333333
 55	"Aberdeen"	"in lived fathered until death from"	"tuberculosis"	0.0
+55	"Aberdeen"	"in lived fathered until death in"	"1942."	0.0
 55	"his death"	"from"	"tuberculosis"	1.3333333333333333
+55	"his death"	"in"	"1942."	1.3333333333333333
+55	"tuberculosis"	"death in"	"1942."	0.0
 A Great-Great Grandson was Robert Norton Noyce 1927 - 1990 , nicknamed " the Mayor of Silicon Valley " , co-founder of Fairchild Semiconductor in 1957 and Intel in 1968. 
-56	"A Great-Great Grandson"	"was 1990"	"Robert Norton Noyce"	0.8333333333333333
+56	"A Great-Great Grandson"	"was 1990"	"1927"	0.8333333333333333
+56	"A Great-Great Grandson"	"was"	"Robert Norton Noyce 1927 - 1990"	1.0
 56	"A Great-Great Grandson"	"was Valley"	"Mayor"	0.8333333333333333
 56	"A Great-Great Grandson"	"was"	"Mayor of Silicon Valley"	1.0
-56	"Robert Norton Noyce"	"was Valley"	"Mayor"	0.0
-56	"Robert Norton Noyce"	"was"	"Mayor of Silicon Valley"	0.16666666666666669
-56	"Robert Norton Noyce"	"was Valley"	"co-founder"	0.0
+56	"1927"	"was"	"Robert Norton Noyce 1927 - 1990"	0.16666666666666669
+56	"1927"	"was Valley"	"Mayor"	0.0
+56	"1927"	"was"	"Mayor of Silicon Valley"	0.16666666666666669
+56	"1927"	"was Valley"	"co-founder"	0.0
+56	"Robert Norton Noyce 1927 - 1990"	"was Valley"	"Mayor"	-0.16666666666666669
+56	"Robert Norton Noyce 1927 - 1990"	"was"	"Mayor of Silicon Valley"	0.0
+56	"Robert Norton Noyce 1927 - 1990"	"was Valley"	"co-founder"	-0.16666666666666669
+56	"Robert Norton Noyce 1927 - 1990"	"was Valley co-founder of"	"Fairchild Semiconductor"	-0.3
 56	"Mayor"	"was"	"Mayor of Silicon Valley"	0.16666666666666669
 56	"Mayor"	"Valley"	"co-founder"	1.0
 56	"Mayor"	"Valley co-founder of"	"Fairchild Semiconductor"	0.75
+56	"Mayor"	"was in in"	"1957"	-0.08333333333333331
 56	"Mayor"	"was in in 1957 and"	"Intel"	-0.16666666666666666
+56	"Mayor"	"was in"	"1968."	0.0
 56	"Mayor of Silicon Valley"	"Valley"	"co-founder"	1.5
 56	"Mayor of Silicon Valley"	"co-founder of"	"Fairchild Semiconductor"	1.25
+56	"Mayor of Silicon Valley"	"was in in"	"1957"	-0.25
 56	"Mayor of Silicon Valley"	"was in in 1957 and"	"Intel"	-0.33333333333333337
+56	"Mayor of Silicon Valley"	"was in"	"1968."	-0.16666666666666669
 56	"co-founder"	"of"	"Fairchild Semiconductor"	1.3333333333333333
+56	"co-founder"	"was in in"	"1957"	-0.08333333333333331
 56	"co-founder"	"was in in 1957 and"	"Intel"	-0.16666666666666666
+56	"co-founder"	"was in"	"1968."	0.0
+56	"Fairchild Semiconductor"	"of co-founder was in in"	"1957"	0.04999999999999999
 56	"Fairchild Semiconductor"	"of co-founder was in in 1957 and"	"Intel"	-0.033333333333333354
+56	"Fairchild Semiconductor"	"of co-founder was in"	"1968."	0.1333333333333333
+56	"1957"	"and"	"Intel"	1.3333333333333333
+56	"1957"	"in"	"1968."	0.8333333333333333
+56	"Intel"	"and 1957 in"	"1968."	0.7
 After learning to play from her mother and continuing as a music student in local schools , Alice was accepted as a student of Carlos Salzedo at the Curtis Institute of Music in Philadelphia , Pennsylvania . 
 57	"her mother"	"from and continuing as"	"a music student"	-0.3
 57	"her mother"	"from and continuing as student in"	"local schools"	-0.35714285714285715
@@ -899,17 +1091,17 @@ After learning to play from her mother and continuing as a music student in loca
 57	"a student"	"at of"	"the Curtis Institute"	1.25
 57	"a student"	"at of"	"Music"	1.25
 57	"a student"	"at of in Pennsylvania"	"Philadelphia"	1.1666666666666667
-57	"a student"	"at of in"	"Philadelphia , Pennsylvania"	1.2
+57	"a student"	"at of in"	"Philadelphia  Pennsylvania"	1.2
 57	"Carlos Salzedo"	"student at of"	"the Curtis Institute"	-0.08333333333333331
 57	"Carlos Salzedo"	"student at of"	"Music"	-0.08333333333333331
 57	"Carlos Salzedo"	"student at of in Pennsylvania"	"Philadelphia"	-0.16666666666666666
-57	"Carlos Salzedo"	"student at of in"	"Philadelphia , Pennsylvania"	-0.1333333333333333
+57	"Carlos Salzedo"	"student at of in"	"Philadelphia  Pennsylvania"	-0.1333333333333333
 57	"the Curtis Institute"	"of"	"Music"	1.0
 57	"the Curtis Institute"	"of in Pennsylvania"	"Philadelphia"	0.75
-57	"the Curtis Institute"	"of in"	"Philadelphia , Pennsylvania"	0.8333333333333333
+57	"the Curtis Institute"	"of in"	"Philadelphia  Pennsylvania"	0.8333333333333333
 57	"Music"	"of in Pennsylvania"	"Philadelphia"	-0.25
-57	"Music"	"of in"	"Philadelphia , Pennsylvania"	-0.16666666666666669
-57	"Philadelphia"	"Pennsylvania in of at student as was accepted as student at of in"	"Philadelphia , Pennsylvania"	0.013888888888888895
+57	"Music"	"of in"	"Philadelphia  Pennsylvania"	-0.16666666666666669
+57	"Philadelphia"	"Pennsylvania in of at student as was accepted as student at of in"	"Philadelphia  Pennsylvania"	0.013888888888888895
 This article includes attacks on continental territory extending 200 miles into the ocean which is today under the sovereignty of the United States , Canada and Mexico but excludes military action involving the Danish territory of Greenland and the Caribbean . 
 58	"This article"	"includes"	"attacks"	1.0
 58	"This article"	"includes attacks on"	"continental territory"	0.75
@@ -1029,30 +1221,30 @@ He also did the voice of Tommy in the action game " Prey " .
 62	"Tommy"	"of did ."	"Prey"	0.08333333333333331
 62	"the action game"	"did ."	"Prey"	0.0
 The film was first shown on 18 July 2009 in Montreal at the Fantasia Festival . 
-63	"The film"	"was shown on 2009"	"July"	0.7
+63	"The film"	"was shown on"	"18 July 2009"	0.75
 63	"The film"	"was shown on 2009 in"	"Montreal"	0.6666666666666666
 63	"The film"	"was shown at"	"the Fantasia Festival"	0.75
-63	"July"	"2009 in"	"Montreal"	0.8333333333333333
-63	"July"	"2009 shown at"	"the Fantasia Festival"	0.08333333333333331
+63	"18 July 2009"	"in"	"Montreal"	1.3333333333333333
+63	"18 July 2009"	"shown at"	"the Fantasia Festival"	0.0
 63	"Montreal"	"in 2009 shown at"	"the Fantasia Festival"	0.1333333333333333
 The foundations of the University of the Aegean date back to October 1918 when Greece had expanded its geographic borders to the wider Smyrna area after the World War I. 
 64	"The foundations"	"of had"	"University"	1.25
 64	"The foundations"	"of had University of"	"the Aegean date"	1.1666666666666667
-64	"The foundations"	"of had to 1918"	"October"	1.1666666666666667
+64	"The foundations"	"of had to"	"October 1918"	1.2
 64	"The foundations"	"of had"	"Greece"	1.25
 64	"University"	"of"	"the Aegean date"	1.3333333333333333
-64	"University"	"had to 1918"	"October"	0.25
+64	"University"	"had to"	"October 1918"	0.16666666666666669
 64	"University"	"had"	"Greece"	0.0
 64	"University"	"had expanded borders"	"its"	0.75
 64	"University"	"had expanded"	"its geographic borders"	0.8333333333333333
-64	"the Aegean date"	"of had to 1918"	"October"	0.0
+64	"the Aegean date"	"of had to"	"October 1918"	-0.08333333333333331
 64	"the Aegean date"	"of had"	"Greece"	-0.25
 64	"the Aegean date"	"of had expanded borders"	"its"	0.5
 64	"the Aegean date"	"of had expanded"	"its geographic borders"	0.5833333333333333
-64	"October"	"1918 had"	"Greece"	-0.25
-64	"October"	"1918 had expanded borders"	"its"	0.5
-64	"October"	"1918 had expanded"	"its geographic borders"	0.5833333333333333
-64	"October"	"1918 had expanded to"	"the wider Smyrna area"	0.5
+64	"October 1918"	"had"	"Greece"	-0.16666666666666669
+64	"October 1918"	"had expanded borders"	"its"	0.5833333333333333
+64	"October 1918"	"had expanded"	"its geographic borders"	0.6666666666666666
+64	"October 1918"	"had expanded to"	"the wider Smyrna area"	0.5833333333333333
 64	"Greece"	"had expanded borders"	"its"	0.75
 64	"Greece"	"had expanded"	"its geographic borders"	0.8333333333333333
 64	"Greece"	"had expanded to"	"the wider Smyrna area"	0.75
@@ -1125,24 +1317,58 @@ Finklea began his medical career as a physician and a professor at a series of m
 It was later broadcast on NBC on February 26 , 2009 and is now available as a separate DVD as of March 24 , 2009 , It also the televison premiere for Nickelodeon on March 6 , 2011. 
 69	"It"	"was broadcast on"	"NBC"	0.75
 69	"It"	"was broadcast on 2009"	"February"	0.7
+69	"It"	"was broadcast on 2009 February"	"26"	0.6666666666666666
+69	"It"	"was broadcast on"	"February 26  2009"	0.75
 69	"NBC"	"broadcast on 2009"	"February"	-0.08333333333333331
+69	"NBC"	"broadcast on 2009 February"	"26"	-0.1333333333333333
+69	"NBC"	"broadcast on"	"February 26  2009"	0.0
 69	"NBC"	"on was and is available as"	"a separate DVD"	-0.08333333333333334
+69	"February"	"February"	"26"	1.5
+69	"February"	"2009 on was broadcast on"	"February 26  2009"	0.04999999999999999
 69	"February"	"2009 on was and is available as"	"a separate DVD"	-0.033333333333333354
 69	"February"	"2009 on was as of 2009"	"March"	0.0
+69	"February"	"2009 on was as of 2009 March"	"24"	-0.033333333333333354
+69	"26"	"February 2009 on was broadcast on"	"February 26  2009"	0.08333333333333334
+69	"26"	"February 2009 on was and is available as"	"a separate DVD"	0.0
+69	"26"	"February 2009 on was as of 2009"	"March"	0.033333333333333354
+69	"26"	"February 2009 on was as of 2009 March"	"24"	0.0
+69	"February 26  2009"	"on was and is available as"	"a separate DVD"	-0.08333333333333334
+69	"February 26  2009"	"on was as of 2009"	"March"	-0.04999999999999999
+69	"February 26  2009"	"on was as of 2009 March"	"24"	-0.08333333333333334
+69	"February 26  2009"	"on was as of"	"March 24  2009"	0.0
 69	"a separate DVD"	"as available is was as of 2009"	"March"	0.033333333333333354
+69	"a separate DVD"	"as available is was as of 2009 March"	"24"	0.0
+69	"a separate DVD"	"as available is was as of"	"March 24  2009"	0.08333333333333334
 69	"a separate DVD"	"as available is was premiere"	"It"	0.16666666666666666
 69	"a separate DVD"	"as available is was"	"It also the televison premiere"	0.33333333333333337
 69	"a separate DVD"	"as available is was premiere for"	"Nickelodeon"	0.08333333333333334
+69	"March"	"March"	"24"	1.5
+69	"March"	"2009 of was as of"	"March 24  2009"	0.04999999999999999
 69	"March"	"2009 of was premiere"	"It"	0.1333333333333333
 69	"March"	"2009 of was"	"It also the televison premiere"	0.3
 69	"March"	"2009 of was premiere for"	"Nickelodeon"	0.04999999999999999
-69	"March"	"2009 of was premiere on 6"	"March"	0.0
+69	"March"	"2009 of was premiere on"	"March 6"	0.04999999999999999
+69	"24"	"March 2009 of was as of"	"March 24  2009"	0.08333333333333334
+69	"24"	"March 2009 of was premiere"	"It"	0.16666666666666666
+69	"24"	"March 2009 of was"	"It also the televison premiere"	0.33333333333333337
+69	"24"	"March 2009 of was premiere for"	"Nickelodeon"	0.08333333333333334
+69	"24"	"March 2009 of was premiere on"	"March 6"	0.08333333333333334
+69	"24"	"March 2009 of was premiere on 6"	"2011."	0.033333333333333354
+69	"March 24  2009"	"of was premiere"	"It"	0.08333333333333331
+69	"March 24  2009"	"of was"	"It also the televison premiere"	0.25
+69	"March 24  2009"	"of was premiere for"	"Nickelodeon"	0.0
+69	"March 24  2009"	"of was premiere on"	"March 6"	0.0
+69	"March 24  2009"	"of was premiere on 6"	"2011."	-0.04999999999999999
 69	"It"	"was"	"It also the televison premiere"	0.16666666666666669
 69	"It"	"premiere for"	"Nickelodeon"	0.8333333333333333
-69	"It"	"premiere on 6"	"March"	0.75
+69	"It"	"premiere on"	"March 6"	0.8333333333333333
+69	"It"	"premiere on 6"	"2011."	0.75
 69	"It also the televison premiere"	"for"	"Nickelodeon"	1.3333333333333333
-69	"It also the televison premiere"	"on 6"	"March"	1.25
-69	"Nickelodeon"	"premiere on 6"	"March"	-0.08333333333333331
+69	"It also the televison premiere"	"on"	"March 6"	1.3333333333333333
+69	"It also the televison premiere"	"on 6"	"2011."	1.25
+69	"Nickelodeon"	"premiere on"	"March 6"	0.0
+69	"Nickelodeon"	"premiere on 6"	"2011."	-0.08333333333333331
+69	"March 6"	"6"	"2011."	1.5
 They are adamant on finding out the truth about her . 
 70	"They"	"are adamant on finding"	"the truth"	0.7
 70	"They"	"are adamant on finding truth about"	"her"	0.6428571428571428
@@ -1216,17 +1442,24 @@ He has represented parts of the city of Rutland in the Vermont House of Represen
 74	"parts"	"of city of"	"Rutland"	1.2
 74	"parts"	"of city in"	"the Vermont House"	1.2
 74	"parts"	"of city in House of"	"Representatives"	1.1428571428571428
+74	"parts"	"represented since"	"2005"	-0.16666666666666669
 74	"the city"	"of"	"Rutland"	1.3333333333333333
 74	"the city"	"in"	"the Vermont House"	1.3333333333333333
 74	"the city"	"in House of"	"Representatives"	1.2
+74	"the city"	"of represented since"	"2005"	0.08333333333333331
 74	"Rutland"	"city in"	"the Vermont House"	0.0
 74	"Rutland"	"city in House of"	"Representatives"	-0.1333333333333333
+74	"Rutland"	"of city of represented since"	"2005"	0.16666666666666666
 74	"Rutland"	"of city of parts has and had served"	"four terms"	0.05714285714285716
 74	"the Vermont House"	"of"	"Representatives"	1.3333333333333333
+74	"the Vermont House"	"in city of represented since"	"2005"	0.16666666666666666
 74	"the Vermont House"	"in city of parts has and had served"	"four terms"	0.05714285714285716
 74	"the Vermont House"	"in city of parts has and had served terms in"	"the House"	0.0
+74	"Representatives"	"of House in city of represented since"	"2005"	0.20833333333333331
 74	"Representatives"	"of House in city of parts has and had served"	"four terms"	0.0888888888888889
 74	"Representatives"	"of House in city of parts has and had served terms in"	"the House"	0.031746031746031744
+74	"2005"	"since has and had served"	"four terms"	-0.04999999999999999
+74	"2005"	"since has and had served terms in"	"the House"	-0.10714285714285715
 74	"four terms"	"in"	"the House"	1.3333333333333333
 According to gay film historian Vito Russo in his book The Celluloid Closet , co-star Michael Greer , who played the flamboyantly gay Malcolm and who was himself gay , tried to work with the screenwriter and director to minimize the negativity of the characterization and present Malcolm in a positive light . 
 75	"gay film historian"	"historian"	"Vito Russo"	1.5
@@ -1279,6 +1512,11 @@ According to gay film historian Vito Russo in his book The Celluloid Closet , co
 75	"the characterization"	"of minimize in"	"a positive light"	0.08333333333333331
 75	"present Malcolm"	"and characterization of minimize in"	"a positive light"	0.16666666666666666
 In 2009 , Hobbs acquired the role of top gymnast , Emily Kmetko , in ABC Family 's " Make It or Break It " . 
+76	"2009"	"acquired"	"Hobbs"	-0.16666666666666669
+76	"2009"	"acquired"	"the role"	0.8333333333333333
+76	"2009"	"acquired role of"	"top gymnast"	0.5833333333333333
+76	"2009"	"acquired role of gymnast"	"Emily Kmetko"	0.5333333333333333
+76	"2009"	"acquired role of gymnast in Make"	"ABC Family"	0.47619047619047616
 76	"Hobbs"	"acquired"	"the role"	1.0
 76	"Hobbs"	"acquired role of"	"top gymnast"	0.75
 76	"Hobbs"	"acquired role of gymnast"	"Emily Kmetko"	0.7
@@ -1299,12 +1537,18 @@ In 2009 , Hobbs acquired the role of top gymnast , Emily Kmetko , in ABC Family 
 76	"It"	"Make or Break"	"It"	-0.25
 Mya Than Tint entered Rangoon University in 1948 , the year Burma gained independence from Great Britain , and received a degree in philosophy , political science and English literature . 
 77	"Mya Than Tint"	"entered"	"Rangoon University"	1.0
+77	"Mya Than Tint"	"entered in"	"1948"	0.8333333333333333
 77	"Mya Than Tint"	"entered gained"	"Burma"	0.8333333333333333
 77	"Mya Than Tint"	"entered gained"	"independence"	0.8333333333333333
 77	"Mya Than Tint"	"entered gained from"	"Great Britain"	0.75
+77	"Rangoon University"	"entered in"	"1948"	-0.16666666666666669
 77	"Rangoon University"	"entered gained"	"Burma"	-0.16666666666666669
 77	"Rangoon University"	"entered gained"	"independence"	-0.16666666666666669
 77	"Rangoon University"	"entered gained from"	"Great Britain"	-0.25
+77	"1948"	"entered gained"	"Burma"	0.0
+77	"1948"	"entered gained"	"independence"	0.0
+77	"1948"	"entered gained from"	"Great Britain"	-0.08333333333333331
+77	"1948"	"entered and received"	"a degree"	-0.08333333333333331
 77	"Burma"	"gained"	"independence"	1.0
 77	"Burma"	"gained from"	"Great Britain"	0.8333333333333333
 77	"Burma"	"entered and received"	"a degree"	-0.08333333333333331
@@ -1335,12 +1579,25 @@ He trained with the club for one month before being waived on March 1 , 2011 , p
 79	"He"	"trained with"	"the club"	0.8333333333333333
 79	"He"	"trained with club for"	"one month"	0.7
 79	"He"	"trained before being waived on 2011"	"March"	0.6428571428571428
+79	"He"	"trained before being waived on 2011 March"	"1"	0.625
+79	"He"	"trained before being waived on"	"March 1  2011"	0.6666666666666666
 79	"the club"	"for"	"one month"	1.3333333333333333
 79	"the club"	"trained before being waived on 2011"	"March"	-0.19047619047619047
+79	"the club"	"trained before being waived on 2011 March"	"1"	-0.20833333333333331
+79	"the club"	"trained before being waived on"	"March 1  2011"	-0.16666666666666666
 79	"one month"	"for club trained before being waived on 2011"	"March"	-0.05714285714285716
+79	"one month"	"for club trained before being waived on 2011 March"	"1"	-0.07500000000000001
+79	"one month"	"for club trained before being waived on"	"March 1  2011"	-0.033333333333333354
 79	"one month"	"for club trained to"	"the start"	0.1333333333333333
+79	"March"	"March"	"1"	1.5
+79	"March"	"2011 on waived being trained before being waived on"	"March 1  2011"	0.023809523809523808
 79	"March"	"2011 on waived being trained to"	"the start"	0.19047619047619047
 79	"March"	"2011 on waived being trained to start of"	"the MLS season"	0.05714285714285716
+79	"1"	"March 2011 on waived being trained before being waived on"	"March 1  2011"	0.04166666666666666
+79	"1"	"March 2011 on waived being trained to"	"the start"	0.20833333333333331
+79	"1"	"March 2011 on waived being trained to start of"	"the MLS season"	0.07500000000000001
+79	"March 1  2011"	"on waived being trained to"	"the start"	0.16666666666666666
+79	"March 1  2011"	"on waived being trained to start of"	"the MLS season"	0.033333333333333354
 79	"the start"	"of"	"the MLS season"	1.3333333333333333
 The twisted creations of two cartoonists come to life in this tongue-in-cheek low budget schlocker . 
 80	"The twisted creations"	"of"	"two cartoonists"	1.3333333333333333
@@ -1361,29 +1618,29 @@ Dawson began his career as an English teacher at Southern University in Baton Ro
 82	"Dawson"	"began as"	"an English teacher"	0.8333333333333333
 82	"Dawson"	"began as teacher at"	"Southern University"	0.7
 82	"Dawson"	"began as teacher at University in Louisiana"	"Baton Rouge"	0.625
-82	"Dawson"	"began as teacher at University in"	"Baton Rouge , Louisiana"	0.6428571428571428
+82	"Dawson"	"began as teacher at University in"	"Baton Rouge  Louisiana"	0.6428571428571428
 82	"his career"	"began as"	"an English teacher"	-0.16666666666666669
 82	"his career"	"began as teacher at"	"Southern University"	-0.3
 82	"his career"	"began as teacher at University in Louisiana"	"Baton Rouge"	-0.375
-82	"his career"	"began as teacher at University in"	"Baton Rouge , Louisiana"	-0.35714285714285715
+82	"his career"	"began as teacher at University in"	"Baton Rouge  Louisiana"	-0.35714285714285715
 82	"his career"	"began as teacher at University in Louisiana remained"	"he"	-0.3888888888888889
 82	"an English teacher"	"at"	"Southern University"	1.3333333333333333
 82	"an English teacher"	"at University in Louisiana"	"Baton Rouge"	1.1666666666666667
-82	"an English teacher"	"at University in"	"Baton Rouge , Louisiana"	1.2
+82	"an English teacher"	"at University in"	"Baton Rouge  Louisiana"	1.2
 82	"an English teacher"	"at University in Louisiana remained"	"he"	1.1428571428571428
 82	"an English teacher"	"at University in Louisiana remained"	"three years"	1.1428571428571428
 82	"Southern University"	"in Louisiana"	"Baton Rouge"	1.25
-82	"Southern University"	"in"	"Baton Rouge , Louisiana"	1.3333333333333333
+82	"Southern University"	"in"	"Baton Rouge  Louisiana"	1.3333333333333333
 82	"Southern University"	"in Louisiana remained"	"he"	1.2
 82	"Southern University"	"in Louisiana remained"	"three years"	1.2
 82	"Southern University"	"in Louisiana remained after earning"	"his M.A."	1.1428571428571428
-82	"Baton Rouge"	"Louisiana in University at teacher began as teacher at University in"	"Baton Rouge , Louisiana"	0.01785714285714285
+82	"Baton Rouge"	"Louisiana in University at teacher began as teacher at University in"	"Baton Rouge  Louisiana"	0.01785714285714285
 82	"Baton Rouge"	"Louisiana remained"	"he"	0.8333333333333333
 82	"Baton Rouge"	"Louisiana remained"	"three years"	0.8333333333333333
 82	"Baton Rouge"	"Louisiana remained after earning"	"his M.A."	0.7
-82	"Baton Rouge , Louisiana"	"remained"	"he"	1.3333333333333333
-82	"Baton Rouge , Louisiana"	"remained"	"three years"	1.3333333333333333
-82	"Baton Rouge , Louisiana"	"remained after earning"	"his M.A."	1.2
+82	"Baton Rouge  Louisiana"	"remained"	"he"	1.3333333333333333
+82	"Baton Rouge  Louisiana"	"remained"	"three years"	1.3333333333333333
+82	"Baton Rouge  Louisiana"	"remained after earning"	"his M.A."	1.2
 82	"he"	"remained"	"three years"	1.0
 82	"he"	"remained after earning"	"his M.A."	0.75
 82	"three years"	"remained after earning"	"his M.A."	-0.25
@@ -1438,30 +1695,57 @@ Langley became the first President of the General Union of Railway Clerks in 189
 86	"Langley"	"became ."	"President"	0.8333333333333333
 86	"Langley"	"became . of"	"the General Union"	0.75
 86	"Langley"	"became . of Union of"	"Railway Clerks"	0.6666666666666666
+86	"Langley"	"became . in"	"1897"	0.75
 86	"President"	". of"	"the General Union"	0.16666666666666669
 86	"President"	". of Union of"	"Railway Clerks"	0.3
+86	"President"	". in"	"1897"	0.16666666666666669
 86	"President"	". in although resigned"	"he"	0.3
 86	"the General Union"	"of"	"Railway Clerks"	1.3333333333333333
+86	"the General Union"	". in"	"1897"	0.0
 86	"the General Union"	". in although resigned"	"he"	0.1333333333333333
 86	"the General Union"	". in although resigned due to"	"ill health"	0.19047619047619047
+86	"Railway Clerks"	"of Union . in"	"1897"	-0.1333333333333333
 86	"Railway Clerks"	"of Union . in although resigned"	"he"	0.0
 86	"Railway Clerks"	"of Union . in although resigned due to"	"ill health"	0.05714285714285716
 86	"Railway Clerks"	"of Union . in although resigned"	"the following year"	0.0
+86	"1897"	"in although resigned"	"he"	-0.25
+86	"1897"	"in although resigned due to"	"ill health"	-0.33333333333333337
+86	"1897"	"in although resigned"	"the following year"	-0.25
 86	"he"	"resigned due to"	"ill health"	0.75
 86	"he"	"resigned"	"the following year"	1.0
 86	"ill health"	"to resigned"	"the following year"	0.25
 The post-war era saw the creation of New College in 1962 , Innis College in 1964 and Woodsworth College in 1974 , all of them nondenominational . 
 87	"The post-war era"	"saw"	"the creation"	1.0
 87	"The post-war era"	"saw creation of"	"New College"	0.75
+87	"The post-war era"	"saw in"	"1962"	0.8333333333333333
 87	"The post-war era"	"saw ."	"Innis College"	0.8333333333333333
+87	"The post-war era"	"saw . College in"	"1964"	0.7
 87	"the creation"	"of"	"New College"	1.3333333333333333
+87	"the creation"	"saw in"	"1962"	-0.16666666666666669
 87	"the creation"	"saw ."	"Innis College"	-0.16666666666666669
+87	"the creation"	"saw . College in"	"1964"	-0.3
 87	"the creation"	"saw . College in 1964 and"	"Woodsworth College"	-0.35714285714285715
+87	"the creation"	"saw . College in"	"1974"	-0.3
+87	"New College"	"of saw in"	"1962"	0.08333333333333331
 87	"New College"	"of saw ."	"Innis College"	0.08333333333333331
+87	"New College"	"of saw . College in"	"1964"	-0.04999999999999999
 87	"New College"	"of saw . College in 1964 and"	"Woodsworth College"	-0.10714285714285715
+87	"New College"	"of saw . College in"	"1974"	-0.04999999999999999
+87	"1962"	"saw ."	"Innis College"	0.0
+87	"1962"	"saw . College in"	"1964"	-0.1333333333333333
+87	"1962"	"saw . College in 1964 and"	"Woodsworth College"	-0.19047619047619047
+87	"1962"	"saw . College in"	"1974"	-0.1333333333333333
+87	"1962"	"saw . College all of"	"them"	-0.16666666666666666
+87	"Innis College"	"in"	"1964"	1.3333333333333333
 87	"Innis College"	"in 1964 and"	"Woodsworth College"	1.2
+87	"Innis College"	"in"	"1974"	1.3333333333333333
 87	"Innis College"	"all of"	"them"	1.25
+87	"1964"	"and"	"Woodsworth College"	1.3333333333333333
+87	"1964"	"College in"	"1974"	0.0
+87	"1964"	"College all of"	"them"	-0.08333333333333331
+87	"Woodsworth College"	"and 1964 College in"	"1974"	0.1333333333333333
 87	"Woodsworth College"	"and 1964 College all of"	"them"	0.04999999999999999
+87	"1974"	"College all of"	"them"	-0.08333333333333331
 The cast consisted of some of the most prominent Israeli actors of the time , as well as hundreds of extras . 
 88	"The cast"	"consisted of some of"	"the most prominent Israeli actors"	0.7
 88	"The cast"	"consisted of some of actors of"	"the time"	0.6428571428571428
@@ -1473,9 +1757,15 @@ The cast consisted of some of the most prominent Israeli actors of the time , as
 88	"hundreds"	"of"	"extras"	1.3333333333333333
 When news outlets reported that taxpayers were charged for a $ 600 makeup session for Illinois Governor Rod Blagojevich for his budget speech , Bomke said , " He did n't get his money 's worth . " 
 89	"news outlets"	"said that were"	"taxpayers"	0.25
+89	"news outlets"	"said that were charged for session $"	"600"	0.375
 89	"news outlets"	"said that were charged for"	"a $ 600 makeup session"	0.33333333333333337
+89	"taxpayers"	"were said that were charged for session $"	"600"	0.125
 89	"taxpayers"	"were said that were charged for"	"a $ 600 makeup session"	0.08333333333333334
 89	"taxpayers"	"were said that were charged for session for"	"Illinois Governor Rod Blagojevich"	0.125
+89	"600"	"$ session for charged were said that were charged for"	"a $ 600 makeup session"	-0.04166666666666666
+89	"600"	"$ session for charged were said that were charged for session for"	"Illinois Governor Rod Blagojevich"	0.0
+89	"600"	"$ session for charged were said that were charged for"	"his budget speech"	-0.04166666666666666
+89	"600"	"$ session for charged were said"	"Bomke"	-0.375
 89	"a $ 600 makeup session"	"for charged were said that were charged for for"	"Illinois Governor Rod Blagojevich"	0.04166666666666666
 89	"a $ 600 makeup session"	"for charged were said that were charged for"	"his budget speech"	0.0
 89	"a $ 600 makeup session"	"for charged were said"	"Bomke"	-0.33333333333333337
@@ -1565,13 +1855,19 @@ He also told the " Washington Post " that the Iraqis warned the Zarqawi operativ
 92	"the Jordanians"	"knew were"	"they"	0.8333333333333333
 During the Punitive Expedition into Mexico in 1916 , he was for a time depot manager at Columbus , New Mexico , the main logistical base of the expedition . 
 93	"the Punitive Expedition"	"into"	"Mexico"	1.0
+93	"the Punitive Expedition"	"into was in"	"1916"	-0.08333333333333331
 93	"the Punitive Expedition"	"into was"	"he"	-0.25
 93	"the Punitive Expedition"	"into was for"	"a time depot manager"	0.5833333333333333
 93	"the Punitive Expedition"	"into was for manager at"	"Columbus"	0.45
+93	"Mexico"	"into was in"	"1916"	-0.08333333333333331
 93	"Mexico"	"into was"	"he"	-0.25
 93	"Mexico"	"into was for"	"a time depot manager"	0.5833333333333333
 93	"Mexico"	"into was for manager at"	"Columbus"	0.45
 93	"Mexico"	"into was ."	"New Mexico"	0.5833333333333333
+93	"1916"	"was"	"he"	-0.16666666666666669
+93	"1916"	"was for"	"a time depot manager"	0.6666666666666666
+93	"1916"	"was for manager at"	"Columbus"	0.5333333333333333
+93	"1916"	"was ."	"New Mexico"	0.6666666666666666
 93	"he"	"was for"	"a time depot manager"	0.8333333333333333
 93	"he"	"was for manager at"	"Columbus"	0.7
 93	"he"	"was ."	"New Mexico"	0.8333333333333333
@@ -1586,25 +1882,38 @@ During the Punitive Expedition into Mexico in 1916 , he was for a time depot man
 93	"New Mexico"	"base of"	"the expedition"	1.25
 93	"the main logistical base"	"of"	"the expedition"	1.3333333333333333
 In his " 2006 Movie Guide " , Leonard Maltin gives the film 3.5 stars out of four and calls it " probably Malle 's best early film . " 
+94	"his"	"."	"2006"	0.0
 94	"his"	". gives"	"Movie Guide"	0.16666666666666669
 94	"his"	". gives"	"Leonard Maltin"	0.16666666666666669
 94	"his"	". gives"	"the film"	0.16666666666666669
 94	"his"	". gives"	"3.5 stars"	0.16666666666666669
+94	"2006"	". gives"	"Movie Guide"	0.16666666666666669
+94	"2006"	". gives"	"Leonard Maltin"	0.16666666666666669
+94	"2006"	". gives"	"the film"	0.16666666666666669
+94	"2006"	". gives"	"3.5 stars"	0.16666666666666669
+94	"2006"	". gives out of"	"four"	0.3
 94	"Movie Guide"	"gives"	"Leonard Maltin"	0.0
 94	"Movie Guide"	"gives"	"the film"	1.0
 94	"Movie Guide"	"gives"	"3.5 stars"	1.0
+94	"Movie Guide"	"gives out of"	"four"	0.75
 94	"Movie Guide"	"gives and calls"	"it"	0.75
 94	"Leonard Maltin"	"gives"	"the film"	1.0
 94	"Leonard Maltin"	"gives"	"3.5 stars"	1.0
+94	"Leonard Maltin"	"gives out of"	"four"	0.75
 94	"Leonard Maltin"	"gives and calls"	"it"	0.75
 94	"Leonard Maltin"	". film"	"probably Malle"	0.0
 94	"the film"	"gives"	"3.5 stars"	0.0
+94	"the film"	"gives out of"	"four"	-0.25
 94	"the film"	"gives and calls"	"it"	-0.25
 94	"the film"	". film"	"probably Malle"	0.0
 94	"the film"	"."	"probably Malle 's best early film"	-0.16666666666666669
+94	"3.5 stars"	"gives out of"	"four"	-0.25
 94	"3.5 stars"	"gives and calls"	"it"	-0.25
 94	"3.5 stars"	". film"	"probably Malle"	0.0
 94	"3.5 stars"	"."	"probably Malle 's best early film"	-0.16666666666666669
+94	"four"	"of gives and calls"	"it"	0.0
+94	"four"	"of out . film"	"probably Malle"	-0.1333333333333333
+94	"four"	"of out ."	"probably Malle 's best early film"	-0.3
 94	"it"	"calls and . film"	"probably Malle"	-0.1333333333333333
 94	"it"	"calls and ."	"probably Malle 's best early film"	-0.3
 94	"probably Malle"	"."	"probably Malle 's best early film"	-0.16666666666666669
@@ -1651,12 +1960,9 @@ An ex-minister turned boatyard owner Baxter Cox befriends Obree , which results 
 96	"idea"	"turned . 's going to try and beat"	"the hour record"	-0.3888888888888889
 96	"he"	"'s going to try and beat"	"the hour record"	0.6428571428571428
 Ronald Squire 25 March 1886 - 16 November 1958 was an English character actor . 
-97	"Ronald Squire"	"1958"	"March"	0.0
-97	"Ronald Squire"	"1958"	"November"	0.0
-97	"Ronald Squire"	"was"	"an English character actor"	0.8333333333333333
-97	"March"	"1958"	"November"	0.0
-97	"March"	"was"	"an English character actor"	0.8333333333333333
-97	"November"	"was"	"an English character actor"	0.8333333333333333
+97	"1886"	"was"	"Ronald Squire 25 March 1886 - 16 November 1958"	-0.16666666666666669
+97	"1886"	"was"	"an English character actor"	0.8333333333333333
+97	"Ronald Squire 25 March 1886 - 16 November 1958"	"was"	"an English character actor"	1.0
 " Casanova Brown " is a 1944 film starring Gary Cooper , Teresa Wright , and Frank Morgan . 
 98	"Casanova Brown "	"is"	"a 1944 film"	1.0
 98	"Casanova Brown "	"is film starring"	"Gary Cooper"	0.75
@@ -1765,9 +2071,13 @@ Soubry graduated in law from the University of Birmingham in 1979.
 106	"Soubry"	"graduated in"	"law"	0.8333333333333333
 106	"Soubry"	"graduated from Birmingham"	"University"	0.75
 106	"Soubry"	"graduated from"	"the University of Birmingham"	0.8333333333333333
+106	"Soubry"	"graduated in"	"1979."	0.8333333333333333
 106	"law"	"graduated from Birmingham"	"University"	-0.08333333333333331
 106	"law"	"graduated from"	"the University of Birmingham"	0.0
+106	"law"	"graduated in"	"1979."	0.0
 106	"University"	"Birmingham graduated from"	"the University of Birmingham"	0.08333333333333331
+106	"University"	"Birmingham graduated in"	"1979."	0.08333333333333331
+106	"the University of Birmingham"	"graduated in"	"1979."	0.0
 As the Liga 's most northwesterly city after Tijuana , the Dorados remained in the LMB Northern Division in 2007. 
 107	"the Liga"	"city remained As"	"the Liga 's most northwesterly city"	-0.08333333333333331
 107	"the Liga"	"city after"	"Tijuana"	0.8333333333333333
@@ -1776,9 +2086,13 @@ As the Liga 's most northwesterly city after Tijuana , the Dorados remained in t
 107	"the Liga 's most northwesterly city"	"after"	"Tijuana"	1.3333333333333333
 107	"the Liga 's most northwesterly city"	"remained"	"the Dorados"	-0.16666666666666669
 107	"the Liga 's most northwesterly city"	"remained in"	"the LMB Northern Division"	0.6666666666666666
+107	"the Liga 's most northwesterly city"	"remained in"	"2007."	0.6666666666666666
 107	"Tijuana"	"after city remained"	"the Dorados"	-0.3
 107	"Tijuana"	"after city remained in"	"the LMB Northern Division"	0.5333333333333333
+107	"Tijuana"	"after city remained in"	"2007."	0.5333333333333333
 107	"the Dorados"	"remained in"	"the LMB Northern Division"	0.8333333333333333
+107	"the Dorados"	"remained in"	"2007."	0.8333333333333333
+107	"the LMB Northern Division"	"remained in"	"2007."	0.0
 He played one game for West Ham in the Premier League , as a substitute during the latter stages of the 1996-97 season . 
 108	"He"	"played"	"one game"	1.0
 108	"He"	"played for"	"West Ham"	0.8333333333333333
@@ -1812,12 +2126,23 @@ He was Captain of the Atheists team on CBC Test the Nation : IQ broadcast live o
 109	"the Atheists team"	"was live"	"the Nation"	0.0
 109	"the Atheists team"	"was live"	"IQ broadcast"	0.0
 109	"the Atheists team"	"was live on 2010."	"January"	-0.1333333333333333
+109	"the Atheists team"	"was live on 2010. January"	"24"	-0.16666666666666666
+109	"the Atheists team"	"was live on"	"January 24  2010."	-0.08333333333333331
 109	"CBC Test"	"on team was live"	"the Nation"	0.1333333333333333
 109	"CBC Test"	"on team was live"	"IQ broadcast"	0.1333333333333333
 109	"CBC Test"	"on team was live on 2010."	"January"	0.0
+109	"CBC Test"	"on team was live on 2010. January"	"24"	-0.033333333333333354
+109	"CBC Test"	"on team was live on"	"January 24  2010."	0.04999999999999999
 109	"the Nation"	"live"	"IQ broadcast"	0.0
 109	"the Nation"	"live on 2010."	"January"	0.75
+109	"the Nation"	"live on 2010. January"	"24"	0.7
+109	"the Nation"	"live on"	"January 24  2010."	0.8333333333333333
 109	"IQ broadcast"	"live on 2010."	"January"	0.75
+109	"IQ broadcast"	"live on 2010. January"	"24"	0.7
+109	"IQ broadcast"	"live on"	"January 24  2010."	0.8333333333333333
+109	"January"	"January"	"24"	1.5
+109	"January"	"2010. on was live on"	"January 24  2010."	0.04999999999999999
+109	"24"	"January 2010. on was live on"	"January 24  2010."	0.08333333333333334
 Georgia regards the Abkhaz armed forces as " unlawful military formations " and accuses Russia of supplying and training the Abkhaz troops , partly in exchange for Abkhaz land or hotels . 
 110	"Georgia"	" forces"	"Abkhaz"	0.16666666666666669
 110	"Georgia"	""	"the Abkhaz armed forces"	0.0
@@ -1843,10 +2168,10 @@ Georgia regards the Abkhaz armed forces as " unlawful military formations " and 
 He is buried in Sandy Valley , Waynesburg , Ohio Stark County . 
 111	"He"	"is buried in County"	"Sandy Valley"	0.7
 111	"He"	"is buried in County"	"Waynesburg"	0.7
-111	"He"	"is buried in"	"Sandy Valley , Waynesburg , Ohio Stark County"	0.75
+111	"He"	"is buried in"	"Sandy Valley  Waynesburg  Ohio Stark County"	0.75
 111	"Sandy Valley"	"County"	"Waynesburg"	0.0
-111	"Sandy Valley"	"County in is buried in"	"Sandy Valley , Waynesburg , Ohio Stark County"	0.04999999999999999
-111	"Waynesburg"	"County in is buried in"	"Sandy Valley , Waynesburg , Ohio Stark County"	0.04999999999999999
+111	"Sandy Valley"	"County in is buried in"	"Sandy Valley  Waynesburg  Ohio Stark County"	0.04999999999999999
+111	"Waynesburg"	"County in is buried in"	"Sandy Valley  Waynesburg  Ohio Stark County"	0.04999999999999999
 The Hollywood United 7-a-side teams compete in the Santa Monica Adult Soccer League . 
 112	"Hollywood United"	"compete"	"The Hollywood United 7-a-side teams"	-0.16666666666666669
 112	"Hollywood United"	"compete in"	"the Santa Monica Adult Soccer League"	0.6666666666666666
@@ -1863,29 +2188,34 @@ In several scenes , the film 's Bulgarian locale is given away as signs in Cyril
 113	"the film 's Bulgarian locale"	"is given as signs in"	"Cyrillic"	0.6666666666666666
 113	"signs"	"in"	"Cyrillic"	1.3333333333333333
 Hermine was married , on 7 January 1907 in Greiz to Prince Johann George Ludwig Ferdinand August of Schoenaich-Carolath 11 September 1873 - 7 April 1920 . 
-114	"Hermine"	"was on 1907"	"January"	0.75
+114	"Hermine"	"was on"	"7 January 1907"	0.8333333333333333
 114	"Hermine"	"was in"	"Greiz"	0.8333333333333333
-114	"January"	"1907 was in"	"Greiz"	0.08333333333333331
-114	"January"	"1907 was to"	"Prince Johann George Ludwig Ferdinand August"	0.08333333333333331
-114	"January"	"1907 was to August of 1920"	"Schoenaich-Carolath"	-0.08333333333333334
-114	"January"	"1907 was to August of 1920 1873"	"September"	-0.10714285714285715
+114	"7 January 1907"	"was in"	"Greiz"	0.0
+114	"7 January 1907"	"was to"	"Prince Johann George Ludwig Ferdinand August"	0.0
+114	"7 January 1907"	"was to August of 1920"	"11"	-0.16666666666666666
+114	"7 January 1907"	"was to August of 1920"	"September 1873"	-0.16666666666666666
 114	"Greiz"	"was to"	"Prince Johann George Ludwig Ferdinand August"	0.0
-114	"Greiz"	"was to August of 1920"	"Schoenaich-Carolath"	-0.16666666666666666
-114	"Greiz"	"was to August of 1920 1873"	"September"	-0.19047619047619047
-114	"Greiz"	"was to August of 1920"	"April"	-0.16666666666666666
-114	"Prince Johann George Ludwig Ferdinand August"	"of 1920"	"Schoenaich-Carolath"	1.25
-114	"Prince Johann George Ludwig Ferdinand August"	"of 1920 1873"	"September"	1.2
-114	"Prince Johann George Ludwig Ferdinand August"	"of 1920"	"April"	1.25
-114	"Schoenaich-Carolath"	"1920 1873"	"September"	0.16666666666666669
-114	"Schoenaich-Carolath"	"1920"	"April"	0.0
-114	"September"	"1920"	"April"	-0.16666666666666669
+114	"Greiz"	"was to August of 1920"	"11"	-0.16666666666666666
+114	"Greiz"	"was to August of 1920"	"September 1873"	-0.16666666666666666
+114	"Prince Johann George Ludwig Ferdinand August"	"of 1920"	"11"	1.25
+114	"Prince Johann George Ludwig Ferdinand August"	"of 1920"	"September 1873"	1.25
+114	"Prince Johann George Ludwig Ferdinand August"	"of"	"Schoenaich-Carolath 11 September 1873 - 7 April 1920"	1.3333333333333333
+114	"11"	"1920"	"September 1873"	0.0
+114	"11"	"1920 of August was to August of"	"Schoenaich-Carolath 11 September 1873 - 7 April 1920"	0.033333333333333354
+114	"September 1873"	"1920 of August was to August of"	"Schoenaich-Carolath 11 September 1873 - 7 April 1920"	0.033333333333333354
 He appeared in over 140 films between 1935 and 1950. 
 115	"He"	"appeared in"	"over 140 films"	0.8333333333333333
+115	"He"	"appeared in films between"	"1935"	0.7
+115	"He"	"appeared in films between 1935 and"	"1950."	0.6428571428571428
+115	"over 140 films"	"between"	"1935"	1.3333333333333333
+115	"over 140 films"	"between 1935 and"	"1950."	1.2
+115	"1935"	"and"	"1950."	1.3333333333333333
 In March 2009 , Ludwig appeared in a lead role in Disney 's " Race to Witch Mountain " . 
-116	"March"	"2009 appeared"	"Ludwig"	-0.25
-116	"March"	"2009 appeared in"	"a lead role"	0.5833333333333333
-116	"March"	"2009 appeared in role in Race"	"Disney"	0.41666666666666663
-116	"March"	"2009 appeared in role in"	"Disney 's  Race"	0.45
+116	"March 2009"	"appeared"	"Ludwig"	-0.16666666666666669
+116	"March 2009"	"appeared in"	"a lead role"	0.6666666666666666
+116	"March 2009"	"appeared in role in Race"	"Disney"	0.5
+116	"March 2009"	"appeared in role in"	"Disney 's  Race"	0.5333333333333333
+116	"March 2009"	"appeared to"	"Witch Mountain"	0.6666666666666666
 116	"Ludwig"	"appeared in"	"a lead role"	0.8333333333333333
 116	"Ludwig"	"appeared in role in Race"	"Disney"	0.6666666666666666
 116	"Ludwig"	"appeared in role in"	"Disney 's  Race"	0.7
@@ -1897,9 +2227,9 @@ In March 2009 , Ludwig appeared in a lead role in Disney 's " Race to Witch Moun
 116	"Disney"	"Race in role appeared to"	"Witch Mountain"	0.16666666666666666
 116	"Disney 's  Race"	"in role appeared to"	"Witch Mountain"	0.1333333333333333
 On 5 October 2007 , Pierluigi Casiraghi called up Alfonso , alongside with teammate Francesco Bolzoni , to form part of the Italy national under-21 football team . 
-117	"October"	"2007 called"	"Pierluigi Casiraghi"	-0.25
-117	"October"	"2007 called"	"Alfonso"	0.75
-117	"October"	"2007 called alongside with"	"teammate Francesco Bolzoni"	0.5
+117	"5 October 2007"	"called"	"Pierluigi Casiraghi"	-0.16666666666666669
+117	"5 October 2007"	"called"	"Alfonso"	0.8333333333333333
+117	"5 October 2007"	"called alongside with"	"teammate Francesco Bolzoni"	0.5833333333333333
 117	"Pierluigi Casiraghi"	"called"	"Alfonso"	1.0
 117	"Pierluigi Casiraghi"	"called alongside with"	"teammate Francesco Bolzoni"	0.75
 117	"Pierluigi Casiraghi"	"called to form"	"part"	0.75
@@ -1917,13 +2247,26 @@ Journalists are strictly prohibited from covering the rebellion .
 Grimes also starred in the sequel " Class of ' 44 " 1973 , which followed his character to college . 
 119	"Grimes"	"starred in"	"the sequel"	0.8333333333333333
 119	"Grimes"	"starred"	" Class"	1.0
+119	"Grimes"	"starred Class"	"44"	0.8333333333333333
+119	"Grimes"	"starred ."	"1973"	0.8333333333333333
 119	"the sequel"	"starred"	" Class"	0.16666666666666669
+119	"the sequel"	"starred Class"	"44"	0.0
+119	"the sequel"	"starred ."	"1973"	0.0
 119	"the sequel"	"starred . 1973 followed"	"his character"	-0.1333333333333333
 119	"the sequel"	"starred . 1973 followed character to"	"college"	-0.19047619047619047
+119	" Class"	"Class"	"44"	1.5
+119	" Class"	"starred ."	"1973"	-0.16666666666666669
 119	" Class"	"starred . 1973 followed"	"his character"	-0.3
 119	" Class"	"starred . 1973 followed character to"	"college"	-0.35714285714285715
+119	"44"	"starred ."	"1973"	0.0
+119	"44"	"starred . 1973 followed"	"his character"	-0.1333333333333333
+119	"44"	"starred . 1973 followed character to"	"college"	-0.19047619047619047
+119	"1973"	"followed"	"his character"	1.3333333333333333
+119	"1973"	"followed character to"	"college"	1.2
 119	"his character"	"to"	"college"	1.3333333333333333
 " Guilty " is a 1916 silent drama film featuring Harry Carey . 
+120	"1916"	"is"	"a 1916 silent drama film"	0.16666666666666669
+120	"1916"	"film featuring"	"Harry Carey"	0.8333333333333333
 120	"a 1916 silent drama film"	"featuring"	"Harry Carey"	1.3333333333333333
 This led to an uprising in the holy city of Qum and the uprising soon spread to Tabriz , Tehran and other major cities . 
 121	"an uprising"	"in"	"the holy city"	1.3333333333333333
@@ -1948,16 +2291,21 @@ This led to an uprising in the holy city of Qum and the uprising soon spread to 
 121	"Tehran"	"and"	"other major cities"	1.3333333333333333
 He appeared in 129 films between 1929 and 1946. 
 122	"He"	"appeared in"	"129 films"	0.8333333333333333
+122	"He"	"appeared in films between"	"1929"	0.7
+122	"He"	"appeared in films between 1929 and"	"1946."	0.6428571428571428
+122	"129 films"	"between"	"1929"	1.3333333333333333
+122	"129 films"	"between 1929 and"	"1946."	1.2
+122	"1929"	"and"	"1946."	1.3333333333333333
 After crushing a French army in July 1812 , Wellington exploited his great victory by capturing Madrid . 
-123	"a French army"	"crushing in 1812"	"July"	-0.25
+123	"a French army"	"crushing in"	"July 1812"	-0.16666666666666669
 123	"a French army"	"crushing exploited"	"Wellington"	-0.25
 123	"a French army"	"crushing exploited victory"	"his"	0.5833333333333333
 123	"a French army"	"crushing exploited"	"his great victory"	0.75
 123	"a French army"	"crushing exploited by capturing"	"Madrid"	0.5
-123	"July"	"1812 in crushing exploited"	"Wellington"	-0.33333333333333337
-123	"July"	"1812 in crushing exploited victory"	"his"	0.5
-123	"July"	"1812 in crushing exploited"	"his great victory"	0.6666666666666666
-123	"July"	"1812 in crushing exploited by capturing"	"Madrid"	0.41666666666666663
+123	"July 1812"	"in crushing exploited"	"Wellington"	-0.3
+123	"July 1812"	"in crushing exploited victory"	"his"	0.5333333333333333
+123	"July 1812"	"in crushing exploited"	"his great victory"	0.7
+123	"July 1812"	"in crushing exploited by capturing"	"Madrid"	0.45
 123	"Wellington"	"exploited victory"	"his"	0.8333333333333333
 123	"Wellington"	"exploited"	"his great victory"	1.0
 123	"Wellington"	"exploited by capturing"	"Madrid"	0.75
@@ -2026,7 +2374,7 @@ Carter 's reorganization efforts separated the Department of Health , Education 
 125	"Department"	"Health Services separated ."	"the Department of Health and Human Services"	0.1333333333333333
 125	"Department of Health"	"Services separated ."	"the Department of Health and Human Services"	0.08333333333333331
 In March 2005 , his second single , " Wisemen , " was released . 
-126	"March"	"2005 ."	"his"	-0.25
+126	"March 2005"	"."	"his"	-0.16666666666666669
 Unlike all other Eclipse Awards , which are voted on by a chosen committee from among the horse racing world , the Moment of the Year is voted on by racing fans . 
 127	"all other Eclipse Awards"	"are voted by"	"a chosen committee"	1.2
 127	"all other Eclipse Awards"	"are voted from among"	"the horse racing world"	1.1666666666666667
@@ -2052,28 +2400,28 @@ Beauman is married to film director , screenwriter and producer James Bobin , wi
 128	"film director"	"screenwriter and producer with"	"whom"	1.1666666666666667
 128	"film director"	"to is has"	"she"	0.08333333333333331
 128	"film director"	"to is has"	"one daughter"	0.08333333333333331
-128	"film director"	"to is has"	", Madelaine"	0.08333333333333331
+128	"film director"	"to is has"	" Madelaine"	0.08333333333333331
 128	"screenwriter"	"and"	"producer"	1.3333333333333333
 128	"screenwriter"	"and producer"	"James Bobin"	1.25
 128	"screenwriter"	"and producer with"	"whom"	1.2
 128	"screenwriter"	"director to is has"	"she"	0.1333333333333333
 128	"screenwriter"	"director to is has"	"one daughter"	0.1333333333333333
-128	"screenwriter"	"director to is has"	", Madelaine"	0.1333333333333333
+128	"screenwriter"	"director to is has"	" Madelaine"	0.1333333333333333
 128	"producer"	"producer"	"James Bobin"	1.5
 128	"producer"	"with"	"whom"	1.3333333333333333
 128	"producer"	"and screenwriter director to is has"	"she"	0.19047619047619047
 128	"producer"	"and screenwriter director to is has"	"one daughter"	0.19047619047619047
-128	"producer"	"and screenwriter director to is has"	", Madelaine"	0.19047619047619047
+128	"producer"	"and screenwriter director to is has"	" Madelaine"	0.19047619047619047
 128	"James Bobin"	"producer with"	"whom"	-0.16666666666666669
 128	"James Bobin"	"producer and screenwriter director to is has"	"she"	0.20833333333333331
 128	"James Bobin"	"producer and screenwriter director to is has"	"one daughter"	0.20833333333333331
-128	"James Bobin"	"producer and screenwriter director to is has"	", Madelaine"	0.20833333333333331
+128	"James Bobin"	"producer and screenwriter director to is has"	" Madelaine"	0.20833333333333331
 128	"whom"	"with producer and screenwriter director to is has"	"she"	0.2222222222222222
 128	"whom"	"with producer and screenwriter director to is has"	"one daughter"	0.2222222222222222
-128	"whom"	"with producer and screenwriter director to is has"	", Madelaine"	0.2222222222222222
+128	"whom"	"with producer and screenwriter director to is has"	" Madelaine"	0.2222222222222222
 128	"she"	"has"	"one daughter"	1.0
-128	"she"	"has"	", Madelaine"	1.0
-128	"one daughter"	"has"	", Madelaine"	0.0
+128	"she"	"has"	" Madelaine"	1.0
+128	"one daughter"	"has"	" Madelaine"	0.0
 While some reviewers praised the movie as a classic example of 1960s camp , others noted its mediocre production values , rewriting of the script , changes in the musical score , and disappointing choreography in some songs . 
 129	"some reviewers"	"praised"	"the movie"	1.0
 129	"some reviewers"	"praised as"	"a classic example"	0.8333333333333333
@@ -2118,6 +2466,9 @@ While some reviewers praised the movie as a classic example of 1960s camp , othe
 129	"the musical score"	"changes in"	"some songs"	0.0
 129	"disappointing choreography"	"changes in"	"some songs"	0.0
 As of 2009 , it is ranked as the strongest hockey league in Europe . 
+130	"2009"	"of is"	"it"	-0.25
+130	"2009"	"of is ranked as"	"the strongest hockey league"	0.5
+130	"2009"	"of is ranked as league in"	"Europe"	0.41666666666666663
 130	"it"	"is ranked as"	"the strongest hockey league"	0.75
 130	"it"	"is ranked as league in"	"Europe"	0.6666666666666666
 130	"the strongest hockey league"	"in"	"Europe"	1.3333333333333333
@@ -2127,27 +2478,31 @@ He is also an accomplished musician and songwriter and fronts his own band , Ten
 131	"He"	"is musician and songwriter and"	"fronts"	0.6666666666666666
 131	"He"	"is Athlone band"	"his"	0.75
 131	"He"	"is Athlone"	"his own band"	0.8333333333333333
-131	"He"	"is"	"his own band , Ten Athlone"	1.0
+131	"He"	"is"	"his own band  Ten Athlone"	1.0
 131	"an accomplished musician"	"and"	"songwriter"	1.3333333333333333
 131	"an accomplished musician"	"and songwriter and"	"fronts"	1.2
 131	"an accomplished musician"	"is Athlone band"	"his"	-0.25
 131	"an accomplished musician"	"is Athlone"	"his own band"	-0.16666666666666669
-131	"an accomplished musician"	"is"	"his own band , Ten Athlone"	0.0
+131	"an accomplished musician"	"is"	"his own band  Ten Athlone"	0.0
 131	"songwriter"	"and"	"fronts"	1.3333333333333333
 131	"songwriter"	"and is Athlone band"	"his"	0.0
 131	"songwriter"	"and is Athlone"	"his own band"	0.08333333333333331
-131	"songwriter"	"and is"	"his own band , Ten Athlone"	0.25
+131	"songwriter"	"and is"	"his own band  Ten Athlone"	0.25
 131	"fronts"	"and songwriter and is Athlone band"	"his"	0.08333333333333334
 131	"fronts"	"and songwriter and is Athlone"	"his own band"	0.16666666666666666
-131	"fronts"	"and songwriter and is"	"his own band , Ten Athlone"	0.33333333333333337
+131	"fronts"	"and songwriter and is"	"his own band  Ten Athlone"	0.33333333333333337
 131	"his"	"band is Athlone"	"his own band"	0.08333333333333331
-131	"his"	"band is"	"his own band , Ten Athlone"	0.25
-131	"his own band"	"is"	"his own band , Ten Athlone"	0.16666666666666669
+131	"his"	"band is"	"his own band  Ten Athlone"	0.25
+131	"his own band"	"is"	"his own band  Ten Athlone"	0.16666666666666669
 He also served as a councillor on Bermondsey . 
 132	"He"	"served as"	"a councillor"	0.8333333333333333
 132	"He"	"served as councillor on"	"Bermondsey"	0.7
 132	"a councillor"	"on"	"Bermondsey"	1.3333333333333333
 One other person was killed in fighting in Sidon and two soldiers died in fighting east of Beirut . 
+133	"One"	"died"	"One other person"	-0.16666666666666669
+133	"One"	"died killed in fighting in"	"Sidon"	0.16666666666666666
+133	"One"	"died killed in fighting and"	"two soldiers"	0.16666666666666666
+133	"One"	"died in fighting"	"east"	0.5833333333333333
 133	"One other person"	"died killed in fighting in"	"Sidon"	0.33333333333333337
 133	"One other person"	"died killed in fighting and"	"two soldiers"	0.33333333333333337
 133	"One other person"	"died in fighting"	"east"	0.75
@@ -2176,32 +2531,35 @@ He spent two years on board the Type IIB U-boat , under the command of " Oberleu
 134	"the command"	"spent"	"See"	0.16666666666666669
 134	"the command"	"spent"	"Otto Kretschmer"	0.16666666666666669
 134	"the command"	"spent Kretschmer completing"	"five combat patrols"	-0.08333333333333331
+134	"the command"	"spent Kretschmer completing as"	"1."	-0.1333333333333333
 134	"See"	"spent"	"Otto Kretschmer"	0.0
 134	"See"	"spent Kretschmer completing"	"five combat patrols"	-0.25
+134	"See"	"spent Kretschmer completing as"	"1."	-0.3
 134	"Otto Kretschmer"	"completing"	"five combat patrols"	1.3333333333333333
+134	"Otto Kretschmer"	"completing as"	"1."	1.25
+134	"five combat patrols"	"completing as"	"1."	-0.16666666666666669
 WO second-in-command , between October 1939 and January 1940. On 14 April , Graziani ordered his entire army to advance towards the Ethiopian defensive lines in a three-pronged attack . 
-135	"WO second-in-command"	". between 1939"	"October"	0.25
+135	"WO second-in-command"	". between"	"October 1939"	0.16666666666666669
 135	"WO second-in-command"	". between 1939 and ordered April"	"January"	0.35714285714285715
-135	"WO second-in-command"	". between 1939 and ordered April 14"	"On"	0.375
+135	"WO second-in-command"	". between 1939 and ordered April January"	"1940."	0.375
 135	"WO second-in-command"	". between 1939 and ordered"	"January 1940. On 14 April"	0.33333333333333337
 135	"WO second-in-command"	". between 1939 and ordered"	"Graziani"	0.33333333333333337
 135	"WO second-in-command"	". between 1939 and ordered army"	"his"	0.35714285714285715
-135	"October"	"1939 and ordered April"	"January"	0.7
-135	"October"	"1939 and ordered April 14"	"On"	0.6666666666666666
-135	"October"	"1939 and ordered"	"January 1940. On 14 April"	0.75
-135	"October"	"1939 and ordered"	"Graziani"	0.75
-135	"October"	"1939 and ordered army"	"his"	0.7
-135	"October"	"1939 and ordered"	"his entire army"	0.75
-135	"January"	"April 14"	"On"	0.16666666666666669
+135	"October 1939"	"and ordered April"	"January"	1.2
+135	"October 1939"	"and ordered April January"	"1940."	1.1666666666666667
+135	"October 1939"	"and ordered"	"January 1940. On 14 April"	1.25
+135	"October 1939"	"and ordered"	"Graziani"	1.25
+135	"October 1939"	"and ordered army"	"his"	1.2
+135	"October 1939"	"and ordered"	"his entire army"	1.25
+135	"January"	"January"	"1940."	1.5
 135	"January"	"April ordered and 1939 . between 1939 and ordered"	"January 1940. On 14 April"	-0.023809523809523808
 135	"January"	"ordered"	"Graziani"	-0.16666666666666669
 135	"January"	"ordered army"	"his"	0.6666666666666666
 135	"January"	"ordered"	"his entire army"	0.8333333333333333
-135	"On"	"14 April ordered and 1939 . between 1939 and ordered"	"January 1940. On 14 April"	-0.04166666666666666
-135	"On"	"14 ordered"	"Graziani"	-0.25
-135	"On"	"14 ordered army"	"his"	0.5833333333333333
-135	"On"	"14 ordered"	"his entire army"	0.75
-135	"On"	"14 ordered to advance towards"	"the Ethiopian defensive lines"	0.45
+135	"1940."	"January April ordered and 1939 . between 1939 and ordered"	"January 1940. On 14 April"	-0.04166666666666666
+135	"1940."	"January ordered"	"Graziani"	-0.25
+135	"1940."	"January ordered army"	"his"	0.5833333333333333
+135	"1940."	"January ordered"	"his entire army"	0.75
 135	"January 1940. On 14 April"	"ordered"	"Graziani"	0.0
 135	"January 1940. On 14 April"	"ordered army"	"his"	0.8333333333333333
 135	"January 1940. On 14 April"	"ordered"	"his entire army"	1.0
@@ -2226,9 +2584,13 @@ WO second-in-command , between October 1939 and January 1940. On 14 April , Graz
 136	"the  Fourth Level "	"of"	"competition"	1.3333333333333333
 136	"the  Fourth Level "	"of competition in"	"Ukraine"	1.2
 136	"the  Fourth Level "	"including winning"	"the Ukrainian Amateur Championship"	1.25
+136	"the  Fourth Level "	"including winning in"	"2007."	1.2
 136	"competition"	"in"	"Ukraine"	1.3333333333333333
 136	"competition"	" including winning"	"the Ukrainian Amateur Championship"	-0.08333333333333331
+136	"competition"	" including winning in"	"2007."	-0.1333333333333333
 136	"Ukraine"	"in competition  including winning"	"the Ukrainian Amateur Championship"	0.04999999999999999
+136	"Ukraine"	"in competition  including winning in"	"2007."	0.0
+136	"the Ukrainian Amateur Championship"	"winning in"	"2007."	-0.16666666666666669
 The show won an Emmy Award in the category of " Special Classification of Outstanding Program Achievements . " 
 137	"The show"	"won"	"an Emmy Award"	1.0
 137	"The show"	"won in"	"the category"	0.8333333333333333
@@ -2243,17 +2605,31 @@ The show won an Emmy Award in the category of " Special Classification of Outsta
 He held the seat until his retirement in 1987. 
 138	"He"	"held"	"the seat"	1.0
 138	"He"	"held until"	"his retirement"	0.8333333333333333
+138	"He"	"held in"	"1987."	0.8333333333333333
 138	"the seat"	"held until"	"his retirement"	-0.16666666666666669
+138	"the seat"	"held in"	"1987."	-0.16666666666666669
+138	"his retirement"	"held in"	"1987."	0.0
 France too was opposing Spain at every juncture . 
 139	"France"	"was opposing"	"Spain"	0.8333333333333333
 139	"France"	"was opposing at"	"every juncture"	0.75
 139	"Spain"	"opposing at"	"every juncture"	-0.16666666666666669
 He served in the Wisconsin State Assembly from 1998 to 2010 until he was appointed to the Wisconsin Court of Appeals . 
 140	"He"	"served in"	"the Wisconsin State Assembly"	0.8333333333333333
+140	"He"	"served from"	"1998"	0.8333333333333333
+140	"He"	"served to"	"2010"	0.8333333333333333
 140	"He"	"served until was"	"he"	0.75
+140	"the Wisconsin State Assembly"	"served from"	"1998"	0.0
+140	"the Wisconsin State Assembly"	"served to"	"2010"	0.0
 140	"the Wisconsin State Assembly"	"served until was"	"he"	-0.08333333333333331
 140	"the Wisconsin State Assembly"	"served until was appointed to"	"the Wisconsin Court"	-0.16666666666666666
 140	"the Wisconsin State Assembly"	"served until was appointed to Court of"	"Appeals"	-0.20833333333333331
+140	"1998"	"served to"	"2010"	0.0
+140	"1998"	"served until was"	"he"	-0.08333333333333331
+140	"1998"	"served until was appointed to"	"the Wisconsin Court"	-0.16666666666666666
+140	"1998"	"served until was appointed to Court of"	"Appeals"	-0.20833333333333331
+140	"2010"	"served until was"	"he"	-0.08333333333333331
+140	"2010"	"served until was appointed to"	"the Wisconsin Court"	-0.16666666666666666
+140	"2010"	"served until was appointed to Court of"	"Appeals"	-0.20833333333333331
 140	"he"	"was appointed to"	"the Wisconsin Court"	0.75
 140	"he"	"was appointed to Court of"	"Appeals"	0.6666666666666666
 140	"the Wisconsin Court"	"of"	"Appeals"	1.3333333333333333
@@ -2268,15 +2644,21 @@ Cassinelli was born in Genoa , and attended the catholic college Vittorino da Fe
 141	"the catholic college"	"attended in"	"the same city"	-0.16666666666666669
 141	"Vittorino da Feltre"	"attended in"	"the same city"	0.0
 Yun Jung Hoon born 1978 is a Korean actor . 
+142	"Yun Jung Hoon"	"is"	"Yun Jung Hoon born 1978"	-0.16666666666666669
 142	"Yun Jung Hoon"	"is"	"a Korean actor"	0.8333333333333333
+142	"Yun Jung Hoon born 1978"	"is"	"a Korean actor"	1.0
 Lotu-Iiga lives with his wife Jules in Onehunga . 
 143	"his wife"	"wife"	"Jules"	1.5
 143	"his wife"	"in"	"Onehunga"	1.3333333333333333
 143	"Jules"	"wife in"	"Onehunga"	-0.16666666666666669
 After independence in 1947 , Dr. Jivraj graced public office in various positions . 
+144	"independence"	"After in"	"1947"	-0.16666666666666669
 144	"independence"	"graced"	"Dr. Jivraj"	-0.16666666666666669
 144	"independence"	"graced"	"public office"	0.8333333333333333
 144	"independence"	"graced in"	"various positions"	0.6666666666666666
+144	"1947"	"in graced"	"Dr. Jivraj"	-0.25
+144	"1947"	"in graced"	"public office"	0.75
+144	"1947"	"in graced in"	"various positions"	0.5833333333333333
 144	"Dr. Jivraj"	"graced"	"public office"	1.0
 144	"Dr. Jivraj"	"graced in"	"various positions"	0.8333333333333333
 144	"public office"	"graced in"	"various positions"	-0.16666666666666669
@@ -2310,12 +2692,23 @@ Once leaving Essendon , Booth moved to Tasmania and captain-coached the Sandy Ba
 147	"Once leaving Essendon"	"moved"	"Booth"	0.0
 147	"Once leaving Essendon"	"moved to"	"Tasmania"	0.8333333333333333
 147	"Once leaving Essendon"	"moved and captain-coached"	"the Sandy Bay Football Club"	0.75
+147	"Once leaving Essendon"	"moved and captain-coached from"	"1959"	0.7
 147	"Booth"	"moved to"	"Tasmania"	0.8333333333333333
 147	"Booth"	"moved and captain-coached"	"the Sandy Bay Football Club"	0.75
+147	"Booth"	"moved and captain-coached from"	"1959"	0.7
+147	"Booth"	"moved and captain-coached to"	"1961."	0.7
 147	"Tasmania"	"moved and captain-coached"	"the Sandy Bay Football Club"	-0.08333333333333331
+147	"Tasmania"	"moved and captain-coached from"	"1959"	-0.1333333333333333
+147	"Tasmania"	"moved and captain-coached to"	"1961."	-0.1333333333333333
+147	"the Sandy Bay Football Club"	"captain-coached from"	"1959"	-0.16666666666666669
+147	"the Sandy Bay Football Club"	"captain-coached to"	"1961."	-0.16666666666666669
+147	"1959"	"captain-coached to"	"1961."	0.0
 After retiring as Miami Beach Fire Chief in 1999 , Garcia successfully ran for the Miami Beach City Commission and continued to serve in that capacity for 7 years . 
+148	"Miami Beach Fire Chief"	"retiring in"	"1999"	0.0
 148	"Miami Beach Fire Chief"	"as ran"	"Garcia"	-0.25
 148	"Miami Beach Fire Chief"	"as ran for"	"the Miami Beach City Commission"	0.5833333333333333
+148	"1999"	"in ran"	"Garcia"	-0.25
+148	"1999"	"in ran for"	"the Miami Beach City Commission"	0.5833333333333333
 148	"Garcia"	"ran for"	"the Miami Beach City Commission"	0.8333333333333333
 148	"Garcia"	"ran and continued to serve in"	"that capacity"	0.6428571428571428
 148	"the Miami Beach City Commission"	"ran and continued to serve in"	"that capacity"	-0.19047619047619047
@@ -2386,9 +2779,13 @@ For the 2009 Japanese Grand Prix , Brawn GP secured a single race sponsorship de
 150	"the medical shampoo"	"shampoo"	"Scalp-D"	1.5
 150	"the medical shampoo"	"has proved in"	"Japan"	1.2
 150	"the medical shampoo"	"has proved since"	"its launch"	1.2
+150	"the medical shampoo"	"has proved since launch in"	"2005."	1.1428571428571428
 150	"Scalp-D"	"shampoo has proved in"	"Japan"	-0.3
 150	"Scalp-D"	"shampoo has proved since"	"its launch"	-0.3
+150	"Scalp-D"	"shampoo has proved since launch in"	"2005."	-0.35714285714285715
 150	"Japan"	"proved since"	"its launch"	0.0
+150	"Japan"	"proved since launch in"	"2005."	-0.1333333333333333
+150	"its launch"	"in"	"2005."	1.3333333333333333
 David Segal died nine years later . 
 151	"David Segal"	"died"	"nine years"	1.0
 Foreign investors are declining to finance Hungary 's high budget and current account deficits , and the forint 's weakness in recent months threatens hundreds of thousands of families who took out foreign currency mortgages . 
@@ -2438,10 +2835,10 @@ Foreign investors are declining to finance Hungary 's high budget and current ac
 152	"families"	"took"	"foreign currency mortgages"	1.3333333333333333
 152	"who"	"took"	"foreign currency mortgages"	1.0
 On 2 January 1940 , after the commencement of World War II , he was appointed General Staff Officer Grade III in the Western Command headquarters of the Citizen Forces , working with the Intelligence Section . 
-153	"January"	"1940 was after"	"the commencement"	-0.08333333333333331
-153	"January"	"1940 was after commencement of"	"World War"	0.04999999999999999
-153	"January"	"1940 was after commencement of War"	"II"	0.08333333333333334
-153	"January"	"1940 was"	"he"	-0.25
+153	"2 January 1940"	"was after"	"the commencement"	0.0
+153	"2 January 1940"	"was after commencement of"	"World War"	0.1333333333333333
+153	"2 January 1940"	"was after commencement of War"	"II"	0.16666666666666666
+153	"2 January 1940"	"was"	"he"	-0.16666666666666669
 153	"the commencement"	"of"	"World War"	1.3333333333333333
 153	"the commencement"	"of War"	"II"	1.25
 153	"the commencement"	"was"	"he"	-0.16666666666666669
@@ -2513,13 +2910,25 @@ Similarly , he only rejoined the Bundestag after the next elections as replaceme
 158	"he"	"rejoined"	"the Bundestag"	1.0
 158	"he"	"rejoined after"	"the next elections"	0.8333333333333333
 158	"he"	"rejoined after elections as"	"replacement candidate"	0.7
+158	"he"	"rejoined after elections as candidate from"	"1964"	0.6428571428571428
+158	"he"	"rejoined to"	"1969."	0.8333333333333333
 158	"the Bundestag"	"rejoined after"	"the next elections"	-0.16666666666666669
 158	"the Bundestag"	"rejoined after elections as"	"replacement candidate"	-0.3
+158	"the Bundestag"	"rejoined after elections as candidate from"	"1964"	-0.35714285714285715
+158	"the Bundestag"	"rejoined to"	"1969."	-0.16666666666666669
 158	"the next elections"	"as"	"replacement candidate"	1.3333333333333333
+158	"the next elections"	"as candidate from"	"1964"	1.2
+158	"the next elections"	"rejoined to"	"1969."	0.0
+158	"replacement candidate"	"from"	"1964"	1.3333333333333333
+158	"replacement candidate"	"as elections rejoined to"	"1969."	0.1333333333333333
+158	"1964"	"from candidate as elections rejoined to"	"1969."	0.19047619047619047
 Zimmer ran for Mayor of Hoboken in 2009. 
 159	"Zimmer"	"ran for Hoboken"	"Mayor"	0.75
 159	"Zimmer"	"ran for"	"Mayor of Hoboken"	0.8333333333333333
+159	"Zimmer"	"ran in"	"2009."	0.8333333333333333
 159	"Mayor"	"Hoboken ran for"	"Mayor of Hoboken"	0.08333333333333331
+159	"Mayor"	"Hoboken ran in"	"2009."	0.08333333333333331
+159	"Mayor of Hoboken"	"ran in"	"2009."	0.0
 Lieutenant Commander Pavlic received the Purple Heart posthumously . 
 160	"Lieutenant Commander Pavlic"	"received"	"the Purple Heart"	1.0
 His work in synthesis and spectroscopy involved close cooperation with Achim Mueller . 
@@ -2558,11 +2967,11 @@ It was written by Norman Steinberg and David Frankel , based on the article " Co
 164	"the Love Goddesses"	"Convention ."	"by Bob Greene"	0.0
 164	"Esquire Magazine"	"."	"by Bob Greene"	0.0
 Tahar Rahim born 5 July 1981 is a French actor of Algerian origins . 
-165	"Tahar Rahim"	"born 1981"	"July"	0.8333333333333333
+165	"Tahar Rahim"	"born"	"5 July 1981"	1.0
 165	"Tahar Rahim"	"born is"	"a French actor"	0.8333333333333333
 165	"Tahar Rahim"	"born is actor of"	"Algerian origins"	0.7
-165	"July"	"born is"	"a French actor"	0.0
-165	"July"	"born is actor of"	"Algerian origins"	-0.1333333333333333
+165	"5 July 1981"	"born is"	"a French actor"	-0.16666666666666669
+165	"5 July 1981"	"born is actor of"	"Algerian origins"	-0.3
 165	"a French actor"	"of"	"Algerian origins"	1.3333333333333333
 The Prince is hurt . 
 166
@@ -2577,17 +2986,17 @@ He was called up for the Black Stars for a friendly game against Argentina natio
 167	"a friendly game"	"against team"	"Argentina"	1.25
 167	"a friendly game"	"against"	"Argentina national football team"	1.3333333333333333
 167	"a friendly game"	"for Stars for was and marked in"	"the game"	0.033333333333333354
-167	"a friendly game"	"for Stars for was and marked on 2009"	"October"	0.0
+167	"a friendly game"	"for Stars for was and marked on"	"1 October 2009"	0.033333333333333354
 167	"Argentina"	"team against game for Stars for was called for Stars for game against"	"Argentina national football team"	0.013888888888888895
 167	"Argentina"	"team against game for Stars for was and marked in"	"the game"	0.0888888888888889
-167	"Argentina"	"team against game for Stars for was and marked on 2009"	"October"	0.05555555555555555
+167	"Argentina"	"team against game for Stars for was and marked on"	"1 October 2009"	0.0888888888888889
 167	"Argentina"	"team against game for Stars for was and marked"	"his debut"	0.1388888888888889
 167	"Argentina national football team"	"against game for Stars for was and marked in"	"the game"	0.07500000000000001
-167	"Argentina national football team"	"against game for Stars for was and marked on 2009"	"October"	0.04166666666666666
+167	"Argentina national football team"	"against game for Stars for was and marked on"	"1 October 2009"	0.07500000000000001
 167	"Argentina national football team"	"against game for Stars for was and marked"	"his debut"	0.125
-167	"the game"	"marked on 2009"	"October"	-0.08333333333333331
+167	"the game"	"marked on"	"1 October 2009"	0.0
 167	"the game"	"marked"	"his debut"	0.16666666666666669
-167	"October"	"2009 marked"	"his debut"	0.25
+167	"1 October 2009"	"marked"	"his debut"	0.16666666666666669
 He then resumed test piloting , for SISA Airline , for fifteen years . 
 168	"He"	"resumed"	"test piloting"	1.0
 168	"He"	"resumed for"	"SISA Airline"	0.8333333333333333
@@ -2596,9 +3005,19 @@ He then resumed test piloting , for SISA Airline , for fifteen years .
 168	"test piloting"	"resumed for"	"fifteen years"	-0.16666666666666669
 168	"SISA Airline"	"resumed for"	"fifteen years"	0.0
 On August 29 , 2010 , the Jets waived defensive lineman Rodrique Wright , and wide receivers Aundrae Allison , Marcus Henry and Laveranues Coles . 
+169	"August"	"August"	"29"	1.5
+169	"August"	"2010 waived On"	"August 29  2010"	-0.08333333333333331
 169	"August"	"2010 waived"	"the Jets"	-0.25
 169	"August"	"2010 waived"	"defensive lineman"	0.75
 169	"August"	"2010 waived lineman"	"Rodrique Wright"	0.5833333333333333
+169	"29"	"August 2010 waived On"	"August 29  2010"	-0.1333333333333333
+169	"29"	"August 2010 waived"	"the Jets"	-0.3
+169	"29"	"August 2010 waived"	"defensive lineman"	0.7
+169	"29"	"August 2010 waived lineman"	"Rodrique Wright"	0.5333333333333333
+169	"August 29  2010"	"waived"	"the Jets"	-0.16666666666666669
+169	"August 29  2010"	"waived"	"defensive lineman"	0.8333333333333333
+169	"August 29  2010"	"waived lineman"	"Rodrique Wright"	0.6666666666666666
+169	"August 29  2010"	"waived ."	"wide receivers Aundrae Allison"	0.6666666666666666
 169	"the Jets"	"waived"	"defensive lineman"	1.0
 169	"the Jets"	"waived lineman"	"Rodrique Wright"	0.8333333333333333
 169	"the Jets"	"waived ."	"wide receivers Aundrae Allison"	0.8333333333333333
@@ -2643,26 +3062,26 @@ Ryerson 's Faculty of Community Services offers multi-disciplinary programs in h
 172	"Ryerson"	"Faculty of"	"Community Services"	0.8333333333333333
 172	"Ryerson"	"offers"	"multi-disciplinary programs"	0.8333333333333333
 172	"Ryerson"	"offers in"	"health"	0.6666666666666666
-172	"Ryerson"	"offers"	", early childhood education"	0.8333333333333333
+172	"Ryerson"	"offers"	" early childhood education"	0.8333333333333333
 172	"Ryerson 's Faculty"	"of"	"Community Services"	1.3333333333333333
 172	"Ryerson 's Faculty"	"offers"	"multi-disciplinary programs"	1.0
 172	"Ryerson 's Faculty"	"offers in"	"health"	0.8333333333333333
-172	"Ryerson 's Faculty"	"offers"	", early childhood education"	1.0
+172	"Ryerson 's Faculty"	"offers"	" early childhood education"	1.0
 172	"Ryerson 's Faculty"	"offers ."	"justice"	0.8333333333333333
 172	"Community Services"	"of offers"	"multi-disciplinary programs"	0.75
 172	"Community Services"	"of offers in"	"health"	0.5833333333333333
-172	"Community Services"	"of offers"	", early childhood education"	0.75
+172	"Community Services"	"of offers"	" early childhood education"	0.75
 172	"Community Services"	"of offers ."	"justice"	0.5833333333333333
 172	"Community Services"	"of offers . justice and"	"community development"	0.45
 172	"multi-disciplinary programs"	"offers in"	"health"	-0.16666666666666669
-172	"multi-disciplinary programs"	"offers"	", early childhood education"	0.0
+172	"multi-disciplinary programs"	"offers"	" early childhood education"	0.0
 172	"multi-disciplinary programs"	"offers ."	"justice"	-0.16666666666666669
 172	"multi-disciplinary programs"	"offers . justice and"	"community development"	-0.3
-172	"health"	"offers"	", early childhood education"	0.16666666666666669
+172	"health"	"offers"	" early childhood education"	0.16666666666666669
 172	"health"	"offers ."	"justice"	0.0
 172	"health"	"offers . justice and"	"community development"	-0.1333333333333333
-172	", early childhood education"	"offers ."	"justice"	-0.16666666666666669
-172	", early childhood education"	"offers . justice and"	"community development"	-0.3
+172	" early childhood education"	"offers ."	"justice"	-0.16666666666666669
+172	" early childhood education"	"offers . justice and"	"community development"	-0.3
 172	"justice"	"and"	"community development"	1.3333333333333333
 A woman Tina arrives at Cholera street where she takes up residence and works as a prostitute . 
 173	"A woman"	"woman"	"Tina"	1.5
@@ -2744,23 +3163,29 @@ After the end of political career , Akhundov served as the Vice President of the
 177	"Akhundov"	"served as"	"the Vice President"	0.8333333333333333
 177	"Akhundov"	"served as President of Sciences"	"Academy"	0.6666666666666666
 177	"Akhundov"	"served as President of"	"the Azerbaijan National Academy of Sciences"	0.7
+177	"Akhundov"	"served until"	"1972."	0.8333333333333333
 177	"the Vice President"	"of Sciences"	"Academy"	1.25
 177	"the Vice President"	"of"	"the Azerbaijan National Academy of Sciences"	1.3333333333333333
+177	"the Vice President"	"served until"	"1972."	0.0
 177	"Academy"	"Sciences of President served as President of"	"the Azerbaijan National Academy of Sciences"	0.033333333333333354
+177	"Academy"	"Sciences of President served until"	"1972."	0.16666666666666666
+177	"the Azerbaijan National Academy of Sciences"	"of President served until"	"1972."	0.1333333333333333
 They were given a revision session on how to pray , and character building . 
 178	"They"	"were given"	"a revision session"	0.8333333333333333
 178	"They"	"were . to and"	"character building"	0.7
 178	"a revision session"	"were . to and"	"character building"	-0.1333333333333333
 Clayton State University is an NCAA Division II member , competing in one of the top conferences in the nation at that level - the Peach Belt Conference . 
-179	"Clayton State University"	"is member"	"NCAA Division"	0.8333333333333333
 179	"Clayton State University"	"is"	"an NCAA Division II member"	1.0
+179	"Clayton State University"	"is competing in"	"one"	0.75
 179	"Clayton State University"	"is competing in one of"	"the top conferences"	0.6666666666666666
-179	"NCAA Division"	"is"	"an NCAA Division II member"	0.16666666666666669
-179	"NCAA Division"	"is competing in one of"	"the top conferences"	-0.16666666666666666
-179	"NCAA Division"	"is in"	"the nation"	0.0
+179	"an NCAA Division II member"	"is competing in"	"one"	-0.25
 179	"an NCAA Division II member"	"is competing in one of"	"the top conferences"	-0.33333333333333337
 179	"an NCAA Division II member"	"is in"	"the nation"	-0.16666666666666669
 179	"an NCAA Division II member"	"is . Conference"	"level"	-0.25
+179	"one"	"of"	"the top conferences"	1.3333333333333333
+179	"one"	"in is in"	"the nation"	0.08333333333333331
+179	"one"	"in is . Conference"	"level"	0.0
+179	"one"	"in is ."	"level - the Peach Belt Conference"	0.08333333333333331
 179	"the top conferences"	"of one in is in"	"the nation"	0.16666666666666666
 179	"the top conferences"	"of one in is . Conference"	"level"	0.08333333333333334
 179	"the top conferences"	"of one in is ."	"level - the Peach Belt Conference"	0.16666666666666666
@@ -2805,16 +3230,17 @@ Some academic philosophers have criticized Rand for what they consider her lack 
 181	"limited understanding"	"of"	"philosophical subject matter"	1.3333333333333333
 After the Muslim victory at the Battle of Sagrajas 1086 put at temporary stop to Christian expansion , the Almoravid dynasty constructed a unified Al-Andalus with its capital in Granada , ruling until mid-12th century . 
 182	"the Muslim victory"	"at put"	"Battle"	1.25
-182	"the Muslim victory"	"at put of 1086"	"Sagrajas"	1.1666666666666667
+182	"the Muslim victory"	"at put of"	"Sagrajas 1086"	1.2
 182	"the Muslim victory"	"at put at"	"temporary stop"	1.2
 182	"the Muslim victory"	"constructed to"	"Christian expansion"	0.0
-182	"Battle"	"put of 1086"	"Sagrajas"	0.25
+182	"Battle"	"put of"	"Sagrajas 1086"	0.16666666666666669
 182	"Battle"	"put at"	"temporary stop"	0.8333333333333333
 182	"Battle"	"put at victory constructed to"	"Christian expansion"	-0.16666666666666666
 182	"Battle"	"put at victory constructed"	"the Almoravid dynasty"	-0.33333333333333337
-182	"Sagrajas"	"1086 put at"	"temporary stop"	0.5833333333333333
-182	"Sagrajas"	"1086 of put at victory constructed to"	"Christian expansion"	-0.20833333333333331
-182	"Sagrajas"	"1086 of put at victory constructed"	"the Almoravid dynasty"	-0.375
+182	"Sagrajas 1086"	"put at"	"temporary stop"	0.6666666666666666
+182	"Sagrajas 1086"	"of put at victory constructed to"	"Christian expansion"	-0.19047619047619047
+182	"Sagrajas 1086"	"of put at victory constructed"	"the Almoravid dynasty"	-0.35714285714285715
+182	"Sagrajas 1086"	"of put at victory constructed"	"a unified Al-Andalus"	0.6428571428571428
 182	"temporary stop"	"at put at victory constructed to"	"Christian expansion"	-0.19047619047619047
 182	"temporary stop"	"at put at victory constructed"	"the Almoravid dynasty"	-0.35714285714285715
 182	"temporary stop"	"at put at victory constructed"	"a unified Al-Andalus"	0.6428571428571428
@@ -2842,7 +3268,10 @@ Lancaster was nominated four times for Academy Awards and won once - for his wor
 183	"four times"	"was and won for work in"	" Elmer Gantry "	-0.19047619047619047
 183	"Academy Awards"	"for times was and won for"	"his work"	0.0
 183	"Academy Awards"	"for times was and won for work in"	" Elmer Gantry "	-0.05714285714285716
+183	"Academy Awards"	"for times was and won in"	"1960."	0.0
 183	"his work"	"in"	" Elmer Gantry "	1.3333333333333333
+183	"his work"	"won in"	"1960."	0.0
+183	" Elmer Gantry "	"in work won in"	"1960."	0.1333333333333333
 The shield can be shown surrounded by the insignia of an honorary Knight Commander of the Most Honorable Order of the Bath KCB , an award the General received after the first Gulf War . 
 184	"The shield"	"can be shown surrounded by"	"the insignia"	0.6666666666666666
 184	"The shield"	"can be shown surrounded by insignia of"	"an honorary Knight Commander"	0.625
@@ -2867,12 +3296,23 @@ She was discharged from the Sirio-Libanes Hospital on the June 23 , 2008 after s
 185	"She"	"was discharged from"	"the Sirio-Libanes"	0.75
 185	"She"	"was discharged"	"Hospital"	0.8333333333333333
 185	"She"	"was ."	"June"	0.8333333333333333
+185	"She"	"was . June"	"23"	0.75
+185	"She"	"was ."	"2008"	0.8333333333333333
 185	"the Sirio-Libanes"	"discharged"	"Hospital"	0.16666666666666669
 185	"the Sirio-Libanes"	"from was ."	"June"	0.08333333333333331
+185	"the Sirio-Libanes"	"from was . June"	"23"	0.0
+185	"the Sirio-Libanes"	"from was ."	"2008"	0.08333333333333331
 185	"the Sirio-Libanes"	"from was . after suffering"	"strong chest pains"	-0.04999999999999999
 185	"Hospital"	"was ."	"June"	0.0
+185	"Hospital"	"was . June"	"23"	-0.08333333333333331
+185	"Hospital"	"was ."	"2008"	0.0
 185	"Hospital"	"was . after suffering"	"strong chest pains"	-0.1333333333333333
+185	"June"	"June"	"23"	1.5
+185	"June"	"."	"2008"	0.0
 185	"June"	". after suffering"	"strong chest pains"	0.25
+185	"23"	"."	"2008"	-0.16666666666666669
+185	"23"	". after suffering"	"strong chest pains"	0.08333333333333331
+185	"2008"	". after suffering"	"strong chest pains"	0.25
 However , the trio did appear on the 12-date benefit tour for Action for Research into Multiple Sclerosis , as well as on the album " Guitar Boogie " . 
 186	"the trio"	"did appear on"	"the 12-date benefit tour"	0.75
 186	"the trio"	"did appear on tour for"	"Action"	0.6666666666666666
@@ -2916,8 +3356,12 @@ Among modern critics , Steve Biodrowski of " Cinefantastique " wrote , " In the 
 188	"its storyline"	"in slim . to be considered"	"a truly great film"	0.0
 188	"its characterizations"	"in . to be considered"	"a truly great film"	0.04999999999999999
 More widely , in late August , 2007 the group was accused in " The Telegraph " , a conservative British newspaper , of torturing , detaining , and firing on unarmed protesters who had objected to policies of the Hamas government . 
+189	"late August"	"was group"	"2007"	0.0
 189	"late August"	"was"	"2007 the group"	-0.16666666666666669
 189	"late August"	"was"	"The Telegraph"	0.8333333333333333
+189	"2007"	"was"	"2007 the group"	-0.16666666666666669
+189	"2007"	"was"	"The Telegraph"	0.8333333333333333
+189	"2007"	"was :"	"a conservative British newspaper"	0.6666666666666666
 189	"2007 the group"	"was"	"The Telegraph"	1.0
 189	"2007 the group"	"was :"	"a conservative British newspaper"	0.8333333333333333
 189	"The Telegraph"	"was :"	"a conservative British newspaper"	-0.16666666666666669
@@ -2932,17 +3376,17 @@ More widely , in late August , 2007 the group was accused in " The Telegraph " ,
 The court 's official seat is in The Hague , Netherlands , but its proceedings may take place anywhere . 
 190	"The court"	"is"	"The court 's official seat"	-0.16666666666666669
 190	"The court"	"is in Netherlands"	"Hague"	0.5833333333333333
-190	"The court"	"is in"	"The Hague , Netherlands"	0.6666666666666666
+190	"The court"	"is in"	"The Hague  Netherlands"	0.6666666666666666
 190	"The court"	"is but may"	"its proceedings"	0.5833333333333333
 190	"The court 's official seat"	"is in Netherlands"	"Hague"	0.75
-190	"The court 's official seat"	"is in"	"The Hague , Netherlands"	0.8333333333333333
+190	"The court 's official seat"	"is in"	"The Hague  Netherlands"	0.8333333333333333
 190	"The court 's official seat"	"is but may"	"its proceedings"	0.75
 190	"The court 's official seat"	"is but may take"	"place"	0.7
-190	"Hague"	"Netherlands is in"	"The Hague , Netherlands"	0.08333333333333331
+190	"Hague"	"Netherlands is in"	"The Hague  Netherlands"	0.08333333333333331
 190	"Hague"	"Netherlands is but may"	"its proceedings"	0.0
 190	"Hague"	"Netherlands is but may take"	"place"	-0.04999999999999999
-190	"The Hague , Netherlands"	"is but may"	"its proceedings"	-0.08333333333333331
-190	"The Hague , Netherlands"	"is but may take"	"place"	-0.1333333333333333
+190	"The Hague  Netherlands"	"is but may"	"its proceedings"	-0.08333333333333331
+190	"The Hague  Netherlands"	"is but may take"	"place"	-0.1333333333333333
 190	"its proceedings"	"may take"	"place"	0.8333333333333333
 Donald Markwel argued that in the absence of such an international approach , there would be a risk of worsening international relations and possibly even world war arising from similar economic factors to those present during the depression of the 1930s . 
 191	"Donald Markwel"	"argued that would in"	"the absence"	0.7
@@ -3046,20 +3490,14 @@ Although the numbers on each side were about equal , William had both cavalry an
 197	"only foot soldiers"	"and if"	"any archers"	1.25
 The highest mountain in this range is the Moncayo 2,313 m and , despite getting less snow than in the Pyrenees , it has several ski resorts . 
 198	"The highest mountain"	"in"	"this range"	1.3333333333333333
-198	"The highest mountain"	"is m 2,313"	"Moncayo"	0.75
-198	"The highest mountain"	"is"	"the Moncayo 2,313 m"	1.0
+198	"The highest mountain"	"is"	"the Moncayo 2313 m"	1.0
 198	"The highest mountain"	"is and has despite getting"	"less snow"	0.6666666666666666
-198	"this range"	"in is m 2,313"	"Moncayo"	0.5
-198	"this range"	"in is"	"the Moncayo 2,313 m"	0.75
+198	"this range"	"in is"	"the Moncayo 2313 m"	0.75
 198	"this range"	"in is and has despite getting"	"less snow"	0.41666666666666663
 198	"this range"	"in is and has despite getting than in"	"the Pyrenees"	0.375
-198	"Moncayo"	"2,313 is"	"the Moncayo 2,313 m"	0.25
-198	"Moncayo"	"2,313 is and has despite getting"	"less snow"	-0.08333333333333334
-198	"Moncayo"	"2,313 is and has despite getting than in"	"the Pyrenees"	-0.125
-198	"Moncayo"	"2,313 is and has"	"it"	0.0
-198	"the Moncayo 2,313 m"	"is and has despite getting"	"less snow"	-0.33333333333333337
-198	"the Moncayo 2,313 m"	"is and has despite getting than in"	"the Pyrenees"	-0.375
-198	"the Moncayo 2,313 m"	"is and has"	"it"	-0.25
+198	"the Moncayo 2313 m"	"is and has despite getting"	"less snow"	-0.33333333333333337
+198	"the Moncayo 2313 m"	"is and has despite getting than in"	"the Pyrenees"	-0.375
+198	"the Moncayo 2313 m"	"is and has"	"it"	-0.25
 198	"less snow"	"getting than in"	"the Pyrenees"	-0.25
 198	"less snow"	"getting has"	"it"	-0.25
 198	"less snow"	"getting has"	"several ski resorts"	0.75

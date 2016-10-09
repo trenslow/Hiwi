@@ -124,17 +124,17 @@ He also had stints with the New York Philharmonic , Metropolitan Opera Orchestra
 6	"Metropolitan Opera Orchestra"	"Symphony and"	"Symphony"	1.25
 6	"Metropolitan Opera Orchestra"	"Symphony of"	"the Air"	1.25
 6	"Metropolitan Opera Orchestra"	"Philharmonic with had successor"	"the NBC Symphony"	0.1333333333333333
-6	"Metropolitan Opera Orchestra"	"Philharmonic with had"	", the NBC Symphony 's successor"	0.3
+6	"Metropolitan Opera Orchestra"	"Philharmonic with had"	" the NBC Symphony 's successor"	0.3
 6	"CBS Symphony"	"and"	"Symphony"	1.3333333333333333
 6	"CBS Symphony"	"of"	"the Air"	1.3333333333333333
 6	"CBS Symphony"	"Orchestra Philharmonic with had successor"	"the NBC Symphony"	0.16666666666666666
-6	"CBS Symphony"	"Orchestra Philharmonic with had"	", the NBC Symphony 's successor"	0.33333333333333337
+6	"CBS Symphony"	"Orchestra Philharmonic with had"	" the NBC Symphony 's successor"	0.33333333333333337
 6	"Symphony"	"Symphony of"	"the Air"	0.0
 6	"Symphony"	"and Symphony Orchestra Philharmonic with had successor"	"the NBC Symphony"	0.20833333333333331
-6	"Symphony"	"and Symphony Orchestra Philharmonic with had"	", the NBC Symphony 's successor"	0.375
+6	"Symphony"	"and Symphony Orchestra Philharmonic with had"	" the NBC Symphony 's successor"	0.375
 6	"the Air"	"of Symphony Orchestra Philharmonic with had successor"	"the NBC Symphony"	0.20833333333333331
-6	"the Air"	"of Symphony Orchestra Philharmonic with had"	", the NBC Symphony 's successor"	0.375
-6	"the NBC Symphony"	"had"	", the NBC Symphony 's successor"	0.16666666666666669
+6	"the Air"	"of Symphony Orchestra Philharmonic with had"	" the NBC Symphony 's successor"	0.375
+6	"the NBC Symphony"	"had"	" the NBC Symphony 's successor"	0.16666666666666669
 In recent weeks , as the incentive wars have escalated , other automakers have beefed up their warranties . 
 7	"recent weeks"	"have as have"	"the incentive wars"	0.08333333333333331
 7	"recent weeks"	"have"	"other automakers"	-0.16666666666666669
@@ -210,21 +210,33 @@ In its most recent survey , the Congress for New Urbanism , a nonprofit organiza
 11	"the Congress"	"reported"	"the Congress for New Urbanism"	-0.16666666666666669
 11	"the Congress"	"Urbanism"	"a nonprofit organization"	1.0
 11	"the Congress"	"Urbanism organization based in"	"Chicago"	0.7
+11	"the Congress"	"reported communities"	"648"	0.6666666666666666
 11	"the Congress for New Urbanism"	"Urbanism"	"a nonprofit organization"	1.5
 11	"the Congress for New Urbanism"	"organization based in"	"Chicago"	1.2
+11	"the Congress for New Urbanism"	"reported communities"	"648"	0.8333333333333333
 11	"the Congress for New Urbanism"	"reported"	"648 neighborhood-scale New Urbanist communities"	1.0
 11	"a nonprofit organization"	"based in"	"Chicago"	1.25
+11	"a nonprofit organization"	"reported communities"	"648"	0.6666666666666666
 11	"a nonprofit organization"	"reported"	"648 neighborhood-scale New Urbanist communities"	0.8333333333333333
 11	"a nonprofit organization"	"reported communities in"	"the United States"	0.5833333333333333
+11	"Chicago"	"in based organization reported communities"	"648"	0.5
 11	"Chicago"	"in based organization reported"	"648 neighborhood-scale New Urbanist communities"	0.6666666666666666
 11	"Chicago"	"in based organization reported communities in"	"the United States"	0.41666666666666663
 11	"Chicago"	"in based organization reported ."	"an increase"	0.5
+11	"648"	"reported"	"648 neighborhood-scale New Urbanist communities"	0.16666666666666669
+11	"648"	"communities in"	"the United States"	0.8333333333333333
+11	"648"	"reported ."	"an increase"	0.0
+11	"648"	"reported . increase of"	"176"	-0.1333333333333333
 11	"648 neighborhood-scale New Urbanist communities"	"in"	"the United States"	1.3333333333333333
 11	"648 neighborhood-scale New Urbanist communities"	"reported ."	"an increase"	-0.16666666666666669
+11	"648 neighborhood-scale New Urbanist communities"	"reported . increase of"	"176"	-0.3
 11	"648 neighborhood-scale New Urbanist communities"	"reported . increase over"	"a 12-month period"	-0.3
 11	"the United States"	"in reported ."	"an increase"	0.08333333333333331
+11	"the United States"	"in reported . increase of"	"176"	-0.04999999999999999
 11	"the United States"	"in reported . increase over"	"a 12-month period"	-0.04999999999999999
+11	"an increase"	"of"	"176"	1.3333333333333333
 11	"an increase"	"over"	"a 12-month period"	1.3333333333333333
+11	"176"	"increase over"	"a 12-month period"	0.0
 Meanwhile , the truth - that in most families where child abuse sexual or otherwise takes place , women are also victimized , either through dominance and control or actual violence - that reality is smokescreened , and the problem of the powerful abusing their power is perpetuated . 
 12	"truth"	"in"	"most families"	1.3333333333333333
 12	"truth"	"."	"child abuse"	0.0
@@ -277,9 +289,9 @@ We can use a little more of that trust this year .
 16	"We"	"can use"	"this year"	0.8333333333333333
 16	"that trust"	"of more use"	"this year"	0.3
 The Embassy said 6,700 Americans were in Pakistan . 
-17	"The Embassy"	"said were"	"6,700 Americans"	0.8333333333333333
+17	"The Embassy"	"said were"	"6700 Americans"	0.8333333333333333
 17	"The Embassy"	"said were in"	"Pakistan"	0.75
-17	"6,700 Americans"	"were in"	"Pakistan"	0.8333333333333333
+17	"6700 Americans"	"were in"	"Pakistan"	0.8333333333333333
 Along with Dow Jones and Microsoft , the companies included CNN , but not its parent , AOL Time Warner . 
 18	"Dow Jones"	"and"	"Microsoft"	1.3333333333333333
 18	"Dow Jones"	"with included"	"the companies"	-0.25
@@ -330,8 +342,11 @@ A large influx is going to create problems .
 23	"A large influx"	"is going to create"	"problems"	0.7
 Morningwood Ulysses S. Grant , the second-ranked basset hound in 1998 , was received , the quota had been filled . 
 24	"Morningwood Ulysses S. Grant"	"Grant"	"the second-ranked basset hound"	1.5
+24	"Morningwood Ulysses S. Grant"	"hound in"	"1998"	1.25
 24	"Morningwood Ulysses S. Grant"	"was had"	"the quota"	0.8333333333333333
+24	"the second-ranked basset hound"	"in"	"1998"	1.3333333333333333
 24	"the second-ranked basset hound"	"was had"	"the quota"	0.6666666666666666
+24	"1998"	"in hound was had"	"the quota"	0.5333333333333333
 McGaughey said that Personal Ensign might race again in New York this year and definitely would race next year and be pointed for the Breeders ' Cup . 
 25	"McGaughey"	"said that might"	"Personal Ensign"	0.75
 25	"McGaughey"	"said that might race in"	"New York"	0.6666666666666666
@@ -423,22 +438,30 @@ In lieu of flowers , donations in his memory can be made to the International My
 31	"flowers"	"of lieu can"	"donations"	-0.3
 31	"flowers"	"of lieu can donations in"	"his memory"	-0.04999999999999999
 31	"flowers"	"of lieu can be made to"	"the International Myeloma Foundation"	0.4
+31	"flowers"	"of lieu can ."	"12650"	0.5333333333333333
 31	"donations"	"in"	"his memory"	1.3333333333333333
 31	"donations"	"can be made to"	"the International Myeloma Foundation"	0.7
+31	"donations"	"can ."	"12650"	0.8333333333333333
 31	"donations"	"can ."	"Riverside Drive"	0.8333333333333333
 31	"his memory"	"in can be made to"	"the International Myeloma Foundation"	0.45
+31	"his memory"	"in can ."	"12650"	0.5833333333333333
 31	"his memory"	"in can ."	"Riverside Drive"	0.5833333333333333
-31	"his memory"	"in can . Drive 206"	"Suite"	0.45
+31	"his memory"	"in can . Drive"	"Suite 206"	0.5
+31	"the International Myeloma Foundation"	"to made can ."	"12650"	0.1333333333333333
 31	"the International Myeloma Foundation"	"to made can ."	"Riverside Drive"	0.1333333333333333
-31	"the International Myeloma Foundation"	"to made can . Drive 206"	"Suite"	0.0
+31	"the International Myeloma Foundation"	"to made can . Drive"	"Suite 206"	0.04999999999999999
 31	"the International Myeloma Foundation"	"to made can . Drive CA"	"North Hollywood"	0.0
-31	"the International Myeloma Foundation"	"to made can . Drive"	"North Hollywood , CA"	0.04999999999999999
-31	"Riverside Drive"	"206"	"Suite"	1.3333333333333333
+31	"the International Myeloma Foundation"	"to made can . Drive"	"North Hollywood  CA"	0.04999999999999999
+31	"12650"	"."	"Riverside Drive"	0.0
+31	"12650"	". Drive"	"Suite 206"	0.16666666666666669
+31	"12650"	". Drive CA"	"North Hollywood"	0.25
+31	"12650"	". Drive"	"North Hollywood  CA"	0.16666666666666669
+31	"Riverside Drive"	"Drive"	"Suite 206"	1.5
 31	"Riverside Drive"	"CA"	"North Hollywood"	1.3333333333333333
-31	"Riverside Drive"	"Drive"	"North Hollywood , CA"	1.5
-31	"Suite"	"Drive CA"	"North Hollywood"	0.0
-31	"Suite"	"Drive"	"North Hollywood , CA"	0.16666666666666669
-31	"North Hollywood"	"CA Drive can . Drive"	"North Hollywood , CA"	0.04999999999999999
+31	"Riverside Drive"	"Drive"	"North Hollywood  CA"	1.5
+31	"Suite 206"	"Drive CA"	"North Hollywood"	-0.16666666666666669
+31	"Suite 206"	"Drive"	"North Hollywood  CA"	0.0
+31	"North Hollywood"	"CA Drive can . Drive"	"North Hollywood  CA"	0.04999999999999999
 Julian Stark does his own hapless stunts in his takeoff on the " Hercules " movies starring Steve Reeves ; Shannon Plumb contributes a Chaplinesque " Diary of a Mad Housewife . " 
 32	"Julian Stark"	"does stunts"	"his"	0.8333333333333333
 32	"Julian Stark"	"does"	"his own hapless stunts"	1.0
@@ -484,24 +507,24 @@ The negative outlook also reflects the possibility of " further managerial insta
 33	"The negative outlook"	"reflects"	"the possibility"	1.0
 33	"The negative outlook"	"reflects possibility of"	"further managerial instability"	0.75
 33	"The negative outlook"	"reflects possibility of instability and"	"movement"	0.6666666666666666
-33	"The negative outlook"	"reflects"	", financial penalties"	1.0
+33	"The negative outlook"	"reflects"	" financial penalties"	1.0
 33	"the possibility"	"of"	"further managerial instability"	1.3333333333333333
 33	"the possibility"	"of instability and"	"movement"	1.2
-33	"the possibility"	"reflects"	", financial penalties"	0.0
+33	"the possibility"	"reflects"	" financial penalties"	0.0
 33	"the possibility"	"reflects penalties"	"findings"	-0.16666666666666669
 33	"the possibility"	"reflects penalties findings supporting"	"shareholder litigation"	-0.3
 33	"further managerial instability"	"and"	"movement"	1.3333333333333333
-33	"further managerial instability"	"of reflects"	", financial penalties"	0.25
+33	"further managerial instability"	"of reflects"	" financial penalties"	0.25
 33	"further managerial instability"	"of reflects penalties"	"findings"	0.08333333333333331
 33	"further managerial instability"	"of reflects penalties findings supporting"	"shareholder litigation"	-0.04999999999999999
 33	"further managerial instability"	"of reflects penalties findings supporting litigation and"	"further reserve adjustments"	-0.10714285714285715
-33	"movement"	"and instability of reflects"	", financial penalties"	0.33333333333333337
+33	"movement"	"and instability of reflects"	" financial penalties"	0.33333333333333337
 33	"movement"	"and instability of reflects penalties"	"findings"	0.16666666666666666
 33	"movement"	"and instability of reflects penalties findings supporting"	"shareholder litigation"	0.033333333333333354
 33	"movement"	"and instability of reflects penalties findings supporting litigation and"	"further reserve adjustments"	-0.023809523809523808
-33	", financial penalties"	"penalties"	"findings"	1.5
-33	", financial penalties"	"findings supporting"	"shareholder litigation"	1.25
-33	", financial penalties"	"findings supporting litigation and"	"further reserve adjustments"	1.1666666666666667
+33	" financial penalties"	"penalties"	"findings"	1.5
+33	" financial penalties"	"findings supporting"	"shareholder litigation"	1.25
+33	" financial penalties"	"findings supporting litigation and"	"further reserve adjustments"	1.1666666666666667
 33	"findings"	"supporting"	"shareholder litigation"	1.3333333333333333
 33	"findings"	"supporting litigation and"	"further reserve adjustments"	1.2
 33	"shareholder litigation"	"and"	"further reserve adjustments"	1.3333333333333333
@@ -551,26 +574,41 @@ Eventually , they say , fares should cover about 50 percent of the costs of the 
 36	"fares"	"should cover percent of costs of"	"the system"	0.6428571428571428
 36	"about 50 percent"	"of"	"the costs"	1.3333333333333333
 36	"about 50 percent"	"of costs of"	"the system"	1.2
+36	"about 50 percent"	"cover up from percent 38"	"25"	-0.33333333333333337
 36	"about 50 percent"	"cover up from"	"the current 25 to 38 percent"	-0.25
 36	"the costs"	"of"	"the system"	1.3333333333333333
+36	"the costs"	"of cover up from percent 38"	"25"	-0.08333333333333334
 36	"the costs"	"of cover up from"	"the current 25 to 38 percent"	0.0
+36	"the system"	"of costs of cover up from percent 38"	"25"	0.0
 36	"the system"	"of costs of cover up from"	"the current 25 to 38 percent"	0.08333333333333334
 36	"the system"	"of costs of cover depending on"	"the method"	0.08333333333333334
+36	"25"	"38 percent from up cover should . say should cover up from"	"the current 25 to 38 percent"	-0.031746031746031744
+36	"25"	"38 percent from cover depending on"	"the method"	0.08333333333333334
+36	"25"	"38 percent from cover depending on method of"	"calculation"	0.0
 36	"the current 25 to 38 percent"	"from cover depending on"	"the method"	0.0
 36	"the current 25 to 38 percent"	"from cover depending on method of"	"calculation"	-0.08333333333333334
 36	"the method"	"of"	"calculation"	1.3333333333333333
 Taken for granted it sometimes may be , but this year the Defense Department sought $ 950 million in assistance from Congress and secured half that amount for Ankara 's huge military machine , which includes the biggest standing army in NATO outside the United States . 
 37	"it"	"may but sought"	"this year"	0.75
 37	"it"	"may but sought"	"the Defense Department"	0.75
+37	"it"	"may but sought $"	"million"	0.7
 37	"this year"	"sought"	"the Defense Department"	0.0
+37	"this year"	"sought $"	"million"	0.8333333333333333
 37	"this year"	"sought in"	"assistance"	0.8333333333333333
 37	"this year"	"sought from"	"Congress"	0.8333333333333333
 37	"this year"	"sought and secured"	"half"	0.75
+37	"the Defense Department"	"sought $"	"million"	0.8333333333333333
 37	"the Defense Department"	"sought in"	"assistance"	0.8333333333333333
 37	"the Defense Department"	"sought from"	"Congress"	0.8333333333333333
 37	"the Defense Department"	"sought and secured"	"half"	0.75
 37	"the Defense Department"	"sought and secured"	"that amount"	0.75
 37	"the Defense Department"	"sought and secured amount for machine"	"Ankara"	0.6428571428571428
+37	"million"	"sought in"	"assistance"	0.0
+37	"million"	"sought from"	"Congress"	0.0
+37	"million"	"sought and secured"	"half"	-0.08333333333333331
+37	"million"	"sought and secured"	"that amount"	-0.08333333333333331
+37	"million"	"sought and secured amount for machine"	"Ankara"	-0.19047619047619047
+37	"million"	"sought and secured amount for"	"Ankara 's huge military machine"	-0.16666666666666666
 37	"assistance"	"sought from"	"Congress"	0.0
 37	"assistance"	"sought and secured"	"half"	-0.08333333333333331
 37	"assistance"	"sought and secured"	"that amount"	-0.08333333333333331
@@ -626,8 +664,8 @@ But if it does happen , Senator Pell will no longer be around to receive special
 39	"Senator Pell"	"will . around to receive"	"special back-room briefings"	0.6666666666666666
 39	"Senator Pell"	"will . around to receive from"	"Uri Geller"	0.6428571428571428
 39	"special back-room briefings"	"receive from"	"Uri Geller"	-0.16666666666666669
-39	"special back-room briefings"	"receive"	", the psychic spoon-bender"	0.0
-39	"Uri Geller"	"receive"	", the psychic spoon-bender"	0.16666666666666669
+39	"special back-room briefings"	"receive"	" the psychic spoon-bender"	0.0
+39	"Uri Geller"	"receive"	" the psychic spoon-bender"	0.16666666666666669
 The Giants convened today to begin their first preparations for Monday night 's game in Minnesota against the Vikings . 
 40	"The Giants"	"convened"	"today"	1.0
 40	"The Giants"	"convened to begin preparations"	"their"	0.7
@@ -660,37 +698,47 @@ John Lamar Odom , pastor of the First Presbyterian Church in Oceanside , L.I. , 
 41	"John Lamar Odom"	"Odom"	"pastor"	1.5
 41	"John Lamar Odom"	"pastor of"	"the First Presbyterian Church"	1.25
 41	"John Lamar Odom"	"pastor of Church in L.I."	"Oceanside"	1.1428571428571428
-41	"John Lamar Odom"	"pastor of Church in"	"Oceanside , L.I."	1.1666666666666667
+41	"John Lamar Odom"	"pastor of Church in"	"Oceanside  L.I."	1.1666666666666667
 41	"John Lamar Odom"	"were"	"yesterday"	1.0
 41	"pastor"	"of"	"the First Presbyterian Church"	1.3333333333333333
 41	"pastor"	"of Church in L.I."	"Oceanside"	1.1666666666666667
-41	"pastor"	"of Church in"	"Oceanside , L.I."	1.2
+41	"pastor"	"of Church in"	"Oceanside  L.I."	1.2
 41	"pastor"	"were"	"yesterday"	0.8333333333333333
 41	"the First Presbyterian Church"	"in L.I."	"Oceanside"	1.25
-41	"the First Presbyterian Church"	"in"	"Oceanside , L.I."	1.3333333333333333
+41	"the First Presbyterian Church"	"in"	"Oceanside  L.I."	1.3333333333333333
 41	"the First Presbyterian Church"	"of pastor were"	"yesterday"	0.7
-41	"Oceanside"	"L.I. in Church of pastor were Odom pastor of Church in"	"Oceanside , L.I."	-0.01785714285714285
+41	"Oceanside"	"L.I. in Church of pastor were Odom pastor of Church in"	"Oceanside  L.I."	-0.01785714285714285
 41	"Oceanside"	"L.I. in Church of pastor were"	"yesterday"	0.625
-41	"Oceanside , L.I."	"in Church of pastor were"	"yesterday"	0.6428571428571428
+41	"Oceanside  L.I."	"in Church of pastor were"	"yesterday"	0.6428571428571428
 The World Health Organization has issued a report detailing an ambitious , often covert effort by the tobacco industry to curb global anti-smoking initiatives , dating back to the late 1980 's . 
 42	"The World Health Organization"	"has issued"	"a report"	0.8333333333333333
-42	"The World Health Organization"	"has issued report detailing"	"an ambitious , often covert effort"	0.7
+42	"The World Health Organization"	"has issued report detailing"	"an ambitious  often covert effort"	0.7
 42	"The World Health Organization"	"has issued report detailing effort by"	"the tobacco industry"	0.6428571428571428
-42	"a report"	"detailing"	"an ambitious , often covert effort"	1.3333333333333333
+42	"a report"	"detailing"	"an ambitious  often covert effort"	1.3333333333333333
 42	"a report"	"detailing effort by"	"the tobacco industry"	1.2
-42	"an ambitious , often covert effort"	"by"	"the tobacco industry"	1.3333333333333333
-42	"an ambitious , often covert effort"	"to curb"	"global anti-smoking initiatives"	1.25
+42	"an ambitious  often covert effort"	"by"	"the tobacco industry"	1.3333333333333333
+42	"an ambitious  often covert effort"	"to curb"	"global anti-smoking initiatives"	1.25
 42	"the tobacco industry"	"effort to curb"	"global anti-smoking initiatives"	-0.08333333333333331
+42	"the tobacco industry"	"by effort detailing report has ."	"1980"	0.19047619047619047
+42	"global anti-smoking initiatives"	"curb to effort detailing report has ."	"1980"	0.20833333333333331
 Kent was not told of the situation until the game was over . 
 43	"Kent"	"was told of"	"the situation"	0.75
 43	"Kent"	"was told until was"	"the game"	0.7
 43	"the situation"	"told until was"	"the game"	-0.08333333333333331
 It has set up a robotic system that systematically tests all 2,000 existing chemical drugs in combinations of two . 
 44	"It"	"has set"	"a robotic system"	0.8333333333333333
-44	"It"	"has set system tests"	"all 2,000 existing chemical drugs"	0.7
-44	"a robotic system"	"tests"	"all 2,000 existing chemical drugs"	1.3333333333333333
+44	"It"	"has set system tests drugs"	"all 2000"	0.6666666666666666
+44	"It"	"has set system tests"	"all 2000 existing chemical drugs"	0.7
+44	"a robotic system"	"tests drugs"	"all 2000"	1.25
+44	"a robotic system"	"tests"	"all 2000 existing chemical drugs"	1.3333333333333333
 44	"a robotic system"	"tests in"	"combinations"	1.25
-44	"all 2,000 existing chemical drugs"	"tests in"	"combinations"	-0.16666666666666669
+44	"a robotic system"	"tests in combinations of"	"two"	1.1666666666666667
+44	"all 2000"	"drugs tests system has set system tests"	"all 2000 existing chemical drugs"	0.033333333333333354
+44	"all 2000"	"tests in"	"combinations"	0.0
+44	"all 2000"	"tests in combinations of"	"two"	-0.1333333333333333
+44	"all 2000 existing chemical drugs"	"tests in"	"combinations"	-0.16666666666666669
+44	"all 2000 existing chemical drugs"	"tests in combinations of"	"two"	-0.3
+44	"combinations"	"of"	"two"	1.3333333333333333
 The state-run English-language Teheran Times reported that Parliament would begin debate on the Cabinet on Tuesday , with " two weeks to complete discussions and vote . " 
 45	"The state-run English-language Teheran Times"	"reported that would"	"Parliament"	0.75
 45	"The state-run English-language Teheran Times"	"reported that would begin"	"debate"	0.7
@@ -785,7 +833,7 @@ Dr. Weiss graduated summa cum laude from Brandeis University and received his me
 49	"his"	"degree from"	"Yale University"	0.8333333333333333
 49	"his medical degree"	"from"	"Yale University"	1.3333333333333333
 The announced crowd was 15,568 . 
-50
+50	"The announced crowd"	"was"	"15568"	1.0
 In times past , getting a taxi at a New York City airport was often a Darwinian affair , a frenzied , survival-of-the-fittest scene of piled-up luggage , darting taxis and shouting cabbies looking for an edge . 
 51	"times"	"getting"	"a taxi"	1.3333333333333333
 51	"times"	"getting at"	"a New York City airport"	1.25
@@ -809,12 +857,21 @@ In times past , getting a taxi at a New York City airport was often a Darwinian 
 51	"taxis"	"darting and shouting cabbies looking for"	"an edge"	-0.35714285714285715
 51	"cabbies"	"looking for"	"an edge"	1.25
 They won 26 of their next 31 games , including 11 straight in June . 
+52	"They"	"won"	"26"	1.0
 52	"They"	"won 26 of games"	"their"	0.7
 52	"They"	"won 26 of"	"their next 31 games"	0.75
+52	"They"	"won 26 including"	"11"	0.75
 52	"They"	"won in"	"June"	0.8333333333333333
+52	"26"	"of games"	"their"	1.25
+52	"26"	"of"	"their next 31 games"	1.3333333333333333
+52	"26"	"including"	"11"	1.3333333333333333
+52	"26"	"won in"	"June"	-0.16666666666666669
 52	"their"	"games of won 26 of"	"their next 31 games"	0.04999999999999999
+52	"their"	"games 26 including"	"11"	0.08333333333333331
 52	"their"	"games of won in"	"June"	0.1333333333333333
+52	"their next 31 games"	"26 including"	"11"	0.0
 52	"their next 31 games"	"of won in"	"June"	0.08333333333333331
+52	"11"	"including won in"	"June"	0.08333333333333331
 This revelatory micro-exhibition reunites five portraits of the postal worker Joseph Roulin , whom van Gogh met while in Arles . 
 53	"five portraits"	"while of"	"the postal worker"	0.25
 53	"five portraits"	"while of worker"	"Joseph Roulin"	0.3
@@ -872,14 +929,20 @@ Devoted mother of Lyn Boland Dosik and the late Howard Batzar .
 Steamed crabs with scallions and ginger $ 10.95 were tender , easy to open and delicately flavored . 
 58	"Steamed crabs"	"with"	"scallions"	1.3333333333333333
 58	"Steamed crabs"	"with scallions and"	"ginger"	1.2
+58	"Steamed crabs"	"were $"	"10.95"	1.25
 58	"Steamed crabs"	"were"	"tender"	1.3333333333333333
 58	"scallions"	"and"	"ginger"	1.3333333333333333
+58	"scallions"	"crabs were $"	"10.95"	-0.08333333333333331
 58	"scallions"	"crabs were"	"tender"	0.0
+58	"ginger"	"and scallions crabs were $"	"10.95"	0.04999999999999999
 58	"ginger"	"and scallions crabs were"	"tender"	0.1333333333333333
+58	"10.95"	"were"	"tender"	0.8333333333333333
 " It 's only going to get worse before it gets better . " 
 59	"It"	"'s going to get before gets"	"it"	0.6428571428571428
 Tickets are $ 30 and $ 25. 
-60
+60	"Tickets"	"are $"	"30"	0.8333333333333333
+60	"Tickets"	"are $ and $"	"25."	0.7
+60	"30"	"$ and $"	"25."	-0.25
 He is the assistant director for policy at the Gay Men 's Health Crisis . 
 61	"He"	"is"	"the assistant director"	1.0
 61	"He"	"is director for"	"policy"	0.75
@@ -975,32 +1038,32 @@ They live with Dirk , Weetzie 's gay best friend , his lover , Duck , and Weetzi
 67	"They"	"live with Dirk friend"	"Weetzie"	0.7
 67	"They"	"live with Dirk"	"Weetzie 's gay best friend"	0.75
 67	"They"	"live . Duck"	"his lover"	0.75
-67	"They"	"live ."	"his lover , Duck"	0.8333333333333333
+67	"They"	"live ."	"his lover  Duck"	0.8333333333333333
 67	"Dirk"	"friend"	"Weetzie"	1.3333333333333333
 67	"Dirk"	"Dirk"	"Weetzie 's gay best friend"	1.5
 67	"Dirk"	"live . Duck"	"his lover"	-0.08333333333333331
-67	"Dirk"	"live ."	"his lover , Duck"	0.0
+67	"Dirk"	"live ."	"his lover  Duck"	0.0
 67	"Dirk"	"live . Duck and daughter"	"Weetzie"	-0.16666666666666666
 67	"Weetzie"	"friend Dirk live with Dirk"	"Weetzie 's gay best friend"	0.04999999999999999
 67	"Weetzie"	"friend Dirk live . Duck"	"his lover"	0.04999999999999999
-67	"Weetzie"	"friend Dirk live ."	"his lover , Duck"	0.1333333333333333
+67	"Weetzie"	"friend Dirk live ."	"his lover  Duck"	0.1333333333333333
 67	"Weetzie"	"friend Dirk live . Duck and daughter"	"Weetzie"	-0.033333333333333354
 67	"Weetzie"	"friend Dirk live . Duck and"	"Weetzie 's daughter"	0.0
 67	"Weetzie 's gay best friend"	"Dirk live . Duck"	"his lover"	0.0
-67	"Weetzie 's gay best friend"	"Dirk live ."	"his lover , Duck"	0.08333333333333331
+67	"Weetzie 's gay best friend"	"Dirk live ."	"his lover  Duck"	0.08333333333333331
 67	"Weetzie 's gay best friend"	"Dirk live . Duck and daughter"	"Weetzie"	-0.08333333333333334
 67	"Weetzie 's gay best friend"	"Dirk live . Duck and"	"Weetzie 's daughter"	-0.04999999999999999
 67	"Weetzie 's gay best friend"	"Dirk live . Duck and daughter"	"Cherokee"	-0.08333333333333334
-67	"his lover"	"Duck live ."	"his lover , Duck"	0.08333333333333331
+67	"his lover"	"Duck live ."	"his lover  Duck"	0.08333333333333331
 67	"his lover"	"Duck and daughter"	"Weetzie"	0.75
 67	"his lover"	"Duck and"	"Weetzie 's daughter"	0.8333333333333333
 67	"his lover"	"Duck and daughter"	"Cherokee"	0.75
 67	"his lover"	"Duck and daughter conceived during"	"group sex"	0.6666666666666666
-67	"his lover , Duck"	"and daughter"	"Weetzie"	1.25
-67	"his lover , Duck"	"and"	"Weetzie 's daughter"	1.3333333333333333
-67	"his lover , Duck"	"and daughter"	"Cherokee"	1.25
-67	"his lover , Duck"	"and daughter conceived during"	"group sex"	1.1666666666666667
-67	"his lover , Duck"	"and daughter conceived during sex with"	"Dirk"	1.125
+67	"his lover  Duck"	"and daughter"	"Weetzie"	1.25
+67	"his lover  Duck"	"and"	"Weetzie 's daughter"	1.3333333333333333
+67	"his lover  Duck"	"and daughter"	"Cherokee"	1.25
+67	"his lover  Duck"	"and daughter conceived during"	"group sex"	1.1666666666666667
+67	"his lover  Duck"	"and daughter conceived during sex with"	"Dirk"	1.125
 67	"Weetzie"	"daughter and Duck live . Duck and"	"Weetzie 's daughter"	0.033333333333333354
 67	"Weetzie"	"daughter"	"Cherokee"	1.0
 67	"Weetzie"	"daughter conceived during"	"group sex"	0.75
@@ -1087,9 +1150,6 @@ It will not settle anything and her advisers will walk away and they 'll still b
 72	"her advisers"	"and anything will and 'll be making"	"demands"	0.3666666666666667
 72	"they"	"'ll be making"	"demands"	0.75
 His one miscalculation was to ask for humming in the second song , for nobody can hum to fill Carnegie Hall . 
-73	"His"	"was"	"His one miscalculation"	-0.16666666666666669
-73	"His"	"was to ask for humming in"	"the second song"	0.47619047619047616
-73	"His"	"was can for"	"nobody"	0.5833333333333333
 73	"His one miscalculation"	"was to ask for humming in"	"the second song"	0.6428571428571428
 73	"His one miscalculation"	"was can for"	"nobody"	0.75
 73	"the second song"	"in humming for ask was can for"	"nobody"	0.10714285714285715
@@ -1118,13 +1178,13 @@ Frauke Petersen Haasemann , the assistant conductor of the Westminster Choir and
 76	"the Westminster Choir College"	"at conducting of professor and Choir of conductor died"	"last Friday"	0.5909090909090909
 76	"the Westminster Choir College"	"at conducting of professor and Choir of conductor died at"	"her home"	0.4242424242424242
 76	"the Westminster Choir College"	"at conducting of professor and Choir of conductor died at home in"	"Princeton"	0.2909090909090909
-76	"the Westminster Choir College"	"at conducting of professor and Choir of conductor died at home"	", N.J."	0.34090909090909094
+76	"the Westminster Choir College"	"at conducting of professor and Choir of conductor died at home"	" N.J."	0.34090909090909094
 76	"last Friday"	"died at"	"her home"	-0.16666666666666669
 76	"last Friday"	"died at home in"	"Princeton"	-0.3
-76	"last Friday"	"died at home"	", N.J."	-0.25
+76	"last Friday"	"died at home"	" N.J."	-0.25
 76	"her home"	"in"	"Princeton"	1.3333333333333333
-76	"her home"	"home"	", N.J."	1.5
-76	"Princeton"	"home"	", N.J."	0.16666666666666669
+76	"her home"	"home"	" N.J."	1.5
+76	"Princeton"	"home"	" N.J."	0.16666666666666669
 For the proposal itself , he toured five hotels in search of a room with a view of Central Park and selected one on a high floor of the Carlyle . 
 77	"the proposal"	"proposal"	"itself"	1.5
 77	"the proposal"	"toured"	"he"	-0.16666666666666669
@@ -1146,17 +1206,24 @@ For the proposal itself , he toured five hotels in search of a room with a view 
 77	"five hotels"	"toured in search of"	"a room"	-0.3
 77	"five hotels"	"toured in search of room with"	"a view"	-0.35714285714285715
 77	"five hotels"	"toured in search of room with view of"	"Central Park"	-0.3888888888888889
+77	"five hotels"	"toured and selected"	"one"	-0.25
 77	"search"	"of"	"a room"	1.3333333333333333
 77	"search"	"of room with"	"a view"	1.2
 77	"search"	"of room with view of"	"Central Park"	1.1428571428571428
+77	"search"	"toured and selected"	"one"	-0.08333333333333331
 77	"a room"	"with"	"a view"	1.3333333333333333
 77	"a room"	"with view of"	"Central Park"	1.2
+77	"a room"	"of search toured and selected"	"one"	0.04999999999999999
 77	"a room"	"of search toured and selected on"	"a high floor"	0.0
 77	"a view"	"of"	"Central Park"	1.3333333333333333
+77	"a view"	"with room of search toured and selected"	"one"	0.10714285714285715
 77	"a view"	"with room of search toured and selected on"	"a high floor"	0.05714285714285716
 77	"a view"	"with room of search toured and selected on floor of"	"the Carlyle"	0.0
+77	"Central Park"	"of view with room of search toured and selected"	"one"	0.1388888888888889
 77	"Central Park"	"of view with room of search toured and selected on"	"a high floor"	0.0888888888888889
 77	"Central Park"	"of view with room of search toured and selected on floor of"	"the Carlyle"	0.031746031746031744
+77	"one"	"selected on"	"a high floor"	-0.16666666666666669
+77	"one"	"selected on floor of"	"the Carlyle"	-0.3
 77	"a high floor"	"of"	"the Carlyle"	1.3333333333333333
 Mr. Hashimoto , who denied the bribery charges , took his case to the Supreme Court , but the court had not issued a ruling by the time of his death . 
 78	"Mr. Hashimoto"	"denied"	"who"	1.3333333333333333
@@ -1343,6 +1410,10 @@ The New Jersey school , like most others , issued the flag patches that have bec
 87	"support"	"for efforts in"	"the Persian Gulf"	1.2
 87	"allied efforts"	"in"	"the Persian Gulf"	1.3333333333333333
 Two Japanese travel agencies have desks beside the finely manicured English-style garden adjacent to the lobby , busily booking free-spending guests for golf , horseback riding and guided shopping jaunts . 
+88	"Two"	"have"	"Two Japanese travel agencies"	-0.16666666666666669
+88	"Two"	"have"	"desks"	0.8333333333333333
+88	"Two"	"have beside"	"the finely manicured English-style garden"	0.6666666666666666
+88	"Two"	"have beside garden adjacent to"	"the lobby"	0.5
 88	"Two Japanese travel agencies"	"have"	"desks"	1.0
 88	"Two Japanese travel agencies"	"have beside"	"the finely manicured English-style garden"	0.8333333333333333
 88	"Two Japanese travel agencies"	"have beside garden adjacent to"	"the lobby"	0.6666666666666666
@@ -1426,26 +1497,38 @@ Fans paid close attention to the game , and the reason was Marcus Camby .
 Russia 's eavesdropping station at Lourdes , Cuba , is a cold war jewel : 28 square miles of antennae and computers that message Russian embassies , submarines and spies , and vacuum up U.S. satellite and radio communications . 
 94	"Russia"	"is"	"Russia 's eavesdropping station"	-0.16666666666666669
 94	"Russia"	"station at Cuba"	"Lourdes"	0.75
-94	"Russia"	"station at"	"Lourdes , Cuba"	0.8333333333333333
+94	"Russia"	"station at"	"Lourdes  Cuba"	0.8333333333333333
 94	"Russia"	"is"	"a cold war jewel"	0.8333333333333333
+94	"Russia"	"is . miles"	"28"	0.5833333333333333
 94	"Russia 's eavesdropping station"	"at Cuba"	"Lourdes"	1.25
-94	"Russia 's eavesdropping station"	"at"	"Lourdes , Cuba"	1.3333333333333333
+94	"Russia 's eavesdropping station"	"at"	"Lourdes  Cuba"	1.3333333333333333
 94	"Russia 's eavesdropping station"	"is"	"a cold war jewel"	1.0
+94	"Russia 's eavesdropping station"	"is . miles"	"28"	0.75
 94	"Russia 's eavesdropping station"	"is ."	"28 square miles"	0.8333333333333333
-94	"Lourdes"	"Cuba at is station at"	"Lourdes , Cuba"	-0.04999999999999999
+94	"Lourdes"	"Cuba at is station at"	"Lourdes  Cuba"	-0.04999999999999999
 94	"Lourdes"	"Cuba at is"	"a cold war jewel"	0.7
+94	"Lourdes"	"Cuba at is . miles"	"28"	0.45
 94	"Lourdes"	"Cuba at is ."	"28 square miles"	0.5333333333333333
 94	"Lourdes"	"Cuba at is . miles of"	"antennae"	0.4
-94	"Lourdes , Cuba"	"at is"	"a cold war jewel"	0.75
-94	"Lourdes , Cuba"	"at is ."	"28 square miles"	0.5833333333333333
-94	"Lourdes , Cuba"	"at is . miles of"	"antennae"	0.45
-94	"Lourdes , Cuba"	"at is . miles of antennae and"	"computers"	0.39285714285714285
+94	"Lourdes  Cuba"	"at is"	"a cold war jewel"	0.75
+94	"Lourdes  Cuba"	"at is . miles"	"28"	0.5
+94	"Lourdes  Cuba"	"at is ."	"28 square miles"	0.5833333333333333
+94	"Lourdes  Cuba"	"at is . miles of"	"antennae"	0.45
+94	"Lourdes  Cuba"	"at is . miles of antennae and"	"computers"	0.39285714285714285
+94	"a cold war jewel"	"is . miles"	"28"	-0.25
 94	"a cold war jewel"	"is ."	"28 square miles"	-0.16666666666666669
 94	"a cold war jewel"	"is . miles of"	"antennae"	-0.3
 94	"a cold war jewel"	"is . miles of antennae and"	"computers"	-0.35714285714285715
 94	"a cold war jewel"	"is . embassies"	"message"	-0.25
 94	"a cold war jewel"	"is ."	"message Russian embassies"	-0.16666666666666669
 94	"a cold war jewel"	"is . embassies"	"submarines"	-0.25
+94	"28"	"miles is ."	"28 square miles"	0.08333333333333331
+94	"28"	"miles of"	"antennae"	0.8333333333333333
+94	"28"	"miles of antennae and"	"computers"	0.7
+94	"28"	". embassies"	"message"	0.0
+94	"28"	"."	"message Russian embassies"	-0.16666666666666669
+94	"28"	". embassies"	"submarines"	0.0
+94	"28"	". embassies submarines and"	"spies"	0.1333333333333333
 94	"28 square miles"	"of"	"antennae"	1.3333333333333333
 94	"28 square miles"	"of antennae and"	"computers"	1.2
 94	"28 square miles"	". embassies"	"message"	0.16666666666666669
@@ -1488,30 +1571,30 @@ A report in the Egos & Ids column of Styles of the Times on July 26 omitted the 
 95	"A report"	"omitted"	"Ids column"	0.0
 95	"A report"	"omitted column of"	"Styles"	0.25
 95	"A report"	"omitted column of"	"the Times"	0.25
-95	"A report"	"omitted column on 26"	"July"	0.3
+95	"A report"	"omitted column on"	"July 26"	0.25
 95	"the Egos"	"in omitted"	"Ids column"	-0.25
 95	"the Egos"	"in omitted column of"	"Styles"	0.0
 95	"the Egos"	"in omitted column of"	"the Times"	0.0
-95	"the Egos"	"in omitted column on 26"	"July"	0.04999999999999999
+95	"the Egos"	"in omitted column on"	"July 26"	0.0
 95	"the Egos"	"in omitted"	"the name"	0.75
 95	"Ids column"	"of"	"Styles"	1.3333333333333333
 95	"Ids column"	"of"	"the Times"	1.3333333333333333
-95	"Ids column"	"on 26"	"July"	1.25
+95	"Ids column"	"on"	"July 26"	1.3333333333333333
 95	"Ids column"	"omitted"	"the name"	1.0
 95	"Ids column"	"omitted name of co-author"	"Annette Tab ert"	0.7
 95	"Styles"	"column of"	"the Times"	0.0
-95	"Styles"	"column on 26"	"July"	-0.08333333333333331
+95	"Styles"	"column on"	"July 26"	0.0
 95	"Styles"	"of omitted"	"the name"	0.75
 95	"Styles"	"of omitted name of co-author"	"Annette Tab ert"	0.45
 95	"Styles"	"of omitted name of"	"Annette Tab ert 's co-author"	0.5
-95	"the Times"	"column on 26"	"July"	-0.08333333333333331
+95	"the Times"	"column on"	"July 26"	0.0
 95	"the Times"	"of omitted"	"the name"	0.75
 95	"the Times"	"of omitted name of co-author"	"Annette Tab ert"	0.45
 95	"the Times"	"of omitted name of"	"Annette Tab ert 's co-author"	0.5
-95	"July"	"26 on omitted"	"the name"	0.7
-95	"July"	"26 on omitted name of co-author"	"Annette Tab ert"	0.4
-95	"July"	"26 on omitted name of"	"Annette Tab ert 's co-author"	0.45
-95	"July"	"26 on omitted for"	"the forthcoming book"	0.5333333333333333
+95	"July 26"	"on omitted"	"the name"	0.75
+95	"July 26"	"on omitted name of co-author"	"Annette Tab ert"	0.45
+95	"July 26"	"on omitted name of"	"Annette Tab ert 's co-author"	0.5
+95	"July 26"	"on omitted for"	"the forthcoming book"	0.5833333333333333
 95	"the name"	"of co-author"	"Annette Tab ert"	1.25
 95	"the name"	"of"	"Annette Tab ert 's co-author"	1.3333333333333333
 95	"the name"	"omitted for"	"the forthcoming book"	-0.16666666666666669
@@ -1556,10 +1639,14 @@ Union officials say they are pleased with the G.H.I. plan and they assert that t
 97	"they"	"are is that is costing"	"Barnard"	0.45
 97	"premiums"	"pay to asked being are is that is"	"the Oxford plan"	0.375
 97	"premiums"	"pay to asked being are is that is costing"	"Barnard"	0.325
+97	"premiums"	"pay to asked being are is that is costing $"	"63000"	0.29166666666666663
 97	"premiums"	"pay to asked being are is that is costing more than"	"G.H.I."	0.26785714285714285
 97	"the Oxford plan"	"is costing"	"Barnard"	0.8333333333333333
+97	"the Oxford plan"	"is costing $"	"63000"	0.75
 97	"the Oxford plan"	"is costing more than"	"G.H.I."	0.7
+97	"Barnard"	"costing $"	"63000"	-0.16666666666666669
 97	"Barnard"	"costing more than"	"G.H.I."	-0.25
+97	"63000"	"costing more than"	"G.H.I."	-0.08333333333333331
 He chose not to do that . 
 98
 The menu , imported from Ben 's Deli in Queens , includes matzoh ball soup , corned beef and pastrami sandwiches , chopped liver , kishke and knishes . 
@@ -1672,8 +1759,11 @@ But while it may surprise anyone who has been stung by them , yellow jackets act
 101	"a place"	"in"	"the universe"	1.3333333333333333
 Beat in the eggs one at a time . 
 102	"Beat"	"in"	"the eggs"	1.3333333333333333
+102	"Beat"	"."	"one"	0.0
 102	"Beat"	". at"	"a time"	0.16666666666666669
+102	"the eggs"	"in ."	"one"	-0.25
 102	"the eggs"	"in . at"	"a time"	-0.08333333333333331
+102	"one"	". at"	"a time"	0.16666666666666669
 The line was " That is my last word , " not " You ca n't go to Berlin ! " 
 103	"The line"	"was is word"	"my"	0.75
 103	"The line"	"was is"	"my last word"	0.8333333333333333
@@ -1777,29 +1867,29 @@ Trust Company 's quest for customers among the new rich , included erroneous fig
 106	"millionaire households"	"supplied by"	"PSI"	1.25
 106	"millionaire households"	"supplied by PSI"	"a financial services research firm"	1.2
 106	"millionaire households"	"supplied by PSI firm in Fla"	"Tampa"	1.125
-106	"millionaire households"	"supplied by PSI firm in"	"Tampa , Fla"	1.1428571428571428
+106	"millionaire households"	"supplied by PSI firm in"	"Tampa  Fla"	1.1428571428571428
 106	"PSI"	"PSI"	"a financial services research firm"	1.5
 106	"PSI"	"firm in Fla"	"Tampa"	1.2
-106	"PSI"	"firm in"	"Tampa , Fla"	1.25
+106	"PSI"	"firm in"	"Tampa  Fla"	1.25
 106	"a financial services research firm"	"in Fla"	"Tampa"	1.25
-106	"a financial services research firm"	"in"	"Tampa , Fla"	1.3333333333333333
-106	"Tampa"	"Fla in firm PSI by supplied households for figures included among customers for . quest for customers among included figures for households supplied by PSI firm in"	"Tampa , Fla"	-0.004166666666666666
+106	"a financial services research firm"	"in"	"Tampa  Fla"	1.3333333333333333
+106	"Tampa"	"Fla in firm PSI by supplied households for figures included among customers for . quest for customers among included figures for households supplied by PSI firm in"	"Tampa  Fla"	-0.004166666666666666
 In a sobering speech meant to register with opinion leaders in the international community , the Irish Foreign Minister , Dick Spring , has warned about the peril to the peace process if there is further delay . 
 107	"a sobering speech"	"meant to register with"	"opinion leaders"	0.7
 107	"a sobering speech"	"meant to register with leaders in"	"the international community"	0.6428571428571428
 107	"a sobering speech"	"meant has Spring"	"the Irish Foreign Minister"	-0.08333333333333331
 107	"opinion leaders"	"in"	"the international community"	1.3333333333333333
 107	"opinion leaders"	"with register to meant has Spring"	"the Irish Foreign Minister"	-0.19047619047619047
-107	"opinion leaders"	"with register to meant has"	"the Irish Foreign Minister , Dick Spring"	-0.35714285714285715
+107	"opinion leaders"	"with register to meant has"	"the Irish Foreign Minister  Dick Spring"	-0.35714285714285715
 107	"the international community"	"in leaders with register to meant has Spring"	"the Irish Foreign Minister"	-0.2222222222222222
-107	"the international community"	"in leaders with register to meant has"	"the Irish Foreign Minister , Dick Spring"	-0.3888888888888889
+107	"the international community"	"in leaders with register to meant has"	"the Irish Foreign Minister  Dick Spring"	-0.3888888888888889
 107	"the international community"	"in leaders with register to meant has warned about"	"the peril"	0.3611111111111111
-107	"the Irish Foreign Minister"	"has"	"the Irish Foreign Minister , Dick Spring"	-0.16666666666666669
+107	"the Irish Foreign Minister"	"has"	"the Irish Foreign Minister  Dick Spring"	-0.16666666666666669
 107	"the Irish Foreign Minister"	"has warned about"	"the peril"	0.5833333333333333
 107	"the Irish Foreign Minister"	"has warned about peril to"	"the peace process"	0.5
-107	"the Irish Foreign Minister , Dick Spring"	"has warned about"	"the peril"	0.75
-107	"the Irish Foreign Minister , Dick Spring"	"has warned about peril to"	"the peace process"	0.6666666666666666
-107	"the Irish Foreign Minister , Dick Spring"	"has warned if is"	"further delay"	0.7
+107	"the Irish Foreign Minister  Dick Spring"	"has warned about"	"the peril"	0.75
+107	"the Irish Foreign Minister  Dick Spring"	"has warned about peril to"	"the peace process"	0.6666666666666666
+107	"the Irish Foreign Minister  Dick Spring"	"has warned if is"	"further delay"	0.7
 107	"the peril"	"to"	"the peace process"	1.3333333333333333
 107	"the peril"	"warned if is"	"further delay"	-0.08333333333333331
 107	"the peace process"	"to peril warned if is"	"further delay"	0.04999999999999999
@@ -1811,35 +1901,56 @@ Sharpe said the students were sent to work in the manure , not stand in it .
 108	"the students"	"were sent to work stand in"	"it"	0.6428571428571428
 108	"the manure"	"work stand in"	"it"	-0.08333333333333331
 Shown today at 2 and 6 p.m. and tomorrow at 4 and 7 p.m. at the Walter Reade Theater at Lincoln Center , 165 West 65th Street , Manhattan , as part of the 32nd New Directors / New Films series of the Film Society of Lincoln Center and the department of film and media of the Museum of Modern Art. 
+109	"Shown today"	"at"	"2"	1.3333333333333333
 109	"Shown today"	"and"	"6 p.m."	1.3333333333333333
 109	"Shown today"	"and p.m. and"	"tomorrow"	1.2
+109	"Shown today"	"at"	"4"	1.3333333333333333
 109	"Shown today"	"at and"	"7 p.m."	1.25
+109	"2"	"today and"	"6 p.m."	0.0
+109	"2"	"today and p.m. and"	"tomorrow"	-0.1333333333333333
+109	"2"	"today at"	"4"	0.0
+109	"2"	"today at and"	"7 p.m."	-0.08333333333333331
+109	"2"	"today at and p.m. at"	"the Walter Reade Theater"	-0.16666666666666666
 109	"6 p.m."	"and"	"tomorrow"	1.3333333333333333
+109	"6 p.m."	"today at"	"4"	0.0
 109	"6 p.m."	"today at and"	"7 p.m."	-0.08333333333333331
 109	"6 p.m."	"today at and p.m. at"	"the Walter Reade Theater"	-0.16666666666666666
 109	"6 p.m."	"today at and p.m. at Theater at"	"Lincoln Center"	-0.20833333333333331
+109	"tomorrow"	"and p.m. today at"	"4"	0.1333333333333333
 109	"tomorrow"	"and p.m. today at and"	"7 p.m."	0.04999999999999999
 109	"tomorrow"	"and p.m. today at and p.m. at"	"the Walter Reade Theater"	-0.033333333333333354
 109	"tomorrow"	"and p.m. today at and p.m. at Theater at"	"Lincoln Center"	-0.07500000000000001
+109	"tomorrow"	"and p.m. today at and p.m. Manhattan"	"165"	-0.033333333333333354
+109	"4"	"at and"	"7 p.m."	-0.16666666666666669
+109	"4"	"at and p.m. at"	"the Walter Reade Theater"	-0.3
+109	"4"	"at and p.m. at Theater at"	"Lincoln Center"	-0.35714285714285715
+109	"4"	"at and p.m. Manhattan"	"165"	-0.3
 109	"7 p.m."	"at"	"the Walter Reade Theater"	1.3333333333333333
 109	"7 p.m."	"at Theater at"	"Lincoln Center"	1.2
+109	"7 p.m."	"Manhattan"	"165"	1.3333333333333333
 109	"7 p.m."	"Manhattan"	"Street"	1.3333333333333333
-109	"7 p.m."	"p.m."	"165 West 65th Street , Manhattan"	1.5
+109	"7 p.m."	"p.m."	"165 West 65th Street  Manhattan"	1.5
 109	"the Walter Reade Theater"	"at"	"Lincoln Center"	1.3333333333333333
+109	"the Walter Reade Theater"	"p.m. Manhattan"	"165"	0.0
 109	"the Walter Reade Theater"	"p.m. Manhattan"	"Street"	0.0
-109	"the Walter Reade Theater"	"p.m."	"165 West 65th Street , Manhattan"	0.16666666666666669
+109	"the Walter Reade Theater"	"p.m."	"165 West 65th Street  Manhattan"	0.16666666666666669
 109	"the Walter Reade Theater"	"at p.m. and today as"	"part"	0.16666666666666666
+109	"Lincoln Center"	"at Theater p.m. Manhattan"	"165"	0.1333333333333333
 109	"Lincoln Center"	"at Theater p.m. Manhattan"	"Street"	0.1333333333333333
-109	"Lincoln Center"	"at Theater p.m."	"165 West 65th Street , Manhattan"	0.3
+109	"Lincoln Center"	"at Theater p.m."	"165 West 65th Street  Manhattan"	0.3
 109	"Lincoln Center"	"at Theater at p.m. and today as"	"part"	0.20833333333333331
 109	"Lincoln Center"	"at Theater at p.m. and today as part of"	"the 32nd New Directors"	0.07500000000000001
-109	"Street"	"Manhattan p.m. and today at and p.m."	"165 West 65th Street , Manhattan"	0.033333333333333354
+109	"165"	"Manhattan"	"Street"	0.0
+109	"165"	"Manhattan p.m. and today at and p.m."	"165 West 65th Street  Manhattan"	0.033333333333333354
+109	"165"	"Manhattan p.m. and today as"	"part"	0.16666666666666666
+109	"165"	"Manhattan p.m. and today as part of"	"the 32nd New Directors"	0.033333333333333354
+109	"Street"	"Manhattan p.m. and today at and p.m."	"165 West 65th Street  Manhattan"	0.033333333333333354
 109	"Street"	"Manhattan p.m. and today as"	"part"	0.16666666666666666
 109	"Street"	"Manhattan p.m. and today as part of"	"the 32nd New Directors"	0.033333333333333354
 109	"Street"	"Manhattan p.m. and today"	"/ New Films series"	0.33333333333333337
-109	"165 West 65th Street , Manhattan"	"p.m. and today as"	"part"	0.1333333333333333
-109	"165 West 65th Street , Manhattan"	"p.m. and today as part of"	"the 32nd New Directors"	0.0
-109	"165 West 65th Street , Manhattan"	"p.m. and today"	"/ New Films series"	0.3
+109	"165 West 65th Street  Manhattan"	"p.m. and today as"	"part"	0.1333333333333333
+109	"165 West 65th Street  Manhattan"	"p.m. and today as part of"	"the 32nd New Directors"	0.0
+109	"165 West 65th Street  Manhattan"	"p.m. and today"	"/ New Films series"	0.3
 109	"part"	"of"	"the 32nd New Directors"	1.3333333333333333
 109	"part"	"today"	"/ New Films series"	0.16666666666666669
 109	"part"	"today series of"	"the Film Society"	-0.08333333333333331
@@ -1888,16 +1999,16 @@ A table in Business Day on Thursday showing the New York Stock Exchange 's uncov
 110	"the New York Stock Exchange"	"uncovered sales or interest for"	"the four weeks"	0.6666666666666666
 110	"short sales"	"or"	" short interest"	1.3333333333333333
 110	"short sales"	"or interest for"	"the four weeks"	1.2
-110	"short sales"	"or interest for weeks ended 15"	"June"	1.125
+110	"short sales"	"or interest for weeks ended"	"June 15"	1.1428571428571428
 110	" short interest"	"for"	"the four weeks"	1.3333333333333333
-110	" short interest"	"for weeks ended 15"	"June"	1.1666666666666667
+110	" short interest"	"for weeks ended"	"June 15"	1.2
 110	" short interest"	"or sales uncovered showing included"	"an incorrect amount"	0.6428571428571428
-110	"the four weeks"	"ended 15"	"June"	1.25
+110	"the four weeks"	"ended"	"June 15"	1.3333333333333333
 110	"the four weeks"	"for interest or sales uncovered showing included"	"an incorrect amount"	0.6111111111111112
 110	"the four weeks"	"for interest or sales uncovered showing included amount for"	"the Tech-Sym Corporation"	0.3611111111111111
-110	"June"	"15 ended weeks for interest or sales uncovered showing included"	"an incorrect amount"	0.5833333333333334
-110	"June"	"15 ended weeks for interest or sales uncovered showing included amount for"	"the Tech-Sym Corporation"	0.3333333333333333
-110	"June"	"15 ended weeks for interest or sales uncovered showing included amount provided by"	"the company"	0.2833333333333333
+110	"June 15"	"ended weeks for interest or sales uncovered showing included"	"an incorrect amount"	0.5909090909090909
+110	"June 15"	"ended weeks for interest or sales uncovered showing included amount for"	"the Tech-Sym Corporation"	0.34090909090909094
+110	"June 15"	"ended weeks for interest or sales uncovered showing included amount provided by"	"the company"	0.2909090909090909
 110	"an incorrect amount"	"for"	"the Tech-Sym Corporation"	1.3333333333333333
 110	"an incorrect amount"	"provided by"	"the company"	1.25
 110	"an incorrect amount"	"provided to"	"the exchange"	1.25
@@ -2034,13 +2145,12 @@ Two batters later , Edgardo Alfonzo rapped a two-run double down the third-base 
 114	"a 3-0 lead"	"for line rapped and launched"	"Hundley"	0.04999999999999999
 114	"a 3-0 lead"	"for line rapped and launched"	"a double"	0.04999999999999999
 114	"a 3-0 lead"	"for line rapped and launched to"	"the left-center warning track"	0.0
-114	"a 3-0 lead"	"for line rapped and launched to make"	"it"	-0.033333333333333354
 114	"Hundley"	"launched"	"a double"	1.0
 114	"Hundley"	"launched to"	"the left-center warning track"	0.8333333333333333
-114	"Hundley"	"launched to make"	"it"	0.75
+114	"Hundley"	"launched to make"	"4-0"	0.75
 114	"a double"	"launched to"	"the left-center warning track"	-0.16666666666666669
-114	"a double"	"launched to make"	"it"	-0.25
-114	"the left-center warning track"	"launched to make"	"it"	-0.08333333333333331
+114	"a double"	"launched to make"	"4-0"	-0.25
+114	"the left-center warning track"	"launched to make"	"4-0"	-0.08333333333333331
 Tests to detect the use of performance-enhancing drugs like EPO and human-growth hormones are unlikely to be approved for Sydney . 
 115	"Tests"	"to detect"	"the use"	0.8333333333333333
 115	"Tests"	"to detect use of"	"performance-enhancing drugs"	0.7
@@ -2182,6 +2292,11 @@ The director of the Center for Mathematical Sciences Research at Rutgers Univers
 121	"the Franklin Institute"	"receive in"	"May"	0.0
 121	"Philadelphia"	"in Institute receive in"	"May"	0.1333333333333333
 Two independent journalists went on trial today accused of defaming President Franjo Tudjman in a case that has helped sour Croatia 's relations with Western Europe . 
+122	"Two"	"went"	"Two independent journalists"	-0.16666666666666669
+122	"Two"	"went on"	"trial"	0.6666666666666666
+122	"Two"	"went"	"today"	0.8333333333333333
+122	"Two"	"went accused of defaming"	"President Franjo Tudjman"	0.5333333333333333
+122	"Two"	"went accused of defaming in"	"a case"	0.5
 122	"Two independent journalists"	"went on"	"trial"	0.8333333333333333
 122	"Two independent journalists"	"went"	"today"	1.0
 122	"Two independent journalists"	"went accused of defaming"	"President Franjo Tudjman"	0.7
@@ -2209,8 +2324,13 @@ The chief executive , Sir Colin Marshall , will take a similar cut , putting his
 123	"The chief executive"	"will take putting"	"his pay"	0.75
 123	"Sir Colin Marshall"	"will take"	"a similar cut"	0.8333333333333333
 123	"Sir Colin Marshall"	"will take putting"	"his pay"	0.75
+123	"Sir Colin Marshall"	"will take putting at $"	"540000."	0.6666666666666666
 123	"a similar cut"	"take putting"	"his pay"	-0.16666666666666669
+123	"a similar cut"	"take putting at $"	"540000."	-0.3
+123	"his pay"	"putting at $"	"540000."	-0.25
 Annually , some 600 miles of municipal roads are expected to deteriorate . 
+124	"600"	"some are"	"some 600 miles"	-0.25
+124	"600"	"miles of"	"municipal roads"	0.6666666666666666
 124	"some 600 miles"	"of"	"municipal roads"	1.3333333333333333
 Rather than resort to the usual bunker mentality , he tried a more practical approach . 
 125	"resort"	"to"	"the usual bunker mentality"	0.8333333333333333
@@ -2291,14 +2411,21 @@ Last month we saw an American patient who had been to five gynecologists before 
 134	"we"	"saw"	"an American patient"	1.0
 134	"we"	"saw patient had"	"who"	0.75
 134	"we"	"saw patient had been to"	"five gynecologists"	0.6666666666666666
+134	"we"	"saw patient had been before"	"the last one"	0.6666666666666666
 134	"an American patient"	"had"	"who"	1.3333333333333333
 134	"an American patient"	"had been to"	"five gynecologists"	1.2
+134	"an American patient"	"had been before"	"the last one"	1.2
 134	"an American patient"	"saw said is"	"this procedure"	-0.25
 134	"who"	"had been to"	"five gynecologists"	0.75
+134	"who"	"had been before"	"the last one"	0.75
 134	"who"	"had saw said is"	"this procedure"	0.0
+134	"five gynecologists"	"been before"	"the last one"	0.0
 134	"five gynecologists"	"to been had saw said is"	"this procedure"	0.08333333333333334
 134	"five gynecologists"	"to been had saw said is and referred"	"her"	0.0
 134	"five gynecologists"	"to been had saw said is and referred to"	"us"	-0.023809523809523808
+134	"the last one"	"before been had saw said is"	"this procedure"	0.08333333333333334
+134	"the last one"	"before been had saw said is and referred"	"her"	0.0
+134	"the last one"	"before been had saw said is and referred to"	"us"	-0.023809523809523808
 134	"this procedure"	"is and referred"	"her"	-0.25
 134	"this procedure"	"is and referred to"	"us"	-0.3
 134	"her"	"referred to"	"us"	-0.16666666666666669
@@ -2331,29 +2458,28 @@ A day after strong winds stirred up the Hauraki Gulf and broke the mast of Team 
 137	"the Hauraki Gulf"	"stirred winds day and broke mast of"	"Team New Zealand"	-0.033333333333333354
 137	"the Hauraki Gulf"	"stirred winds day and broke mast of Zealand"	"a lack"	-0.05714285714285716
 137	"the Hauraki Gulf"	"stirred winds day and broke mast of Zealand lack of"	"wind"	-0.0888888888888889
-137	"the Hauraki Gulf"	"stirred winds after caused"	"Race"	0.6666666666666666
 137	"the mast"	"of"	"Team New Zealand"	1.3333333333333333
 137	"the mast"	"of Zealand"	"a lack"	1.25
 137	"the mast"	"of Zealand lack of"	"wind"	1.1666666666666667
-137	"the mast"	"broke and caused"	"Race"	0.7
+137	"the mast"	"broke and caused"	"5"	0.7
 137	"the mast"	"broke and caused 5 of Cup"	"the America"	0.4
 137	"Team New Zealand"	"Zealand"	"a lack"	1.5
 137	"Team New Zealand"	"lack of"	"wind"	1.25
-137	"Team New Zealand"	"of mast broke and caused"	"Race"	0.6428571428571428
+137	"Team New Zealand"	"of mast broke and caused"	"5"	0.6428571428571428
 137	"Team New Zealand"	"of mast broke and caused 5 of Cup"	"the America"	0.34285714285714286
 137	"Team New Zealand"	"of mast broke and caused 5 of"	"the America 's Cup"	0.39285714285714285
 137	"a lack"	"of"	"wind"	1.3333333333333333
-137	"a lack"	"Zealand of mast broke and caused"	"Race"	0.625
+137	"a lack"	"Zealand of mast broke and caused"	"5"	0.625
 137	"a lack"	"Zealand of mast broke and caused 5 of Cup"	"the America"	0.325
 137	"a lack"	"Zealand of mast broke and caused 5 of"	"the America 's Cup"	0.375
 137	"a lack"	"Zealand of mast broke and caused to be abandoned"	"today"	0.325
-137	"wind"	"of lack Zealand of mast broke and caused"	"Race"	0.6
+137	"wind"	"of lack Zealand of mast broke and caused"	"5"	0.6
 137	"wind"	"of lack Zealand of mast broke and caused 5 of Cup"	"the America"	0.30000000000000004
 137	"wind"	"of lack Zealand of mast broke and caused 5 of"	"the America 's Cup"	0.35
 137	"wind"	"of lack Zealand of mast broke and caused to be abandoned"	"today"	0.30000000000000004
-137	"Race"	"caused 5 of Cup"	"the America"	-0.3
-137	"Race"	"caused 5 of"	"the America 's Cup"	-0.25
-137	"Race"	"caused to be abandoned"	"today"	-0.3
+137	"5"	"of Cup"	"the America"	1.25
+137	"5"	"of"	"the America 's Cup"	1.3333333333333333
+137	"5"	"caused to be abandoned"	"today"	-0.3
 137	"the America"	"Cup of caused 5 of"	"the America 's Cup"	0.04999999999999999
 137	"the America"	"Cup of caused to be abandoned"	"today"	0.0
 137	"the America 's Cup"	"of caused to be abandoned"	"today"	-0.04999999999999999
@@ -2564,15 +2690,20 @@ On Fridays and Saturdays the only nights it is open , every inch of that floor i
 148	"that floor"	"of is rocking with people are from"	"uptown"	0.39285714285714285
 148	"people"	"are"	"who"	1.3333333333333333
 148	"people"	"are from"	"uptown"	1.25
-148	"people"	"with is"	", the Upper East Side"	0.25
+148	"people"	"with is"	" the Upper East Side"	0.25
 148	"who"	"are from"	"uptown"	0.8333333333333333
-148	"who"	"are people with is"	", the Upper East Side"	0.33333333333333337
-148	"uptown"	"from are people with is"	", the Upper East Side"	0.35714285714285715
+148	"who"	"are people with is"	" the Upper East Side"	0.33333333333333337
+148	"uptown"	"from are people with is"	" the Upper East Side"	0.35714285714285715
 Leopold complained about this approach in the 1940 's , saying the landowner had " an obligation to manage his land in the interest of the community , as well as in his own interest . 
 149	"Leopold"	"complained about"	"this approach"	0.8333333333333333
+149	"Leopold"	"complained about approach in had"	"1940"	0.6666666666666666
 149	"Leopold"	"complained about approach in had 1940 saying"	"the landowner"	0.625
+149	"this approach"	"in had"	"1940"	1.25
 149	"this approach"	"in had 1940 saying"	"the landowner"	1.1666666666666667
 149	"this approach"	"in had"	"an obligation"	1.25
+149	"1940"	"saying"	"the landowner"	1.3333333333333333
+149	"1940"	"had"	"an obligation"	1.0
+149	"1940"	"had obligation to manage"	"his land"	0.7
 149	"the landowner"	"saying had"	"an obligation"	0.75
 149	"the landowner"	"saying had obligation to manage"	"his land"	0.45
 149	"the landowner"	"saying had obligation to manage land in"	"the interest"	0.39285714285714285
@@ -2675,7 +2806,10 @@ Targets in Kosovo province also came under sustained pounding , Serbian media sa
 The statue stands 56 feet tall and was placed atop Red Mountain in 1936. 
 154	"The statue"	"stands"	"56 feet"	1.0
 154	"The statue"	"stands and was placed atop"	"Red Mountain"	0.6666666666666666
+154	"The statue"	"stands and was placed in"	"1936."	0.6666666666666666
 154	"56 feet"	"stands and was placed atop"	"Red Mountain"	-0.33333333333333337
+154	"56 feet"	"stands and was placed in"	"1936."	-0.33333333333333337
+154	"Red Mountain"	"placed in"	"1936."	0.0
 Otherwise , she could receive up to 25 years in prison . 
 155	"she"	"could receive"	"up to 25 years"	0.8333333333333333
 155	"she"	"could receive years in"	"prison"	0.7
@@ -2804,10 +2938,15 @@ They maintain that this " negligent distribution " makes the companies collectiv
 160	"legal experts term novel"	"in"	"gun litigation"	1.3333333333333333
 The Russian Parliament voted Wednesday to contribute only 23.4 billion rubles for the coming year , less than a 10th of the total budget for the year . 
 161	"The Russian Parliament"	"voted"	"Wednesday"	1.0
+161	"The Russian Parliament"	"voted to contribute rubles only"	"billion"	0.6666666666666666
 161	"The Russian Parliament"	"voted to contribute"	"only 23.4 billion rubles"	0.75
 161	"The Russian Parliament"	"voted to contribute rubles for"	"the coming year"	0.6666666666666666
+161	"Wednesday"	"voted to contribute rubles only"	"billion"	-0.33333333333333337
 161	"Wednesday"	"voted to contribute"	"only 23.4 billion rubles"	-0.25
 161	"Wednesday"	"voted to contribute rubles for"	"the coming year"	-0.33333333333333337
+161	"billion"	"only rubles contribute voted to contribute"	"only 23.4 billion rubles"	0.08333333333333334
+161	"billion"	"rubles for"	"the coming year"	0.6666666666666666
+161	"billion"	"only rubles contribute voted . than 10th of"	"the total budget"	0.0
 161	"only 23.4 billion rubles"	"for"	"the coming year"	1.3333333333333333
 161	"only 23.4 billion rubles"	"contribute voted . than 10th of"	"the total budget"	-0.08333333333333334
 161	"the coming year"	"for rubles contribute voted . than 10th of"	"the total budget"	0.0
@@ -2865,10 +3004,16 @@ Tierney Finn , an actress , and Mark Fitzmartin , a television commercial produc
 162	"yesterday"	"were at"	"N.Y.U."	-0.16666666666666669
 162	"Holy Trinity Chapel"	"were at"	"N.Y.U."	0.0
 Jesse Jackson and one of his campaign fund-raisers misstated the history of Mr. Jackson 's requests for permission to visit South Africa . 
+163	"Jesse Jackson"	"and"	"one"	1.3333333333333333
 163	"Jesse Jackson"	"and one of"	"his campaign fund-raisers"	1.2
 163	"Jesse Jackson"	"misstated"	"the history"	1.0
 163	"Jesse Jackson"	"misstated history of requests"	"Mr. Jackson"	0.7
 163	"Jesse Jackson"	"misstated history of"	"Mr. Jackson 's requests"	0.75
+163	"one"	"of"	"his campaign fund-raisers"	1.3333333333333333
+163	"one"	"and misstated"	"the history"	0.75
+163	"one"	"and misstated history of requests"	"Mr. Jackson"	0.45
+163	"one"	"and misstated history of"	"Mr. Jackson 's requests"	0.5
+163	"one"	"and misstated history of requests for"	"permission"	0.41666666666666663
 163	"his campaign fund-raisers"	"of one and misstated"	"the history"	0.6666666666666666
 163	"his campaign fund-raisers"	"of one and misstated history of requests"	"Mr. Jackson"	0.3666666666666667
 163	"his campaign fund-raisers"	"of one and misstated history of"	"Mr. Jackson 's requests"	0.41666666666666663
@@ -2964,12 +3109,19 @@ There is a mind-bending illogic behind the Bush administration 's decision yeste
 169	"a mind-bending illogic"	"behind decision"	"the Bush administration"	1.25
 169	"a mind-bending illogic"	"behind"	"the Bush administration 's decision"	1.3333333333333333
 169	"a mind-bending illogic"	"is"	"yesterday"	0.0
+169	"a mind-bending illogic"	"is to withhold $"	"million"	-0.3
 169	"the Bush administration"	"decision behind is illogic behind"	"the Bush administration 's decision"	0.04999999999999999
 169	"the Bush administration"	"decision behind is"	"yesterday"	0.3
+169	"the Bush administration"	"decision behind is to withhold $"	"million"	0.0
 169	"the Bush administration"	"decision behind is to withhold from"	"the United Nations Population Fund"	0.0
 169	"the Bush administration 's decision"	"behind is"	"yesterday"	0.25
+169	"the Bush administration 's decision"	"behind is to withhold $"	"million"	-0.04999999999999999
 169	"the Bush administration 's decision"	"behind is to withhold from"	"the United Nations Population Fund"	-0.04999999999999999
+169	"yesterday"	"is to withhold $"	"million"	-0.3
 169	"yesterday"	"is to withhold from"	"the United Nations Population Fund"	-0.3
+169	"million"	"withhold from"	"the United Nations Population Fund"	0.0
+169	"million"	"withhold from Fund is working in"	"China"	-0.19047619047619047
+169	"million"	"withhold from Fund is working despite"	"continued practices"	-0.19047619047619047
 169	"the United Nations Population Fund"	"is working in"	"China"	1.2
 169	"the United Nations Population Fund"	"is working despite"	"continued practices"	1.2
 169	"the United Nations Population Fund"	"is working despite practices there of"	"coerced abortion"	1.125
@@ -2981,9 +3133,18 @@ There is a mind-bending illogic behind the Bush administration 's decision yeste
 169	"continued practices"	"there of abortion and"	"sterilization"	1.1666666666666667
 169	"coerced abortion"	"and"	"sterilization"	1.3333333333333333
 In 1954 , the committee presented a $ 100 million improvement plan and obtained legislation to set up a nondividend paying corporation to borrow the funds to create a new Aqueduct and to improve Belmont and Saratoga race tracks . 
+170	"1954"	"presented"	"the committee"	-0.16666666666666669
+170	"1954"	"presented plan $"	"million"	0.5833333333333333
+170	"1954"	"presented"	"a $ 100 million improvement plan"	0.8333333333333333
+170	"1954"	"presented and obtained"	"legislation"	0.5833333333333333
+170	"the committee"	"presented plan $"	"million"	0.75
 170	"the committee"	"presented"	"a $ 100 million improvement plan"	1.0
 170	"the committee"	"presented and obtained"	"legislation"	0.75
 170	"the committee"	"presented and obtained legislation to set"	"a nondividend"	0.6428571428571428
+170	"million"	"$ presented"	"a $ 100 million improvement plan"	0.25
+170	"million"	"$ presented and obtained"	"legislation"	0.0
+170	"million"	"$ presented and obtained legislation to set"	"a nondividend"	-0.10714285714285715
+170	"million"	"$ presented and obtained legislation to set nondividend paying"	"corporation"	-0.1388888888888889
 170	"a $ 100 million improvement plan"	"presented and obtained"	"legislation"	-0.25
 170	"a $ 100 million improvement plan"	"presented and obtained legislation to set"	"a nondividend"	-0.35714285714285715
 170	"a $ 100 million improvement plan"	"presented and obtained legislation to set nondividend paying"	"corporation"	-0.3888888888888889
@@ -3065,14 +3226,25 @@ While the Christmas-New Year 's season is always a slack time for most lines of 
 173	"most lines"	"of"	"work"	1.3333333333333333
 173	"most lines"	"for time is 's"	"it"	-0.33333333333333337
 173	"most lines"	"for time is 's break"	"the holidays"	0.5
+173	"most lines"	"for time is 's break weeks"	"two"	0.41666666666666663
 173	"work"	"of lines for time is 's"	"it"	-0.375
 173	"work"	"of lines for time is 's break"	"the holidays"	0.4583333333333333
+173	"work"	"of lines for time is 's break weeks"	"two"	0.375
 173	"work"	"of lines for time is 's break"	"two consecutive normal weeks"	0.4583333333333333
 173	"it"	"'s break"	"the holidays"	0.8333333333333333
+173	"it"	"'s break weeks"	"two"	0.75
 173	"it"	"'s break"	"two consecutive normal weeks"	0.8333333333333333
+173	"it"	"'s break into weeks"	"four"	0.7
+173	"the holidays"	"break weeks"	"two"	0.8333333333333333
 173	"the holidays"	"break"	"two consecutive normal weeks"	1.0
+173	"the holidays"	"break into weeks"	"four"	0.75
 173	"the holidays"	"break into"	"four discombobulating two-day weeks"	0.8333333333333333
+173	"two"	"weeks 's break"	"two consecutive normal weeks"	0.08333333333333331
+173	"two"	"break into weeks"	"four"	-0.08333333333333331
+173	"two"	"break into"	"four discombobulating two-day weeks"	0.0
+173	"two consecutive normal weeks"	"break into weeks"	"four"	-0.25
 173	"two consecutive normal weeks"	"break into"	"four discombobulating two-day weeks"	-0.16666666666666669
+173	"four"	"weeks into 's break into"	"four discombobulating two-day weeks"	0.04999999999999999
 Then another musical selection served as a prelude to scenes from a comic dance-drama in the folk style . 
 174	"another musical selection"	"served as"	"a prelude"	0.8333333333333333
 174	"another musical selection"	"served as prelude to"	"scenes"	0.7
@@ -3092,19 +3264,29 @@ Divertimento " from " Le Baiser de la Fee , " presented by the New York City Bal
 175	"Le Baiser de la Fee"	"from . is on"	"Wednesday night"	0.0
 175	"the New York City Ballet"	"by . is on"	"Wednesday night"	0.0
 175	"the New York City Ballet"	"by . is on night at"	"the New York State Theater"	0.08333333333333334
+175	"the New York City Ballet"	"by . is"	"one"	-0.08333333333333331
 175	"the New York City Ballet"	"by . is one of ballets"	"George Balanchine"	0.08333333333333334
 175	"Wednesday night"	"at"	"the New York State Theater"	1.3333333333333333
+175	"Wednesday night"	"is"	"one"	0.8333333333333333
 175	"Wednesday night"	"is one of ballets"	"George Balanchine"	0.5333333333333333
 175	"Wednesday night"	"is one of"	"George Balanchine 's odder ballets"	0.5833333333333333
+175	"the New York State Theater"	"at night is"	"one"	0.7
 175	"the New York State Theater"	"at night is one of ballets"	"George Balanchine"	0.4
 175	"the New York State Theater"	"at night is one of"	"George Balanchine 's odder ballets"	0.45
+175	"one"	"of ballets"	"George Balanchine"	1.25
+175	"one"	"of"	"George Balanchine 's odder ballets"	1.3333333333333333
 175	"George Balanchine"	"ballets of one . is one of"	"George Balanchine 's odder ballets"	-0.033333333333333354
 The consortium , called CityLink Telecommunications Ltd. , has pledged to invest $ 568 million to upgrade the telecommunication capabilities of the subway system , which is being overhauled , and maintain it for 20 years . 
-176	"The consortium"	"Telecommunications"	"The consortium , called CityLink Telecommunications"	1.5
+176	"The consortium"	"Telecommunications"	"The consortium  called CityLink Telecommunications"	1.5
 176	"The consortium"	"Telecommunications"	"Ltd."	1.0
-176	"The consortium , called CityLink Telecommunications"	"Telecommunications"	"Ltd."	1.5
-176	"The consortium , called CityLink Telecommunications"	"has pledged to invest to upgrade"	"the telecommunication capabilities"	1.125
+176	"The consortium"	"Telecommunications has pledged to invest $"	"million"	0.6428571428571428
+176	"The consortium  called CityLink Telecommunications"	"Telecommunications"	"Ltd."	1.5
+176	"The consortium  called CityLink Telecommunications"	"has pledged to invest $"	"million"	1.1428571428571428
+176	"The consortium  called CityLink Telecommunications"	"has pledged to invest to upgrade"	"the telecommunication capabilities"	1.125
+176	"Ltd."	"Telecommunications has pledged to invest $"	"million"	-0.35714285714285715
 176	"Ltd."	"Telecommunications has pledged to invest to upgrade"	"the telecommunication capabilities"	-0.375
+176	"million"	"invest to upgrade"	"the telecommunication capabilities"	-0.08333333333333331
+176	"million"	"invest to upgrade capabilities of"	"the subway system"	-0.16666666666666666
 176	"the telecommunication capabilities"	"of"	"the subway system"	1.3333333333333333
 176	"the telecommunication capabilities"	"upgrade to invest to pledged Telecommunications and maintain"	"it"	0.125
 176	"the subway system"	"of capabilities upgrade to invest to pledged Telecommunications and maintain"	"it"	0.15
@@ -3140,10 +3322,14 @@ It may seem as if she did not need the training , but it is already paying off .
 His staging has a touch of Broadway corn , with six choreographed female dancers . 
 179	"His staging"	"has"	"a touch"	1.0
 179	"His staging"	"has touch of"	"Broadway corn"	0.75
+179	"His staging"	"has with dancers"	"six"	0.75
 179	"His staging"	"has with"	"six choreographed female dancers"	0.8333333333333333
 179	"a touch"	"of"	"Broadway corn"	1.3333333333333333
+179	"a touch"	"has with dancers"	"six"	-0.25
 179	"a touch"	"has with"	"six choreographed female dancers"	-0.16666666666666669
+179	"Broadway corn"	"of has with dancers"	"six"	0.0
 179	"Broadway corn"	"of has with"	"six choreographed female dancers"	0.08333333333333331
+179	"six"	"dancers has with"	"six choreographed female dancers"	0.08333333333333331
 Nightmarish Soviet-style bureaucratic controls remain , like needing a special government permit to buy a delivery van . 
 180	"Nightmarish Soviet-style"	"remain"	"Nightmarish Soviet-style bureaucratic controls"	-0.16666666666666669
 180	"Nightmarish Soviet-style"	"remain like needing"	"a special government permit"	0.5833333333333333
@@ -3201,28 +3387,34 @@ The Digital Domain column last Sunday , about Craigslist , the online bulletin b
 182	"the site"	"arrival in"	"their cities"	0.8333333333333333
 182	"the site 's arrival"	"in"	"their cities"	1.3333333333333333
 A review on June 29 , about two books on German musicians and music in the Nazi period , referred incorrectly to Fred K. Prieberg 's 1982 German book on those subjects . 
-183	"A review"	"on 29"	"June"	1.25
+183	"A review"	"on"	"June 29"	1.3333333333333333
 183	"A review"	"review"	"about two books"	1.5
 183	"A review"	"books on"	"German musicians"	1.25
 183	"A review"	"books on musicians and"	"music"	1.1666666666666667
-183	"June"	"29 review"	"about two books"	0.25
-183	"June"	"29 review books on"	"German musicians"	0.0
-183	"June"	"29 review books on musicians and"	"music"	-0.08333333333333334
-183	"June"	"29 on . in"	"the Nazi period"	-0.1333333333333333
+183	"June 29"	"review"	"about two books"	0.16666666666666669
+183	"June 29"	"review books on"	"German musicians"	-0.08333333333333331
+183	"June 29"	"review books on musicians and"	"music"	-0.16666666666666666
+183	"June 29"	"on . in"	"the Nazi period"	-0.08333333333333331
 183	"about two books"	"on"	"German musicians"	1.3333333333333333
 183	"about two books"	"on musicians and"	"music"	1.2
 183	"about two books"	". in"	"the Nazi period"	0.0
 183	"German musicians"	"and"	"music"	1.3333333333333333
 183	"German musicians"	"on books . in"	"the Nazi period"	-0.1333333333333333
 183	"German musicians"	"on books . to book"	"Fred K. Prieberg"	-0.04999999999999999
+183	"German musicians"	"on books . to book"	"1982"	-0.04999999999999999
 183	"music"	"and musicians on books . in"	"the Nazi period"	-0.19047619047619047
 183	"music"	"and musicians on books . to book"	"Fred K. Prieberg"	-0.10714285714285715
+183	"music"	"and musicians on books . to book"	"1982"	-0.10714285714285715
 183	"music"	"and musicians on books . to"	"Fred K. Prieberg 's 1982 German book"	-0.19047619047619047
 183	"the Nazi period"	". to book"	"Fred K. Prieberg"	0.08333333333333331
+183	"the Nazi period"	". to book"	"1982"	0.08333333333333331
 183	"the Nazi period"	". to"	"Fred K. Prieberg 's 1982 German book"	0.0
 183	"the Nazi period"	". on"	"those subjects"	0.0
+183	"Fred K. Prieberg"	"book"	"1982"	0.0
 183	"Fred K. Prieberg"	"book . to"	"Fred K. Prieberg 's 1982 German book"	-0.08333333333333331
 183	"Fred K. Prieberg"	"book . on"	"those subjects"	-0.08333333333333331
+183	"1982"	"book . to"	"Fred K. Prieberg 's 1982 German book"	-0.08333333333333331
+183	"1982"	"book . on"	"those subjects"	-0.08333333333333331
 183	"Fred K. Prieberg 's 1982 German book"	". on"	"those subjects"	0.0
 Hayden 's Point was built by James Gamble Rogers for Chet Bowles , and it was never meant to be a showplace . 
 184	"Hayden"	". was"	"Point"	1.25
@@ -3258,6 +3450,10 @@ Bennett confirmed when he addressed the Township Council tonight that the United
 185	"the United States attorney 's office"	"had requested from"	"the township"	0.75
 185	"information"	"requested from"	"the township"	-0.16666666666666669
 In 1964 , he joined CBS News as an associate producer of " CBS News With Walter Cronkite " in Washington , and he later became the producer for White House correspondent Dan Rather , now CBS 's weekday anchor , during the Nixon Administration . 
+186	"1964"	"joined"	"he"	-0.16666666666666669
+186	"1964"	"joined"	"CBS News"	0.8333333333333333
+186	"1964"	"joined as"	"an associate producer"	0.6666666666666666
+186	"1964"	"joined as producer of"	"CBS News"	0.5333333333333333
 186	"he"	"joined"	"CBS News"	1.0
 186	"he"	"joined as"	"an associate producer"	0.8333333333333333
 186	"he"	"joined as producer of"	"CBS News"	0.7
@@ -3415,18 +3611,26 @@ David Johansen 's latest genre excursion heads for the recorded roots of America
 189	"Harry Smith"	"by collected were . Music"	"Anthology"	-0.16666666666666666
 189	"Harry Smith"	"by collected were ."	"Anthology of American Folk Music"	-0.33333333333333337
 189	"Harry Smith"	"by collected were . Music"	"a foundation"	-0.16666666666666666
+189	"Harry Smith"	"by collected were . Music foundation of revival"	"1950"	0.0
 189	"his"	". Music"	"Anthology"	0.16666666666666669
 189	"his"	"."	"Anthology of American Folk Music"	0.0
 189	"his"	". Music"	"a foundation"	0.16666666666666669
+189	"his"	". Music foundation of revival"	"1950"	0.33333333333333337
 189	"his"	". Music foundation of"	"the 1950 's folk revival"	0.3
 189	"Anthology"	"Music heads ."	"Anthology of American Folk Music"	0.08333333333333331
 189	"Anthology"	"Music"	"a foundation"	1.0
+189	"Anthology"	"Music foundation of revival"	"1950"	0.7
 189	"Anthology"	"Music foundation of"	"the 1950 's folk revival"	0.75
 189	"Anthology of American Folk Music"	"Music"	"a foundation"	1.5
+189	"Anthology of American Folk Music"	"foundation of revival"	"1950"	1.2
 189	"Anthology of American Folk Music"	"foundation of"	"the 1950 's folk revival"	1.25
+189	"a foundation"	"of revival"	"1950"	1.25
 189	"a foundation"	"of"	"the 1950 's folk revival"	1.3333333333333333
+189	"1950"	"revival of foundation Music heads . Music foundation of"	"the 1950 's folk revival"	0.023809523809523808
 Ford shares fell 2 cents , to $ 9.96 . 
 190	"Ford shares"	"fell"	"2 cents"	1.0
+190	"Ford shares"	"fell to $"	"9.96"	0.75
+190	"2 cents"	"fell to $"	"9.96"	-0.25
 Bic is being sued by people who say their lighters exploded , causing burns , and in some cases , death . 
 191	"Bic"	"is being sued by"	"people"	0.7
 191	"Bic"	"is being sued by people say"	"who"	0.6428571428571428
@@ -3436,17 +3640,17 @@ Bic is being sued by people who say their lighters exploded , causing burns , an
 191	"people"	"say exploded"	"their lighters"	1.25
 191	"people"	"say exploded causing"	"burns"	1.2
 191	"people"	"by sued is and death in"	"some cases"	0.0
-191	"people"	"by sued is and"	"in some cases , death"	0.1333333333333333
+191	"people"	"by sued is and"	"in some cases  death"	0.1333333333333333
 191	"who"	"say exploded"	"their lighters"	0.8333333333333333
 191	"who"	"say exploded causing"	"burns"	0.75
 191	"who"	"say people by sued is and death in"	"some cases"	0.05714285714285716
-191	"who"	"say people by sued is and"	"in some cases , death"	0.19047619047619047
+191	"who"	"say people by sued is and"	"in some cases  death"	0.19047619047619047
 191	"their lighters"	"exploded causing"	"burns"	0.8333333333333333
 191	"their lighters"	"exploded say people by sued is and death in"	"some cases"	0.07500000000000001
-191	"their lighters"	"exploded say people by sued is and"	"in some cases , death"	0.20833333333333331
+191	"their lighters"	"exploded say people by sued is and"	"in some cases  death"	0.20833333333333331
 191	"burns"	"causing exploded say people by sued is and death in"	"some cases"	0.0888888888888889
-191	"burns"	"causing exploded say people by sued is and"	"in some cases , death"	0.2222222222222222
-191	"some cases"	"in death is and"	"in some cases , death"	0.1333333333333333
+191	"burns"	"causing exploded say people by sued is and"	"in some cases  death"	0.2222222222222222
+191	"some cases"	"in death is and"	"in some cases  death"	0.1333333333333333
 Indeed , they were treated more fairly than Lawrence H. Summers , the president of Harvard , has been treated by his faculty . 
 192	"they"	"has treated fairly than"	"Lawrence H. Summers"	0.3
 192	"they"	"has"	"the president"	0.0
@@ -3502,13 +3706,19 @@ A winner will be announced in October .
 Until the investigation is completed and the I.A.A.F. convenes in London April 15 to decide her case , the federation has instructed the British Amateur Athletic Board to withdraw Budd from all international competition . 
 195	"the investigation"	"is and convenes"	"the I.A.A.F."	0.75
 195	"the investigation"	"is and convenes in"	"London April"	0.7
+195	"the investigation"	"Until . has"	"15"	-0.08333333333333331
 195	"the investigation"	"Until . has to decide"	"her case"	-0.16666666666666666
 195	"the I.A.A.F."	"convenes in"	"London April"	0.8333333333333333
+195	"the I.A.A.F."	"convenes and Until . has"	"15"	0.04999999999999999
 195	"the I.A.A.F."	"convenes and Until . has to decide"	"her case"	-0.033333333333333354
 195	"the I.A.A.F."	"convenes and Until . has"	"the federation"	0.04999999999999999
+195	"London April"	"in convenes and Until . has"	"15"	0.08333333333333334
 195	"London April"	"in convenes and Until . has to decide"	"her case"	0.0
 195	"London April"	"in convenes and Until . has"	"the federation"	0.08333333333333334
 195	"London April"	"in convenes and Until . has instructed"	"the British Amateur Athletic Board"	0.033333333333333354
+195	"15"	"has to decide"	"her case"	0.25
+195	"15"	"has"	"the federation"	0.0
+195	"15"	"has instructed"	"the British Amateur Athletic Board"	0.8333333333333333
 195	"her case"	"decide has"	"the federation"	-0.25
 195	"her case"	"decide has instructed"	"the British Amateur Athletic Board"	0.5833333333333333
 195	"her case"	"decide has instructed to withdraw"	"Budd"	0.45

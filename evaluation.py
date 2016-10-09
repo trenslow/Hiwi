@@ -112,10 +112,10 @@ def write_eval_results(corrs, incorrs, unkwns, out_folder, dat_set, system, sent
     unknown_file.close()
 
 
-def write_gold_extras(gold_corrs, gold_incorrs, out_folder, dat_set, sent_idx):
+def write_gold_extras(gold_corrs, gold_incorrs, out_folder, dat_set, system, sent_idx):
     path_to_txt = out_folder + dat_set + '/'
-    gold_corr_file = open(path_to_txt + 'goldCorrect.txt', 'w+')
-    gold_incorr_file = open(path_to_txt + 'goldIncorrect.txt', 'w+')
+    gold_corr_file = open(path_to_txt + system + '_' + 'goldCorrect.txt', 'w+')
+    gold_incorr_file = open(path_to_txt + system + '_' + 'goldIncorrect.txt', 'w+')
 
     for id, sent in sorted(sent_idx.items(), key=operator.itemgetter(0)):
         gold_corr_file.write(sent)
@@ -227,6 +227,9 @@ if __name__ == '__main__':
 
                     write_eval_results(corrects, incorrects, unknowns, output_folder,
                                        data_set_name, system, sentence_index)
+                    write_gold_extras(gold_corrects, gold_incorrects, output_folder,
+                                      data_set_name, system, sentence_index)
+
                 else:
                     line_width = 1.0
                     line_style = 'dashed'
@@ -256,7 +259,6 @@ if __name__ == '__main__':
                     graph_subplots(2, test_set, colors[system], line_style, system, line_width,
                                    True, data_set_name, x_limit)
 
-        write_gold_extras(gold_corrects, gold_incorrects, output_folder, data_set_name, sentence_index)
         plt.savefig(output_folder + data_set_name + '/plot.png')
         plt.clf()
         print('\n*********************************************\n')

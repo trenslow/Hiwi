@@ -5,15 +5,13 @@ import os
 import re
 import matplotlib.pyplot as plt
 import operator
-import sys
-import itertools
 
 
 def read_extraction_file(output):
     extraction_idx = {}
 
-    with open(output, encoding='latin-1') as f:
-        for line in f:
+    with open(output, encoding='latin-1') as file:
+        for line in file:
             # split line by tabs
             ln = line.strip().split('\t')
             # In the case the line in the file is the original sentence, skip the line.
@@ -86,7 +84,6 @@ def calculate_precision(c_and_c):
         precision = num_correct / num_extractions
         prec_by_extr.append(precision)
 
-    print('precision =', num_correct, '/', num_extractions, '=', num_correct / num_extractions)
     return prec_by_extr
 
 
@@ -113,9 +110,9 @@ def write_eval_results(corrs, incorrs, unkwns, out_folder, dat_set, system, sent
 
 
 def write_gold_extras(gold_corrs, gold_incorrs, out_folder, dat_set, system, sent_idx):
-    path_to_txt = out_folder + dat_set + '/'
-    gold_corr_file = open(path_to_txt + system + '_' + 'goldCorrect.txt', 'w+')
-    gold_incorr_file = open(path_to_txt + system + '_' + 'goldIncorrect.txt', 'w+')
+    path_to_file = out_folder + dat_set + '/'
+    gold_corr_file = open(path_to_file + system + '_' + 'goldCorrect.txt', 'w+')
+    gold_incorr_file = open(path_to_file + system + '_' + 'goldIncorrect.txt', 'w+')
 
     for id, sent in sorted(sent_idx.items(), key=operator.itemgetter(0)):
         gold_corr_file.write(sent)
@@ -127,6 +124,24 @@ def write_gold_extras(gold_corrs, gold_incorrs, out_folder, dat_set, system, sen
 
     gold_corr_file.close()
     gold_incorr_file.close()
+
+
+def write_stats_file(out_folder, dat_set, system, num_gold_corrs, num_gold_incorrs,
+                     num_nemex_corrs, num_nemex_incorrs, num_nemex_unknwns):
+    path_to_file = out_folder + dat_set + '/'
+    stats_file = open(path_to_file + system + '_' + 'stats.txt', 'w+')
+    num_extractions = num_nemex_corrs + num_nemex_incorrs
+
+    stats_file.write('For the system ' + system + ', on the ' + dat_set + ' data set:' + '\n')
+    stats_file.write('# of nemex positives / # of total positives = ' + str(num_nemex_corrs) + ' / ' +
+                     str(num_gold_corrs) + ' = ' + '{0:.2%}'.format(num_nemex_corrs / num_gold_corrs) + '\n')
+    stats_file.write('# of nemex negatives / # of total negatives = ' + str(num_nemex_incorrs) + ' / ' +
+                     str(num_gold_incorrs) + ' = ' + '{0:.2%}'.format(num_nemex_incorrs / num_gold_incorrs) + '\n')
+    stats_file.write('# of nemex unknowns: ' + str(num_nemex_unknwns) + '\n')
+    stats_file.write('precision = ' + str(num_nemex_corrs) + ' / ' + str(num_extractions) +
+                     ' = ' + '{0:.2%}'.format(num_nemex_corrs / num_extractions))
+
+    stats_file.close()
 
 
 def graph(dat, color, style, sys_name, width, data_name, xlim):
@@ -171,10 +186,6 @@ if __name__ == '__main__':
     output_folder = 'nemexOutputs/'
     create_output_directory(output_folder)
     full_plots = True
-    compareAll = True
-    compareArg1 = False
-    compareRel = False
-    compareArg2 = False
 
     # index that keeps track of all the paths to the output files
     # filters out any files that don't have extractions in them
@@ -216,7 +227,6 @@ if __name__ == '__main__':
                 gold_index = read_extraction_file(path_to_gold)
                 # read the output file and collect all the data into a dictionary
                 extraction_index = read_extraction_file(path + out_file)
-                print('for the system ' + system + ', on the ' + data_set_name + ' data set:')
                 # plot results, making the Nemex lines stand out more, and write Nemex results to file
                 if 'nemex' in system:
                     line_width = 2.0
@@ -224,11 +234,19 @@ if __name__ == '__main__':
                     # compare a nemex's output against the gold standard
                     correct_and_confidence, corrects, incorrects,\
                     unknowns, gold_corrects, gold_incorrects = compare(gold_index, extraction_index)
+                    num_gold_corrects = sum([len(lst) for lst in gold_corrects.values()])
+                    num_gold_incorrects = sum([len(lst) for lst in gold_incorrects.values()])
+                    num_nemex_corrects = sum([len(lst) for lst in corrects.values()])
+                    num_nemex_incorrects = sum([len(lst) for lst in incorrects.values()])
+                    num_nemex_unknowns = sum([len(lst) for lst in unknowns.values()])
 
                     write_eval_results(corrects, incorrects, unknowns, output_folder,
                                        data_set_name, system, sentence_index)
                     write_gold_extras(gold_corrects, gold_incorrects, output_folder,
                                       data_set_name, system, sentence_index)
+                    write_stats_file(output_folder, data_set_name, system,
+                                     num_gold_corrects, num_gold_incorrects,
+                                     num_nemex_corrects, num_nemex_incorrects, num_nemex_unknowns)
 
                 else:
                     line_width = 1.0
@@ -259,6 +277,6 @@ if __name__ == '__main__':
                     graph_subplots(2, test_set, colors[system], line_style, system, line_width,
                                    True, data_set_name, x_limit)
 
-        plt.savefig(output_folder + data_set_name + '/plot.png')
+        plt.savefig(output_folder + data_set_name + '/plot.pdf', format='pdf', dpi=1200)
+        plt.show()
         plt.clf()
-        print('\n*********************************************\n')

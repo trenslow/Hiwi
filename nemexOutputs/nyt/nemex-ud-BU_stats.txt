@@ -1,0 +1,5 @@
+For the system nemex-ud-BU, on the nyt data set:
+# of nemex positives / # of total positives = 39 / 974 = 4.00%
+# of nemex negatives / # of total negatives = 10 / 1060 = 0.94%
+# of nemex unknowns: 3516
+precision = 39 / 49 = 79.59%

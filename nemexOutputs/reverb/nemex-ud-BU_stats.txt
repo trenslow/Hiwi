@@ -1,0 +1,5 @@
+For the system nemex-ud-BU, on the reverb data set:
+# of nemex positives / # of total positives = 97 / 2776 = 3.49%
+# of nemex negatives / # of total negatives = 86 / 3460 = 2.49%
+# of nemex unknowns: 7986
+precision = 97 / 183 = 53.01%

@@ -1,0 +1,5 @@
+For the system nemex-ud-BU, on the wikipedia data set:
+# of nemex positives / # of total positives = 39 / 888 = 4.39%
+# of nemex negatives / # of total negatives = 12 / 828 = 1.45%
+# of nemex unknowns: 2861
+precision = 39 / 51 = 76.47%

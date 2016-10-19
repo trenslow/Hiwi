@@ -1,0 +1,5 @@
+For the system nemex-penn-TD, on the wikipedia data set:
+# of nemex positives / # of total positives = 115 / 737 = 15.60%
+# of nemex negatives / # of total negatives = 27 / 756 = 3.57%
+# of nemex unknowns: 318
+precision = 115 / 142 = 80.99%

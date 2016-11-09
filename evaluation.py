@@ -5,10 +5,12 @@ import os
 import re
 import matplotlib.pyplot as plt
 import operator
+import string
 
 
 def read_extraction_file(output):
     extraction_idx = {}
+    punct = {","}
 
     with open(output, encoding='latin-1') as file:
         for line in file:
@@ -21,7 +23,8 @@ def read_extraction_file(output):
             else:
                 # break apart the line into sentence id, extraction and confidence
                 sent_id = int(ln[0])
-                extraction = tuple(ln[1:-1])
+                extraction = tuple([''.join(el for el in l if el not in punct) for l in ln[1:-1]])
+                print(extraction)
                 conf = float(ln[-1])
                 # initialize the extraction index entry with the index as key and empty dict as value
                 if sent_id not in extraction_idx:

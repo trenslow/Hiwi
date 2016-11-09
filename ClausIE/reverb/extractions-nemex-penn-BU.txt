@@ -234,16 +234,16 @@ As he left the UN building , Sabri said he hoped Iraq 's announcement was a firs
 11	"sanctions"	"was against"	"his country"	0.0
 A backdrop of steady economic growth , scant inflation , and stable bond yields provided support for stocks . 
 12	"A backdrop"	"of"	"steady economic growth"	1.3333333333333333
-12	"A backdrop"	"provided"	"A backdrop of steady economic growth  scant inflation"	-0.16666666666666669
+12	"A backdrop"	"provided"	"A backdrop of steady economic growth scant inflation"	-0.16666666666666669
 12	"A backdrop"	"inflation and"	"stable bond yields"	0.8333333333333333
 12	"A backdrop"	"provided"	"support"	0.8333333333333333
-12	"steady economic growth"	"of backdrop provided"	"A backdrop of steady economic growth  scant inflation"	-0.3
+12	"steady economic growth"	"of backdrop provided"	"A backdrop of steady economic growth scant inflation"	-0.3
 12	"steady economic growth"	"of inflation and"	"stable bond yields"	0.5833333333333333
 12	"steady economic growth"	"of backdrop provided"	"support"	0.7
 12	"steady economic growth"	"of backdrop provided support for"	"stocks"	0.45
-12	"A backdrop of steady economic growth  scant inflation"	"and"	"stable bond yields"	1.3333333333333333
-12	"A backdrop of steady economic growth  scant inflation"	"provided"	"support"	1.0
-12	"A backdrop of steady economic growth  scant inflation"	"provided support for"	"stocks"	0.75
+12	"A backdrop of steady economic growth scant inflation"	"and"	"stable bond yields"	1.3333333333333333
+12	"A backdrop of steady economic growth scant inflation"	"provided"	"support"	1.0
+12	"A backdrop of steady economic growth scant inflation"	"provided support for"	"stocks"	0.75
 12	"stable bond yields"	"and provided"	"support"	0.75
 12	"stable bond yields"	"and provided support for"	"stocks"	0.5
 12	"support"	"for"	"stocks"	1.3333333333333333
@@ -549,28 +549,28 @@ The benchmark 30-year bond rose 3 / 8 , or $ 3.75 per $ 1,000 bond , to 96 30 / 
 35	"The benchmark 30-year bond"	"rose 8"	"3"	0.8333333333333333
 35	"The benchmark 30-year bond"	"rose"	"3 / 8"	1.0
 35	"The benchmark 30-year bond"	"rose 8 or $"	"3.75"	0.7
-35	"The benchmark 30-year bond"	"rose 8 or $ per $"	"1000"	0.6428571428571428
+35	"The benchmark 30-year bond"	"rose 8 or $ per $"	"1,000"	0.6428571428571428
 35	"The benchmark 30-year bond"	"rose"	"bond"	1.0
 35	"3"	"rose"	"3 / 8"	0.16666666666666669
 35	"3"	"8 or $"	"3.75"	0.75
-35	"3"	"8 or $ per $"	"1000"	0.6666666666666666
+35	"3"	"8 or $ per $"	"1,000"	0.6666666666666666
 35	"3"	"rose"	"bond"	0.16666666666666669
 35	"3"	"rose to"	"96 30"	0.0
 35	"3 / 8"	"or $"	"3.75"	1.25
-35	"3 / 8"	"or $ per $"	"1000"	1.1666666666666667
+35	"3 / 8"	"or $ per $"	"1,000"	1.1666666666666667
 35	"3 / 8"	"rose"	"bond"	0.0
 35	"3 / 8"	"rose to"	"96 30"	-0.16666666666666669
 35	"3 / 8"	"rose /"	"32"	-0.16666666666666669
-35	"3.75"	"$ per $"	"1000"	-0.25
+35	"3.75"	"$ per $"	"1,000"	-0.25
 35	"3.75"	"$ or rose"	"bond"	0.3
 35	"3.75"	"$ or rose to"	"96 30"	0.1333333333333333
 35	"3.75"	"$ or rose /"	"32"	0.1333333333333333
 35	"3.75"	"$ or rose pushing"	"its yield"	0.1333333333333333
-35	"1000"	"$ per $ or rose"	"bond"	0.35714285714285715
-35	"1000"	"$ per $ or rose to"	"96 30"	0.19047619047619047
-35	"1000"	"$ per $ or rose /"	"32"	0.19047619047619047
-35	"1000"	"$ per $ or rose pushing"	"its yield"	0.19047619047619047
-35	"1000"	"$ per $ or rose pushing"	"3 basis points"	0.19047619047619047
+35	"1,000"	"$ per $ or rose"	"bond"	0.35714285714285715
+35	"1,000"	"$ per $ or rose to"	"96 30"	0.19047619047619047
+35	"1,000"	"$ per $ or rose /"	"32"	0.19047619047619047
+35	"1,000"	"$ per $ or rose pushing"	"its yield"	0.19047619047619047
+35	"1,000"	"$ per $ or rose pushing"	"3 basis points"	0.19047619047619047
 35	"bond"	"rose to"	"96 30"	-0.16666666666666669
 35	"bond"	"rose /"	"32"	-0.16666666666666669
 35	"bond"	"rose pushing"	"its yield"	-0.16666666666666669
@@ -787,12 +787,12 @@ If Calcavecchia plays Friday morning , he knows the importance of starting well 
 49	"the importance"	"knows . because have"	"a recent history"	0.0
 49	"the Americans"	"have"	"a recent history"	1.0
 On the next play , Tuman , who had lined up on the left side , glided unchecked to the right and caught Griese 's pass for a 53-yard play to the Colorado 2. Two plays later , Chris Floyd 's dive for a 1-yard touchdown put Michigan ahead . 
-50	"the next play"	"put"	"On the next play  Tuman"	-0.6666666666666667
+50	"the next play"	"put"	"On the next play Tuman"	-0.6666666666666667
 50	"the next play"	"put had"	"who"	0.0
 50	"the next play"	"put had lined on"	"the left side"	0.1333333333333333
-50	"On the next play  Tuman"	"put had"	"who"	0.6666666666666667
-50	"On the next play  Tuman"	"put had lined on"	"the left side"	0.8
-50	"On the next play  Tuman"	"put glided to"	"the right"	0.75
+50	"On the next play Tuman"	"put had"	"who"	0.6666666666666667
+50	"On the next play Tuman"	"put had lined on"	"the left side"	0.8
+50	"On the next play Tuman"	"put glided to"	"the right"	0.75
 50	"who"	"put had lined on"	"the left side"	0.1333333333333333
 50	"who"	"put glided to"	"the right"	0.08333333333333331
 50	"the left side"	"on lined put glided to"	"the right"	-0.04999999999999999
@@ -932,9 +932,9 @@ Inspired by the Cadillac Vison concept SUV shown at last year 's auto shows , th
 54	"its own Aviator"	"based on"	"the Ford Explorer / Mercury Mountaineer platform"	1.25
 54	"Ford Explorer"	"platform on based Aviator add to will become to add Aviator based on"	"the Ford Explorer / Mercury Mountaineer platform"	0.013888888888888895
 It 's an effective , maybe even subversive , way to get the message across . 
-55	"It"	"'s ."	"maybe even subversive  way"	0.8333333333333333
+55	"It"	"'s ."	"maybe even subversive way"	0.8333333333333333
 55	"It"	"'s . way to get"	"the message"	0.6666666666666666
-55	"maybe even subversive  way"	"to get"	"the message"	1.25
+55	"maybe even subversive way"	"to get"	"the message"	1.25
 For their part , investors kept selling off stocks in trading and deregulated power companies , spurred Monday by negative news for El Paso Corp. Better yet , Miller and Roy Oswalt have won 19 straight decisions , and since July 1 , they 're a combined 21-1 with a 2.41 ERA . 
 56	"their part"	"kept"	"investors"	-0.16666666666666669
 56	"their part"	"kept selling"	"stocks"	0.6666666666666666
@@ -1202,22 +1202,22 @@ Luckily for them , nobody was watching .
 63	"them"	"was"	"nobody"	-0.16666666666666669
 The first photograph of the fatal crash in which Diana , Princess of Wales , died appeared on the front page of Bild Zeitung Monday . 
 64	"The first photograph"	"of"	"the fatal crash"	1.3333333333333333
-64	"The first photograph"	"died in "	"Diana"	0.25
-64	"The first photograph"	"died in  Wales"	"Princess"	0.3
-64	"The first photograph"	"died in "	"Princess of Wales"	0.25
-64	"the fatal crash"	"of died in "	"Diana"	0.0
-64	"the fatal crash"	"of died in  Wales"	"Princess"	0.04999999999999999
-64	"the fatal crash"	"of died in "	"Princess of Wales"	0.0
+64	"The first photograph"	"died in"	"Diana"	0.25
+64	"The first photograph"	"died in Wales"	"Princess"	0.3
+64	"The first photograph"	"died in"	"Princess of Wales"	0.25
+64	"the fatal crash"	"of died in"	"Diana"	0.0
+64	"the fatal crash"	"of died in Wales"	"Princess"	0.04999999999999999
+64	"the fatal crash"	"of died in"	"Princess of Wales"	0.0
 64	"the fatal crash"	"of died appeared on"	"the front page"	0.5
-64	"Diana"	" Wales"	"Princess"	0.16666666666666669
+64	"Diana"	"Wales"	"Princess"	0.16666666666666669
 64	"Diana"	""	"Princess of Wales"	0.0
-64	"Diana"	" died appeared on"	"the front page"	0.5
-64	"Diana"	" died appeared on page of"	"Bild Zeitung Monday"	0.41666666666666663
-64	"Princess"	"Wales  died in "	"Princess of Wales"	-0.04999999999999999
-64	"Princess"	"Wales  died appeared on"	"the front page"	0.45
-64	"Princess"	"Wales  died appeared on page of"	"Bild Zeitung Monday"	0.3666666666666667
-64	"Princess of Wales"	" died appeared on"	"the front page"	0.5
-64	"Princess of Wales"	" died appeared on page of"	"Bild Zeitung Monday"	0.41666666666666663
+64	"Diana"	"died appeared on"	"the front page"	0.5
+64	"Diana"	"died appeared on page of"	"Bild Zeitung Monday"	0.41666666666666663
+64	"Princess"	"Wales died in"	"Princess of Wales"	-0.04999999999999999
+64	"Princess"	"Wales died appeared on"	"the front page"	0.45
+64	"Princess"	"Wales died appeared on page of"	"Bild Zeitung Monday"	0.3666666666666667
+64	"Princess of Wales"	"died appeared on"	"the front page"	0.5
+64	"Princess of Wales"	"died appeared on page of"	"Bild Zeitung Monday"	0.41666666666666663
 64	"the front page"	"of"	"Bild Zeitung Monday"	1.3333333333333333
 Hooters of America owns , operates or franchises a total of 192 of the hot wing restaurants , vs. the 12 run by Hooters Inc. 
 65	"Hooters"	"by of"	"America"	0.25
@@ -1553,22 +1553,22 @@ The p53 protein is known to work as a genetic switch , binding to various sites 
 Only 19 percent of a national sample of 1,051 adults surveyed late last week said they believed the accord would reduce the number of teen-agers who begin smoking . 
 80	"19"	". said"	"percent"	0.0
 80	"19"	". said percent of"	"a national sample"	0.1333333333333333
-80	"19"	". said percent of sample of"	"1051 adults"	0.19047619047619047
+80	"19"	". said percent of sample of"	"1,051 adults"	0.19047619047619047
 80	"19"	". said percent of sample of adults surveyed"	"late last week"	0.2222222222222222
 80	"19"	". said believed"	"they"	0.08333333333333331
 80	"percent"	"of"	"a national sample"	1.3333333333333333
-80	"percent"	"of sample of"	"1051 adults"	1.2
+80	"percent"	"of sample of"	"1,051 adults"	1.2
 80	"percent"	"of sample of adults surveyed"	"late last week"	1.1428571428571428
 80	"percent"	"said believed"	"they"	0.8333333333333333
-80	"a national sample"	"of"	"1051 adults"	1.3333333333333333
+80	"a national sample"	"of"	"1,051 adults"	1.3333333333333333
 80	"a national sample"	"of adults surveyed"	"late last week"	1.2
 80	"a national sample"	"of said believed"	"they"	0.5833333333333333
 80	"a national sample"	"of said believed would"	"the accord"	0.5
-80	"1051 adults"	"surveyed"	"late last week"	1.3333333333333333
-80	"1051 adults"	"of sample of said believed"	"they"	0.5
-80	"1051 adults"	"of sample of said believed would"	"the accord"	0.41666666666666663
-80	"1051 adults"	"of sample of said believed would reduce"	"the number"	0.3666666666666667
-80	"1051 adults"	"of sample of said believed would reduce number of"	"teen-agers"	0.30952380952380953
+80	"1,051 adults"	"surveyed"	"late last week"	1.3333333333333333
+80	"1,051 adults"	"of sample of said believed"	"they"	0.5
+80	"1,051 adults"	"of sample of said believed would"	"the accord"	0.41666666666666663
+80	"1,051 adults"	"of sample of said believed would reduce"	"the number"	0.3666666666666667
+80	"1,051 adults"	"of sample of said believed would reduce number of"	"teen-agers"	0.30952380952380953
 80	"late last week"	"surveyed adults of sample of said believed"	"they"	0.4583333333333333
 80	"late last week"	"surveyed adults of sample of said believed would"	"the accord"	0.375
 80	"late last week"	"surveyed adults of sample of said believed would reduce"	"the number"	0.325
@@ -1640,17 +1640,17 @@ Calcavecchia has looked steady recently , finishing in the top 35 in three of hi
 In March , prices rose $ 2.50 per 1,000 cigarettes at wholesale , which equaled about 5 cents a pack for premium cigarettes at retail . 
 84	"March"	"rose"	"prices"	-0.16666666666666669
 84	"March"	"rose $"	"2.50"	0.6666666666666666
-84	"March"	"rose $ per"	"1000 cigarettes"	0.5833333333333333
+84	"March"	"rose $ per"	"1,000 cigarettes"	0.5833333333333333
 84	"prices"	"rose $"	"2.50"	0.8333333333333333
-84	"prices"	"rose $ per"	"1000 cigarettes"	0.75
+84	"prices"	"rose $ per"	"1,000 cigarettes"	0.75
 84	"prices"	"rose at wholesale equaled"	"about 5 cents"	0.7
-84	"2.50"	"$ per"	"1000 cigarettes"	-0.16666666666666669
+84	"2.50"	"$ per"	"1,000 cigarettes"	-0.16666666666666669
 84	"2.50"	"rose at wholesale equaled"	"about 5 cents"	-0.1333333333333333
 84	"2.50"	"rose at wholesale equaled cents"	"a pack"	-0.16666666666666666
-84	"1000 cigarettes"	"per rose at wholesale equaled"	"about 5 cents"	-0.04999999999999999
-84	"1000 cigarettes"	"per rose at wholesale equaled cents"	"a pack"	-0.08333333333333334
-84	"1000 cigarettes"	"per rose at wholesale equaled for"	"premium cigarettes"	-0.08333333333333334
-84	"1000 cigarettes"	"per rose at wholesale equaled at"	"retail"	-0.08333333333333334
+84	"1,000 cigarettes"	"per rose at wholesale equaled"	"about 5 cents"	-0.04999999999999999
+84	"1,000 cigarettes"	"per rose at wholesale equaled cents"	"a pack"	-0.08333333333333334
+84	"1,000 cigarettes"	"per rose at wholesale equaled for"	"premium cigarettes"	-0.08333333333333334
+84	"1,000 cigarettes"	"per rose at wholesale equaled at"	"retail"	-0.08333333333333334
 84	"about 5 cents"	"cents"	"a pack"	1.5
 84	"about 5 cents"	"equaled for"	"premium cigarettes"	-0.16666666666666669
 84	"about 5 cents"	"equaled at"	"retail"	-0.16666666666666669
@@ -1780,15 +1780,15 @@ You can venture out 100 yards and still find the water no deeper than 4 feet .
 93	"the water"	"deeper than"	"4 feet"	1.25
 Died on Aug. 16 , 1938 , in Three Forks , Miss . 
 94	"Aug."	"Aug."	"16"	1.5
-94	"Aug."	"1938 on . Died on"	"Aug. 16  1938"	-0.04999999999999999
+94	"Aug."	"1938 on . Died on"	"Aug. 16 1938"	-0.04999999999999999
 94	"Aug."	"1938 Died in"	"Three Forks"	0.08333333333333331
-94	"Aug."	"1938 on ."	" Miss"	-0.3
-94	"16"	"Aug. 1938 on . Died on"	"Aug. 16  1938"	-0.08333333333333334
+94	"Aug."	"1938 on ."	"Miss"	-0.3
+94	"16"	"Aug. 1938 on . Died on"	"Aug. 16 1938"	-0.08333333333333334
 94	"16"	"Aug. 1938 Died in"	"Three Forks"	0.1333333333333333
-94	"16"	"Aug. 1938 on ."	" Miss"	-0.33333333333333337
-94	"Aug. 16  1938"	"Died in"	"Three Forks"	0.0
-94	"Aug. 16  1938"	"on ."	" Miss"	-0.25
-94	"Three Forks"	"in ."	" Miss"	-0.25
+94	"16"	"Aug. 1938 on ."	"Miss"	-0.33333333333333337
+94	"Aug. 16 1938"	"Died in"	"Three Forks"	0.0
+94	"Aug. 16 1938"	"on ."	"Miss"	-0.25
+94	"Three Forks"	"in ."	"Miss"	-0.25
 Farris was replaced by sophomore Dustin Long in the second quarter against Pitt , and sophomore Jason Carter and freshman Reggie McNeal played in the opener . 
 95	"Farris"	"was replaced by"	"sophomore"	0.75
 95	"Farris"	"was replaced by sophomore"	"Dustin Long"	0.7
@@ -1939,9 +1939,9 @@ Katzenberg , for example , is feuding with former employer Disney , which he sue
 100	"the Disney"	"of cut denied was is animated films helped"	"he"	0.05714285714285716
 100	"films"	"helped"	"he"	1.3333333333333333
 So , 1,200-degree air is pumped back to the turbine blades from the compressor in order to cool the blades . 
-101	"1200-degree air"	"is pumped to"	"the turbine blades"	0.75
-101	"1200-degree air"	"is pumped from"	"the compressor"	0.75
-101	"1200-degree air"	"is pumped in"	"order"	0.75
+101	"1,200-degree air"	"is pumped to"	"the turbine blades"	0.75
+101	"1,200-degree air"	"is pumped from"	"the compressor"	0.75
+101	"1,200-degree air"	"is pumped in"	"order"	0.75
 101	"the turbine blades"	"pumped from"	"the compressor"	0.0
 101	"the turbine blades"	"pumped in"	"order"	0.0
 101	"the turbine blades"	"pumped in to cool"	"the blades"	-0.1333333333333333
@@ -2196,39 +2196,39 @@ A grocery store strike between Ralphs ' parent company , Kroger Co. , and 3,300 
 116	"A grocery store strike"	"between"	"Ralphs ' parent company"	1.3333333333333333
 116	"A grocery store strike"	"between company"	"Kroger"	1.25
 116	"A grocery store strike"	"between company Kroger"	"Co."	1.2
-116	"A grocery store strike"	"and"	"3300 union"	1.3333333333333333
+116	"A grocery store strike"	"and"	"3,300 union"	1.3333333333333333
 116	"A grocery store strike"	"have"	"employees"	1.3333333333333333
 116	"Ralphs"	"company between . strike between"	"Ralphs ' parent company"	-0.04999999999999999
 116	"Ralphs"	"company"	"Kroger"	1.0
 116	"Ralphs"	"company Kroger"	"Co."	0.8333333333333333
-116	"Ralphs"	"company strike and"	"3300 union"	0.08333333333333331
+116	"Ralphs"	"company strike and"	"3,300 union"	0.08333333333333331
 116	"Ralphs"	"company strike have"	"employees"	0.08333333333333331
 116	"Ralphs"	"company strike have employees in"	"Wms T$ Virginia"	-0.04999999999999999
 116	"Ralphs ' parent company"	"company"	"Kroger"	1.5
 116	"Ralphs ' parent company"	"Kroger"	"Co."	1.3333333333333333
-116	"Ralphs ' parent company"	"strike and"	"3300 union"	0.0
+116	"Ralphs ' parent company"	"strike and"	"3,300 union"	0.0
 116	"Ralphs ' parent company"	"strike have"	"employees"	0.0
 116	"Ralphs ' parent company"	"strike have employees in"	"Wms T$ Virginia"	-0.1333333333333333
 116	"Ralphs ' parent company"	"strike have employees in Virginia"	"Ohio"	-0.16666666666666666
 116	"Kroger"	"Kroger"	"Co."	1.5
-116	"Kroger"	"company strike and"	"3300 union"	0.08333333333333331
+116	"Kroger"	"company strike and"	"3,300 union"	0.08333333333333331
 116	"Kroger"	"company strike have"	"employees"	0.08333333333333331
 116	"Kroger"	"company strike have employees in"	"Wms T$ Virginia"	-0.04999999999999999
 116	"Kroger"	"company strike have employees in Virginia"	"Ohio"	-0.08333333333333334
 116	"Kroger"	"company strike have employees in Virginia Ohio and"	"Kentucky"	-0.125
 116	"Kroger"	"company strike have employees began offer"	"ities"	-0.08333333333333334
-116	"Co."	"Kroger company strike and"	"3300 union"	0.1333333333333333
+116	"Co."	"Kroger company strike and"	"3,300 union"	0.1333333333333333
 116	"Co."	"Kroger company strike have"	"employees"	0.1333333333333333
 116	"Co."	"Kroger company strike have employees in"	"Wms T$ Virginia"	0.0
 116	"Co."	"Kroger company strike have employees in Virginia"	"Ohio"	-0.033333333333333354
 116	"Co."	"Kroger company strike have employees in Virginia Ohio and"	"Kentucky"	-0.07500000000000001
 116	"Co."	"Kroger company strike have employees began offer"	"ities"	-0.033333333333333354
-116	"3300 union"	"strike have"	"employees"	0.0
-116	"3300 union"	"strike have employees in"	"Wms T$ Virginia"	-0.1333333333333333
-116	"3300 union"	"strike have employees in Virginia"	"Ohio"	-0.16666666666666666
-116	"3300 union"	"strike have employees in Virginia Ohio and"	"Kentucky"	-0.20833333333333331
-116	"3300 union"	"strike have employees began offer"	"ities"	-0.16666666666666666
-116	"3300 union"	"strike have employees began offer ities between"	"the two situations"	-0.20833333333333331
+116	"3,300 union"	"strike have"	"employees"	0.0
+116	"3,300 union"	"strike have employees in"	"Wms T$ Virginia"	-0.1333333333333333
+116	"3,300 union"	"strike have employees in Virginia"	"Ohio"	-0.16666666666666666
+116	"3,300 union"	"strike have employees in Virginia Ohio and"	"Kentucky"	-0.20833333333333331
+116	"3,300 union"	"strike have employees began offer"	"ities"	-0.16666666666666666
+116	"3,300 union"	"strike have employees began offer ities between"	"the two situations"	-0.20833333333333331
 116	"employees"	"in"	"Wms T$ Virginia"	1.3333333333333333
 116	"employees"	"in Virginia"	"Ohio"	1.25
 116	"employees"	"in Virginia Ohio and"	"Kentucky"	1.1666666666666667
@@ -2321,15 +2321,15 @@ The movie , a $ 120 million change of pace for arty ` ` Crouching Tiger , Hidden
 121	"Hidden Dragon"	"is set to debut in"	"June"	0.6666666666666666
 121	"director Ang Lee"	"is set to debut in"	"June"	0.6666666666666666
 Kidd , 29 , the team 's star point guard , extended his current contract years ago and may not sign another extension with the Nets before becoming a free agent on July 1 . 
-122	"Kidd"	"extended"	"Kidd  29"	-0.16666666666666669
+122	"Kidd"	"extended"	"Kidd 29"	-0.16666666666666669
 122	"Kidd"	"29 guard"	"the team"	0.8333333333333333
 122	"Kidd"	"29"	"the team 's star point guard"	1.0
 122	"Kidd"	"extended ago years"	"his"	0.5833333333333333
 122	"Kidd"	"extended ago"	"his current contract years"	0.6666666666666666
-122	"Kidd  29"	"guard"	"the team"	1.3333333333333333
-122	"Kidd  29"	"29"	"the team 's star point guard"	1.5
-122	"Kidd  29"	"extended ago years"	"his"	0.75
-122	"Kidd  29"	"extended ago"	"his current contract years"	0.8333333333333333
+122	"Kidd 29"	"guard"	"the team"	1.3333333333333333
+122	"Kidd 29"	"29"	"the team 's star point guard"	1.5
+122	"Kidd 29"	"extended ago years"	"his"	0.75
+122	"Kidd 29"	"extended ago"	"his current contract years"	0.8333333333333333
 122	"the team"	"guard extended 29"	"the team 's star point guard"	-0.08333333333333331
 122	"the team"	"guard extended ago years"	"his"	0.5
 122	"the team"	"guard extended ago"	"his current contract years"	0.5833333333333333
@@ -2685,13 +2685,13 @@ BLUE RIBBON COOK BOOK 1907 DEVILED EGGS Cut in two , crosswise , one dozen hard-
 141	"BLUE RIBBON COOK BOOK 1907"	"DEVILED Cut"	"EGGS"	0.8333333333333333
 141	"BLUE RIBBON COOK BOOK 1907"	"DEVILED in"	"two"	0.8333333333333333
 141	"BLUE RIBBON COOK BOOK 1907"	"DEVILED eggs"	"dozen"	0.8333333333333333
-141	"BLUE RIBBON COOK BOOK 1907"	"DEVILED"	" one dozen hard-boiled eggs"	1.0
+141	"BLUE RIBBON COOK BOOK 1907"	"DEVILED"	"one dozen hard-boiled eggs"	1.0
 141	"EGGS"	"DEVILED in"	"two"	0.0
 141	"EGGS"	"DEVILED eggs"	"dozen"	0.0
-141	"EGGS"	"DEVILED"	" one dozen hard-boiled eggs"	0.16666666666666669
+141	"EGGS"	"DEVILED"	"one dozen hard-boiled eggs"	0.16666666666666669
 141	"two"	"DEVILED eggs"	"dozen"	0.0
-141	"two"	"DEVILED"	" one dozen hard-boiled eggs"	0.16666666666666669
-141	"dozen"	"DEVILED"	" one dozen hard-boiled eggs"	0.16666666666666669
+141	"two"	"DEVILED"	"one dozen hard-boiled eggs"	0.16666666666666669
+141	"dozen"	"DEVILED"	"one dozen hard-boiled eggs"	0.16666666666666669
 Fowler clearly resented Ickes ' authority , and his testimony affirms once again that Ickes , probably more than any other person , knows the full story of the 1996 Clinton campaign , including President Clinton 's role in the fund-raising excesses . 
 142	"Fowler"	"resented authority"	"Ickes"	0.8333333333333333
 142	"Fowler"	"resented"	"Ickes ' authority"	1.0
@@ -2827,22 +2827,22 @@ The New York Stock Exchange floor will be a sea of khaki-clad legs tomorrow as G
 148	"khaki-clad legs tomorrow"	"of be as promotes"	"casual Fridays"	0.0
 148	"khaki-clad legs tomorrow"	"of be as promotes Fridays with"	"free pants"	-0.08333333333333334
 148	"khaki-clad legs tomorrow"	"of be as promotes Fridays with pants and"	"shirts"	-0.125
-148	"khaki-clad legs tomorrow"	"of be as promotes for"	"about 3500 traders"	-0.04999999999999999
+148	"khaki-clad legs tomorrow"	"of be as promotes for"	"about 3,500 traders"	-0.04999999999999999
 148	"Gap"	"Gap"	"Inc."	1.5
 148	"Gap"	"promotes"	"casual Fridays"	1.0
 148	"Gap"	"promotes Fridays with"	"free pants"	0.75
 148	"Gap"	"promotes Fridays with pants and"	"shirts"	0.6666666666666666
-148	"Gap"	"promotes for"	"about 3500 traders"	0.8333333333333333
+148	"Gap"	"promotes for"	"about 3,500 traders"	0.8333333333333333
 148	"Inc."	"promotes"	"casual Fridays"	0.8333333333333333
 148	"Inc."	"promotes Fridays with"	"free pants"	0.5833333333333333
 148	"Inc."	"promotes Fridays with pants and"	"shirts"	0.5
-148	"Inc."	"promotes for"	"about 3500 traders"	0.6666666666666666
+148	"Inc."	"promotes for"	"about 3,500 traders"	0.6666666666666666
 148	"casual Fridays"	"with"	"free pants"	1.3333333333333333
 148	"casual Fridays"	"with pants and"	"shirts"	1.2
-148	"casual Fridays"	"promotes for"	"about 3500 traders"	-0.16666666666666669
+148	"casual Fridays"	"promotes for"	"about 3,500 traders"	-0.16666666666666669
 148	"free pants"	"and"	"shirts"	1.3333333333333333
-148	"free pants"	"with promotes for"	"about 3500 traders"	0.08333333333333331
-148	"shirts"	"and pants with promotes for"	"about 3500 traders"	0.16666666666666666
+148	"free pants"	"with promotes for"	"about 3,500 traders"	0.08333333333333331
+148	"shirts"	"and pants with promotes for"	"about 3,500 traders"	0.16666666666666666
 The spread between the notional yield on the most active 10-year Japanese government bond futures contract and the seven-year swap rate was little changed from yesterday at 42 basis points . 
 149	"The spread"	"between"	"the notional yield"	1.3333333333333333
 149	"The spread"	"between yield on"	"the most active 10-year Japanese government bond futures contract"	1.2
@@ -2892,21 +2892,21 @@ We get long digressions about the rivalry between Los Alamos and a second nuclea
 154	"the rivalry"	"between"	"Los Alamos"	1.3333333333333333
 154	"the rivalry"	"between Alamos and"	"a second nuclear weapons lab"	1.2
 154	"the rivalry"	"between Alamos and lab set at Calif."	"Livermore"	1.1111111111111112
-154	"the rivalry"	"between Alamos and lab set at"	"Livermore  Calif."	1.125
+154	"the rivalry"	"between Alamos and lab set at"	"Livermore Calif."	1.125
 154	"Los Alamos"	"and"	"a second nuclear weapons lab"	1.3333333333333333
 154	"Los Alamos"	"and lab set at Calif."	"Livermore"	1.1428571428571428
-154	"Los Alamos"	"and lab set at"	"Livermore  Calif."	1.1666666666666667
+154	"Los Alamos"	"and lab set at"	"Livermore Calif."	1.1666666666666667
 154	"a second nuclear weapons lab"	"set at Calif."	"Livermore"	1.2
-154	"a second nuclear weapons lab"	"set at"	"Livermore  Calif."	1.25
+154	"a second nuclear weapons lab"	"set at"	"Livermore Calif."	1.25
 154	"a second nuclear weapons lab"	"and Alamos between rivalry about get ."	"eye-glazing asides"	0.20833333333333331
 154	"a second nuclear weapons lab"	"and Alamos between rivalry about get . asides about"	"technical problems"	0.07500000000000001
-154	"Livermore"	"Calif. at set lab and Alamos between rivalry about get digressions about rivalry between Alamos and lab set at"	"Livermore  Calif."	0.007575757575757583
+154	"Livermore"	"Calif. at set lab and Alamos between rivalry about get digressions about rivalry between Alamos and lab set at"	"Livermore Calif."	0.007575757575757583
 154	"Livermore"	"Calif. at set lab and Alamos between rivalry about get ."	"eye-glazing asides"	0.25
 154	"Livermore"	"Calif. at set lab and Alamos between rivalry about get . asides about"	"technical problems"	0.11666666666666668
 154	"Livermore"	"Calif. at set lab and Alamos between rivalry about get . asides about problems at"	"both labs"	0.05952380952380952
-154	"Livermore  Calif."	"at set lab and Alamos between rivalry about get ."	"eye-glazing asides"	0.2424242424242424
-154	"Livermore  Calif."	"at set lab and Alamos between rivalry about get . asides about"	"technical problems"	0.1090909090909091
-154	"Livermore  Calif."	"at set lab and Alamos between rivalry about get . asides about problems at"	"both labs"	0.05194805194805194
+154	"Livermore Calif."	"at set lab and Alamos between rivalry about get ."	"eye-glazing asides"	0.2424242424242424
+154	"Livermore Calif."	"at set lab and Alamos between rivalry about get . asides about"	"technical problems"	0.1090909090909091
+154	"Livermore Calif."	"at set lab and Alamos between rivalry about get . asides about problems at"	"both labs"	0.05194805194805194
 154	"eye-glazing asides"	"about"	"technical problems"	1.3333333333333333
 154	"eye-glazing asides"	"about problems at"	"both labs"	1.2
 154	"technical problems"	"at"	"both labs"	1.3333333333333333
@@ -3183,20 +3183,20 @@ They want news of the latest United Nations debate , bulletins on the Sudanese e
 167	"news"	"of"	"the latest United Nations debate"	1.3333333333333333
 167	"news"	"want . dope"	"bulletins"	-0.25
 167	"news"	"want . dope bulletins on"	"the Sudanese economy"	-0.33333333333333337
-167	"news"	"want ."	"bulletins on the Sudanese economy  inside dope"	-0.16666666666666669
+167	"news"	"want ."	"bulletins on the Sudanese economy inside dope"	-0.16666666666666669
 167	"the latest United Nations debate"	"of want . dope"	"bulletins"	0.0
 167	"the latest United Nations debate"	"of want . dope bulletins on"	"the Sudanese economy"	-0.08333333333333334
-167	"the latest United Nations debate"	"of want ."	"bulletins on the Sudanese economy  inside dope"	0.08333333333333331
+167	"the latest United Nations debate"	"of want ."	"bulletins on the Sudanese economy inside dope"	0.08333333333333331
 167	"the latest United Nations debate"	"of want . dope on"	"the recent political coup"	-0.04999999999999999
 167	"bulletins"	"on"	"the Sudanese economy"	1.3333333333333333
-167	"bulletins"	"dope want ."	"bulletins on the Sudanese economy  inside dope"	0.08333333333333331
+167	"bulletins"	"dope want ."	"bulletins on the Sudanese economy inside dope"	0.08333333333333331
 167	"bulletins"	"dope on"	"the recent political coup"	0.8333333333333333
 167	"bulletins"	"dope on coup in"	"Cambodia"	0.7
-167	"the Sudanese economy"	"on bulletins dope want ."	"bulletins on the Sudanese economy  inside dope"	0.16666666666666666
+167	"the Sudanese economy"	"on bulletins dope want ."	"bulletins on the Sudanese economy inside dope"	0.16666666666666666
 167	"the Sudanese economy"	"on dope on"	"the recent political coup"	0.5833333333333333
 167	"the Sudanese economy"	"on dope on coup in"	"Cambodia"	0.45
-167	"bulletins on the Sudanese economy  inside dope"	"on"	"the recent political coup"	1.3333333333333333
-167	"bulletins on the Sudanese economy  inside dope"	"on coup in"	"Cambodia"	1.2
+167	"bulletins on the Sudanese economy inside dope"	"on"	"the recent political coup"	1.3333333333333333
+167	"bulletins on the Sudanese economy inside dope"	"on coup in"	"Cambodia"	1.2
 167	"the recent political coup"	"in"	"Cambodia"	1.3333333333333333
 Spokesmen for the SEC and the New York and Philadelphia exchanges declined to say whether they are investigating trading in Salomon 's stock . 
 168	"Spokesmen"	"for"	"the SEC"	1.3333333333333333
@@ -3396,17 +3396,17 @@ In the last four games of the losing streak , they surrendered deciding goals in
 178	"the last minutes"	"of"	"the half"	1.3333333333333333
 178	"the last minutes"	"of half or"	"game"	1.2
 178	"the last minutes"	"in surrendered Bay 4-0"	"three times"	0.0
-178	"the last minutes"	"in surrendered Bay"	"three times and were blanked  4-0"	0.08333333333333331
+178	"the last minutes"	"in surrendered Bay"	"three times and were blanked 4-0"	0.08333333333333331
 178	"the half"	"or"	"game"	1.3333333333333333
 178	"the half"	"of minutes in surrendered Bay 4-0"	"three times"	0.08333333333333334
-178	"the half"	"of minutes in surrendered Bay"	"three times and were blanked  4-0"	0.16666666666666666
-178	"the half"	"of minutes in surrendered"	"three times and were blanked  4-0  by Tampa Bay"	0.33333333333333337
+178	"the half"	"of minutes in surrendered Bay"	"three times and were blanked 4-0"	0.16666666666666666
+178	"the half"	"of minutes in surrendered"	"three times and were blanked 4-0 by Tampa Bay"	0.33333333333333337
 178	"game"	"or half of minutes in surrendered Bay 4-0"	"three times"	0.125
-178	"game"	"or half of minutes in surrendered Bay"	"three times and were blanked  4-0"	0.20833333333333331
-178	"game"	"or half of minutes in surrendered"	"three times and were blanked  4-0  by Tampa Bay"	0.375
-178	"three times"	"4-0 surrendered Bay"	"three times and were blanked  4-0"	0.08333333333333331
-178	"three times"	"4-0 surrendered"	"three times and were blanked  4-0  by Tampa Bay"	0.25
-178	"three times and were blanked  4-0"	"surrendered"	"three times and were blanked  4-0  by Tampa Bay"	0.16666666666666669
+178	"game"	"or half of minutes in surrendered Bay"	"three times and were blanked 4-0"	0.20833333333333331
+178	"game"	"or half of minutes in surrendered"	"three times and were blanked 4-0 by Tampa Bay"	0.375
+178	"three times"	"4-0 surrendered Bay"	"three times and were blanked 4-0"	0.08333333333333331
+178	"three times"	"4-0 surrendered"	"three times and were blanked 4-0 by Tampa Bay"	0.25
+178	"three times and were blanked 4-0"	"surrendered"	"three times and were blanked 4-0 by Tampa Bay"	0.16666666666666669
 Eating disorders affect 5 million to 10 million American adolescent girls and women and about 1 million American boys and men . 
 179	"Eating disorders"	"affect"	"5 million"	1.0
 179	"Eating disorders"	"affect to girls"	"10 million"	0.75
@@ -3632,10 +3632,10 @@ But Leslie Robison , an epidemiologist from the University of Minnesota , who es
 He calculates his annual maintenance costs at $ 25,000 . 
 187	"He"	"calculates costs"	"his"	0.8333333333333333
 187	"He"	"calculates"	"his annual maintenance costs"	1.0
-187	"He"	"calculates at $"	"25000"	0.75
+187	"He"	"calculates at $"	"25,000"	0.75
 187	"his"	"calculates"	"his annual maintenance costs"	0.16666666666666669
-187	"his"	"calculates at $"	"25000"	-0.08333333333333331
-187	"his annual maintenance costs"	"calculates at $"	"25000"	-0.25
+187	"his"	"calculates at $"	"25,000"	-0.08333333333333331
+187	"his annual maintenance costs"	"calculates at $"	"25,000"	-0.25
 Towers Financial was formed by one-time New York Post bidder Steven Hoffenberg . 
 188	"Towers Financial"	"was formed by"	"one-time New York Post bidder"	0.75
 188	"Towers Financial"	"was formed by bidder"	"Steven Hoffenberg"	0.7
@@ -4545,28 +4545,28 @@ They make ` ` Alabama ' ' a relatively painless experience , provided , again , 
 240	"you"	"leave before starts"	"singing"	0.75
 240	"Jewel"	"starts"	"singing"	1.0
 At least 170,000 civilian prisoners died at Majdanek , the suit claims , including 13,000 Jews who were murdered within a month of Bucmys 's arrival . 
-241	"least 170000"	"died"	"At least 170000 civilian prisoners"	-0.16666666666666669
-241	"least 170000"	"died at"	"Majdanek"	0.6666666666666666
-241	"least 170000"	"died ."	"the suit claims"	0.6666666666666666
-241	"least 170000"	"died . claims including"	"13000 Jews"	0.5333333333333333
-241	"least 170000"	"died . claims including Jews were"	"who"	0.47619047619047616
-241	"At least 170000 civilian prisoners"	"died at"	"Majdanek"	0.8333333333333333
-241	"At least 170000 civilian prisoners"	"died ."	"the suit claims"	0.8333333333333333
-241	"At least 170000 civilian prisoners"	"died . claims including"	"13000 Jews"	0.7
-241	"At least 170000 civilian prisoners"	"died . claims including Jews were"	"who"	0.6428571428571428
+241	"least 170,000"	"died"	"At least 170,000 civilian prisoners"	-0.16666666666666669
+241	"least 170,000"	"died at"	"Majdanek"	0.6666666666666666
+241	"least 170,000"	"died ."	"the suit claims"	0.6666666666666666
+241	"least 170,000"	"died . claims including"	"13,000 Jews"	0.5333333333333333
+241	"least 170,000"	"died . claims including Jews were"	"who"	0.47619047619047616
+241	"At least 170,000 civilian prisoners"	"died at"	"Majdanek"	0.8333333333333333
+241	"At least 170,000 civilian prisoners"	"died ."	"the suit claims"	0.8333333333333333
+241	"At least 170,000 civilian prisoners"	"died . claims including"	"13,000 Jews"	0.7
+241	"At least 170,000 civilian prisoners"	"died . claims including Jews were"	"who"	0.6428571428571428
 241	"Majdanek"	"died ."	"the suit claims"	0.0
-241	"Majdanek"	"died . claims including"	"13000 Jews"	-0.1333333333333333
+241	"Majdanek"	"died . claims including"	"13,000 Jews"	-0.1333333333333333
 241	"Majdanek"	"died . claims including Jews were"	"who"	-0.19047619047619047
 241	"Majdanek"	"died . claims including Jews were murdered within"	"a month"	-0.2222222222222222
-241	"the suit claims"	"including"	"13000 Jews"	1.3333333333333333
+241	"the suit claims"	"including"	"13,000 Jews"	1.3333333333333333
 241	"the suit claims"	"including Jews were"	"who"	1.2
 241	"the suit claims"	"including Jews were murdered within"	"a month"	1.1428571428571428
 241	"the suit claims"	"including Jews were murdered within month of arrival"	"Bucmys"	1.1
 241	"the suit claims"	"including Jews were murdered within month of"	"Bucmys 's arrival"	1.1111111111111112
-241	"13000 Jews"	"were"	"who"	1.3333333333333333
-241	"13000 Jews"	"were murdered within"	"a month"	1.2
-241	"13000 Jews"	"were murdered within month of arrival"	"Bucmys"	1.125
-241	"13000 Jews"	"were murdered within month of"	"Bucmys 's arrival"	1.1428571428571428
+241	"13,000 Jews"	"were"	"who"	1.3333333333333333
+241	"13,000 Jews"	"were murdered within"	"a month"	1.2
+241	"13,000 Jews"	"were murdered within month of arrival"	"Bucmys"	1.125
+241	"13,000 Jews"	"were murdered within month of"	"Bucmys 's arrival"	1.1428571428571428
 241	"who"	"were murdered within"	"a month"	0.75
 241	"who"	"were murdered within month of arrival"	"Bucmys"	0.6428571428571428
 241	"who"	"were murdered within month of"	"Bucmys 's arrival"	0.6666666666666666
@@ -4847,18 +4847,18 @@ Turnout was light , according to news agency reports from the capital , Conakry 
 257	"Turnout"	"was"	"light"	1.0
 257	"Turnout"	"was according to"	"news agency reports"	0.75
 257	"Turnout"	"was according to reports from"	"the capital"	0.6666666666666666
-257	"Turnout"	"was according to reports"	" Conakry"	0.7
+257	"Turnout"	"was according to reports"	"Conakry"	0.7
 257	"light"	"was according to"	"news agency reports"	-0.25
 257	"light"	"was according to reports from"	"the capital"	-0.33333333333333337
-257	"light"	"was according to reports"	" Conakry"	-0.3
+257	"light"	"was according to reports"	"Conakry"	-0.3
 257	"news agency reports"	"from"	"the capital"	1.3333333333333333
-257	"news agency reports"	"reports"	" Conakry"	1.5
-257	"the capital"	"reports"	" Conakry"	0.16666666666666669
+257	"news agency reports"	"reports"	"Conakry"	1.5
+257	"the capital"	"reports"	"Conakry"	0.16666666666666669
 A Swiss Bank spokesman in Basel , Michel Willi , declined to comment on the talks , as did a spokesman in London . 
 258	"A Swiss Bank spokesman"	"in"	"Basel"	1.3333333333333333
 258	"A Swiss Bank spokesman"	""	"Michel Willi"	0.0
 258	"A Swiss Bank spokesman"	"declined to comment on"	"the talks"	0.5333333333333333
-258	"Basel"	"in "	"Michel Willi"	-0.25
+258	"Basel"	"in"	"Michel Willi"	-0.25
 258	"Basel"	"in spokesman declined to comment on"	"the talks"	0.4
 258	"Basel"	"in spokesman declined as did"	"a spokesman"	0.45
 258	"Michel Willi"	"declined to comment on"	"the talks"	0.5333333333333333
@@ -5054,17 +5054,17 @@ In silence , a dozen women emerged in white chadors , the final one in black , s
 269	"gazing"	"and standing at"	"the audience"	0.08333333333333331
 Silver inventories in Comex warehouses rose 454,000 ounces to 141.118 million ounces , the exchanges said in its daily stockpile report after trading yesterday , up from a 10-month low of 140.664 million ounces . 
 270	"Silver inventories"	"said in"	"Comex warehouses"	0.25
-270	"Silver inventories"	"said"	"454000 ounces"	0.0
+270	"Silver inventories"	"said"	"454,000 ounces"	0.0
 270	"Silver inventories"	"said to"	"141.118 million ounces"	0.16666666666666669
 270	"Silver inventories"	"said"	"the exchanges"	0.0
-270	"Comex warehouses"	"in said"	"454000 ounces"	-0.25
+270	"Comex warehouses"	"in said"	"454,000 ounces"	-0.25
 270	"Comex warehouses"	"in said to"	"141.118 million ounces"	-0.08333333333333331
 270	"Comex warehouses"	"in said"	"the exchanges"	-0.25
 270	"Comex warehouses"	"in said in report"	"its"	0.5
-270	"454000 ounces"	"said to"	"141.118 million ounces"	0.16666666666666669
-270	"454000 ounces"	"said"	"the exchanges"	0.0
-270	"454000 ounces"	"said in report"	"its"	0.75
-270	"454000 ounces"	"said in"	"its daily stockpile report"	0.8333333333333333
+270	"454,000 ounces"	"said to"	"141.118 million ounces"	0.16666666666666669
+270	"454,000 ounces"	"said"	"the exchanges"	0.0
+270	"454,000 ounces"	"said in report"	"its"	0.75
+270	"454,000 ounces"	"said in"	"its daily stockpile report"	0.8333333333333333
 270	"141.118 million ounces"	"said"	"the exchanges"	-0.16666666666666669
 270	"141.118 million ounces"	"said in report"	"its"	0.5833333333333333
 270	"141.118 million ounces"	"said in"	"its daily stockpile report"	0.6666666666666666
@@ -5867,10 +5867,10 @@ The troubled answers about the campaign against terrorism at home and abroad con
 311	"The troubled answers"	"about campaign against terrorism at"	"home"	1.1428571428571428
 311	"the campaign"	"against"	"terrorism"	1.3333333333333333
 311	"the campaign"	"against terrorism at"	"home"	1.2
-311	"the campaign"	"answers and conveyed"	"a similar fatalistic  slightly cranky mood"	-0.08333333333333331
+311	"the campaign"	"answers and conveyed"	"a similar fatalistic slightly cranky mood"	-0.08333333333333331
 311	"terrorism"	"at"	"home"	1.3333333333333333
-311	"terrorism"	"against campaign answers and conveyed"	"a similar fatalistic  slightly cranky mood"	0.04999999999999999
-311	"home"	"at terrorism against campaign answers and conveyed"	"a similar fatalistic  slightly cranky mood"	0.10714285714285715
+311	"terrorism"	"against campaign answers and conveyed"	"a similar fatalistic slightly cranky mood"	0.04999999999999999
+311	"home"	"at terrorism against campaign answers and conveyed"	"a similar fatalistic slightly cranky mood"	0.10714285714285715
 The findings , which the researchers say probably apply to men too , appear in the current issue of The Journal of the National Cancer Institute . 
 312	"The findings"	". say"	"the researchers"	0.16666666666666669
 312	"The findings"	". say apply to"	"men"	0.3
@@ -6001,42 +6001,42 @@ Led by Guy Hands , managing director for Nomura International 's Principal Finan
 315	"its rail privatization program"	"of part as sold Trains of securitization including has bought"	"the 904 million pound securitization"	0.2424242424242424
 315	"its rail privatization program"	"of part as sold Trains of securitization including has bought securitization of"	"Annington Homes"	0.1090909090909091
 315	"its rail privatization program"	"of part as sold Trains of securitization including has bought securitization of Homes"	"a group"	0.07575757575757575
-315	"its rail privatization program"	"of part as sold Trains of securitization including has bought securitization of Homes group of houses"	"57000"	0.020202020202020193
+315	"its rail privatization program"	"of part as sold Trains of securitization including has bought securitization of Homes group of houses"	"57,000"	0.020202020202020193
 315	"904 million"	"million"	"pound"	1.5
 315	"904 million"	"securitization has bought"	"the 904 million pound securitization"	0.08333333333333331
 315	"904 million"	"securitization of"	"Annington Homes"	0.8333333333333333
 315	"904 million"	"securitization of Homes"	"a group"	0.75
-315	"904 million"	"securitization of Homes group of houses"	"57000"	0.6428571428571428
-315	"904 million"	"securitization of Homes group of"	"57000 British military houses"	0.6666666666666666
+315	"904 million"	"securitization of Homes group of houses"	"57,000"	0.6428571428571428
+315	"904 million"	"securitization of Homes group of"	"57,000 British military houses"	0.6666666666666666
 315	"pound"	"million securitization has bought"	"the 904 million pound securitization"	0.1333333333333333
 315	"pound"	"securitization of"	"Annington Homes"	0.6666666666666666
 315	"pound"	"securitization of Homes"	"a group"	0.5833333333333333
-315	"pound"	"securitization of Homes group of houses"	"57000"	0.47619047619047616
-315	"pound"	"securitization of Homes group of"	"57000 British military houses"	0.5
+315	"pound"	"securitization of Homes group of houses"	"57,000"	0.47619047619047616
+315	"pound"	"securitization of Homes group of"	"57,000 British military houses"	0.5
 315	"the 904 million pound securitization"	"of"	"Annington Homes"	1.3333333333333333
 315	"the 904 million pound securitization"	"of Homes"	"a group"	1.25
-315	"the 904 million pound securitization"	"of Homes group of houses"	"57000"	1.1428571428571428
-315	"the 904 million pound securitization"	"of Homes group of"	"57000 British military houses"	1.1666666666666667
+315	"the 904 million pound securitization"	"of Homes group of houses"	"57,000"	1.1428571428571428
+315	"the 904 million pound securitization"	"of Homes group of"	"57,000 British military houses"	1.1666666666666667
 315	"Annington Homes"	"Homes"	"a group"	1.5
-315	"Annington Homes"	"group of houses"	"57000"	1.2
-315	"Annington Homes"	"group of"	"57000 British military houses"	1.25
+315	"Annington Homes"	"group of houses"	"57,000"	1.2
+315	"Annington Homes"	"group of"	"57,000 British military houses"	1.25
 315	"Annington Homes"	"securitization and securitization"	"249 million"	-0.08333333333333331
 315	"Annington Homes"	"securitization and securitization million"	"pound"	-0.1333333333333333
 315	"Annington Homes"	"securitization and"	"the 249 million pound securitization"	0.0
-315	"a group"	"of houses"	"57000"	1.25
-315	"a group"	"of"	"57000 British military houses"	1.3333333333333333
+315	"a group"	"of houses"	"57,000"	1.25
+315	"a group"	"of"	"57,000 British military houses"	1.3333333333333333
 315	"a group"	"Homes securitization and securitization"	"249 million"	0.0
 315	"a group"	"Homes securitization and securitization million"	"pound"	-0.04999999999999999
 315	"a group"	"Homes securitization and"	"the 249 million pound securitization"	0.08333333333333331
-315	"57000"	"houses of group Homes of securitization has bought securitization of Homes group of"	"57000 British military houses"	0.013888888888888895
-315	"57000"	"houses of group Homes securitization and securitization"	"249 million"	0.10714285714285715
-315	"57000"	"houses of group Homes securitization and securitization million"	"pound"	0.05714285714285716
-315	"57000"	"houses of group Homes securitization and"	"the 249 million pound securitization"	0.19047619047619047
-315	"57000 British military houses"	"of group Homes securitization and securitization"	"249 million"	0.08333333333333334
-315	"57000 British military houses"	"of group Homes securitization and securitization million"	"pound"	0.033333333333333354
-315	"57000 British military houses"	"of group Homes securitization and"	"the 249 million pound securitization"	0.16666666666666666
-315	"57000 British military houses"	"of group Homes securitization and securitization of"	"the Phoenix Inns pub chain"	0.033333333333333354
-315	"57000 British military houses"	"of group Homes securitization and securitization of chain"	"Nomura"	0.0
+315	"57,000"	"houses of group Homes of securitization has bought securitization of Homes group of"	"57,000 British military houses"	0.013888888888888895
+315	"57,000"	"houses of group Homes securitization and securitization"	"249 million"	0.10714285714285715
+315	"57,000"	"houses of group Homes securitization and securitization million"	"pound"	0.05714285714285716
+315	"57,000"	"houses of group Homes securitization and"	"the 249 million pound securitization"	0.19047619047619047
+315	"57,000 British military houses"	"of group Homes securitization and securitization"	"249 million"	0.08333333333333334
+315	"57,000 British military houses"	"of group Homes securitization and securitization million"	"pound"	0.033333333333333354
+315	"57,000 British military houses"	"of group Homes securitization and"	"the 249 million pound securitization"	0.16666666666666666
+315	"57,000 British military houses"	"of group Homes securitization and securitization of"	"the Phoenix Inns pub chain"	0.033333333333333354
+315	"57,000 British military houses"	"of group Homes securitization and securitization of chain"	"Nomura"	0.0
 315	"249 million"	"million"	"pound"	1.5
 315	"249 million"	"securitization and securitization has bought securitization and"	"the 249 million pound securitization"	0.033333333333333354
 315	"249 million"	"securitization of"	"the Phoenix Inns pub chain"	0.8333333333333333
@@ -6126,12 +6126,12 @@ Story Filed By Cox Newspapers It is the cultural issues , though , that probably
 319	"the cultural issues"	"is pose"	"the biggest challenges"	-0.16666666666666669
 Poverty rates for children , 16.3 percent , and the elderly , 10.1 percent , were virtually unchanged from 2000 . 
 320	"Poverty rates"	"for"	"children"	1.3333333333333333
-320	"Poverty rates"	"were"	"Poverty rates for children  16.3 percent"	-0.16666666666666669
+320	"Poverty rates"	"were"	"Poverty rates for children 16.3 percent"	-0.16666666666666669
 320	"Poverty rates"	"were"	"10.1 percent"	-0.16666666666666669
-320	"children"	"for rates were"	"Poverty rates for children  16.3 percent"	-0.3
+320	"children"	"for rates were"	"Poverty rates for children 16.3 percent"	-0.3
 320	"children"	"for rates were"	"10.1 percent"	-0.3
-320	"Poverty rates for children  16.3 percent"	"were"	"10.1 percent"	0.0
-320	"Poverty rates for children  16.3 percent"	"were unchanged from"	"2000"	0.75
+320	"Poverty rates for children 16.3 percent"	"were"	"10.1 percent"	0.0
+320	"Poverty rates for children 16.3 percent"	"were unchanged from"	"2000"	0.75
 320	"10.1 percent"	"were unchanged from"	"2000"	0.75
 Any notoriety for a Latina actress will promote Latina actresses in general , says Bel Hernandez , former actress and publisher of a Hollywood trade publication for Latinos , Latin Heat . 
 321	"Any notoriety"	"says for"	"a Latina actress"	0.25
@@ -6148,17 +6148,17 @@ Any notoriety for a Latina actress will promote Latina actresses in general , sa
 321	"Bel Hernandez"	"actress and"	"publisher"	1.25
 321	"Bel Hernandez"	"actress of"	"a Hollywood trade publication"	1.25
 321	"Bel Hernandez"	"actress of publication for"	"Latinos"	1.1666666666666667
-321	"Bel Hernandez"	"says"	" Latin Heat"	0.0
+321	"Bel Hernandez"	"says"	"Latin Heat"	0.0
 321	"former actress"	"and"	"publisher"	1.3333333333333333
 321	"former actress"	"of"	"a Hollywood trade publication"	1.3333333333333333
 321	"former actress"	"of publication for"	"Latinos"	1.2
-321	"former actress"	"says"	" Latin Heat"	0.16666666666666669
+321	"former actress"	"says"	"Latin Heat"	0.16666666666666669
 321	"publisher"	"actress of"	"a Hollywood trade publication"	0.0
 321	"publisher"	"actress of publication for"	"Latinos"	-0.1333333333333333
-321	"publisher"	"and actress says"	" Latin Heat"	0.3
+321	"publisher"	"and actress says"	"Latin Heat"	0.3
 321	"a Hollywood trade publication"	"for"	"Latinos"	1.3333333333333333
-321	"a Hollywood trade publication"	"of actress says"	" Latin Heat"	0.3
-321	"Latinos"	"for publication of actress says"	" Latin Heat"	0.35714285714285715
+321	"a Hollywood trade publication"	"of actress says"	"Latin Heat"	0.3
+321	"Latinos"	"for publication of actress says"	"Latin Heat"	0.35714285714285715
 After a while , they do n't feel the acute pain of someone who has been dumped . 
 322	"a while"	"do"	"they"	-0.16666666666666669
 322	"a while"	"do feel"	"the acute pain"	0.6666666666666666
@@ -6186,17 +6186,17 @@ Hose contracted inhalation anthrax while handling mail for the State Department 
 324	"Hose"	"contracted while handling"	"mail"	0.75
 324	"Hose"	"contracted while handling mail for"	"the State Department"	0.6666666666666666
 324	"Hose"	"contracted while handling mail for Department in Va"	"Sterling"	0.6111111111111112
-324	"Hose"	"contracted while handling mail for Department in"	"Sterling  Va"	0.625
+324	"Hose"	"contracted while handling mail for Department in"	"Sterling Va"	0.625
 324	"inhalation anthrax"	"contracted while handling"	"mail"	-0.25
 324	"inhalation anthrax"	"contracted while handling mail for"	"the State Department"	-0.33333333333333337
 324	"inhalation anthrax"	"contracted while handling mail for Department in Va"	"Sterling"	-0.3888888888888889
-324	"inhalation anthrax"	"contracted while handling mail for Department in"	"Sterling  Va"	-0.375
+324	"inhalation anthrax"	"contracted while handling mail for Department in"	"Sterling Va"	-0.375
 324	"mail"	"for"	"the State Department"	1.3333333333333333
 324	"mail"	"for Department in Va"	"Sterling"	1.1666666666666667
-324	"mail"	"for Department in"	"Sterling  Va"	1.2
+324	"mail"	"for Department in"	"Sterling Va"	1.2
 324	"the State Department"	"in Va"	"Sterling"	1.25
-324	"the State Department"	"in"	"Sterling  Va"	1.3333333333333333
-324	"Sterling"	"Va in Department for mail handling contracted while handling mail for Department in"	"Sterling  Va"	0.013888888888888895
+324	"the State Department"	"in"	"Sterling Va"	1.3333333333333333
+324	"Sterling"	"Va in Department for mail handling contracted while handling mail for Department in"	"Sterling Va"	0.013888888888888895
 Police departments launch massive enforcement plans to combat road rage . 
 325	"Police departments"	"launch"	"massive enforcement plans"	1.0
 325	"Police departments"	"launch plans to combat"	"road rage"	0.7
@@ -6205,23 +6205,23 @@ The company exported 2.13 million barrels a day of crude oil , and 966,000 barre
 326	"The company"	"exported"	"2.13 million barrels"	1.0
 326	"The company"	"exported barrels"	"a day"	0.8333333333333333
 326	"The company"	"exported barrels day of"	"crude oil"	0.7
-326	"The company"	"exported . day"	"966000 barrels"	0.75
-326	"The company"	"exported ."	"966000 barrels a day"	0.8333333333333333
+326	"The company"	"exported . day"	"966,000 barrels"	0.75
+326	"The company"	"exported ."	"966,000 barrels a day"	0.8333333333333333
 326	"2.13 million barrels"	"barrels"	"a day"	1.5
 326	"2.13 million barrels"	"day of"	"crude oil"	1.25
-326	"2.13 million barrels"	"exported . day"	"966000 barrels"	-0.25
-326	"2.13 million barrels"	"exported ."	"966000 barrels a day"	-0.16666666666666669
+326	"2.13 million barrels"	"exported . day"	"966,000 barrels"	-0.25
+326	"2.13 million barrels"	"exported ."	"966,000 barrels a day"	-0.16666666666666669
 326	"2.13 million barrels"	"exported . day of"	"refined products"	-0.3
 326	"a day"	"of"	"crude oil"	1.3333333333333333
-326	"a day"	"exported . day"	"966000 barrels"	-0.08333333333333331
-326	"a day"	"exported ."	"966000 barrels a day"	0.0
+326	"a day"	"exported . day"	"966,000 barrels"	-0.08333333333333331
+326	"a day"	"exported ."	"966,000 barrels a day"	0.0
 326	"a day"	"exported . day of"	"refined products"	-0.1333333333333333
-326	"crude oil"	"of day exported . day"	"966000 barrels"	0.04999999999999999
-326	"crude oil"	"of day exported ."	"966000 barrels a day"	0.1333333333333333
+326	"crude oil"	"of day exported . day"	"966,000 barrels"	0.04999999999999999
+326	"crude oil"	"of day exported ."	"966,000 barrels a day"	0.1333333333333333
 326	"crude oil"	"of day exported . day of"	"refined products"	0.0
-326	"966000 barrels"	"day exported ."	"966000 barrels a day"	0.08333333333333331
-326	"966000 barrels"	"day of"	"refined products"	0.8333333333333333
-326	"966000 barrels a day"	"of"	"refined products"	1.3333333333333333
+326	"966,000 barrels"	"day exported ."	"966,000 barrels a day"	0.08333333333333331
+326	"966,000 barrels"	"day of"	"refined products"	0.8333333333333333
+326	"966,000 barrels a day"	"of"	"refined products"	1.3333333333333333
 Cleveland : Federal Reserve Bank of Cleveland President Jerry Jordan speaks on money and monetary policy to the Cleveland Business Economists Club , noon . 
 327	"Cleveland"	"speaks"	"Federal Reserve Bank"	0.0
 327	"Cleveland"	"speaks Bank of"	"Cleveland President Jerry Jordan"	0.25
@@ -6233,13 +6233,13 @@ Cleveland : Federal Reserve Bank of Cleveland President Jerry Jordan speaks on m
 327	"Cleveland President Jerry Jordan"	"of speaks on"	"money"	0.5833333333333333
 327	"Cleveland President Jerry Jordan"	"of speaks on money and"	"monetary policy"	0.45
 327	"Cleveland President Jerry Jordan"	"of speaks to noon"	"Cleveland Business Economists Club"	0.5
-327	"Cleveland President Jerry Jordan"	"of speaks to"	"the Cleveland Business Economists Club  noon"	0.5833333333333333
+327	"Cleveland President Jerry Jordan"	"of speaks to"	"the Cleveland Business Economists Club noon"	0.5833333333333333
 327	"money"	"and"	"monetary policy"	1.3333333333333333
 327	"money"	"speaks to noon"	"Cleveland Business Economists Club"	-0.08333333333333331
-327	"money"	"speaks to"	"the Cleveland Business Economists Club  noon"	0.0
+327	"money"	"speaks to"	"the Cleveland Business Economists Club noon"	0.0
 327	"monetary policy"	"and money speaks to noon"	"Cleveland Business Economists Club"	0.04999999999999999
-327	"monetary policy"	"and money speaks to"	"the Cleveland Business Economists Club  noon"	0.1333333333333333
-327	"Cleveland Business Economists Club"	"noon speaks to"	"the Cleveland Business Economists Club  noon"	0.08333333333333331
+327	"monetary policy"	"and money speaks to"	"the Cleveland Business Economists Club noon"	0.1333333333333333
+327	"Cleveland Business Economists Club"	"noon speaks to"	"the Cleveland Business Economists Club noon"	0.08333333333333331
 The event fizzled after the bombing that rocked the games . 
 328	"The event"	"fizzled after"	"the bombing"	0.8333333333333333
 328	"The event"	"fizzled after bombing rocked"	"the games"	0.7
@@ -6285,8 +6285,8 @@ Did not the same radiant hope accompany the transition from the 19th to the 20th
 330	"the transition"	"Did to"	"the 20th century"	-0.16666666666666669
 Born in 1912 in Hazelhurst , Miss . 
 331	"1912"	"in Miss"	"Hazelhurst"	0.6666666666666666
-331	"1912"	"in"	"Hazelhurst  Miss"	0.8333333333333333
-331	"Hazelhurst"	"Miss in . Born in"	"Hazelhurst  Miss"	-0.04999999999999999
+331	"1912"	"in"	"Hazelhurst Miss"	0.8333333333333333
+331	"Hazelhurst"	"Miss in . Born in"	"Hazelhurst Miss"	-0.04999999999999999
 An online bidder in Boerne paid $ 525 for a 20-inch Sony television set that retails at less than $ 350 new . 
 332	"An online bidder"	"in"	"Boerne"	1.3333333333333333
 332	"An online bidder"	"paid $"	"525"	0.8333333333333333
@@ -6362,13 +6362,13 @@ For its part , Israel has long said it will not pull out of southern Lebanon unt
 The finding revealed bay trees , not oak trees , to be the unexpected , key disperser of the disease . 
 336	"The finding"	"revealed"	"bay trees"	1.0
 336	"The finding"	"revealed trees"	"oak trees"	0.8333333333333333
-336	"The finding"	"revealed to be"	"the unexpected  key disperser"	0.75
+336	"The finding"	"revealed to be"	"the unexpected key disperser"	0.75
 336	"bay trees"	"trees"	"oak trees"	1.5
-336	"bay trees"	"revealed to be"	"the unexpected  key disperser"	-0.25
+336	"bay trees"	"revealed to be"	"the unexpected key disperser"	-0.25
 336	"bay trees"	"revealed to be disperser of"	"the disease"	-0.33333333333333337
-336	"oak trees"	"revealed to be"	"the unexpected  key disperser"	-0.08333333333333331
+336	"oak trees"	"revealed to be"	"the unexpected key disperser"	-0.08333333333333331
 336	"oak trees"	"revealed to be disperser of"	"the disease"	-0.16666666666666666
-336	"the unexpected  key disperser"	"of"	"the disease"	1.3333333333333333
+336	"the unexpected key disperser"	"of"	"the disease"	1.3333333333333333
 At the time , Little said he left Ramirez in the game because the slugger apologized to everybody in the dugout . 
 337	"the time"	"said"	"Little"	-0.16666666666666669
 337	"the time"	"said left"	"he"	0.6666666666666666
@@ -6413,13 +6413,13 @@ The Cardinals considered very seriously drafting Purdue fullback Mike Alstott wi
 338	"their"	"pick ago"	"a year"	0.8333333333333333
 338	"their second-round pick"	"ago"	"a year"	1.3333333333333333
 He paid $ 350,000 for the car in 1990 , then thoroughly remodeled it . 
-339	"He"	"paid $"	"350000"	0.8333333333333333
+339	"He"	"paid $"	"350,000"	0.8333333333333333
 339	"He"	"paid for"	"the car"	0.8333333333333333
 339	"He"	"paid in"	"1990"	0.8333333333333333
 339	"He"	"paid remodeled"	"it"	0.8333333333333333
-339	"350000"	"paid for"	"the car"	0.0
-339	"350000"	"paid in"	"1990"	0.0
-339	"350000"	"paid remodeled"	"it"	0.0
+339	"350,000"	"paid for"	"the car"	0.0
+339	"350,000"	"paid in"	"1990"	0.0
+339	"350,000"	"paid remodeled"	"it"	0.0
 339	"the car"	"paid in"	"1990"	0.0
 339	"the car"	"paid remodeled"	"it"	0.0
 339	"1990"	"paid remodeled"	"it"	0.0
@@ -6573,16 +6573,16 @@ In the end , blacks and whites came , and , to hear many of them tell it , climb
 346	"it"	"tell climbed over lot of"	"harsh terrain"	-0.33333333333333337
 346	"a lot"	"of"	"harsh terrain"	1.3333333333333333
 Playing before a crowd of 39,294 , Army jumped to a 7-0 lead on its second possession , covering 66 yards in a 14-play drive that culminated in a 1-yard leap into the end zone by the junior fullback Joe Hewitt . 
-347	"a crowd"	"of"	"39294"	1.3333333333333333
+347	"a crowd"	"of"	"39,294"	1.3333333333333333
 347	"a crowd"	"before jumped"	"Army"	-0.25
 347	"a crowd"	"before jumped to"	"a 7-0 lead"	0.5833333333333333
 347	"a crowd"	"before jumped to lead on possession"	"its"	0.41666666666666663
 347	"a crowd"	"before jumped to lead on"	"its second possession"	0.45
-347	"39294"	"of crowd before jumped"	"Army"	-0.33333333333333337
-347	"39294"	"of crowd before jumped to"	"a 7-0 lead"	0.5
-347	"39294"	"of crowd before jumped to lead on possession"	"its"	0.3333333333333333
-347	"39294"	"of crowd before jumped to lead on"	"its second possession"	0.3666666666666667
-347	"39294"	"of crowd before jumped covering"	"66 yards"	0.5
+347	"39,294"	"of crowd before jumped"	"Army"	-0.33333333333333337
+347	"39,294"	"of crowd before jumped to"	"a 7-0 lead"	0.5
+347	"39,294"	"of crowd before jumped to lead on possession"	"its"	0.3333333333333333
+347	"39,294"	"of crowd before jumped to lead on"	"its second possession"	0.3666666666666667
+347	"39,294"	"of crowd before jumped covering"	"66 yards"	0.5
 347	"Army"	"jumped to"	"a 7-0 lead"	0.8333333333333333
 347	"Army"	"jumped to lead on possession"	"its"	0.6666666666666666
 347	"Army"	"jumped to lead on"	"its second possession"	0.7
@@ -6920,14 +6920,14 @@ The latest price rise was the second by the cigarette makers this year .
 It went from testing 219 in 1997 to 20,526 last year . 
 362	"It"	"went from testing"	"219"	0.75
 362	"It"	"went from testing in"	"1997"	0.7
-362	"It"	"went to year"	"20526"	0.75
-362	"It"	"went to"	"20526 last year"	0.8333333333333333
+362	"It"	"went to year"	"20,526"	0.75
+362	"It"	"went to"	"20,526 last year"	0.8333333333333333
 362	"219"	"testing in"	"1997"	-0.16666666666666669
-362	"219"	"testing went to year"	"20526"	0.0
-362	"219"	"testing went to"	"20526 last year"	0.08333333333333331
-362	"1997"	"in testing went to year"	"20526"	0.04999999999999999
-362	"1997"	"in testing went to"	"20526 last year"	0.1333333333333333
-362	"20526"	"year went to"	"20526 last year"	0.08333333333333331
+362	"219"	"testing went to year"	"20,526"	0.0
+362	"219"	"testing went to"	"20,526 last year"	0.08333333333333331
+362	"1997"	"in testing went to year"	"20,526"	0.04999999999999999
+362	"1997"	"in testing went to"	"20,526 last year"	0.1333333333333333
+362	"20,526"	"year went to"	"20,526 last year"	0.08333333333333331
 Mills stressed that the release of test results and his plans for a review panel were not a reaction to criticism . 
 363	"Mills"	"stressed that were"	"the release"	0.75
 363	"Mills"	"stressed that were release of"	"test results"	0.6666666666666666
@@ -6966,13 +6966,13 @@ That creature was in turn named for the mythical multiheaded serpent that regrew
 366	"new heads"	"regrew was"	"one"	-0.16666666666666669
 Hydra , of Cambridge , Mass. , is named after a pond-dwelling creature that can grow two wholes after being sliced in half . 
 367	"Hydra"	"of Mass."	"Cambridge"	1.25
-367	"Hydra"	"of"	"Cambridge  Mass."	1.3333333333333333
+367	"Hydra"	"of"	"Cambridge Mass."	1.3333333333333333
 367	"Hydra"	"is named after"	"a pond-dwelling creature"	0.75
-367	"Cambridge"	"Mass. of is Hydra of"	"Cambridge  Mass."	-0.04999999999999999
+367	"Cambridge"	"Mass. of is Hydra of"	"Cambridge Mass."	-0.04999999999999999
 367	"Cambridge"	"Mass. of is named after"	"a pond-dwelling creature"	0.45
 367	"Cambridge"	"Mass. of is named after creature can grow"	"two wholes"	0.34285714285714286
-367	"Cambridge  Mass."	"of is named after"	"a pond-dwelling creature"	0.5
-367	"Cambridge  Mass."	"of is named after creature can grow"	"two wholes"	0.39285714285714285
+367	"Cambridge Mass."	"of is named after"	"a pond-dwelling creature"	0.5
+367	"Cambridge Mass."	"of is named after creature can grow"	"two wholes"	0.39285714285714285
 367	"a pond-dwelling creature"	"can grow"	"two wholes"	1.25
 367	"a pond-dwelling creature"	"can grow after being sliced in"	"half"	1.125
 367	"two wholes"	"grow after being sliced in"	"half"	-0.33333333333333337
@@ -7488,30 +7488,30 @@ They litter the road to redemption with chaos , contraband , broken marriages , 
 395	"They"	"called to"	"redemption"	0.16666666666666669
 395	"They"	"called to redemption with"	"chaos"	0.3
 395	"They"	"called marriages"	"contraband"	0.16666666666666669
-395	"They"	"called"	"contraband  broken marriages"	0.0
+395	"They"	"called"	"contraband broken marriages"	0.0
 395	"They"	"called marriages"	"jilted women"	0.16666666666666669
 395	"the road"	"called to"	"redemption"	0.16666666666666669
 395	"the road"	"called to redemption with"	"chaos"	0.3
 395	"the road"	"called marriages"	"contraband"	0.16666666666666669
-395	"the road"	"called"	"contraband  broken marriages"	0.0
+395	"the road"	"called"	"contraband broken marriages"	0.0
 395	"the road"	"called marriages"	"jilted women"	0.16666666666666669
 395	"the road"	"called marriages women and"	"political aspirations"	0.3
 395	"redemption"	"called to with"	"chaos"	0.1333333333333333
 395	"redemption"	"called marriages"	"contraband"	0.0
-395	"redemption"	"called"	"contraband  broken marriages"	-0.16666666666666669
+395	"redemption"	"called"	"contraband broken marriages"	-0.16666666666666669
 395	"redemption"	"called marriages"	"jilted women"	0.0
 395	"redemption"	"called marriages women and"	"political aspirations"	0.1333333333333333
 395	"chaos"	"with redemption called marriages"	"contraband"	-0.1333333333333333
-395	"chaos"	"with redemption called"	"contraband  broken marriages"	-0.3
+395	"chaos"	"with redemption called"	"contraband broken marriages"	-0.3
 395	"chaos"	"with redemption called marriages"	"jilted women"	-0.1333333333333333
 395	"chaos"	"with redemption called marriages women and"	"political aspirations"	0.0
-395	"contraband"	"called"	"contraband  broken marriages"	-0.16666666666666669
+395	"contraband"	"called"	"contraband broken marriages"	-0.16666666666666669
 395	"contraband"	"marriages"	"jilted women"	1.0
 395	"contraband"	"marriages women and"	"political aspirations"	0.75
-395	"contraband  broken marriages"	"marriages"	"jilted women"	1.5
-395	"contraband  broken marriages"	"women and"	"political aspirations"	1.25
-395	"contraband  broken marriages"	"but is"	"a ray"	1.25
-395	"contraband  broken marriages"	"but is ray of"	"hope"	1.1666666666666667
+395	"contraband broken marriages"	"marriages"	"jilted women"	1.5
+395	"contraband broken marriages"	"women and"	"political aspirations"	1.25
+395	"contraband broken marriages"	"but is"	"a ray"	1.25
+395	"contraband broken marriages"	"but is ray of"	"hope"	1.1666666666666667
 395	"jilted women"	"and"	"political aspirations"	1.3333333333333333
 395	"jilted women"	"marriages but is"	"a ray"	-0.25
 395	"jilted women"	"marriages but is ray of"	"hope"	-0.33333333333333337
@@ -7637,36 +7637,36 @@ You likely have all but one of the ingredients in } 72847 : 929434 : 77 ; * 4292
 399	"ammonia"	"and"	"laundry bluing"	1.3333333333333333
 In the U.S. , Volkswagen sales peaked at 293,000 in 1980 , dropped to 49,533 in 1993 , then climbed to 135,907 in 1996 . 
 400	"the U.S."	"peaked"	"Volkswagen sales"	-0.16666666666666669
-400	"the U.S."	"peaked at"	"293000"	0.6666666666666666
+400	"the U.S."	"peaked at"	"293,000"	0.6666666666666666
 400	"the U.S."	"peaked in"	"1980"	0.6666666666666666
-400	"the U.S."	"peaked dropped climbed to"	"49533"	0.5333333333333333
+400	"the U.S."	"peaked dropped climbed to"	"49,533"	0.5333333333333333
 400	"the U.S."	"peaked dropped climbed to in"	"1993"	0.5
-400	"Volkswagen sales"	"peaked at"	"293000"	0.8333333333333333
+400	"Volkswagen sales"	"peaked at"	"293,000"	0.8333333333333333
 400	"Volkswagen sales"	"peaked in"	"1980"	0.8333333333333333
-400	"Volkswagen sales"	"peaked dropped climbed to"	"49533"	0.7
+400	"Volkswagen sales"	"peaked dropped climbed to"	"49,533"	0.7
 400	"Volkswagen sales"	"peaked dropped climbed to in"	"1993"	0.6666666666666666
-400	"293000"	"peaked in"	"1980"	0.0
-400	"293000"	"peaked dropped climbed to"	"49533"	-0.1333333333333333
-400	"293000"	"peaked dropped climbed to in"	"1993"	-0.16666666666666666
-400	"293000"	"peaked dropped climbed to"	"135907"	-0.1333333333333333
-400	"293000"	"peaked dropped climbed in"	"1996"	-0.1333333333333333
-400	"1980"	"peaked dropped climbed to"	"49533"	-0.1333333333333333
+400	"293,000"	"peaked in"	"1980"	0.0
+400	"293,000"	"peaked dropped climbed to"	"49,533"	-0.1333333333333333
+400	"293,000"	"peaked dropped climbed to in"	"1993"	-0.16666666666666666
+400	"293,000"	"peaked dropped climbed to"	"135,907"	-0.1333333333333333
+400	"293,000"	"peaked dropped climbed in"	"1996"	-0.1333333333333333
+400	"1980"	"peaked dropped climbed to"	"49,533"	-0.1333333333333333
 400	"1980"	"peaked dropped climbed to in"	"1993"	-0.16666666666666666
-400	"1980"	"peaked dropped climbed to"	"135907"	-0.1333333333333333
+400	"1980"	"peaked dropped climbed to"	"135,907"	-0.1333333333333333
 400	"1980"	"peaked dropped climbed in"	"1996"	-0.1333333333333333
-400	"49533"	"to in"	"1993"	-0.16666666666666669
-400	"49533"	"climbed to"	"135907"	0.6666666666666666
-400	"49533"	"climbed in"	"1996"	0.6666666666666666
-400	"1993"	"in climbed to"	"135907"	0.5833333333333333
+400	"49,533"	"to in"	"1993"	-0.16666666666666669
+400	"49,533"	"climbed to"	"135,907"	0.6666666666666666
+400	"49,533"	"climbed in"	"1996"	0.6666666666666666
+400	"1993"	"in climbed to"	"135,907"	0.5833333333333333
 400	"1993"	"in climbed in"	"1996"	0.5833333333333333
-400	"135907"	"climbed in"	"1996"	0.0
+400	"135,907"	"climbed in"	"1996"	0.0
 Lucas plays Banner 's nemesis , Maj . 
 401	"Lucas"	"plays nemesis"	"Banner"	0.8333333333333333
 401	"Lucas"	"plays"	"Banner 's nemesis"	1.0
-401	"Lucas"	"plays"	" Maj"	1.0
+401	"Lucas"	"plays"	"Maj"	1.0
 401	"Banner"	"plays"	"Banner 's nemesis"	0.16666666666666669
-401	"Banner"	"plays"	" Maj"	0.16666666666666669
-401	"Banner 's nemesis"	"plays"	" Maj"	0.0
+401	"Banner"	"plays"	"Maj"	0.16666666666666669
+401	"Banner 's nemesis"	"plays"	"Maj"	0.0
 In the auction 's early hours , as people stood in two-hour lines just to get into the bidding room , it seemed that the Enron connection was propping up some dubious prices . 
 402	"the auction"	"hours seemed In"	"the auction 's early hours"	-0.08333333333333331
 402	"the auction"	"hours seemed as stood"	"people"	0.0
@@ -7699,39 +7699,39 @@ Shares of the New York-based company rose 5 1 / 4 , or 8.4 percent , to 67 3 / 4
 404	"Shares"	". percent"	"5 1"	1.25
 404	"Shares"	". percent 1"	"/ 4"	1.2
 404	"Shares"	". percent 1 4 or"	"8.4"	1.1428571428571428
-404	"Shares"	"."	"5 1 / 4  or 8.4 percent"	1.3333333333333333
+404	"Shares"	"."	"5 1 / 4 or 8.4 percent"	1.3333333333333333
 404	"the New"	"Shares . rose"	"company"	-0.08333333333333331
 404	"the New"	"Shares . percent"	"5 1"	-0.08333333333333331
 404	"the New"	"Shares . percent 1"	"/ 4"	-0.1333333333333333
 404	"the New"	"Shares . percent 1 4 or"	"8.4"	-0.19047619047619047
-404	"the New"	"Shares ."	"5 1 / 4  or 8.4 percent"	0.0
+404	"the New"	"Shares ."	"5 1 / 4 or 8.4 percent"	0.0
 404	"the New"	"Shares . to 4"	"67 3"	-0.1333333333333333
 404	"company"	". percent"	"5 1"	0.0
 404	"company"	". percent 1"	"/ 4"	0.08333333333333331
 404	"company"	". percent 1 4 or"	"8.4"	0.16666666666666666
-404	"company"	"."	"5 1 / 4  or 8.4 percent"	-0.16666666666666669
+404	"company"	"."	"5 1 / 4 or 8.4 percent"	-0.16666666666666669
 404	"company"	". to 4"	"67 3"	0.08333333333333331
 404	"company"	". to"	"67 3 / 4"	0.0
 404	"5 1"	"1"	"/ 4"	1.5
 404	"5 1"	"4 or"	"8.4"	1.25
-404	"5 1"	"percent Shares ."	"5 1 / 4  or 8.4 percent"	0.08333333333333331
+404	"5 1"	"percent Shares ."	"5 1 / 4 or 8.4 percent"	0.08333333333333331
 404	"5 1"	". to 4"	"67 3"	0.08333333333333331
 404	"5 1"	". to"	"67 3 / 4"	0.0
 404	"5 1"	". in"	"midday trading"	0.0
 404	"/ 4"	"or"	"8.4"	1.3333333333333333
-404	"/ 4"	"1 percent Shares ."	"5 1 / 4  or 8.4 percent"	0.1333333333333333
+404	"/ 4"	"1 percent Shares ."	"5 1 / 4 or 8.4 percent"	0.1333333333333333
 404	"/ 4"	"1 . to 4"	"67 3"	0.0
 404	"/ 4"	"1 . to"	"67 3 / 4"	-0.08333333333333331
 404	"/ 4"	"1 . in"	"midday trading"	-0.08333333333333331
-404	"8.4"	"or 4 1 percent Shares ."	"5 1 / 4  or 8.4 percent"	0.19047619047619047
+404	"8.4"	"or 4 1 percent Shares ."	"5 1 / 4 or 8.4 percent"	0.19047619047619047
 404	"8.4"	"or 4 1 . to 4"	"67 3"	-0.08333333333333334
 404	"8.4"	"or 4 1 . to"	"67 3 / 4"	-0.16666666666666666
 404	"8.4"	"or 4 1 . in"	"midday trading"	-0.16666666666666666
 404	"8.4"	"or 4 1 . in trading of"	"2.1 million"	-0.033333333333333354
-404	"5 1 / 4  or 8.4 percent"	". to 4"	"67 3"	0.25
-404	"5 1 / 4  or 8.4 percent"	". to"	"67 3 / 4"	0.16666666666666669
-404	"5 1 / 4  or 8.4 percent"	". in"	"midday trading"	0.16666666666666669
-404	"5 1 / 4  or 8.4 percent"	". in trading of"	"2.1 million"	0.3
+404	"5 1 / 4 or 8.4 percent"	". to 4"	"67 3"	0.25
+404	"5 1 / 4 or 8.4 percent"	". to"	"67 3 / 4"	0.16666666666666669
+404	"5 1 / 4 or 8.4 percent"	". in"	"midday trading"	0.16666666666666669
+404	"5 1 / 4 or 8.4 percent"	". in trading of"	"2.1 million"	0.3
 404	"67 3"	"4 to Shares . to"	"67 3 / 4"	0.04999999999999999
 404	"67 3"	"4 . in"	"midday trading"	-0.08333333333333331
 404	"67 3"	"4 . in trading of"	"2.1 million"	0.04999999999999999
@@ -8178,24 +8178,24 @@ As Dr. Norman J. Silver was winding down his orthopedic surgery practice in New 
 427	"Dr. Norman J. Silver"	"was winding practice"	"his"	0.75
 427	"Dr. Norman J. Silver"	"was winding"	"his orthopedic surgery practice"	0.8333333333333333
 427	"Dr. Norman J. Silver"	"was winding practice in N.Y."	"New Rochelle"	0.6666666666666666
-427	"Dr. Norman J. Silver"	"was winding practice in"	"New Rochelle  N.Y."	0.7
+427	"Dr. Norman J. Silver"	"was winding practice in"	"New Rochelle N.Y."	0.7
 427	"Dr. Norman J. Silver"	"was wanted"	"he"	-0.25
 427	"his"	"practice winding was wanted As was winding"	"his orthopedic surgery practice"	-0.033333333333333354
 427	"his"	"practice in N.Y."	"New Rochelle"	0.75
-427	"his"	"practice in"	"New Rochelle  N.Y."	0.8333333333333333
+427	"his"	"practice in"	"New Rochelle N.Y."	0.8333333333333333
 427	"his"	"practice winding was wanted"	"he"	-0.33333333333333337
 427	"his orthopedic surgery practice"	"in N.Y."	"New Rochelle"	1.25
-427	"his orthopedic surgery practice"	"in"	"New Rochelle  N.Y."	1.3333333333333333
+427	"his orthopedic surgery practice"	"in"	"New Rochelle N.Y."	1.3333333333333333
 427	"his orthopedic surgery practice"	"winding was wanted"	"he"	-0.3
 427	"his orthopedic surgery practice"	"winding was wanted were"	"opportunities"	0.5333333333333333
-427	"New Rochelle"	"N.Y. in practice winding was wanted As was winding practice in"	"New Rochelle  N.Y."	-0.01785714285714285
+427	"New Rochelle"	"N.Y. in practice winding was wanted As was winding practice in"	"New Rochelle N.Y."	-0.01785714285714285
 427	"New Rochelle"	"N.Y. in practice winding was wanted"	"he"	-0.375
 427	"New Rochelle"	"N.Y. in practice winding was wanted were"	"opportunities"	0.4583333333333333
 427	"New Rochelle"	"N.Y. in practice winding was wanted were opportunities for"	"continuing education"	0.325
-427	"New Rochelle  N.Y."	"in practice winding was wanted"	"he"	-0.35714285714285715
-427	"New Rochelle  N.Y."	"in practice winding was wanted were"	"opportunities"	0.47619047619047616
-427	"New Rochelle  N.Y."	"in practice winding was wanted were opportunities for"	"continuing education"	0.34285714285714286
-427	"New Rochelle  N.Y."	"in practice winding was wanted were in"	"the place"	0.39285714285714285
+427	"New Rochelle N.Y."	"in practice winding was wanted"	"he"	-0.35714285714285715
+427	"New Rochelle N.Y."	"in practice winding was wanted were"	"opportunities"	0.47619047619047616
+427	"New Rochelle N.Y."	"in practice winding was wanted were opportunities for"	"continuing education"	0.34285714285714286
+427	"New Rochelle N.Y."	"in practice winding was wanted were in"	"the place"	0.39285714285714285
 427	"he"	"wanted were"	"opportunities"	0.8333333333333333
 427	"he"	"wanted were opportunities for"	"continuing education"	0.7
 427	"he"	"wanted were in"	"the place"	0.75
@@ -8227,19 +8227,19 @@ They defeated the defending champion Philadelphia Eagles handily in their first 
 Two other suspects , Brian Jay Robbins , 28 , and Ronald Eugene Timms , late 20s , were arrested Wednesday afternoon . 
 429	"Two"	"suspects . 28"	"Two other suspects"	-0.08333333333333331
 429	"Two"	"28"	"Brian Jay Robbins"	-0.16666666666666669
-429	"Two"	"suspects ."	"Two other suspects  Brian Jay Robbins  28"	-0.25
+429	"Two"	"suspects ."	"Two other suspects Brian Jay Robbins 28"	-0.25
 429	"Two"	"28 and were"	"Ronald Eugene Timms"	0.5833333333333333
 429	"Two other suspects"	"28"	"Brian Jay Robbins"	0.0
-429	"Two other suspects"	"."	"Two other suspects  Brian Jay Robbins  28"	-0.16666666666666669
+429	"Two other suspects"	"."	"Two other suspects Brian Jay Robbins 28"	-0.16666666666666669
 429	"Two other suspects"	"28 and were"	"Ronald Eugene Timms"	0.75
 429	"Two other suspects"	"28 and were Timms"	"late 20s"	0.7
-429	"Brian Jay Robbins"	"."	"Two other suspects  Brian Jay Robbins  28"	-0.16666666666666669
+429	"Brian Jay Robbins"	"."	"Two other suspects Brian Jay Robbins 28"	-0.16666666666666669
 429	"Brian Jay Robbins"	"28 and were"	"Ronald Eugene Timms"	0.75
 429	"Brian Jay Robbins"	"28 and were Timms"	"late 20s"	0.7
 429	"Brian Jay Robbins"	"28 and were arrested"	"Wednesday afternoon"	0.7
-429	"Two other suspects  Brian Jay Robbins  28"	"and were"	"Ronald Eugene Timms"	1.25
-429	"Two other suspects  Brian Jay Robbins  28"	"and were Timms"	"late 20s"	1.2
-429	"Two other suspects  Brian Jay Robbins  28"	"and were arrested"	"Wednesday afternoon"	1.2
+429	"Two other suspects Brian Jay Robbins 28"	"and were"	"Ronald Eugene Timms"	1.25
+429	"Two other suspects Brian Jay Robbins 28"	"and were Timms"	"late 20s"	1.2
+429	"Two other suspects Brian Jay Robbins 28"	"and were arrested"	"Wednesday afternoon"	1.2
 429	"Ronald Eugene Timms"	"Timms"	"late 20s"	1.5
 429	"Ronald Eugene Timms"	"were arrested"	"Wednesday afternoon"	0.8333333333333333
 429	"late 20s"	"were arrested"	"Wednesday afternoon"	0.6666666666666666
@@ -8381,13 +8381,13 @@ We moved boxes and bags , favorite shirts and CDs , computer , new socks , noteb
 436	"tennis racket"	"socks half into"	"a microscopically small dorm room"	-0.08333333333333331
 436	"shoebox"	"and racket socks stuffed with"	"emergency chocolate cupcakes"	0.04999999999999999
 436	"shoebox"	"and racket socks half into"	"a microscopically small dorm room"	0.04999999999999999
-436	"shoebox"	"and racket socks"	"into a microscopically small dorm room  half"	0.3
+436	"shoebox"	"and racket socks"	"into a microscopically small dorm room half"	0.3
 436	"emergency chocolate cupcakes"	"with socks half into"	"a microscopically small dorm room"	0.0
-436	"emergency chocolate cupcakes"	"with socks"	"into a microscopically small dorm room  half"	0.25
-436	"a microscopically small dorm room"	"into half socks moved would socks"	"into a microscopically small dorm room  half"	0.08333333333333334
+436	"emergency chocolate cupcakes"	"with socks"	"into a microscopically small dorm room half"	0.25
+436	"a microscopically small dorm room"	"into half socks moved would socks"	"into a microscopically small dorm room half"	0.08333333333333334
 436	"a microscopically small dorm room"	"into half would be inhabited by"	"a completely unknown quantity"	0.4
-436	"into a microscopically small dorm room  half"	"would be inhabited by"	"a completely unknown quantity"	0.5333333333333333
-436	"into a microscopically small dorm room  half"	"would be inhabited by quantity and"	"the other half"	0.47619047619047616
+436	"into a microscopically small dorm room half"	"would be inhabited by"	"a completely unknown quantity"	0.5333333333333333
+436	"into a microscopically small dorm room half"	"would be inhabited by quantity and"	"the other half"	0.47619047619047616
 436	"a completely unknown quantity"	"and"	"the other half"	1.3333333333333333
 436	"a completely unknown quantity"	"by inhabited be moved would be inhabited by"	"a quantity"	0.0
 436	"the other half"	"and quantity by inhabited be moved would be inhabited by"	"a quantity"	0.04166666666666666
@@ -8420,17 +8420,17 @@ We moved boxes and bags , favorite shirts and CDs , computer , new socks , noteb
 436	"the one"	"draws in"	"today"	1.25
 436	"the one"	"draws so that can"	"he"	1.1666666666666667
 436	"the one"	"draws so that can say"	"Bye"	1.1428571428571428
-436	"the one"	"Mom moved ."	"the one he draws in today so that he can say  ` ` Bye  Mom"	0.08333333333333331
+436	"the one"	"Mom moved ."	"the one he draws in today so that he can say ` ` Bye Mom"	0.08333333333333331
 436	"he"	"draws in"	"today"	0.8333333333333333
 436	"he"	"draws so that can"	"he"	0.7
 436	"he"	"draws so that can say"	"Bye"	0.6666666666666666
-436	"he"	"draws one Mom moved ."	"the one he draws in today so that he can say  ` ` Bye  Mom"	0.16666666666666666
+436	"he"	"draws one Mom moved ."	"the one he draws in today so that he can say ` ` Bye Mom"	0.16666666666666666
 436	"today"	"draws so that can"	"he"	-0.1333333333333333
 436	"today"	"draws so that can say"	"Bye"	-0.16666666666666666
-436	"today"	"in draws one Mom moved ."	"the one he draws in today so that he can say  ` ` Bye  Mom"	0.19047619047619047
+436	"today"	"in draws one Mom moved ."	"the one he draws in today so that he can say ` ` Bye Mom"	0.19047619047619047
 436	"he"	"can say"	"Bye"	0.8333333333333333
-436	"he"	"can that so draws one Mom moved ."	"the one he draws in today so that he can say  ` ` Bye  Mom"	0.2222222222222222
-436	"Bye"	"say can that so draws one Mom moved ."	"the one he draws in today so that he can say  ` ` Bye  Mom"	0.2333333333333333
+436	"he"	"can that so draws one Mom moved ."	"the one he draws in today so that he can say ` ` Bye Mom"	0.2222222222222222
+436	"Bye"	"say can that so draws one Mom moved ."	"the one he draws in today so that he can say ` ` Bye Mom"	0.2333333333333333
 When he failed to have the lawyers dismissed by a judge , he said , he decided to attack them . 
 437	"he"	"failed to have"	"the lawyers"	0.75
 437	"he"	"failed to have lawyers dismissed by"	"a judge"	0.6428571428571428
@@ -8610,20 +8610,20 @@ Traina and three other trustees , including Fletcher and Clark treasurer James E
 446	"three other trustees"	"including"	"Fletcher"	1.3333333333333333
 446	"three other trustees"	"including Fletcher and"	"Clark treasurer"	1.2
 446	"three other trustees"	"including Fletcher and treasurer"	"James E. Collins"	1.1666666666666667
-446	"three other trustees"	"including Fletcher and treasurer make $"	"123000"	1.125
+446	"three other trustees"	"including Fletcher and treasurer make $"	"123,000"	1.125
 446	"Fletcher"	"and"	"Clark treasurer"	1.3333333333333333
 446	"Fletcher"	"and treasurer"	"James E. Collins"	1.25
-446	"Fletcher"	"and treasurer make $"	"123000"	1.1666666666666667
+446	"Fletcher"	"and treasurer make $"	"123,000"	1.1666666666666667
 446	"Fletcher"	"and treasurer make $"	"a year"	1.1666666666666667
 446	"Clark treasurer"	"treasurer"	"James E. Collins"	1.5
-446	"Clark treasurer"	"make $"	"123000"	1.25
+446	"Clark treasurer"	"make $"	"123,000"	1.25
 446	"Clark treasurer"	"make $"	"a year"	1.25
 446	"Clark treasurer"	"make for"	"part-time work"	1.25
-446	"James E. Collins"	"treasurer make $"	"123000"	-0.25
+446	"James E. Collins"	"treasurer make $"	"123,000"	-0.25
 446	"James E. Collins"	"treasurer make $"	"a year"	-0.25
 446	"James E. Collins"	"treasurer make for"	"part-time work"	-0.25
-446	"123000"	"$"	"a year"	0.0
-446	"123000"	"make for"	"part-time work"	0.0
+446	"123,000"	"$"	"a year"	0.0
+446	"123,000"	"make for"	"part-time work"	0.0
 446	"a year"	"make for"	"part-time work"	0.0
 In fact , Fox , ABC and UPN are offering the same shows in the time slot now as they did a year ago . 
 447	"fact"	"are"	"Fox"	-0.16666666666666669
@@ -8912,23 +8912,23 @@ In Norway , striking offshore oil workers forced state-owned oil company Statoil
 464	"striking offshore oil workers"	"forced"	"state-owned oil company"	1.0
 464	"striking offshore oil workers"	"forced company"	"Statoil"	0.8333333333333333
 464	"striking offshore oil workers"	"forced to shut field"	"its"	0.7
-464	"striking offshore oil workers"	"forced to shut field"	"40000 barrel-a-day"	0.7
-464	"striking offshore oil workers"	"forced to shut"	"its 40000 barrel-a-day Yme oil field"	0.75
+464	"striking offshore oil workers"	"forced to shut field"	"40,000 barrel-a-day"	0.7
+464	"striking offshore oil workers"	"forced to shut"	"its 40,000 barrel-a-day Yme oil field"	0.75
 464	"state-owned oil company"	"company"	"Statoil"	1.5
 464	"state-owned oil company"	"forced to shut field"	"its"	-0.3
-464	"state-owned oil company"	"forced to shut field"	"40000 barrel-a-day"	-0.3
-464	"state-owned oil company"	"forced to shut"	"its 40000 barrel-a-day Yme oil field"	-0.25
+464	"state-owned oil company"	"forced to shut field"	"40,000 barrel-a-day"	-0.3
+464	"state-owned oil company"	"forced to shut"	"its 40,000 barrel-a-day Yme oil field"	-0.25
 464	"state-owned oil company"	"forced to shut field in"	"the North Sea"	-0.33333333333333337
 464	"Statoil"	"forced to shut field"	"its"	-0.1333333333333333
-464	"Statoil"	"forced to shut field"	"40000 barrel-a-day"	-0.1333333333333333
-464	"Statoil"	"forced to shut"	"its 40000 barrel-a-day Yme oil field"	-0.08333333333333331
+464	"Statoil"	"forced to shut field"	"40,000 barrel-a-day"	-0.1333333333333333
+464	"Statoil"	"forced to shut"	"its 40,000 barrel-a-day Yme oil field"	-0.08333333333333331
 464	"Statoil"	"forced to shut field in"	"the North Sea"	-0.16666666666666666
-464	"its"	"field"	"40000 barrel-a-day"	0.0
-464	"its"	"field shut forced to shut"	"its 40000 barrel-a-day Yme oil field"	0.04999999999999999
+464	"its"	"field"	"40,000 barrel-a-day"	0.0
+464	"its"	"field shut forced to shut"	"its 40,000 barrel-a-day Yme oil field"	0.04999999999999999
 464	"its"	"field in"	"the North Sea"	0.8333333333333333
-464	"40000 barrel-a-day"	"field shut forced to shut"	"its 40000 barrel-a-day Yme oil field"	0.04999999999999999
-464	"40000 barrel-a-day"	"field in"	"the North Sea"	0.8333333333333333
-464	"its 40000 barrel-a-day Yme oil field"	"in"	"the North Sea"	1.3333333333333333
+464	"40,000 barrel-a-day"	"field shut forced to shut"	"its 40,000 barrel-a-day Yme oil field"	0.04999999999999999
+464	"40,000 barrel-a-day"	"field in"	"the North Sea"	0.8333333333333333
+464	"its 40,000 barrel-a-day Yme oil field"	"in"	"the North Sea"	1.3333333333333333
 The other five are still alive and will be allowed to return home if they want . 
 465	"The other five"	"are and will be allowed to return"	"home"	0.625
 465	"The other five"	"are and will be allowed to return if want"	"they"	0.6
@@ -9038,14 +9038,14 @@ Specifically , he 's driven by the prospect of rematches with Shane Mosley and F
 Efforts to reach Johnson were unsuccessful . 
 473	"Efforts"	"to reach"	"Johnson"	1.25
 When you have to resort to 1,200-degree air to cool something , you 're running a hot system . 
-474	"you"	"have to resort 1200-degree"	"air"	0.7
-474	"you"	"have to resort 1200-degree to cool"	"something"	0.6428571428571428
+474	"you"	"have to resort 1,200-degree"	"air"	0.7
+474	"you"	"have to resort 1,200-degree to cool"	"something"	0.6428571428571428
 474	"you"	"'re"	"you"	-0.16666666666666669
-474	"air"	"1200-degree to cool"	"something"	-0.25
-474	"air"	"1200-degree resort to 're"	"you"	-0.33333333333333337
-474	"air"	"1200-degree resort to 're running"	"a hot system"	0.5
-474	"something"	"cool to 1200-degree resort to 're"	"you"	-0.375
-474	"something"	"cool to 1200-degree resort to 're running"	"a hot system"	0.4583333333333333
+474	"air"	"1,200-degree to cool"	"something"	-0.25
+474	"air"	"1,200-degree resort to 're"	"you"	-0.33333333333333337
+474	"air"	"1,200-degree resort to 're running"	"a hot system"	0.5
+474	"something"	"cool to 1,200-degree resort to 're"	"you"	-0.375
+474	"something"	"cool to 1,200-degree resort to 're running"	"a hot system"	0.4583333333333333
 474	"you"	"'re running"	"a hot system"	0.8333333333333333
 I asked the Armenian native if the neighborhood kids or anybody else ever poked fun at the sign , which is basically a Bart Simpson dream come true . 
 475	"I"	"asked"	"the Armenian native"	1.0
@@ -9103,12 +9103,12 @@ Lee Janzen IF PUSHED TO THE WALL , ISRAEL MIGHT FIRE NUKES That earned him the r
 478	"analysts"	"of earned though remains"	"the public"	0.0
 478	"investors"	"and analysts of earned though remains"	"the public"	0.08333333333333334
 Arnoldy logs about 30,000 miles a year aboard Intrepid , parking it on a private siding in Houston when he 's not riding the rails . 
-479	"30000 miles"	"miles"	"a year"	1.5
-479	"30000 miles"	"logs aboard"	"Intrepid"	0.0
-479	"30000 miles"	"logs parking"	"it"	0.0
-479	"30000 miles"	"logs parking on"	"a private siding"	-0.08333333333333331
-479	"30000 miles"	"logs parking on siding in"	"Houston"	-0.16666666666666666
-479	"30000 miles"	"logs 's"	"he"	0.0
+479	"30,000 miles"	"miles"	"a year"	1.5
+479	"30,000 miles"	"logs aboard"	"Intrepid"	0.0
+479	"30,000 miles"	"logs parking"	"it"	0.0
+479	"30,000 miles"	"logs parking on"	"a private siding"	-0.08333333333333331
+479	"30,000 miles"	"logs parking on siding in"	"Houston"	-0.16666666666666666
+479	"30,000 miles"	"logs 's"	"he"	0.0
 479	"a year"	"miles logs aboard"	"Intrepid"	0.08333333333333331
 479	"a year"	"miles logs parking"	"it"	0.08333333333333331
 479	"a year"	"miles logs parking on"	"a private siding"	0.0
@@ -9376,18 +9376,18 @@ July 's exports surpassed June 's total of $ 24.39 billion , and were well ahead
 490	"the previous January benchmark"	"of C$"	"billion"	1.25
 Its commercial spine , 18th Avenue , is chock full of pork and pasta stores and the Italian colors of green , white and red everywhere . 
 491	"Its"	"spine is Avenue"	"Its commercial spine"	-0.08333333333333331
-491	"Its"	"spine is"	"Its commercial spine  18th Avenue"	-0.25
+491	"Its"	"spine is"	"Its commercial spine 18th Avenue"	-0.25
 491	"Its"	"spine is full of stores"	"pork"	0.45
 491	"Its"	"spine is full of stores pork and"	"pasta"	0.39285714285714285
 491	"Its"	"spine is full of"	"pork and pasta stores"	0.5
-491	"Its commercial spine"	"is"	"Its commercial spine  18th Avenue"	-0.16666666666666669
+491	"Its commercial spine"	"is"	"Its commercial spine 18th Avenue"	-0.16666666666666669
 491	"Its commercial spine"	"is full of stores"	"pork"	0.5333333333333333
 491	"Its commercial spine"	"is full of stores pork and"	"pasta"	0.47619047619047616
 491	"Its commercial spine"	"is full of"	"pork and pasta stores"	0.5833333333333333
-491	"Its commercial spine  18th Avenue"	"is full of stores"	"pork"	0.7
-491	"Its commercial spine  18th Avenue"	"is full of stores pork and"	"pasta"	0.6428571428571428
-491	"Its commercial spine  18th Avenue"	"is full of"	"pork and pasta stores"	0.75
-491	"Its commercial spine  18th Avenue"	"is ."	"the Italian colors"	0.8333333333333333
+491	"Its commercial spine 18th Avenue"	"is full of stores"	"pork"	0.7
+491	"Its commercial spine 18th Avenue"	"is full of stores pork and"	"pasta"	0.6428571428571428
+491	"Its commercial spine 18th Avenue"	"is full of"	"pork and pasta stores"	0.75
+491	"Its commercial spine 18th Avenue"	"is ."	"the Italian colors"	0.8333333333333333
 491	"pork"	"and"	"pasta"	1.3333333333333333
 491	"pork"	"stores of is full of"	"pork and pasta stores"	0.04999999999999999
 491	"pork"	"stores of is ."	"the Italian colors"	0.1333333333333333
@@ -9478,24 +9478,24 @@ But Dionne said he was skeptical about whether television advertising is so powe
 498	"he"	"was skeptical about whether is"	"television advertising"	0.6666666666666666
 The agency suspended imposition of the $ 100,000-per-voyage fines in April after Japan promised to address U.S. concerns by today . 
 499	"The agency"	"suspended"	"imposition"	1.0
-499	"The agency"	"suspended imposition of fines $"	"100000-per-voyage"	0.6666666666666666
-499	"The agency"	"suspended imposition of"	"the $ 100000-per-voyage fines"	0.75
+499	"The agency"	"suspended imposition of fines $"	"100,000-per-voyage"	0.6666666666666666
+499	"The agency"	"suspended imposition of"	"the $ 100,000-per-voyage fines"	0.75
 499	"The agency"	"suspended in"	"April"	0.8333333333333333
 499	"The agency"	"suspended after promised"	"Japan"	0.75
-499	"imposition"	"of fines $"	"100000-per-voyage"	1.2
-499	"imposition"	"of"	"the $ 100000-per-voyage fines"	1.3333333333333333
+499	"imposition"	"of fines $"	"100,000-per-voyage"	1.2
+499	"imposition"	"of"	"the $ 100,000-per-voyage fines"	1.3333333333333333
 499	"imposition"	"suspended in"	"April"	-0.16666666666666669
 499	"imposition"	"suspended after promised"	"Japan"	-0.25
 499	"imposition"	"suspended after promised to address"	"U.S. concerns"	-0.33333333333333337
-499	"100000-per-voyage"	"$ fines of suspended imposition of"	"the $ 100000-per-voyage fines"	0.08333333333333334
-499	"100000-per-voyage"	"$ fines of suspended in"	"April"	0.16666666666666666
-499	"100000-per-voyage"	"$ fines of suspended after promised"	"Japan"	0.08333333333333334
-499	"100000-per-voyage"	"$ fines of suspended after promised to address"	"U.S. concerns"	0.0
-499	"100000-per-voyage"	"$ fines of suspended after promised to address by"	"today"	-0.023809523809523808
-499	"the $ 100000-per-voyage fines"	"of suspended in"	"April"	0.08333333333333331
-499	"the $ 100000-per-voyage fines"	"of suspended after promised"	"Japan"	0.0
-499	"the $ 100000-per-voyage fines"	"of suspended after promised to address"	"U.S. concerns"	-0.08333333333333334
-499	"the $ 100000-per-voyage fines"	"of suspended after promised to address by"	"today"	-0.10714285714285715
+499	"100,000-per-voyage"	"$ fines of suspended imposition of"	"the $ 100,000-per-voyage fines"	0.08333333333333334
+499	"100,000-per-voyage"	"$ fines of suspended in"	"April"	0.16666666666666666
+499	"100,000-per-voyage"	"$ fines of suspended after promised"	"Japan"	0.08333333333333334
+499	"100,000-per-voyage"	"$ fines of suspended after promised to address"	"U.S. concerns"	0.0
+499	"100,000-per-voyage"	"$ fines of suspended after promised to address by"	"today"	-0.023809523809523808
+499	"the $ 100,000-per-voyage fines"	"of suspended in"	"April"	0.08333333333333331
+499	"the $ 100,000-per-voyage fines"	"of suspended after promised"	"Japan"	0.0
+499	"the $ 100,000-per-voyage fines"	"of suspended after promised to address"	"U.S. concerns"	-0.08333333333333334
+499	"the $ 100,000-per-voyage fines"	"of suspended after promised to address by"	"today"	-0.10714285714285715
 499	"April"	"suspended after promised"	"Japan"	-0.08333333333333331
 499	"April"	"suspended after promised to address"	"U.S. concerns"	-0.16666666666666666
 499	"April"	"suspended after promised to address by"	"today"	-0.19047619047619047

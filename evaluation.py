@@ -1,4 +1,4 @@
-# python 3
+#!/usr/bin/python3
 # this script should be in the same directory as the folder entitled ClausIE
 
 import os
@@ -24,7 +24,6 @@ def read_extraction_file(output):
                 # break apart the line into sentence id, extraction and confidence
                 sent_id = int(ln[0])
                 extraction = tuple([''.join(el for el in l if el not in punct) for l in ln[1:-1]])
-                print(extraction)
                 conf = float(ln[-1])
                 # initialize the extraction index entry with the index as key and empty dict as value
                 if sent_id not in extraction_idx:

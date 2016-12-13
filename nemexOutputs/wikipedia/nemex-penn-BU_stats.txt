@@ -1,5 +1,5 @@
 For the system nemex-penn-BU, on the wikipedia data set:
-# of nemex positives / # of total positives = 94 / 833 = 11.28%
+# of nemex positives / # of total positives = 95 / 830 = 11.45%
 # of nemex negatives / # of total negatives = 37 / 803 = 4.61%
-# of nemex unknowns: 3187
-precision = 94 / 131 = 71.76%
+# of nemex unknowns: 3127
+precision = 95 / 132 = 71.97%

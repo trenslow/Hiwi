@@ -1,5 +1,5 @@
 For the system nemex-ud-TD, on the nyt data set:
-# of nemex positives / # of total positives = 61 / 765 = 7.97%
-# of nemex negatives / # of total negatives = 15 / 820 = 1.83%
-# of nemex unknowns: 535
-precision = 61 / 76 = 80.26%
+# of nemex positives / # of total positives = 64 / 957 = 6.69%
+# of nemex negatives / # of total negatives = 14 / 1058 = 1.32%
+# of nemex unknowns: 480
+precision = 64 / 78 = 82.05%

@@ -1,5 +1,5 @@
 For the system nemex-ud-TD, on the wikipedia data set:
-# of nemex positives / # of total positives = 63 / 647 = 9.74%
-# of nemex negatives / # of total negatives = 16 / 683 = 2.34%
-# of nemex unknowns: 611
-precision = 63 / 79 = 79.75%
+# of nemex positives / # of total positives = 65 / 860 = 7.56%
+# of nemex negatives / # of total negatives = 15 / 825 = 1.82%
+# of nemex unknowns: 511
+precision = 65 / 80 = 81.25%

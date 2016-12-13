@@ -5,12 +5,11 @@ import os
 import re
 import matplotlib.pyplot as plt
 import operator
-import string
+from estimate import estimate_weights
 
 
 def read_extraction_file(output):
     extraction_idx = {}
-    punct = {","}
 
     with open(output, encoding='latin-1') as file:
         for line in file:
@@ -23,7 +22,7 @@ def read_extraction_file(output):
             else:
                 # break apart the line into sentence id, extraction and confidence
                 sent_id = int(ln[0])
-                extraction = tuple([''.join(el for el in l if el not in punct) for l in ln[1:-1]])
+                extraction = tuple([l.replace(' , ', ' ') for l in ln[1:-1]])
                 conf = float(ln[-1])
                 # initialize the extraction index entry with the index as key and empty dict as value
                 if sent_id not in extraction_idx:
@@ -37,38 +36,36 @@ def read_extraction_file(output):
     return extraction_idx
 
 
-def compare(gold, extractions):
+def compare(gold, extractions, nemex):
     corr_and_conf = []
-    corr, incorr, unknown = {e: [] for e in extractions}, {e: [] for e in extractions}, {e: [] for e in extractions}
+    corr, incorr, unknown = {e: {} for e in extractions}, {e: {} for e in extractions}, {e: [] for e in extractions}
     gold_corr, gold_incorr = {g: [] for g in gold}, {g: [] for g in gold}
 
     for sent_id, extr in extractions.items():
-        if sent_id not in gold:
-            gold[sent_id] = {}
-
         for ext in extr:
             weight = extractions[sent_id][ext]
-            out_line = str(sent_id) + '\t' + '\t'.join(ext) + '\t' + str(weight) + '\n'
+
             if ext in gold[sent_id]:
                 # if the extraction is in gold standard and marked as correct
                 if gold[sent_id][ext] == 1:
                     corr_and_conf.append((1, weight))
-                    corr[sent_id].append(out_line)
+                    corr[sent_id][ext] = weight
                 # if the extraction is in gold standard and marked as incorrect
                 else:
                     corr_and_conf.append((0, weight))
-                    incorr[sent_id].append(out_line)
+                    incorr[sent_id][ext] = weight
             # if the extraction is not found in the gold standard
             else:
-                unknown[sent_id].append(out_line)
+                unknown[sent_id].append(ext)
 
-        extras = set(gold[sent_id].keys()).symmetric_difference(set(extr.keys()))
-        gold_corr[sent_id] = [str(sent_id) + '\t' + '\t'.join(e) + '\n'
-                              for e in extras if e in gold[sent_id] and gold[sent_id][e] == 1]
-        gold_incorr[sent_id] = [str(sent_id) + '\t' + '\t'.join(e) + '\n'
-                                for e in extras if e in gold[sent_id] and gold[sent_id][e] == 0]
+        extras = [e for e in gold[sent_id].keys() if e not in extr.keys()]
+        gold_corr[sent_id] = [e for e in extras if gold[sent_id][e] == 1]
+        gold_incorr[sent_id] = [e for e in extras if gold[sent_id][e] == 0]
 
-    return corr_and_conf, corr, incorr, unknown, gold_corr, gold_incorr
+    if nemex:
+        return corr_and_conf, corr, incorr, unknown, gold_corr, gold_incorr
+    else:
+        return corr_and_conf, corr, incorr
 
 
 def calculate_precision(c_and_c):
@@ -99,12 +96,18 @@ def write_eval_results(corrs, incorrs, unkwns, out_folder, dat_set, system, sent
         correct_file.write(sent)
         incorrect_file.write(sent)
         unknown_file.write(sent)
-        if id in corrs:
-            correct_file.writelines(corrs[id])
-        if id in incorrs:
-            incorrect_file.writelines(incorrs[id])
-        if id in unkwns:
-            unknown_file.writelines(unkwns[id])
+
+        if corrs.get(id):
+            for ex in corrs[id]:
+                correct_file.write(str(id) + '\t' + '\t'.join(ex) + '\t' + str(corrs[id][ex]) + '\n')
+
+        if incorrs.get(id):
+            for ex in incorrs[id]:
+                incorrect_file.write(str(id) + '\t' + '\t'.join(ex) + '\t' + str(incorrs[id][ex]) + '\n')
+
+        if unkwns.get(id):
+            for ex in unkwns[id]:
+                unknown_file.write(str(id) + '\t' + '\t'.join(ex) + '\t' + str(unkwns[id][ex]) + '\n')
 
     correct_file.close()
     incorrect_file.close()
@@ -120,9 +123,11 @@ def write_gold_extras(gold_corrs, gold_incorrs, out_folder, dat_set, system, sen
         gold_corr_file.write(sent)
         gold_incorr_file.write(sent)
         if id in gold_corrs:
-            gold_corr_file.writelines(gold_corrs[id])
+            for ex in gold_corrs[id]:
+                gold_corr_file.write(str(id) + '\t' + '\t'.join(ex) + '\n')
         if id in gold_incorrs:
-            gold_incorr_file.writelines(gold_incorrs[id])
+            for ex in gold_incorrs[id]:
+                gold_incorr_file.write(str(id) + '\t' + '\t'.join(ex) + '\n')
 
     gold_corr_file.close()
     gold_incorr_file.close()
@@ -229,20 +234,28 @@ if __name__ == '__main__':
                 gold_index = read_extraction_file(path_to_gold)
                 # read the output file and collect all the data into a dictionary
                 extraction_index = read_extraction_file(path + out_file)
+                for i in sentence_index:
+                    if i not in gold_index:
+                        gold_index[i] = {}
+                    if i not in extraction_index:
+                        extraction_index[i] = {}
+
                 # plot results, making the Nemex lines stand out more, and write Nemex results to file
                 if 'nemex' in system:
                     line_width = 2.0
                     line_style = 'solid'
-                    # compare a nemex's output against the gold standard
+                    # compare a nemex output against the gold standard
                     correct_and_confidence, corrects, incorrects,\
-                    unknowns, gold_corrects, gold_incorrects = compare(gold_index, extraction_index)
+                    unknowns, gold_corrects, gold_incorrects = compare(gold_index, extraction_index, True)
+                    unknowns_and_weights = estimate_weights(gold_corrects, gold_incorrects, unknowns)
+
                     num_gold_corrects = sum([len(lst) for lst in gold_corrects.values()])
                     num_gold_incorrects = sum([len(lst) for lst in gold_incorrects.values()])
                     num_nemex_corrects = sum([len(lst) for lst in corrects.values()])
                     num_nemex_incorrects = sum([len(lst) for lst in incorrects.values()])
                     num_nemex_unknowns = sum([len(lst) for lst in unknowns.values()])
 
-                    write_eval_results(corrects, incorrects, unknowns, output_folder,
+                    write_eval_results(corrects, incorrects, unknowns_and_weights, output_folder,
                                        data_set_name, system, sentence_index)
                     write_gold_extras(gold_corrects, gold_incorrects, output_folder,
                                       data_set_name, system, sentence_index)
@@ -254,8 +267,7 @@ if __name__ == '__main__':
                     line_width = 1.0
                     line_style = 'dashed'
                     # compare a system's output against the gold standard
-                    correct_and_confidence, corrects, incorrects,\
-                    unknowns, gold_corrects, gold_incorrects = compare(gold_index, extraction_index)
+                    correct_and_confidence, corrects, incorrects = compare(gold_index, extraction_index, False)
 
                 precision_by_extraction = calculate_precision(correct_and_confidence)
                 # for plots analogous to those on the ClausIE paper

@@ -12,7 +12,6 @@ CourtLink , which has 160 employees , developed a filing system that enables jud
 0	"a filing system"	"enables judges lawyers and"	"court clerks"	1.1666666666666667
 0	"a filing system"	"enables to process"	"pleadings"	1.2
 0	"a filing system"	"enables to process pleadings"	"motions"	1.1666666666666667
-0	"judges"	"judges"	"lawyers"	1.5
 0	"judges"	"lawyers and"	"court clerks"	1.25
 0	"judges"	"enables to process"	"pleadings"	-0.25
 0	"judges"	"enables to process pleadings"	"motions"	-0.3
@@ -25,7 +24,6 @@ CourtLink , which has 160 employees , developed a filing system that enables jud
 0	"court clerks"	"and lawyers enables to process pleadings"	"motions"	0.0
 0	"court clerks"	"and lawyers enables to process pleadings motions and"	"other documents"	-0.05714285714285716
 0	"court clerks"	"and lawyers judges enables developed over"	"a secure connection"	0.19047619047619047
-0	"pleadings"	"pleadings"	"motions"	1.5
 0	"pleadings"	"motions and"	"other documents"	1.25
 0	"pleadings"	"process to enables developed over"	"a secure connection"	0.16666666666666666
 0	"motions"	"and"	"other documents"	1.3333333333333333
@@ -116,11 +114,9 @@ He also had stints with the New York Philharmonic , Metropolitan Opera Orchestra
 6	"stints"	"with Philharmonic"	"Metropolitan Opera Orchestra"	1.25
 6	"stints"	"with Philharmonic Orchestra"	"CBS Symphony"	1.2
 6	"stints"	"with Philharmonic Orchestra Symphony and"	"Symphony"	1.1428571428571428
-6	"the New York Philharmonic"	"Philharmonic"	"Metropolitan Opera Orchestra"	1.5
 6	"the New York Philharmonic"	"Orchestra"	"CBS Symphony"	1.3333333333333333
 6	"the New York Philharmonic"	"Orchestra Symphony and"	"Symphony"	1.2
 6	"the New York Philharmonic"	"Orchestra Symphony of"	"the Air"	1.2
-6	"Metropolitan Opera Orchestra"	"Orchestra"	"CBS Symphony"	1.5
 6	"Metropolitan Opera Orchestra"	"Symphony and"	"Symphony"	1.25
 6	"Metropolitan Opera Orchestra"	"Symphony of"	"the Air"	1.25
 6	"Metropolitan Opera Orchestra"	"Philharmonic with had successor"	"the NBC Symphony"	0.1333333333333333
@@ -211,7 +207,6 @@ In its most recent survey , the Congress for New Urbanism , a nonprofit organiza
 11	"the Congress"	"Urbanism"	"a nonprofit organization"	1.0
 11	"the Congress"	"Urbanism organization based in"	"Chicago"	0.7
 11	"the Congress"	"reported communities"	"648"	0.6666666666666666
-11	"the Congress for New Urbanism"	"Urbanism"	"a nonprofit organization"	1.5
 11	"the Congress for New Urbanism"	"organization based in"	"Chicago"	1.2
 11	"the Congress for New Urbanism"	"reported communities"	"648"	0.8333333333333333
 11	"the Congress for New Urbanism"	"reported"	"648 neighborhood-scale New Urbanist communities"	1.0
@@ -306,11 +301,9 @@ Along with Dow Jones and Microsoft , the companies included CNN , but not its pa
 18	"the companies"	"included . parent"	"AOL Time Warner"	0.75
 18	"CNN"	"included ."	"not its parent"	-0.16666666666666669
 18	"CNN"	"included . parent"	"AOL Time Warner"	-0.25
-18	"not its parent"	"parent"	"AOL Time Warner"	1.5
 " I 'd recommend three Xanax , a great bottle of cabernet and looking for a new publicist . 
 19	"I"	"'d recommend"	"three Xanax"	0.8333333333333333
 19	"I"	"'d recommend Xanax"	"a great bottle"	0.75
-19	"three Xanax"	"Xanax"	"a great bottle"	1.5
 19	"three Xanax"	"recommend . cabernet and looking for"	"a new publicist"	0.08333333333333334
 19	"a great bottle"	"Xanax recommend . cabernet and looking for"	"a new publicist"	0.033333333333333354
 The case is being appealed . 
@@ -341,7 +334,6 @@ Nothing else is untouched , regardless of its provenance .
 A large influx is going to create problems . 
 23	"A large influx"	"is going to create"	"problems"	0.7
 Morningwood Ulysses S. Grant , the second-ranked basset hound in 1998 , was received , the quota had been filled . 
-24	"Morningwood Ulysses S. Grant"	"Grant"	"the second-ranked basset hound"	1.5
 24	"Morningwood Ulysses S. Grant"	"hound in"	"1998"	1.25
 24	"Morningwood Ulysses S. Grant"	"was had"	"the quota"	0.8333333333333333
 24	"the second-ranked basset hound"	"in"	"1998"	1.3333333333333333
@@ -456,9 +448,7 @@ In lieu of flowers , donations in his memory can be made to the International My
 31	"12650"	". Drive"	"Suite 206"	0.16666666666666669
 31	"12650"	". Drive CA"	"North Hollywood"	0.25
 31	"12650"	". Drive"	"North Hollywood CA"	0.16666666666666669
-31	"Riverside Drive"	"Drive"	"Suite 206"	1.5
 31	"Riverside Drive"	"CA"	"North Hollywood"	1.3333333333333333
-31	"Riverside Drive"	"Drive"	"North Hollywood CA"	1.5
 31	"Suite 206"	"Drive CA"	"North Hollywood"	-0.16666666666666669
 31	"Suite 206"	"Drive"	"North Hollywood CA"	0.0
 31	"North Hollywood"	"CA Drive can . Drive"	"North Hollywood CA"	0.04999999999999999
@@ -522,7 +512,6 @@ The negative outlook also reflects the possibility of " further managerial insta
 33	"movement"	"and instability of reflects penalties"	"findings"	0.16666666666666666
 33	"movement"	"and instability of reflects penalties findings supporting"	"shareholder litigation"	0.033333333333333354
 33	"movement"	"and instability of reflects penalties findings supporting litigation and"	"further reserve adjustments"	-0.023809523809523808
-33	"financial penalties"	"penalties"	"findings"	1.5
 33	"financial penalties"	"findings supporting"	"shareholder litigation"	1.25
 33	"financial penalties"	"findings supporting litigation and"	"further reserve adjustments"	1.1666666666666667
 33	"findings"	"supporting"	"shareholder litigation"	1.3333333333333333
@@ -695,7 +684,6 @@ The Giants convened today to begin their first preparations for Monday night 's 
 40	"Monday night 's game"	"begin against"	"the Vikings"	0.0
 40	"Minnesota"	"in game begin against"	"the Vikings"	0.1333333333333333
 John Lamar Odom , pastor of the First Presbyterian Church in Oceanside , L.I. , were married yesterday . 
-41	"John Lamar Odom"	"Odom"	"pastor"	1.5
 41	"John Lamar Odom"	"pastor of"	"the First Presbyterian Church"	1.25
 41	"John Lamar Odom"	"pastor of Church in L.I."	"Oceanside"	1.1428571428571428
 41	"John Lamar Odom"	"pastor of Church in"	"Oceanside L.I."	1.1666666666666667
@@ -781,8 +769,6 @@ He said the public school from which he transferred three years ago had metal de
 46	"metal detectors"	"failed to keep sense that lurked"	"danger"	1.125
 46	"the sense"	"that lurked"	"danger"	1.25
 Nordstrom Inc. , the retail chain based on the West Coast , said today that it had created an office of the president to strengthen its executive management team . 
-47	"Nordstrom"	"Nordstrom"	"Inc."	1.5
-47	"Nordstrom"	"Nordstrom"	"the retail chain"	1.5
 47	"Nordstrom"	"chain based on"	"the West Coast"	1.2
 47	"Nordstrom"	"said"	"today"	1.0
 47	"Nordstrom"	"said that had"	"it"	0.75
@@ -985,7 +971,6 @@ The Hall of Fame-bound pitcher fires a fastball .
 63	"the country"	"left had those hated that was  said"	"Liselotte Leicht"	0.125
 63	"the country"	"left had those hated that was  said Leicht"	"program director"	0.07500000000000001
 63	"the country"	"left had those hated that was  said Leicht director at"	"the Helsinki Federation"	0.01785714285714285
-63	"Liselotte Leicht"	"Leicht"	"program director"	1.5
 63	"Liselotte Leicht"	"director at"	"the Helsinki Federation"	1.25
 63	"program director"	"at"	"the Helsinki Federation"	1.3333333333333333
 Officials declined yesterday to identify the medication involved . 
@@ -1040,7 +1025,6 @@ They live with Dirk , Weetzie 's gay best friend , his lover , Duck , and Weetzi
 67	"They"	"live . Duck"	"his lover"	0.75
 67	"They"	"live ."	"his lover Duck"	0.8333333333333333
 67	"Dirk"	"friend"	"Weetzie"	1.3333333333333333
-67	"Dirk"	"Dirk"	"Weetzie 's gay best friend"	1.5
 67	"Dirk"	"live . Duck"	"his lover"	-0.08333333333333331
 67	"Dirk"	"live ."	"his lover Duck"	0.0
 67	"Dirk"	"live . Duck and daughter"	"Weetzie"	-0.16666666666666666
@@ -1069,7 +1053,6 @@ They live with Dirk , Weetzie 's gay best friend , his lover , Duck , and Weetzi
 67	"Weetzie"	"daughter conceived during"	"group sex"	0.75
 67	"Weetzie"	"daughter conceived during sex with"	"Dirk"	0.6666666666666666
 67	"Weetzie"	"daughter conceived during sex with Dirk and"	"Duck"	0.625
-67	"Weetzie 's daughter"	"daughter"	"Cherokee"	1.5
 67	"Weetzie 's daughter"	"conceived during"	"group sex"	1.25
 67	"Weetzie 's daughter"	"conceived during sex with"	"Dirk"	1.1666666666666667
 67	"Weetzie 's daughter"	"conceived during sex with Dirk and"	"Duck"	1.125
@@ -1124,7 +1107,6 @@ Sheik Thamer is the deputy to Grand Ayatollah Ali al-Sestani , the country 's mo
 69	"the deputy"	"to Ali cleric"	"the country"	1.2
 69	"the deputy"	"to Ali"	"the country 's most senior Shiite cleric"	1.25
 69	"Grand Ayatollah Ali"	"cleric"	"the country"	1.3333333333333333
-69	"Grand Ayatollah Ali"	"Ali"	"the country 's most senior Shiite cleric"	1.5
 69	"the country"	"cleric Ali to is deputy to Ali"	"the country 's most senior Shiite cleric"	0.033333333333333354
 The limits , which have not been made definite , will be even lower for economy and business-class travelers . 
 70	"The limits"	"will be lower for"	"economy"	0.7
@@ -1163,7 +1145,6 @@ The playing was n't bad , really ; it just was n't good enough to justify the ev
 75	"The playing"	"was was"	"it"	0.8333333333333333
 75	"it"	"was good to justify"	"the event"	0.7
 Frauke Petersen Haasemann , the assistant conductor of the Westminster Choir and professor of conducting at the Westminster Choir College , died last Friday at her home in Princeton , N.J. 
-76	"Frauke Petersen Haasemann"	"Haasemann"	"the assistant conductor"	1.5
 76	"Frauke Petersen Haasemann"	"conductor of"	"the Westminster Choir"	1.25
 76	"Frauke Petersen Haasemann"	"conductor of Choir and"	"professor"	1.1666666666666667
 76	"the assistant conductor"	"of"	"the Westminster Choir"	1.3333333333333333
@@ -1183,10 +1164,8 @@ Frauke Petersen Haasemann , the assistant conductor of the Westminster Choir and
 76	"last Friday"	"died at home in"	"Princeton"	-0.3
 76	"last Friday"	"died at home"	"N.J."	-0.25
 76	"her home"	"in"	"Princeton"	1.3333333333333333
-76	"her home"	"home"	"N.J."	1.5
 76	"Princeton"	"home"	"N.J."	0.16666666666666669
 For the proposal itself , he toured five hotels in search of a room with a view of Central Park and selected one on a high floor of the Carlyle . 
-77	"the proposal"	"proposal"	"itself"	1.5
 77	"the proposal"	"toured"	"he"	-0.16666666666666669
 77	"the proposal"	"toured"	"five hotels"	0.8333333333333333
 77	"the proposal"	"toured in"	"search"	0.6666666666666666
@@ -1328,7 +1307,6 @@ A class-action lawsuit against the N.C.A.A. , contending that major college foot
 84	"yesterday"	"filed in"	"a United States"	-0.16666666666666669
 84	"yesterday"	"filed in States"	"District Court"	-0.25
 84	"yesterday"	"filed in States Court in"	"Seattle"	-0.33333333333333337
-84	"a United States"	"States"	"District Court"	1.5
 84	"a United States"	"Court in"	"Seattle"	1.25
 84	"District Court"	"in"	"Seattle"	1.3333333333333333
 Following the killing of Amadou Diallo , the inexorable conclusion is that this is a Police Department out of control , with elected officials who are not interested in holding anybody accountable for its actions . 
@@ -1551,7 +1529,6 @@ Russia 's eavesdropping station at Lourdes , Cuba , is a cold war jewel : 28 squ
 94	"message"	"embassies and vacuum communications"	"satellite"	0.7
 94	"message"	"embassies and vacuum communications satellite and"	"radio"	0.6428571428571428
 94	"message"	"embassies and vacuum"	"U.S. satellite and radio communications"	0.75
-94	"message Russian embassies"	"embassies"	"submarines"	1.5
 94	"message Russian embassies"	"submarines and"	"spies"	1.25
 94	"message Russian embassies"	"and vacuum communications"	"satellite"	1.2
 94	"message Russian embassies"	"and vacuum communications satellite and"	"radio"	1.1428571428571428
@@ -1688,7 +1665,6 @@ The menu , imported from Ben 's Deli in Queens , includes matzoh ball soup , cor
 99	"beef and pastrami sandwiches"	"corned chopped"	"liver"	-0.16666666666666669
 99	"beef and pastrami sandwiches"	"corned chopped liver"	"kishke"	-0.25
 99	"beef and pastrami sandwiches"	"corned chopped liver kishke and"	"knishes"	-0.33333333333333337
-99	"liver"	"liver"	"kishke"	1.5
 99	"liver"	"kishke and"	"knishes"	1.25
 99	"kishke"	"and"	"knishes"	1.3333333333333333
 Ashcroft said afterward , through Mr. Hilton , that the talk had been " even and businesslike " and that he had made the point that there would be no peace between him and the Governor until the Governor and his fellow Missouri Democrats demonstrated good faith by ending their practice of " hate politics . " 
@@ -1834,19 +1810,15 @@ As a medium-sized group of American lawyers and judges and their companions , we
 105	"a number"	"of citizens personnel lawyers"	"judges"	1.1666666666666667
 105	"a number"	"of citizens personnel lawyers judges"	"storekeepers"	1.1428571428571428
 105	"a number"	"of citizens personnel lawyers judges storekeepers and"	"families"	1.1111111111111112
-105	"Egyptian citizens"	"citizens"	"tourist personnel"	1.5
 105	"Egyptian citizens"	"personnel"	"lawyers"	1.3333333333333333
 105	"Egyptian citizens"	"personnel lawyers"	"judges"	1.25
 105	"Egyptian citizens"	"personnel lawyers judges"	"storekeepers"	1.2
 105	"Egyptian citizens"	"personnel lawyers judges storekeepers and"	"families"	1.1428571428571428
-105	"tourist personnel"	"personnel"	"lawyers"	1.5
 105	"tourist personnel"	"lawyers"	"judges"	1.3333333333333333
 105	"tourist personnel"	"lawyers judges"	"storekeepers"	1.25
 105	"tourist personnel"	"lawyers judges storekeepers and"	"families"	1.1666666666666667
-105	"lawyers"	"lawyers"	"judges"	1.5
 105	"lawyers"	"judges"	"storekeepers"	1.3333333333333333
 105	"lawyers"	"judges storekeepers and"	"families"	1.2
-105	"judges"	"judges"	"storekeepers"	1.5
 105	"judges"	"storekeepers and"	"families"	1.25
 105	"storekeepers"	"and"	"families"	1.3333333333333333
 Trust Company 's quest for customers among the new rich , included erroneous figures for millionaire households supplied by PSI , a financial services research firm in Tampa , Fla . 
@@ -1868,7 +1840,6 @@ Trust Company 's quest for customers among the new rich , included erroneous fig
 106	"millionaire households"	"supplied by PSI"	"a financial services research firm"	1.2
 106	"millionaire households"	"supplied by PSI firm in Fla"	"Tampa"	1.125
 106	"millionaire households"	"supplied by PSI firm in"	"Tampa Fla"	1.1428571428571428
-106	"PSI"	"PSI"	"a financial services research firm"	1.5
 106	"PSI"	"firm in Fla"	"Tampa"	1.2
 106	"PSI"	"firm in"	"Tampa Fla"	1.25
 106	"a financial services research firm"	"in Fla"	"Tampa"	1.25
@@ -1929,7 +1900,6 @@ Shown today at 2 and 6 p.m. and tomorrow at 4 and 7 p.m. at the Walter Reade The
 109	"7 p.m."	"at Theater at"	"Lincoln Center"	1.2
 109	"7 p.m."	"Manhattan"	"165"	1.3333333333333333
 109	"7 p.m."	"Manhattan"	"Street"	1.3333333333333333
-109	"7 p.m."	"p.m."	"165 West 65th Street Manhattan"	1.5
 109	"the Walter Reade Theater"	"at"	"Lincoln Center"	1.3333333333333333
 109	"the Walter Reade Theater"	"p.m. Manhattan"	"165"	0.0
 109	"the Walter Reade Theater"	"p.m. Manhattan"	"Street"	0.0
@@ -2081,7 +2051,6 @@ The songs are driven by short melodic riffs , call-and-response with her backup 
 113	"The songs"	"are driven with singers"	"her"	0.7
 113	"The songs"	"are driven with"	"her backup singers"	0.75
 113	"The songs"	"are ."	"the combination"	0.8333333333333333
-113	"short melodic riffs"	"riffs"	"call-and-response"	1.5
 113	"short melodic riffs"	"driven with singers"	"her"	-0.08333333333333331
 113	"short melodic riffs"	"driven with"	"her backup singers"	0.0
 113	"short melodic riffs"	"by are ."	"the combination"	0.08333333333333331
@@ -2127,7 +2096,6 @@ The songs are driven by short melodic riffs , call-and-response with her backup 
 113	"the plunk"	"of kamalngoni"	"a harp"	1.25
 113	"the plunk"	"of kamalngoni harp similar to"	"the kora"	1.1428571428571428
 113	"the plunk"	"of kamalngoni harp similar to kora played by"	"griots"	1.1
-113	"the kamalngoni"	"kamalngoni"	"a harp"	1.5
 113	"the kamalngoni"	"harp similar to"	"the kora"	1.2
 113	"the kamalngoni"	"harp similar to kora played by"	"griots"	1.125
 113	"a harp"	"similar to"	"the kora"	1.25
@@ -2197,11 +2165,9 @@ Mexican reporters staked out meetings of the board of Dow Jones & Company , wher
 117	"Mexican reporters"	"Company"	"meetings"	0.0
 117	"Mexican reporters"	"Company meetings of"	"the board"	0.25
 117	"Mexican reporters"	"Company meetings of board"	"Dow Jones"	0.3
-117	"Mexican reporters"	"Company"	"& Company"	1.5
 117	"Mexican reporters"	"Company is"	"Mr. Salinas"	0.8333333333333333
 117	"meetings"	"Company of"	"the board"	0.25
 117	"meetings"	"Company of board"	"Dow Jones"	0.3
-117	"meetings"	"Company"	"& Company"	1.5
 117	"meetings"	"Company is"	"Mr. Salinas"	0.8333333333333333
 117	"meetings"	"Company is"	"a member"	0.8333333333333333
 117	"the board"	"of Company meetings of"	"Dow Jones"	0.04999999999999999
@@ -2241,7 +2207,6 @@ Addictions should not be called habits , Dr. Cahan said .
 119	"Addictions"	"said"	"Dr. Cahan"	0.0
 119	"habits"	"called said"	"Dr. Cahan"	-0.25
 The International Business Machines Corporation said it signed an agreement to provide more than $ 100 million worth of computer hardware and software to what will be the world 's largest computerized travel reservation system . 
-120	"The International Business Machines"	"Machines"	"Corporation"	1.5
 120	"The International Business Machines"	"said signed"	"it"	1.25
 120	"The International Business Machines"	"said signed"	"an agreement"	1.25
 120	"The International Business Machines"	"said signed agreement to provide $"	"worth"	1.125
@@ -2280,7 +2245,6 @@ The director of the Center for Mathematical Sciences Research at Rutgers Univers
 121	"Mathematical Sciences Research"	"director at"	"Rutgers University"	0.0
 121	"Mathematical Sciences Research"	"director at University"	"Dr. Joel Lebowitz"	-0.08333333333333331
 121	"Mathematical Sciences Research"	"for will receive"	"the Dalmar S. Fahrney Medal"	0.5833333333333333
-121	"Rutgers University"	"University"	"Dr. Joel Lebowitz"	1.5
 121	"Rutgers University"	"at will receive"	"the Dalmar S. Fahrney Medal"	0.5833333333333333
 121	"Dr. Joel Lebowitz"	"University at will receive"	"the Dalmar S. Fahrney Medal"	0.5333333333333333
 121	"Dr. Joel Lebowitz"	"University at will receive from"	"the Franklin Institute"	0.45
@@ -2397,7 +2361,6 @@ The market wants to do better , said Gregory Bundy , head of equity trading at M
 133	"The market"	"wants"	"Gregory Bundy"	1.0
 133	"The market"	"wants Bundy"	"head"	0.8333333333333333
 133	"The market"	"wants Bundy head of"	"equity trading"	0.7
-133	"Gregory Bundy"	"Bundy"	"head"	1.5
 133	"Gregory Bundy"	"head of"	"equity trading"	1.25
 133	"Gregory Bundy"	"head at"	"Merrill Lynch Japan"	1.25
 133	"Gregory Bundy"	"head at Japan"	"Inc."	1.2
@@ -2406,7 +2369,6 @@ The market wants to do better , said Gregory Bundy , head of equity trading at M
 133	"head"	"at Japan"	"Inc."	1.25
 133	"equity trading"	"head at"	"Merrill Lynch Japan"	0.0
 133	"equity trading"	"head at Japan"	"Inc."	-0.08333333333333331
-133	"Merrill Lynch Japan"	"Japan"	"Inc."	1.5
 Last month we saw an American patient who had been to five gynecologists before the last one said there is this procedure and referred her to us . 
 134	"we"	"saw"	"an American patient"	1.0
 134	"we"	"saw patient had"	"who"	0.75
@@ -2463,7 +2425,6 @@ A day after strong winds stirred up the Hauraki Gulf and broke the mast of Team 
 137	"the mast"	"of Zealand lack of"	"wind"	1.1666666666666667
 137	"the mast"	"broke and caused"	"5"	0.7
 137	"the mast"	"broke and caused 5 of Cup"	"the America"	0.4
-137	"Team New Zealand"	"Zealand"	"a lack"	1.5
 137	"Team New Zealand"	"lack of"	"wind"	1.25
 137	"Team New Zealand"	"of mast broke and caused"	"5"	0.6428571428571428
 137	"Team New Zealand"	"of mast broke and caused 5 of Cup"	"the America"	0.34285714285714286
@@ -2545,7 +2506,6 @@ Mr. Lemelson was an independent inventor who was granted more than 500 patents d
 He was John Dickinson , not Dickenson . 
 141	"He"	"was"	"John Dickinson"	1.0
 141	"He"	"was Dickinson"	"not Dickenson"	0.8333333333333333
-141	"John Dickinson"	"Dickinson"	"not Dickenson"	1.5
 Every gray leather seat is taken . 
 142
 Then he elevates himself off the ground to escape the ball that becomes a game-tying wild pitch . 
@@ -2953,7 +2913,6 @@ The Russian Parliament voted Wednesday to contribute only 23.4 billion rubles fo
 161	"the coming year"	"for rubles contribute voted . for"	"the year"	0.08333333333333334
 161	"the total budget"	"of 10th . for"	"the year"	-0.1333333333333333
 Tierney Finn , an actress , and Mark Fitzmartin , a television commercial producer for Fernbach Productions in New York , both graduates of New York University 's Tisch School of the Arts , were married yesterday in Holy Trinity Chapel at N.Y.U. 
-162	"Tierney Finn"	"Finn"	"an actress"	1.5
 162	"Tierney Finn"	"and"	"Mark Fitzmartin"	1.3333333333333333
 162	"Tierney Finn"	"and Fitzmartin producer"	"television"	1.2
 162	"Tierney Finn"	"and Fitzmartin"	"a television commercial producer"	1.25
@@ -2964,7 +2923,6 @@ Tierney Finn , an actress , and Mark Fitzmartin , a television commercial produc
 162	"an actress"	"Finn and Fitzmartin producer for"	"Fernbach Productions"	-0.33333333333333337
 162	"an actress"	"Finn and Fitzmartin producer for Productions in"	"New York"	-0.375
 162	"Mark Fitzmartin"	"producer"	"television"	1.3333333333333333
-162	"Mark Fitzmartin"	"Fitzmartin"	"a television commercial producer"	1.5
 162	"Mark Fitzmartin"	"producer for"	"Fernbach Productions"	1.25
 162	"Mark Fitzmartin"	"producer for Productions in"	"New York"	1.1666666666666667
 162	"Mark Fitzmartin"	"and were"	"both graduates"	-0.25
@@ -3060,7 +3018,6 @@ He graduated summa cum laude from the University of California , Los Angeles .
 166	"summa cum laude"	"from California"	"Los Angeles"	1.25
 166	"University"	"California from graduated laude from"	"the University of California"	0.04999999999999999
 166	"University"	"California"	"Los Angeles"	1.0
-166	"the University of California"	"California"	"Los Angeles"	1.5
 He washed dishes and chopped vegetables for a year before getting a scholarship to attend the State University of New York at Oneonta . 
 167	"He"	"washed"	"dishes"	1.0
 167	"He"	"washed and chopped"	"vegetables"	0.75
@@ -3095,7 +3052,6 @@ She was a continuing source of love , kindness and generosity who never failed t
 168	"a continuing source"	"of love kindness and"	"generosity"	1.1666666666666667
 168	"a continuing source"	"was failed"	"who"	-0.16666666666666669
 168	"a continuing source"	"was failed to nurture"	"her adoring family"	-0.3
-168	"love"	"love"	"kindness"	1.5
 168	"love"	"kindness and"	"generosity"	1.25
 168	"love"	"of was failed"	"who"	0.08333333333333331
 168	"love"	"of was failed to nurture"	"her adoring family"	-0.04999999999999999
@@ -3277,10 +3233,8 @@ Divertimento " from " Le Baiser de la Fee , " presented by the New York City Bal
 175	"one"	"of"	"George Balanchine 's odder ballets"	1.3333333333333333
 175	"George Balanchine"	"ballets of one . is one of"	"George Balanchine 's odder ballets"	-0.033333333333333354
 The consortium , called CityLink Telecommunications Ltd. , has pledged to invest $ 568 million to upgrade the telecommunication capabilities of the subway system , which is being overhauled , and maintain it for 20 years . 
-176	"The consortium"	"Telecommunications"	"The consortium called CityLink Telecommunications"	1.5
 176	"The consortium"	"Telecommunications"	"Ltd."	1.0
 176	"The consortium"	"Telecommunications has pledged to invest $"	"million"	0.6428571428571428
-176	"The consortium called CityLink Telecommunications"	"Telecommunications"	"Ltd."	1.5
 176	"The consortium called CityLink Telecommunications"	"has pledged to invest $"	"million"	1.1428571428571428
 176	"The consortium called CityLink Telecommunications"	"has pledged to invest to upgrade"	"the telecommunication capabilities"	1.125
 176	"Ltd."	"Telecommunications has pledged to invest $"	"million"	-0.35714285714285715
@@ -3388,7 +3342,6 @@ The Digital Domain column last Sunday , about Craigslist , the online bulletin b
 182	"the site 's arrival"	"in"	"their cities"	1.3333333333333333
 A review on June 29 , about two books on German musicians and music in the Nazi period , referred incorrectly to Fred K. Prieberg 's 1982 German book on those subjects . 
 183	"A review"	"on"	"June 29"	1.3333333333333333
-183	"A review"	"review"	"about two books"	1.5
 183	"A review"	"books on"	"German musicians"	1.25
 183	"A review"	"books on musicians and"	"music"	1.1666666666666667
 183	"June 29"	"review"	"about two books"	0.16666666666666669
@@ -3487,12 +3440,10 @@ In 1964 , he joined CBS News as an associate producer of " CBS News With Walter 
 186	"the producer"	"for correspondent"	"Dan Rather"	1.25
 186	"the producer"	"for correspondent Rather anchor"	"CBS"	1.1666666666666667
 186	"the producer"	"for correspondent Rather"	"now CBS 's weekday anchor"	1.2
-186	"White House correspondent"	"correspondent"	"Dan Rather"	1.5
 186	"White House correspondent"	"Rather anchor"	"CBS"	1.25
 186	"White House correspondent"	"Rather"	"now CBS 's weekday anchor"	1.3333333333333333
 186	"White House correspondent"	"for became during"	"the Nixon Administration"	0.08333333333333331
 186	"Dan Rather"	"anchor"	"CBS"	1.3333333333333333
-186	"Dan Rather"	"Rather"	"now CBS 's weekday anchor"	1.5
 186	"Dan Rather"	"correspondent for became during"	"the Nixon Administration"	0.1333333333333333
 186	"CBS"	"anchor Rather correspondent for producer became joined and became producer for correspondent Rather"	"now CBS 's weekday anchor"	0.013888888888888895
 186	"CBS"	"anchor Rather correspondent for became during"	"the Nixon Administration"	0.19047619047619047
@@ -3527,7 +3478,6 @@ Her subjects were friends and artists who posed for her in their " Full Monty " 
 187	"their"	"glory in were . in"	"their  Full Monty  glory"	0.04999999999999999
 187	"Full Monty"	"glory in were . in"	"their  Full Monty  glory"	0.04999999999999999
 Justice Charles R. Alberti , a retired associate justice of the Massachusetts Superior Court in Pittsfield , performed the ceremony at the home of the bride 's parents . 
-188	"Justice Charles R. Alberti"	"Alberti"	"a retired associate justice"	1.5
 188	"Justice Charles R. Alberti"	"justice of"	"the Massachusetts Superior Court"	1.25
 188	"Justice Charles R. Alberti"	"justice of Court in"	"Pittsfield"	1.1666666666666667
 188	"a retired associate justice"	"of"	"the Massachusetts Superior Court"	1.3333333333333333
@@ -3550,7 +3500,6 @@ Justice Charles R. Alberti , a retired associate justice of the Massachusetts Su
 188	"the home"	"of"	"the bride 's parents"	1.3333333333333333
 188	"the bride"	"parents of home performed at home of"	"the bride 's parents"	0.033333333333333354
 David Johansen 's latest genre excursion heads for the recorded roots of American music : the blues , ballads , country and gospel songs , full of murder and adultery and hope for redemption , that were collected by Harry Smith for his Anthology of American Folk Music , a foundation of the 1950 's folk revival . 
-189	"David Johansen"	"heads"	"David Johansen 's latest genre excursion heads"	1.5
 189	"David Johansen"	"heads for"	"the recorded roots"	0.8333333333333333
 189	"David Johansen"	"heads for roots of"	"American music"	0.7
 189	"David Johansen"	"heads for roots"	"the blues"	0.75
@@ -3560,7 +3509,6 @@ David Johansen 's latest genre excursion heads for the recorded roots of America
 189	"David Johansen 's latest genre excursion heads"	"for roots blues"	"ballads"	1.2
 189	"David Johansen 's latest genre excursion heads"	"for roots blues ballads"	"country"	1.1666666666666667
 189	"the recorded roots"	"of"	"American music"	1.3333333333333333
-189	"the recorded roots"	"roots"	"the blues"	1.5
 189	"the recorded roots"	"blues"	"ballads"	1.3333333333333333
 189	"the recorded roots"	"blues ballads"	"country"	1.25
 189	"the recorded roots"	"blues ballads country and"	"gospel"	1.1666666666666667
@@ -3571,13 +3519,11 @@ David Johansen 's latest genre excursion heads for the recorded roots of America
 189	"American music"	"roots blues ballads country and"	"gospel"	-0.16666666666666666
 189	"American music"	"of roots heads"	"songs"	0.3
 189	"American music"	"of roots heads full of"	"murder"	0.04999999999999999
-189	"the blues"	"blues"	"ballads"	1.5
 189	"the blues"	"ballads"	"country"	1.3333333333333333
 189	"the blues"	"ballads country and"	"gospel"	1.2
 189	"the blues"	"roots heads"	"songs"	0.25
 189	"the blues"	"roots heads full of"	"murder"	0.0
 189	"the blues"	"roots heads full of murder and"	"adultery"	-0.08333333333333334
-189	"ballads"	"ballads"	"country"	1.5
 189	"ballads"	"country and"	"gospel"	1.25
 189	"ballads"	"blues roots heads"	"songs"	0.3
 189	"ballads"	"blues roots heads full of"	"murder"	0.04999999999999999
@@ -3621,7 +3567,6 @@ David Johansen 's latest genre excursion heads for the recorded roots of America
 189	"Anthology"	"Music"	"a foundation"	1.0
 189	"Anthology"	"Music foundation of revival"	"1950"	0.7
 189	"Anthology"	"Music foundation of"	"the 1950 's folk revival"	0.75
-189	"Anthology of American Folk Music"	"Music"	"a foundation"	1.5
 189	"Anthology of American Folk Music"	"foundation of revival"	"1950"	1.2
 189	"Anthology of American Folk Music"	"foundation of"	"the 1950 's folk revival"	1.25
 189	"a foundation"	"of revival"	"1950"	1.25
@@ -3671,11 +3616,9 @@ With the Jets ' training camp opening next Monday , Hadley Engelhard , the agent
 193	"the Jets ' training camp"	"opening Monday"	"Hadley Engelhard"	1.25
 193	"the Jets ' training camp"	"opening Monday Engelhard"	"the agent"	1.2
 193	"the Jets ' training camp"	"opening Monday Engelhard agent for pick"	"the team"	1.125
-193	"next Monday"	"Monday"	"Hadley Engelhard"	1.5
 193	"next Monday"	"Engelhard"	"the agent"	1.3333333333333333
 193	"next Monday"	"Engelhard agent for pick"	"the team"	1.1666666666666667
 193	"next Monday"	"Engelhard agent for"	"the team 's first-round draft pick"	1.2
-193	"Hadley Engelhard"	"Engelhard"	"the agent"	1.5
 193	"Hadley Engelhard"	"agent for pick"	"the team"	1.2
 193	"Hadley Engelhard"	"agent for"	"the team 's first-round draft pick"	1.25
 193	"Hadley Engelhard"	"agent for pick"	"Dewayne Robertson"	1.2
@@ -3686,7 +3629,6 @@ With the Jets ' training camp opening next Monday , Hadley Engelhard , the agent
 193	"the team"	"pick"	"Dewayne Robertson"	1.0
 193	"the team"	"pick for agent Engelhard Monday opening camp will arrive in"	"New York"	0.35
 193	"the team"	"pick for agent Engelhard Monday opening camp will arrive"	"today"	0.43333333333333335
-193	"the team 's first-round draft pick"	"pick"	"Dewayne Robertson"	1.5
 193	"the team 's first-round draft pick"	"for agent Engelhard Monday opening camp will arrive in"	"New York"	0.3611111111111111
 193	"the team 's first-round draft pick"	"for agent Engelhard Monday opening camp will arrive"	"today"	0.4444444444444444
 193	"Dewayne Robertson"	"pick for agent Engelhard Monday opening camp will arrive in"	"New York"	0.35
@@ -3733,7 +3675,6 @@ The bride is the stepdaughter of Richard L. Harris .
 196	"The bride"	"is stepdaughter of"	"Richard L. Harris"	0.75
 196	"the stepdaughter"	"of"	"Richard L. Harris"	1.3333333333333333
 But how about Bodynet , an enveloping computer web in which your wireless-data telephone might actually be a hat ? 
-197	"Bodynet"	"Bodynet"	"an enveloping computer web"	1.5
 197	"Bodynet"	"? might telephone"	"your"	0.08333333333333331
 197	"Bodynet"	"? might"	"your wireless-data telephone"	0.0
 197	"Bodynet"	"? might be"	"a hat"	0.08333333333333331

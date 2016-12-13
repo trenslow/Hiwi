@@ -19,7 +19,6 @@ Mrs. Yogeswaran was shot five times with a pistol near her Jaffna home on May 17
 1	"a pistol"	"shot on 17"	"1998"	-0.08333333333333331
 1	"her Jaffna home"	"near pistol shot on"	"May 17"	0.1333333333333333
 1	"her Jaffna home"	"near pistol shot on 17"	"1998"	0.04999999999999999
-1	"May 17"	"17"	"1998"	1.5
 Girard has a bachelor 's degree in political sciences at the Universite de Montreal and did studies for the master 's degree in industrial relations . 
 2	"Girard"	"has degree"	"a bachelor"	0.8333333333333333
 2	"Girard"	"has"	"a bachelor 's degree"	1.0
@@ -57,7 +56,6 @@ Robert Barnard born 23 November 1936 is an English crime writer , critic and lec
 4	"23 November 1936"	"born is"	"an English crime writer"	-0.16666666666666669
 4	"23 November 1936"	"born is writer"	"critic"	-0.25
 4	"23 November 1936"	"born is writer critic and"	"lecturer"	-0.33333333333333337
-4	"an English crime writer"	"writer"	"critic"	1.5
 4	"an English crime writer"	"critic and"	"lecturer"	1.25
 4	"critic"	"and"	"lecturer"	1.3333333333333333
 The secretary / music director for the church , Anne Susan Clark , is wary of changes for the congregation intended by Hill . 
@@ -89,12 +87,10 @@ The secretary / music director for the church , Anne Susan Clark , is wary of ch
 6	"Maple Drive "	"was released on 1"	"DVD"	0.5333333333333333
 6	"Maple Drive "	"was released on"	"September 7"	0.5833333333333333
 6	"Maple Drive "	"was released on 7"	"2004"	0.5333333333333333
-6	"Region 1"	"1"	"DVD"	1.5
 6	"Region 1"	"released on"	"September 7"	0.0
 6	"Region 1"	"released on 7"	"2004"	-0.08333333333333331
 6	"DVD"	"1 released on"	"September 7"	0.08333333333333331
 6	"DVD"	"1 released on 7"	"2004"	0.0
-6	"September 7"	"7"	"2004"	1.5
 It comprises and includes mountains reaching an altitude of above sea level . 
 7	"It"	"comprises and includes"	"mountains"	0.75
 7	"It"	"comprises and includes mountains reaching"	"an altitude"	0.6666666666666666
@@ -177,7 +173,6 @@ A sequel , in name only , called " Return of the Ape Man " , followed in 1944 , 
 13	"this film"	"after and starred"	"Bela Lugosi"	-0.25
 13	"this film"	"after and starred Lugosi"	"John Carradine"	-0.3
 13	"this film"	"after and starred Lugosi Carradine and"	"George Zucco"	-0.35714285714285715
-13	"Bela Lugosi"	"Lugosi"	"John Carradine"	1.5
 13	"Bela Lugosi"	"Carradine and"	"George Zucco"	1.25
 13	"John Carradine"	"and"	"George Zucco"	1.3333333333333333
 Dr. Gayatri Bipasha Basu is researching the esoteric practices like voodoo , spirit possession , magic and healing powers . 
@@ -190,7 +185,6 @@ Dr. Gayatri Bipasha Basu is researching the esoteric practices like voodoo , spi
 14	"the esoteric practices"	"is . powers possession"	"magic"	-0.1333333333333333
 14	"the esoteric practices"	"is . powers possession magic and"	"healing"	-0.19047619047619047
 14	"the esoteric practices"	"is ."	"spirit possession magic and healing powers"	0.0
-14	"spirit possession"	"possession"	"magic"	1.5
 14	"spirit possession"	"magic and"	"healing"	1.25
 14	"spirit possession"	"powers is ."	"spirit possession magic and healing powers"	0.08333333333333331
 14	"magic"	"and"	"healing"	1.3333333333333333
@@ -212,7 +206,6 @@ He was born in New York and died at Livonia , Michigan .
 17	"New York"	"in was and died at"	"Livonia Michigan"	-0.04999999999999999
 17	"Livonia"	"Michigan at died was and died at"	"Livonia Michigan"	0.033333333333333354
 Fred Kohler April 20 , 1888 - October 28 , 1938 was an American actor known for his " heavy " style of character . 
-18	"Fred Kohler April"	"April"	"20"	1.5
 18	"Fred Kohler April"	"28"	"1888"	0.0
 18	"Fred Kohler April"	"was"	"Fred Kohler April 20 1888 - October 28"	-0.16666666666666669
 18	"Fred Kohler April"	"was"	"1938"	-0.16666666666666669
@@ -330,7 +323,6 @@ The International Center for Research on Women ICRW is a non-profit organization
 24	"Washington"	"D.C. States with"	"a regional office"	0.75
 24	"Washington"	"D.C. States with office in India"	"New Delhi"	0.6428571428571428
 24	"Washington"	"D.C. States with office in"	"New Delhi India"	0.6666666666666666
-24	"Washington D.C."	"D.C."	"United States"	1.5
 24	"Washington D.C."	"States with"	"a regional office"	1.25
 24	"Washington D.C."	"States with office in India"	"New Delhi"	1.1428571428571428
 24	"Washington D.C."	"States with office in"	"New Delhi India"	1.1666666666666667
@@ -411,7 +403,6 @@ Wu worked as a reporter for United Press International from 1973 until 1978 when
 27	"she"	"joined WGBH-TV"	"Boston 's public television station"	0.8333333333333333
 27	"she"	"joined as"	"the Massachusetts State House reporter"	0.8333333333333333
 27	"WGBH-TV"	"station"	"Boston"	1.3333333333333333
-27	"WGBH-TV"	"WGBH-TV"	"Boston 's public television station"	1.5
 27	"WGBH-TV"	"joined as"	"the Massachusetts State House reporter"	-0.16666666666666669
 27	"WGBH-TV"	"joined until"	"1983"	-0.16666666666666669
 27	"Boston"	"station WGBH-TV worked joined WGBH-TV"	"Boston 's public television station"	0.04999999999999999
@@ -446,7 +437,6 @@ The previous season had seen him lead Dawlish to 2nd place in the Western League
 29	"place"	"in League"	"their highest ever league finishing position"	1.25
 29	"the Western League"	"position"	"their"	1.3333333333333333
 29	"the Western League"	"position"	"league"	1.3333333333333333
-29	"the Western League"	"League"	"their highest ever league finishing position"	1.5
 29	"their"	"position"	"league"	0.0
 29	"their"	"position League in place 2nd to had lead to 2nd place in League"	"their highest ever league finishing position"	0.013888888888888895
 29	"league"	"position League in place 2nd to had lead to 2nd place in League"	"their highest ever league finishing position"	0.013888888888888895
@@ -469,9 +459,7 @@ In his years on Newsnight , he has reported on many of the most compelling forei
 30	"the Gulf War"	"has . d"	"1993 events"	-0.25
 30	"the Gulf War"	"has . d events in"	"Moscow"	-0.33333333333333337
 30	"the attempted coup d"	"in"	"Moscow"	1.3333333333333333
-30	"the attempted coup d"	"d"	"1993 events"	1.5
 30	"the attempted coup d"	"events in"	"Moscow"	1.25
-30	"the attempted coup d"	"d"	"Bosnian War"	1.5
 30	"the attempted coup d"	". process"	"Middle"	0.16666666666666669
 30	"Moscow"	"d"	"1993 events"	0.16666666666666669
 30	"Moscow"	"d events in"	"Moscow"	-0.08333333333333331
@@ -532,7 +520,6 @@ In his years on Newsnight , he has reported on many of the most compelling forei
 30	"Afghanistan"	"in"	"Iraq"	1.3333333333333333
 30	"War"	"Afghanistan in"	"Iraq"	0.0
 William Dozier February 13 , 1908 - April 23 , 1991 was an American film and television producer and actor . 
-31	"William Dozier February"	"February"	"13"	1.5
 31	"William Dozier February"	"23"	"1908"	0.0
 31	"William Dozier February"	"was"	"William Dozier February 13 1908 - April 23"	-0.16666666666666669
 31	"William Dozier February"	"was"	"1991"	-0.16666666666666669
@@ -582,7 +569,6 @@ When the ZANU-PF-Movement for Democratic Change national unity government was sw
 32	"Democratic Change national unity government"	"for was sworn in on"	"February 13 2009"	0.45
 32	"Democratic Change national unity government"	"for was was"	"Nhema"	0.5833333333333333
 32	"Democratic Change national unity government"	"for was was included in"	"the Cabinet"	0.45
-32	"February"	"February"	"13"	1.5
 32	"February"	"2009 on in was sworn in on"	"February 13 2009"	0.033333333333333354
 32	"February"	"2009 on in was was"	"Nhema"	0.16666666666666666
 32	"February"	"2009 on in was was included in"	"the Cabinet"	0.033333333333333354
@@ -707,7 +693,6 @@ He played the healer Goggins who is a Draenei shaman .
 39	"He"	"played healer"	"Goggins"	0.8333333333333333
 39	"He"	"played healer is"	"who"	0.75
 39	"He"	"played healer is"	"a Draenei shaman"	0.75
-39	"the healer"	"healer"	"Goggins"	1.5
 39	"the healer"	"is"	"who"	1.3333333333333333
 39	"the healer"	"is"	"a Draenei shaman"	1.3333333333333333
 39	"Goggins"	"healer is"	"who"	-0.16666666666666669
@@ -723,7 +708,6 @@ For the 2006-07 season , Pace played with the Nelson Giants in the New Zealand N
 These policies were enforced by the police . 
 41	"These policies"	"were enforced by"	"the police"	0.75
 On February 6 , 2008 , the post office in Taft was renamed the " Larry S. Pierce Post Office " in his honor . 
-42	"February"	"February"	"6"	1.5
 42	"February"	"2008 was On"	"February 6 2008"	-0.08333333333333331
 42	"February"	"2008 was"	"the post office"	-0.25
 42	"February"	"2008 was office in"	"Taft"	0.0
@@ -758,7 +742,6 @@ LaBrocca scored his first goal for the club in a 4-1 home victory vs. Chicago Fi
 He is married to Washington Post journalist Ruth Marcus . 
 44	"He"	"is to"	"Washington Post journalist"	0.8333333333333333
 44	"He"	"is to journalist"	"Ruth Marcus"	0.75
-44	"Washington Post journalist"	"journalist"	"Ruth Marcus"	1.5
 Kuroki is the only Japanese American known to have participated in air combat missions in the Pacific theater of operations during the war . 
 45	"Kuroki"	"is"	"the only Japanese American known"	1.0
 45	"Kuroki"	"is known to have participated in"	"air combat missions"	0.6428571428571428
@@ -817,7 +800,6 @@ Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria Bu
 48	"Daughter"	"of actor Abellan and"	"actress"	1.1666666666666667
 48	"Daughter"	"of actor Abellan and actress and"	"writer"	1.125
 48	"Daughter"	"of actor Abellan and actress and writer"	"Ana Maria Bueno"	1.1111111111111112
-48	"the actor"	"actor"	"Ismael Sanchez Abellan"	1.5
 48	"the actor"	"Abellan and"	"actress"	1.25
 48	"the actor"	"Abellan and actress and"	"writer"	1.1666666666666667
 48	"the actor"	"Abellan and actress and writer"	"Ana Maria Bueno"	1.1428571428571428
@@ -831,7 +813,6 @@ Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria Bu
 48	"actress"	"and writer"	"Ana Maria Bueno"	1.25
 48	"actress"	"Abellan known as"	"Ana Rosetti"	-0.08333333333333331
 48	"actress"	"and Abellan actor of was"	"Gabriel"	-0.35714285714285715
-48	"writer"	"writer"	"Ana Maria Bueno"	1.5
 48	"writer"	"and actress Abellan known as"	"Ana Rosetti"	0.04999999999999999
 48	"writer"	"and actress and Abellan actor of was"	"Gabriel"	-0.3888888888888889
 48	"writer"	"and actress and Abellan actor of was born in Cadiz"	"San Fernando"	0.3111111111111111
@@ -1017,7 +998,6 @@ He fathered two children , Edna and Donald , and lived in Aberdeen until his dea
 55	"He"	"fathered children Edna and"	"Donald"	0.7
 55	"He"	"fathered and lived in"	"Aberdeen"	0.7
 55	"He"	"fathered until"	"his death"	0.8333333333333333
-55	"two children"	"children"	"Edna"	1.5
 55	"two children"	"Edna and"	"Donald"	1.25
 55	"two children"	"fathered and lived in"	"Aberdeen"	-0.3
 55	"two children"	"fathered until"	"his death"	-0.16666666666666669
@@ -1056,7 +1036,6 @@ A Great-Great Grandson was Robert Norton Noyce 1927 - 1990 , nicknamed " the May
 56	"Mayor"	"was in in"	"1957"	-0.08333333333333331
 56	"Mayor"	"was in in 1957 and"	"Intel"	-0.16666666666666666
 56	"Mayor"	"was in"	"1968"	0.0
-56	"Mayor of Silicon Valley"	"Valley"	"co-founder"	1.5
 56	"Mayor of Silicon Valley"	"co-founder of"	"Fairchild Semiconductor"	1.25
 56	"Mayor of Silicon Valley"	"was in in"	"1957"	-0.25
 56	"Mayor of Silicon Valley"	"was in in 1957 and"	"Intel"	-0.33333333333333337
@@ -1136,7 +1115,6 @@ This article includes attacks on continental territory extending 200 miles into 
 58	"the sovereignty"	"of States"	"Canada"	1.25
 58	"the sovereignty"	"of States Canada and"	"Mexico"	1.1666666666666667
 58	"the sovereignty"	"under is ocean into extending territory on includes but excludes"	"military action"	0.15
-58	"the United States"	"States"	"Canada"	1.5
 58	"the United States"	"Canada and"	"Mexico"	1.25
 58	"the United States"	"of sovereignty under is ocean into extending territory on includes but excludes"	"military action"	0.16666666666666669
 58	"the United States"	"of sovereignty under is ocean into extending territory on includes but excludes action involving"	"the Danish territory"	0.08333333333333333
@@ -1157,7 +1135,6 @@ This article includes attacks on continental territory extending 200 miles into 
 58	"the Danish territory"	"of Greenland and"	"the Caribbean"	1.2
 58	"Greenland"	"and"	"the Caribbean"	1.3333333333333333
 Princeton 's women 's track & field team has also enjoyed great success under Head Coach Peter Farrell . 
-59	"Princeton"	"Princeton"	"women"	1.5
 59	"Princeton"	". has"	"track"	1.25
 59	"Princeton"	". has"	"field team"	1.25
 59	"Princeton"	". has enjoyed"	"great success"	1.2
@@ -1266,11 +1243,8 @@ These include award sculptures for organizations such as the National Air and Sp
 65	"the National Air"	"and"	"Space Museum"	1.3333333333333333
 65	"the National Air"	"and Museum"	"the PGA Tour"	1.25
 65	"the National Air"	"and Museum Tour"	"the Georgetown University Lombardi Cancer Center"	1.2
-65	"Space Museum"	"Museum"	"the PGA Tour"	1.5
 65	"Space Museum"	"Tour"	"the Georgetown University Lombardi Cancer Center"	1.3333333333333333
-65	"the PGA Tour"	"Tour"	"the Georgetown University Lombardi Cancer Center"	1.5
 65	"the PGA Tour"	"Center"	"the World Peace Foundation"	1.3333333333333333
-65	"the Georgetown University Lombardi Cancer Center"	"Center"	"the World Peace Foundation"	1.5
 65	"the Georgetown University Lombardi Cancer Center"	"Foundation and"	"the Shakespeare Guild"	1.25
 65	"the World Peace Foundation"	"and"	"the Shakespeare Guild"	1.3333333333333333
 Argentina has an important rugby union football team , " Los Pumas " , with many of its players playing in Europe . 
@@ -1323,7 +1297,6 @@ It was later broadcast on NBC on February 26 , 2009 and is now available as a se
 69	"NBC"	"broadcast on 2009 February"	"26"	-0.1333333333333333
 69	"NBC"	"broadcast on"	"February 26 2009"	0.0
 69	"NBC"	"on was and is available as"	"a separate DVD"	-0.08333333333333334
-69	"February"	"February"	"26"	1.5
 69	"February"	"2009 on was broadcast on"	"February 26 2009"	0.04999999999999999
 69	"February"	"2009 on was and is available as"	"a separate DVD"	-0.033333333333333354
 69	"February"	"2009 on was as of 2009"	"March"	0.0
@@ -1342,7 +1315,6 @@ It was later broadcast on NBC on February 26 , 2009 and is now available as a se
 69	"a separate DVD"	"as available is was premiere"	"It"	0.16666666666666666
 69	"a separate DVD"	"as available is was"	"It also the televison premiere"	0.33333333333333337
 69	"a separate DVD"	"as available is was premiere for"	"Nickelodeon"	0.08333333333333334
-69	"March"	"March"	"24"	1.5
 69	"March"	"2009 of was as of"	"March 24 2009"	0.04999999999999999
 69	"March"	"2009 of was premiere"	"It"	0.1333333333333333
 69	"March"	"2009 of was"	"It also the televison premiere"	0.3
@@ -1368,7 +1340,6 @@ It was later broadcast on NBC on February 26 , 2009 and is now available as a se
 69	"It also the televison premiere"	"on 6"	"2011"	1.25
 69	"Nickelodeon"	"premiere on"	"March 6"	0.0
 69	"Nickelodeon"	"premiere on 6"	"2011"	-0.08333333333333331
-69	"March 6"	"6"	"2011"	1.5
 They are adamant on finding out the truth about her . 
 70	"They"	"are adamant on finding"	"the truth"	0.7
 70	"They"	"are adamant on finding truth about"	"her"	0.6428571428571428
@@ -1462,7 +1433,6 @@ He has represented parts of the city of Rutland in the Vermont House of Represen
 74	"2005"	"since has and had served terms in"	"the House"	-0.10714285714285715
 74	"four terms"	"in"	"the House"	1.3333333333333333
 According to gay film historian Vito Russo in his book The Celluloid Closet , co-star Michael Greer , who played the flamboyantly gay Malcolm and who was himself gay , tried to work with the screenwriter and director to minimize the negativity of the characterization and present Malcolm in a positive light . 
-75	"gay film historian"	"historian"	"Vito Russo"	1.5
 75	"gay film historian"	". in"	"his book"	0.0
 75	"gay film historian"	"."	"The Celluloid Closet"	-0.16666666666666669
 75	"gay film historian"	"."	"co-star Michael Greer"	-0.16666666666666669
@@ -1525,7 +1495,6 @@ In 2009 , Hobbs acquired the role of top gymnast , Emily Kmetko , in ABC Family 
 76	"the role"	"of gymnast"	"Emily Kmetko"	1.25
 76	"the role"	"of gymnast in Make"	"ABC Family"	1.1666666666666667
 76	"the role"	"of gymnast in Make"	"It"	1.1666666666666667
-76	"top gymnast"	"gymnast"	"Emily Kmetko"	1.5
 76	"top gymnast"	"in Make"	"ABC Family"	1.25
 76	"top gymnast"	"in Make"	"It"	1.25
 76	"top gymnast"	"in Make or Break"	"It"	1.1666666666666667
@@ -1565,7 +1534,6 @@ Mya Than Tint entered Rangoon University in 1948 , the year Burma gained indepen
 77	"a degree"	"in"	"philosophy"	1.3333333333333333
 77	"a degree"	"in philosophy"	"political science"	1.25
 77	"a degree"	"in philosophy science and"	"English literature"	1.1666666666666667
-77	"philosophy"	"philosophy"	"political science"	1.5
 77	"philosophy"	"science and"	"English literature"	1.25
 77	"political science"	"and"	"English literature"	1.3333333333333333
 They seek help from a prisoner played by Blacky Ko . 
@@ -1589,7 +1557,6 @@ He trained with the club for one month before being waived on March 1 , 2011 , p
 79	"one month"	"for club trained before being waived on 2011 March"	"1"	-0.07500000000000001
 79	"one month"	"for club trained before being waived on"	"March 1 2011"	-0.033333333333333354
 79	"one month"	"for club trained to"	"the start"	0.1333333333333333
-79	"March"	"March"	"1"	1.5
 79	"March"	"2011 on waived being trained before being waived on"	"March 1 2011"	0.023809523809523808
 79	"March"	"2011 on waived being trained to"	"the start"	0.19047619047619047
 79	"March"	"2011 on waived being trained to start of"	"the MLS season"	0.05714285714285716
@@ -1878,7 +1845,6 @@ During the Punitive Expedition into Mexico in 1916 , he was for a time depot man
 93	"Columbus"	"at manager was ."	"New Mexico"	0.1333333333333333
 93	"Columbus"	"at manager was . Mexico"	"the main logistical base"	0.04999999999999999
 93	"Columbus"	"at manager was . Mexico base of"	"the expedition"	-0.033333333333333354
-93	"New Mexico"	"Mexico"	"the main logistical base"	1.5
 93	"New Mexico"	"base of"	"the expedition"	1.25
 93	"the main logistical base"	"of"	"the expedition"	1.3333333333333333
 In his " 2006 Movie Guide " , Leonard Maltin gives the film 3.5 stars out of four and calls it " probably Malle 's best early film . " 
@@ -1943,7 +1909,6 @@ An ex-minister turned boatyard owner Baxter Cox befriends Obree , which results 
 96	"An ex-minister"	"turned owner"	"Baxter Cox"	0.8333333333333333
 96	"An ex-minister"	"turned befriends"	"Obree"	0.8333333333333333
 96	"An ex-minister"	"turned befriends Obree results in"	"Obree"	0.6666666666666666
-96	"boatyard owner"	"owner"	"Baxter Cox"	1.5
 96	"boatyard owner"	"turned befriends"	"Obree"	-0.16666666666666669
 96	"boatyard owner"	"turned befriends Obree results in"	"Obree"	-0.33333333333333337
 96	"boatyard owner"	"turned"	"idea"	0.0
@@ -1971,7 +1936,6 @@ Ronald Squire 25 March 1886 - 16 November 1958 was an English character actor .
 98	"a 1944 film"	"starring"	"Gary Cooper"	1.3333333333333333
 98	"a 1944 film"	"starring Cooper"	"Teresa Wright"	1.25
 98	"a 1944 film"	"starring Cooper Wright and"	"Frank Morgan"	1.1666666666666667
-98	"Gary Cooper"	"Cooper"	"Teresa Wright"	1.5
 98	"Gary Cooper"	"Wright and"	"Frank Morgan"	1.25
 98	"Teresa Wright"	"and"	"Frank Morgan"	1.3333333333333333
 The same day , after Macher had informed the local fire brigade , the south-east tower , the least important tower of the large castle , was blown up . 
@@ -1984,7 +1948,6 @@ The same day , after Macher had informed the local fire brigade , the south-east
 99	"the local fire brigade"	"informed had was"	"the south-east tower"	-0.3
 99	"the local fire brigade"	"informed had was tower"	"the least important tower"	-0.1333333333333333
 99	"the local fire brigade"	"informed had was tower tower of"	"the large castle"	0.0
-99	"the south-east tower"	"tower"	"the least important tower"	1.5
 99	"the south-east tower"	"tower of"	"the large castle"	1.25
 99	"the least important tower"	"of"	"the large castle"	1.3333333333333333
 While in the legislature , he sponsored successful bills to encourage state purchasing of " environmentally preferable " products , to allow Colorado State University to require graduate student health insurance , and to create licensing standards for hemodialysis technicians . 
@@ -2140,7 +2103,6 @@ He was Captain of the Atheists team on CBC Test the Nation : IQ broadcast live o
 109	"IQ broadcast"	"live on 2010"	"January"	0.75
 109	"IQ broadcast"	"live on 2010. January"	"24"	0.7
 109	"IQ broadcast"	"live on"	"January 24 2010"	0.8333333333333333
-109	"January"	"January"	"24"	1.5
 109	"January"	"2010. on was live on"	"January 24 2010"	0.04999999999999999
 109	"24"	"January 2010. on was live on"	"January 24 2010"	0.08333333333333334
 Georgia regards the Abkhaz armed forces as " unlawful military formations " and accuses Russia of supplying and training the Abkhaz troops , partly in exchange for Abkhaz land or hotels . 
@@ -2254,7 +2216,6 @@ Grimes also starred in the sequel " Class of ' 44 " 1973 , which followed his ch
 119	"the sequel"	"starred ."	"1973"	0.0
 119	"the sequel"	"starred . 1973 followed"	"his character"	-0.1333333333333333
 119	"the sequel"	"starred . 1973 followed character to"	"college"	-0.19047619047619047
-119	" Class"	"Class"	"44"	1.5
 119	" Class"	"starred ."	"1973"	-0.16666666666666669
 119	" Class"	"starred . 1973 followed"	"his character"	-0.3
 119	" Class"	"starred . 1973 followed character to"	"college"	-0.35714285714285715
@@ -2286,7 +2247,6 @@ This led to an uprising in the holy city of Qum and the uprising soon spread to 
 121	"the uprising"	"and city in uprising led spread to"	"Tabriz"	0.10714285714285715
 121	"the uprising"	"and city in uprising led spread to Tabriz"	"Tehran"	0.05714285714285716
 121	"the uprising"	"and city in uprising led spread to Tabriz Tehran and"	"other major cities"	0.0
-121	"Tabriz"	"Tabriz"	"Tehran"	1.5
 121	"Tabriz"	"Tehran and"	"other major cities"	1.25
 121	"Tehran"	"and"	"other major cities"	1.3333333333333333
 He appeared in 129 films between 1929 and 1946. 
@@ -2346,7 +2306,6 @@ Carter 's reorganization efforts separated the Department of Health , Education 
 125	"Department"	"separated into Education"	"Department"	-0.08333333333333331
 125	"Department"	"separated into"	"the Department of Education"	0.0
 125	"Department"	"separated . Services Health"	"Department"	-0.1333333333333333
-125	"Department of Health"	"Health"	"Education"	1.5
 125	"Department of Health"	"Education and"	"Welfare"	1.25
 125	"Department of Health"	"separated into Education"	"Department"	-0.25
 125	"Department of Health"	"separated into"	"the Department of Education"	-0.16666666666666669
@@ -2394,7 +2353,6 @@ Beauman is married to film director , screenwriter and producer James Bobin , wi
 128	"Beauman"	"is married to director screenwriter and producer"	"James Bobin"	0.625
 128	"Beauman"	"is married to director screenwriter and producer with"	"whom"	0.6111111111111112
 128	"Beauman"	"is has"	"she"	0.8333333333333333
-128	"film director"	"director"	"screenwriter"	1.5
 128	"film director"	"screenwriter and"	"producer"	1.25
 128	"film director"	"screenwriter and producer"	"James Bobin"	1.2
 128	"film director"	"screenwriter and producer with"	"whom"	1.1666666666666667
@@ -2407,7 +2365,6 @@ Beauman is married to film director , screenwriter and producer James Bobin , wi
 128	"screenwriter"	"director to is has"	"she"	0.1333333333333333
 128	"screenwriter"	"director to is has"	"one daughter"	0.1333333333333333
 128	"screenwriter"	"director to is has"	"Madelaine"	0.1333333333333333
-128	"producer"	"producer"	"James Bobin"	1.5
 128	"producer"	"with"	"whom"	1.3333333333333333
 128	"producer"	"and screenwriter director to is has"	"she"	0.19047619047619047
 128	"producer"	"and screenwriter director to is has"	"one daughter"	0.19047619047619047
@@ -2551,7 +2508,6 @@ WO second-in-command , between October 1939 and January 1940. On 14 April , Graz
 135	"October 1939"	"and ordered"	"Graziani"	1.25
 135	"October 1939"	"and ordered army"	"his"	1.2
 135	"October 1939"	"and ordered"	"his entire army"	1.25
-135	"January"	"January"	"1940"	1.5
 135	"January"	"April ordered and 1939 . between 1939 and ordered"	"January 1940. On 14 April"	-0.023809523809523808
 135	"January"	"ordered"	"Graziani"	-0.16666666666666669
 135	"January"	"ordered army"	"his"	0.6666666666666666
@@ -2640,7 +2596,6 @@ Cassinelli was born in Genoa , and attended the catholic college Vittorino da Fe
 141	"Genoa"	"in was and attended"	"the catholic college"	0.0
 141	"Genoa"	"in was and attended college"	"Vittorino da Feltre"	-0.04999999999999999
 141	"Genoa"	"in was and attended in"	"the same city"	-0.04999999999999999
-141	"the catholic college"	"college"	"Vittorino da Feltre"	1.5
 141	"the catholic college"	"attended in"	"the same city"	-0.16666666666666669
 141	"Vittorino da Feltre"	"attended in"	"the same city"	0.0
 Yun Jung Hoon born 1978 is a Korean actor . 
@@ -2648,7 +2603,6 @@ Yun Jung Hoon born 1978 is a Korean actor .
 142	"Yun Jung Hoon"	"is"	"a Korean actor"	0.8333333333333333
 142	"Yun Jung Hoon born 1978"	"is"	"a Korean actor"	1.0
 Lotu-Iiga lives with his wife Jules in Onehunga . 
-143	"his wife"	"wife"	"Jules"	1.5
 143	"his wife"	"in"	"Onehunga"	1.3333333333333333
 143	"Jules"	"wife in"	"Onehunga"	-0.16666666666666669
 After independence in 1947 , Dr. Jivraj graced public office in various positions . 
@@ -2721,7 +2675,6 @@ Lawson was the sole black member of the Homebrew Computer Club , a group of earl
 149	"the sole black member"	"of"	"the Homebrew Computer Club"	1.3333333333333333
 149	"the sole black member"	"of Club"	"a group"	1.25
 149	"the sole black member"	"of Club group of"	"early computer hobbyists"	1.1666666666666667
-149	"the Homebrew Computer Club"	"Club"	"a group"	1.5
 149	"the Homebrew Computer Club"	"group of"	"early computer hobbyists"	1.25
 149	"the Homebrew Computer Club"	"group of hobbyists would produce"	"a number"	1.1428571428571428
 149	"the Homebrew Computer Club"	"group of hobbyists would produce number of"	"industry legends"	1.1111111111111112
@@ -2739,7 +2692,6 @@ Lawson was the sole black member of the Homebrew Computer Club , a group of earl
 149	"industry legends"	"including"	"Apple founders"	1.3333333333333333
 149	"industry legends"	"including founders"	"Steve Jobs"	1.25
 149	"industry legends"	"including founders Jobs and"	"Steve Wozniak"	1.1666666666666667
-149	"Apple founders"	"founders"	"Steve Jobs"	1.5
 149	"Apple founders"	"Jobs and"	"Steve Wozniak"	1.25
 149	"Steve Jobs"	"and"	"Steve Wozniak"	1.3333333333333333
 For the 2009 Japanese Grand Prix , Brawn GP secured a single race sponsorship deal with Angfa Co. Ltd , maker of the medical shampoo Scalp-D , which has proved very popular in Japan since its launch in 2005. 
@@ -2760,7 +2712,6 @@ For the 2009 Japanese Grand Prix , Brawn GP secured a single race sponsorship de
 150	"a single race sponsorship deal"	"secured"	"maker"	0.0
 150	"a single race sponsorship deal"	"secured maker of"	"the medical shampoo"	-0.25
 150	"a single race sponsorship deal"	"secured maker of shampoo"	"Scalp-D"	-0.3
-150	"Angfa"	"Angfa"	"Co."	1.5
 150	"Angfa"	"with secured"	"Ltd"	0.25
 150	"Angfa"	"with secured"	"maker"	0.25
 150	"Angfa"	"with secured maker of"	"the medical shampoo"	0.0
@@ -2776,7 +2727,6 @@ For the 2009 Japanese Grand Prix , Brawn GP secured a single race sponsorship de
 150	"maker"	"of"	"the medical shampoo"	1.3333333333333333
 150	"maker"	"of shampoo"	"Scalp-D"	1.25
 150	"maker"	"of shampoo has proved in"	"Japan"	1.1428571428571428
-150	"the medical shampoo"	"shampoo"	"Scalp-D"	1.5
 150	"the medical shampoo"	"has proved in"	"Japan"	1.2
 150	"the medical shampoo"	"has proved since"	"its launch"	1.2
 150	"the medical shampoo"	"has proved since launch in"	"2005"	1.1428571428571428
@@ -2843,7 +2793,6 @@ On 2 January 1940 , after the commencement of World War II , he was appointed Ge
 153	"the commencement"	"of War"	"II"	1.25
 153	"the commencement"	"was"	"he"	-0.16666666666666669
 153	"the commencement"	"was appointed"	"General Staff Officer Grade III"	0.6666666666666666
-153	"World War"	"War"	"II"	1.5
 153	"World War"	"of commencement was"	"he"	-0.3
 153	"World War"	"of commencement was appointed"	"General Staff Officer Grade III"	0.5333333333333333
 153	"World War"	"of commencement was appointed in"	"the Western Command headquarters"	0.45
@@ -2948,7 +2897,6 @@ It was written by Norman Steinberg and David Frankel , based on the article " Co
 164	"It"	"Convention written by"	"Norman Steinberg"	0.25
 164	"It"	"Convention written by Steinberg and"	"David Frankel"	0.33333333333333337
 164	"It"	"Convention written based on"	"the article"	0.3
-164	"It"	"Convention"	"Convention"	1.5
 164	"Norman Steinberg"	"by Convention written by and"	"David Frankel"	0.08333333333333334
 164	"Norman Steinberg"	"by Convention written based on"	"the article"	0.04999999999999999
 164	"Norman Steinberg"	"by Convention"	"Convention"	1.25
@@ -3005,7 +2953,6 @@ He then resumed test piloting , for SISA Airline , for fifteen years .
 168	"test piloting"	"resumed for"	"fifteen years"	-0.16666666666666669
 168	"SISA Airline"	"resumed for"	"fifteen years"	0.0
 On August 29 , 2010 , the Jets waived defensive lineman Rodrique Wright , and wide receivers Aundrae Allison , Marcus Henry and Laveranues Coles . 
-169	"August"	"August"	"29"	1.5
 169	"August"	"2010 waived On"	"August 29 2010"	-0.08333333333333331
 169	"August"	"2010 waived"	"the Jets"	-0.25
 169	"August"	"2010 waived"	"defensive lineman"	0.75
@@ -3022,14 +2969,12 @@ On August 29 , 2010 , the Jets waived defensive lineman Rodrique Wright , and wi
 169	"the Jets"	"waived lineman"	"Rodrique Wright"	0.8333333333333333
 169	"the Jets"	"waived ."	"wide receivers Aundrae Allison"	0.8333333333333333
 169	"the Jets"	"waived . Allison"	"Marcus Henry"	0.75
-169	"defensive lineman"	"lineman"	"Rodrique Wright"	1.5
 169	"defensive lineman"	"waived ."	"wide receivers Aundrae Allison"	-0.16666666666666669
 169	"defensive lineman"	"waived . Allison"	"Marcus Henry"	-0.25
 169	"defensive lineman"	"waived . Allison Henry and"	"Laveranues Coles"	-0.33333333333333337
 169	"Rodrique Wright"	"waived ."	"wide receivers Aundrae Allison"	0.0
 169	"Rodrique Wright"	"waived . Allison"	"Marcus Henry"	-0.08333333333333331
 169	"Rodrique Wright"	"waived . Allison Henry and"	"Laveranues Coles"	-0.16666666666666666
-169	"wide receivers Aundrae Allison"	"Allison"	"Marcus Henry"	1.5
 169	"wide receivers Aundrae Allison"	"Henry and"	"Laveranues Coles"	1.25
 169	"Marcus Henry"	"and"	"Laveranues Coles"	1.3333333333333333
 Mana began his playing career with Quilmes and appeared in nine Primera Division Argentina matches for the club . 
@@ -3084,7 +3029,6 @@ Ryerson 's Faculty of Community Services offers multi-disciplinary programs in h
 172	"early childhood education"	"offers . justice and"	"community development"	-0.3
 172	"justice"	"and"	"community development"	1.3333333333333333
 A woman Tina arrives at Cholera street where she takes up residence and works as a prostitute . 
-173	"A woman"	"woman"	"Tina"	1.5
 173	"A woman"	"arrives at"	"Cholera street"	0.8333333333333333
 173	"A woman"	"arrives at street takes"	"she"	0.7
 173	"A woman"	"arrives at street takes"	"residence"	0.7
@@ -3201,7 +3145,6 @@ The state 's two U.S. senators are Jefferson B. Sessions III and Richard C. Shel
 180	"The state 's two U.S. senators"	"are Sessions"	"III"	0.8333333333333333
 180	"The state 's two U.S. senators"	"are Sessions and"	"Richard C. Shelby"	0.75
 180	"The state 's two U.S. senators"	"are"	"both Republicans"	1.0
-180	"Jefferson B. Sessions"	"Sessions"	"III"	1.5
 180	"Jefferson B. Sessions"	"and"	"Richard C. Shelby"	1.3333333333333333
 180	"Jefferson B. Sessions"	"are"	"both Republicans"	0.0
 180	"III"	"Sessions and"	"Richard C. Shelby"	-0.16666666666666669
@@ -3286,7 +3229,6 @@ The shield can be shown surrounded by the insignia of an honorary Knight Command
 184	"the Most Honorable Order"	"of KCB"	"an award"	1.25
 184	"the Most Honorable Order"	"of KCB award received"	"the General"	1.1666666666666667
 184	"the Most Honorable Order"	"of KCB award received after"	"the first Gulf War"	1.1428571428571428
-184	"the Bath KCB"	"KCB"	"an award"	1.5
 184	"the Bath KCB"	"award received"	"the General"	1.25
 184	"the Bath KCB"	"award received after"	"the first Gulf War"	1.2
 184	"an award"	"received"	"the General"	1.3333333333333333
@@ -3307,7 +3249,6 @@ She was discharged from the Sirio-Libanes Hospital on the June 23 , 2008 after s
 185	"Hospital"	"was . June"	"23"	-0.08333333333333331
 185	"Hospital"	"was ."	"2008"	0.0
 185	"Hospital"	"was . after suffering"	"strong chest pains"	-0.1333333333333333
-185	"June"	"June"	"23"	1.5
 185	"June"	"."	"2008"	0.0
 185	"June"	". after suffering"	"strong chest pains"	0.25
 185	"23"	"."	"2008"	-0.16666666666666669

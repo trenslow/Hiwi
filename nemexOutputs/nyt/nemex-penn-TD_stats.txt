@@ -1,5 +1,5 @@
 For the system nemex-penn-TD, on the nyt data set:
-# of nemex positives / # of total positives = 167 / 785 = 21.27%
-# of nemex negatives / # of total negatives = 27 / 980 = 2.76%
-# of nemex unknowns: 991
-precision = 167 / 194 = 86.08%
+# of nemex positives / # of total positives = 174 / 847 = 20.54%
+# of nemex negatives / # of total negatives = 28 / 1044 = 2.68%
+# of nemex unknowns: 761
+precision = 174 / 202 = 86.14%

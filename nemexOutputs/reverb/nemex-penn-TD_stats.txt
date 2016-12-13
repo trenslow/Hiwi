@@ -1,5 +1,5 @@
 For the system nemex-penn-TD, on the reverb data set:
-# of nemex positives / # of total positives = 400 / 2303 = 17.37%
-# of nemex negatives / # of total negatives = 104 / 3175 = 3.28%
-# of nemex unknowns: 2790
-precision = 400 / 504 = 79.37%
+# of nemex positives / # of total positives = 424 / 2464 = 17.21%
+# of nemex negatives / # of total negatives = 102 / 3446 = 2.96%
+# of nemex unknowns: 1824
+precision = 424 / 526 = 80.61%

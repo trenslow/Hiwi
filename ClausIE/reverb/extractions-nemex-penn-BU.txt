@@ -12,7 +12,6 @@ The nation 's health maintenance organizations were required to tell the federal
 0	"the federal government"	"tell whether plan"	"they"	-0.25
 0	"the federal government"	"tell whether plan to continue providing"	"health insurance"	-0.35714285714285715
 0	"the federal government"	"tell whether plan to continue providing to"	"Medicare recipients"	-0.375
-0	"midnight"	"midnight"	"Monday"	1.5
 0	"midnight"	"tell whether plan"	"they"	-0.08333333333333331
 0	"midnight"	"tell whether plan to continue providing"	"health insurance"	-0.19047619047619047
 0	"midnight"	"tell whether plan to continue providing to"	"Medicare recipients"	-0.20833333333333331
@@ -94,7 +93,6 @@ A Spanish official , who had just finished a siesta and seemed not the least bit
 5	"a perfectly reasonable explanation"	"for were in"	"service"	1.2
 5	"the portable facilities"	"were in"	"service"	0.8333333333333333
 The current El Nino , a complicated and vaguely understood series of phenomena that affect weather around the globe , is either the weather event of the century or an event whose bluster ca n't come close to living up to the super-hype preceding it . 
-6	"The current El Nino"	"Nino"	"a complicated and vaguely understood series"	1.5
 6	"The current El Nino"	"series of"	"phenomena"	1.25
 6	"The current El Nino"	"series of phenomena affect"	"weather"	1.1666666666666667
 6	"The current El Nino"	"series of phenomena affect around"	"the globe"	1.1428571428571428
@@ -333,7 +331,6 @@ A spokesperson for Omega in Rio de Janeiro , was not immediately available for c
 18	"Omega"	"for was available for"	"comment"	0.5
 18	"Rio de Janeiro"	"in was available for"	"comment"	0.5
 Dell Computer Corp. 's quarter also looks good . 
-19	"Dell Computer"	"Computer"	"Corp."	1.5
 19	"Dell Computer"	"looks"	"Dell Computer Corp. 's quarter"	-0.16666666666666669
 19	"Corp."	"Computer looks"	"Dell Computer Corp. 's quarter"	-0.25
 Output was reduced in 1996 after one of its three furnaces exploded , killing one worker . 
@@ -379,8 +376,6 @@ Esaka and six other top executives will quit to take responsibility for 67.28 mi
 22	"payoffs"	"take to"	"corporate racketeer"	0.0
 22	"payoffs"	"take to racketeer"	"Ryuichi Koike"	-0.08333333333333331
 22	"payoffs"	"take to racketeer"	"54"	-0.08333333333333331
-22	"corporate racketeer"	"racketeer"	"Ryuichi Koike"	1.5
-22	"corporate racketeer"	"racketeer"	"54"	1.5
 22	"Ryuichi Koike"	"racketeer"	"54"	0.0
 She 's a hard act to follow , ' ' said Ruth Brown of London , who was among the crowds Wednesday . 
 23	"She"	"said"	"a hard act"	0.0
@@ -433,7 +428,6 @@ It also took an interception of a Warren Moon pass by Chiefs free safety Jerome 
 26	"Chiefs"	"by took in"	"overtime"	0.08333333333333331
 26	"Chiefs"	"by took to set game-winner"	"Stoyanovich"	-0.04999999999999999
 26	"Chiefs"	"by took to set"	"Stoyanovich 's game-winner"	0.0
-26	"free safety"	"safety"	"Jerome Woods"	1.5
 26	"free safety"	"took in"	"overtime"	-0.16666666666666669
 26	"free safety"	"took to set game-winner"	"Stoyanovich"	-0.3
 26	"free safety"	"took to set"	"Stoyanovich 's game-winner"	-0.25
@@ -469,7 +463,6 @@ We are going to have to do it when we see fit , ' ' said Bobby Brown , Netanyahu
 28	"fit"	"see do to have to said Brown adviser on affairs"	"world"	0.29166666666666663
 28	"fit"	"see do to have to said Brown adviser on"	"world Jewish affairs"	0.325
 28	"Bobby Brown"	"adviser"	"Netanyahu"	1.3333333333333333
-28	"Bobby Brown"	"Brown"	"Netanyahu 's adviser"	1.5
 28	"Bobby Brown"	"adviser on affairs"	"world"	1.2
 28	"Bobby Brown"	"adviser on"	"world Jewish affairs"	1.25
 28	"Netanyahu"	"adviser said Brown"	"Netanyahu 's adviser"	0.08333333333333331
@@ -500,7 +493,6 @@ But some conglomerates , like Viacom and the News Corp. , have already bumped up
 32	"Viacom"	"and News"	"Corp."	1.25
 32	"Viacom"	"have bumped against"	"the limits"	0.75
 32	"Viacom"	"have bumped against limits of"	"the rules"	0.6666666666666666
-32	"the News"	"News"	"Corp."	1.5
 32	"the News"	"and have bumped against"	"the limits"	0.5
 32	"the News"	"and have bumped against limits of"	"the rules"	0.41666666666666663
 32	"Corp."	"News and have bumped against"	"the limits"	0.45
@@ -629,7 +621,6 @@ These immigrants ` ` deserve consideration under the laws that were in place whe
 38	"asylum"	"for applied were laws said Diaz-Balart"	"R-Fla"	0.47619047619047616
 38	"asylum"	"for applied were laws said is"	"who"	0.47619047619047616
 38	"asylum"	"for applied were laws said is"	"the lead sponsor"	0.47619047619047616
-38	"Rep. Lincoln Diaz-Balart"	"Diaz-Balart"	"R-Fla"	1.5
 38	"Rep. Lincoln Diaz-Balart"	"said is"	"who"	-0.16666666666666669
 38	"Rep. Lincoln Diaz-Balart"	"said is"	"the lead sponsor"	-0.16666666666666669
 38	"Rep. Lincoln Diaz-Balart"	"said is sponsor of"	"House legislation"	-0.3
@@ -721,7 +712,6 @@ Koplowitz 's next concert will be a more modest affair and presented indoors at 
 43	"indoors"	"presented in"	"May"	-0.16666666666666669
 43	"Dance Theater Workshop"	"presented in"	"May"	0.0
 Only about one in five private-sector employees still receives that kind of deal , experts say . 
-44	"about one"	"one"	"five"	1.5
 44	"about one"	"employees receives . say receives"	"about one in five private-sector employees"	-0.04999999999999999
 44	"about one"	"receives"	"that kind"	0.8333333333333333
 44	"about one"	"receives kind of"	"deal"	0.5833333333333333
@@ -974,7 +964,6 @@ For their part , investors kept selling off stocks in trading and deregulated po
 56	"negative news"	"by kept have"	"Miller"	0.08333333333333331
 56	"negative news"	"by kept have Miller and"	"Roy Oswalt"	-0.04999999999999999
 56	"negative news"	"by kept have won decisions"	"19"	-0.04999999999999999
-56	"El Paso"	"Paso"	"Corp."	1.5
 56	"El Paso"	"for news spurred"	"Better"	0.3
 56	"El Paso"	"for news by kept have"	"Miller"	0.16666666666666666
 56	"El Paso"	"for news by kept have Miller and"	"Roy Oswalt"	0.033333333333333354
@@ -1013,7 +1002,6 @@ For their part , investors kept selling off stocks in trading and deregulated po
 56	"they"	"'re 21-1 with"	"a 2.41 ERA"	0.75
 56	"a combined 21-1"	"with"	"a 2.41 ERA"	1.3333333333333333
 Organogenesis Inc. of Canton Monday ended its troubled six-year relationship with giant Novartis Pharma AG , unilaterally terminating a marketing agreement in a move that will likely lead Organogenesis to file for bankruptcy protection from creditors this week . 
-57	"Organogenesis"	"Organogenesis"	"Inc."	1.5
 57	"Organogenesis"	"of"	"Canton Monday"	1.3333333333333333
 57	"Organogenesis"	"ended relationship"	"its"	0.8333333333333333
 57	"Organogenesis"	"ended"	"its troubled six-year relationship"	1.0
@@ -1121,7 +1109,6 @@ ONE OF THOSE DAYS FOR JARRETT Worn out by the travel and discouraged by agency '
 59	"Rennie"	"retired at"	"60"	0.8333333333333333
 59	"1977"	"retired at"	"60"	0.0
 Extendicare Inc. agreed to buy Arbor Health Care Co. for about US$ 432 million in cash and assumed debt , nearly doubling its Florida and Ohio businesses and making it one of North America 's largest long-term health care providers . 
-60	"Extendicare"	"Extendicare"	"Inc."	1.5
 60	"Extendicare"	"agreed to buy"	"Arbor Health Care"	0.75
 60	"Extendicare"	"agreed to buy Care"	"Co."	0.7
 60	"Extendicare"	"agreed to buy for US$"	"million"	0.6666666666666666
@@ -1130,7 +1117,6 @@ Extendicare Inc. agreed to buy Arbor Health Care Co. for about US$ 432 million i
 60	"Inc."	"agreed to buy Care"	"Co."	0.5333333333333333
 60	"Inc."	"agreed to buy for US$"	"million"	0.5
 60	"Inc."	"agreed to buy in"	"cash"	0.5333333333333333
-60	"Arbor Health Care"	"Care"	"Co."	1.5
 60	"Arbor Health Care"	"buy for US$"	"million"	-0.25
 60	"Arbor Health Care"	"buy in"	"cash"	-0.16666666666666669
 60	"Arbor Health Care"	"buy agreed and assumed"	"debt"	0.0
@@ -1246,7 +1232,6 @@ Hooters of America owns , operates or franchises a total of 192 of the hot wing 
 65	"the hot wing restaurants"	"of 192 of total vs. or by Hooters"	"Inc."	0.4444444444444444
 65	"the 12 run"	"vs. or by"	"Hooters"	0.7
 65	"the 12 run"	"vs. or by Hooters"	"Inc."	0.5333333333333333
-65	"Hooters"	"Hooters"	"Inc."	1.5
 Tropical Storm Edouard will meander about 125 miles off the Georgia coast causing surf to build along parts of the Southeast Coast . 
 66	"Tropical Storm Edouard"	"will meander"	"about 125 miles"	0.8333333333333333
 66	"Tropical Storm Edouard"	"will meander off"	"the Georgia coast"	0.75
@@ -1268,7 +1253,6 @@ The drill has a keyless chuck , a built-in level for drilling straight holes and
 67	"The drill"	"has chuck level for"	"drilling"	0.7
 67	"The drill"	"has"	"straight holes"	1.0
 67	"The drill"	"has holes and"	"nonslip texturing"	0.75
-67	"a keyless chuck"	"chuck"	"a built-in level"	1.5
 67	"a keyless chuck"	"level for"	"drilling"	1.25
 67	"a keyless chuck"	"has"	"straight holes"	0.0
 67	"a keyless chuck"	"has holes and"	"nonslip texturing"	-0.25
@@ -1385,7 +1369,6 @@ That 's a lot of maybes in a sport where the right thing seldom happens , but wi
 73	"hand"	"of promoter knows"	"Ruiz"	1.2
 73	"hand"	"of promoter knows must"	"he"	1.1666666666666667
 73	"hand"	"of promoter knows must turn"	"another direction"	1.1428571428571428
-73	"promoter"	"promoter"	"Don King"	1.5
 73	"promoter"	"knows"	"Ruiz"	1.3333333333333333
 73	"promoter"	"knows must"	"he"	1.25
 73	"promoter"	"knows must turn"	"another direction"	1.2
@@ -1591,7 +1574,6 @@ Only 19 percent of a national sample of 1,051 adults surveyed late last week sai
 80	"teen-agers"	"begin"	"smoking"	1.3333333333333333
 80	"who"	"begin"	"smoking"	1.0
 Complete with health spa , three restaurants and 363 rooms in a variety of traditional furnishings , it is dominated by a six-story rotunda . 
-81	"health spa"	"spa"	"three restaurants"	1.5
 81	"health spa"	"restaurants and"	"363 rooms"	1.25
 81	"health spa"	"is in"	"a variety"	0.0
 81	"health spa"	"is in variety of"	"traditional furnishings"	0.1333333333333333
@@ -1651,7 +1633,6 @@ In March , prices rose $ 2.50 per 1,000 cigarettes at wholesale , which equaled 
 84	"1,000 cigarettes"	"per rose at wholesale equaled cents"	"a pack"	-0.08333333333333334
 84	"1,000 cigarettes"	"per rose at wholesale equaled for"	"premium cigarettes"	-0.08333333333333334
 84	"1,000 cigarettes"	"per rose at wholesale equaled at"	"retail"	-0.08333333333333334
-84	"about 5 cents"	"cents"	"a pack"	1.5
 84	"about 5 cents"	"equaled for"	"premium cigarettes"	-0.16666666666666669
 84	"about 5 cents"	"equaled at"	"retail"	-0.16666666666666669
 84	"a pack"	"equaled for"	"premium cigarettes"	0.0
@@ -1700,7 +1681,6 @@ Even so , the average rate of new starts for the first eight months of the year 
 87	"new starts"	"rate for months of"	"the year"	-0.1333333333333333
 87	"new starts"	"rate for months"	"1.449 million"	-0.08333333333333331
 87	"the first eight months"	"of"	"the year"	1.3333333333333333
-87	"the first eight months"	"months"	"1.449 million"	1.5
 87	"the first eight months"	"for remains close to"	"the eight-year high"	0.5
 87	"the year"	"months"	"1.449 million"	0.16666666666666669
 87	"the year"	"of months for remains close to"	"the eight-year high"	0.41666666666666663
@@ -1779,7 +1759,6 @@ You can venture out 100 yards and still find the water no deeper than 4 feet .
 93	"100 yards"	"and find water deeper than"	"4 feet"	1.1428571428571428
 93	"the water"	"deeper than"	"4 feet"	1.25
 Died on Aug. 16 , 1938 , in Three Forks , Miss . 
-94	"Aug."	"Aug."	"16"	1.5
 94	"Aug."	"1938 on . Died on"	"Aug. 16 1938"	-0.04999999999999999
 94	"Aug."	"1938 Died in"	"Three Forks"	0.08333333333333331
 94	"Aug."	"1938 on ."	"Miss"	-0.3
@@ -1794,7 +1773,6 @@ Farris was replaced by sophomore Dustin Long in the second quarter against Pitt 
 95	"Farris"	"was replaced by sophomore"	"Dustin Long"	0.7
 95	"Farris"	"was replaced in"	"the second quarter"	0.75
 95	"Farris"	"was replaced against"	"Pitt"	0.75
-95	"sophomore"	"sophomore"	"Dustin Long"	1.5
 95	"sophomore"	"replaced in"	"the second quarter"	0.0
 95	"sophomore"	"replaced against"	"Pitt"	0.0
 95	"sophomore"	"by was and played"	"sophomore Jason Carter"	0.0
@@ -1881,7 +1859,6 @@ Following are excerpts from an interview with Sen. Richard C. Shelby , the Alaba
 98	"who"	"has"	"a wife"	1.0
 98	"who"	"has wife"	"Cookie"	0.8333333333333333
 98	"who"	"has wife and"	"three children"	0.75
-98	"a wife"	"wife"	"Cookie"	1.5
 98	"a wife"	"and"	"three children"	1.3333333333333333
 98	"Cookie"	"wife and"	"three children"	-0.16666666666666669
 Type in your ZIP code and fill out the easy questionnaire , and you 'll get side-by-side comparisons for plans in your area . 
@@ -1911,7 +1888,6 @@ Katzenberg , for example , is feuding with former employer Disney , which he sue
 100	"example"	"is feuding with employer"	"Disney"	0.5333333333333333
 100	"example"	"is feuding with employer sued"	"he"	0.5
 100	"example"	"is feuding with employer sued for $"	"million"	0.4583333333333333
-100	"former employer"	"employer"	"Disney"	1.5
 100	"former employer"	"sued"	"he"	1.3333333333333333
 100	"former employer"	"sued for $"	"million"	1.2
 100	"former employer"	"with is claiming was"	"he"	0.0
@@ -2204,13 +2180,11 @@ A grocery store strike between Ralphs ' parent company , Kroger Co. , and 3,300 
 116	"Ralphs"	"company strike and"	"3,300 union"	0.08333333333333331
 116	"Ralphs"	"company strike have"	"employees"	0.08333333333333331
 116	"Ralphs"	"company strike have employees in"	"Wms T$ Virginia"	-0.04999999999999999
-116	"Ralphs ' parent company"	"company"	"Kroger"	1.5
 116	"Ralphs ' parent company"	"Kroger"	"Co."	1.3333333333333333
 116	"Ralphs ' parent company"	"strike and"	"3,300 union"	0.0
 116	"Ralphs ' parent company"	"strike have"	"employees"	0.0
 116	"Ralphs ' parent company"	"strike have employees in"	"Wms T$ Virginia"	-0.1333333333333333
 116	"Ralphs ' parent company"	"strike have employees in Virginia"	"Ohio"	-0.16666666666666666
-116	"Kroger"	"Kroger"	"Co."	1.5
 116	"Kroger"	"company strike and"	"3,300 union"	0.08333333333333331
 116	"Kroger"	"company strike have"	"employees"	0.08333333333333331
 116	"Kroger"	"company strike have employees in"	"Wms T$ Virginia"	-0.04999999999999999
@@ -2235,7 +2209,6 @@ A grocery store strike between Ralphs ' parent company , Kroger Co. , and 3,300 
 116	"employees"	"began offer"	"ities"	1.25
 116	"employees"	"began offer ities between"	"the two situations"	1.1666666666666667
 116	"employees"	"began offer"	"reason"	1.25
-116	"Wms T$ Virginia"	"Virginia"	"Ohio"	1.5
 116	"Wms T$ Virginia"	"Ohio and"	"Kentucky"	1.25
 116	"Wms T$ Virginia"	"employees began offer"	"ities"	-0.08333333333333331
 116	"Wms T$ Virginia"	"employees began offer ities between"	"the two situations"	-0.16666666666666666
@@ -2301,7 +2274,6 @@ There should be about 3 cups vegetables chopped medium fine .
 120
 The movie , a $ 120 million change of pace for arty ` ` Crouching Tiger , Hidden Dragon ' ' director Ang Lee , is set to debut in June . 
 121	"The movie"	"change $"	"million"	1.25
-121	"The movie"	"movie"	"a $ 120 million change"	1.5
 121	"The movie"	"change of"	"pace"	1.25
 121	"The movie"	". is"	"Crouching Tiger"	0.16666666666666669
 121	"million"	"$ change . movie"	"a $ 120 million change"	-0.1333333333333333
@@ -2327,7 +2299,6 @@ Kidd , 29 , the team 's star point guard , extended his current contract years a
 122	"Kidd"	"extended ago years"	"his"	0.5833333333333333
 122	"Kidd"	"extended ago"	"his current contract years"	0.6666666666666666
 122	"Kidd 29"	"guard"	"the team"	1.3333333333333333
-122	"Kidd 29"	"29"	"the team 's star point guard"	1.5
 122	"Kidd 29"	"extended ago years"	"his"	0.75
 122	"Kidd 29"	"extended ago"	"his current contract years"	0.8333333333333333
 122	"the team"	"guard extended 29"	"the team 's star point guard"	-0.08333333333333331
@@ -2442,14 +2413,12 @@ The board of directors of UAL , the parent company of United Airlines , is likel
 128	"directors"	"of"	"UAL"	1.3333333333333333
 128	"directors"	"of UAL"	"the parent company"	1.25
 128	"directors"	"of UAL company of"	"United Airlines"	1.1666666666666667
-128	"UAL"	"UAL"	"the parent company"	1.5
 128	"UAL"	"company of"	"United Airlines"	1.25
 128	"UAL"	"of directors of is likely to name"	"Glenn F. Tilton"	0.3666666666666667
 128	"the parent company"	"of"	"United Airlines"	1.3333333333333333
 128	"the parent company"	"UAL of directors of is likely to name"	"Glenn F. Tilton"	0.34285714285714286
 128	"United Airlines"	"of company UAL of directors of is likely to name"	"Glenn F. Tilton"	0.3111111111111111
 128	"United Airlines"	"of company UAL of directors of is likely to name Tilton"	"an oil industry executive"	0.2777777777777778
-128	"Glenn F. Tilton"	"Tilton"	"an oil industry executive"	1.5
 128	"Glenn F. Tilton"	"name as president"	"the airline"	-0.25
 128	"Glenn F. Tilton"	"name as"	"the airline 's new president"	-0.16666666666666669
 128	"Glenn F. Tilton"	"name as president and"	"chief executive"	-0.3
@@ -2605,7 +2574,6 @@ Politicians , historians , locals and the victims ' families are grappling with 
 136	"Politicians"	"are historians locals and families"	"the victims"	0.33333333333333337
 136	"Politicians"	"are historians locals and"	"the victims ' families"	0.3
 136	"Politicians"	"are . should"	"the site"	0.75
-136	"historians"	"historians"	"locals"	1.5
 136	"historians"	"locals and families"	"the victims"	1.2
 136	"historians"	"locals and"	"the victims ' families"	1.25
 136	"historians"	"are . should"	"the site"	0.75
@@ -2669,7 +2637,6 @@ Gurney boosts backers Stars general manager Bob Gainey said he was uncomfortable
 139	"Stars"	"boosts said was"	"he"	-0.08333333333333331
 139	"Stars"	"boosts said was uncomfortable with"	"increased team incentives"	-0.16666666666666666
 139	"Stars"	"boosts said was uncomfortable with incentives for"	"one player"	-0.20833333333333331
-139	"Stars general manager"	"manager"	"Bob Gainey"	1.5
 139	"Stars general manager"	"boosts said was"	"he"	-0.25
 139	"Stars general manager"	"boosts said was uncomfortable with"	"increased team incentives"	-0.33333333333333337
 139	"Stars general manager"	"boosts said was uncomfortable with incentives for"	"one player"	-0.375
@@ -2749,7 +2716,6 @@ Netscape is aiming to distribute 100 million copies of Navigator over the next y
 143	"Internet service providers"	"and Robotics division"	"Wide familiarity"	1.2
 143	"Internet service providers"	"and Robotics division familiarity with"	"Navigator"	1.1428571428571428
 143	"Internet service providers"	"including is helps sell"	"Netscape"	0.0
-143	"U.S. Robotics"	"Robotics"	"a division"	1.5
 143	"U.S. Robotics"	"division of"	"3Com"	1.25
 143	"U.S. Robotics"	"division of 3Com"	"Corp."	1.2
 143	"U.S. Robotics"	"division"	"Wide familiarity"	1.3333333333333333
@@ -2758,12 +2724,10 @@ Netscape is aiming to distribute 100 million copies of Navigator over the next y
 143	"U.S. Robotics"	"and providers including is helps sell packages"	"its"	0.033333333333333354
 143	"a division"	"of"	"3Com"	1.3333333333333333
 143	"a division"	"of 3Com"	"Corp."	1.25
-143	"a division"	"division"	"Wide familiarity"	1.5
 143	"a division"	"familiarity with"	"Navigator"	1.25
 143	"a division"	"Robotics and providers including is helps sell"	"Netscape"	0.10714285714285715
 143	"a division"	"Robotics and providers including is helps sell packages"	"its"	0.05714285714285716
 143	"a division"	"Robotics and providers including is helps sell"	"its higher-end Internet software packages"	0.10714285714285715
-143	"3Com"	"3Com"	"Corp."	1.5
 143	"3Com"	"division"	"Wide familiarity"	0.16666666666666669
 143	"3Com"	"division familiarity with"	"Navigator"	-0.08333333333333331
 143	"3Com"	"of division Robotics and providers including is helps sell"	"Netscape"	0.1388888888888889
@@ -2828,7 +2792,6 @@ The New York Stock Exchange floor will be a sea of khaki-clad legs tomorrow as G
 148	"khaki-clad legs tomorrow"	"of be as promotes Fridays with"	"free pants"	-0.08333333333333334
 148	"khaki-clad legs tomorrow"	"of be as promotes Fridays with pants and"	"shirts"	-0.125
 148	"khaki-clad legs tomorrow"	"of be as promotes for"	"about 3,500 traders"	-0.04999999999999999
-148	"Gap"	"Gap"	"Inc."	1.5
 148	"Gap"	"promotes"	"casual Fridays"	1.0
 148	"Gap"	"promotes Fridays with"	"free pants"	0.75
 148	"Gap"	"promotes Fridays with pants and"	"shirts"	0.6666666666666666
@@ -2945,7 +2908,6 @@ He was back in Atlanta last October on a non-guaranteed training camp contract ,
 155	"a guaranteed deal"	"sign with Panathinaikos"	"a Greek team"	-0.25
 155	"a guaranteed deal"	"sign with Panathinaikos team that led"	"he"	-0.35714285714285715
 155	"a guaranteed deal"	"sign with Panathinaikos team that led to"	"the Euroleague championship"	-0.375
-155	"Panathinaikos"	"Panathinaikos"	"a Greek team"	1.5
 155	"Panathinaikos"	"team that led"	"he"	1.2
 155	"Panathinaikos"	"team that led to"	"the Euroleague championship"	1.1666666666666667
 155	"a Greek team"	"that led"	"he"	1.25
@@ -2972,7 +2934,6 @@ Why does this ` ` moment , ' ' to use a term bandied about by designers , call f
 156	"guipure lace"	"in rendered clothes of excess call with"	"ruffles"	0.20833333333333331
 156	"guipure lace"	"in rendered clothes of excess call with ruffles"	"ribbons"	0.125
 156	"guipure lace"	"in rendered clothes of excess call with ruffles ribbons or said in"	"polka-dotted or liquid silks"	0.0
-156	"ruffles"	"ruffles"	"ribbons"	1.5
 156	"ruffles"	"ribbons or said in"	"polka-dotted or liquid silks"	1.1666666666666667
 156	"ribbons"	"or said in"	"polka-dotted or liquid silks"	1.2
 156	"ribbons"	"or said Still with"	"lingerie-style details"	1.1666666666666667
@@ -3079,7 +3040,6 @@ Story Filed By Cox Newspapers -- Dao Heng Bank Group Ltd. was rated ` ` buy ' ' 
 161	"Story Filed By Cox Newspapers"	"was"	"Dao Heng Bank Group"	0.0
 161	"Story Filed By Cox Newspapers"	"was Group"	"Ltd."	0.16666666666666669
 161	"Story Filed By Cox Newspapers"	"was rated"	"` buy"	0.8333333333333333
-161	"Dao Heng Bank Group"	"Group"	"Ltd."	1.5
 161	"Dao Heng Bank Group"	"was rated"	"` buy"	0.8333333333333333
 161	"Dao Heng Bank Group"	"was rated buy in"	"new coverage"	0.7
 161	"Dao Heng Bank Group"	"was rated by"	"analyst"	0.75
@@ -3095,7 +3055,6 @@ Story Filed By Cox Newspapers -- Dao Heng Bank Group Ltd. was rated ` ` buy ' ' 
 161	"new coverage"	"in rated by"	"analyst"	0.08333333333333331
 161	"new coverage"	"in rated by analyst"	"Elan Cohen"	0.0
 161	"new coverage"	"in rated by analyst at"	"J.P. Morgan Securities"	-0.04999999999999999
-161	"analyst"	"analyst"	"Elan Cohen"	1.5
 161	"analyst"	"at"	"J.P. Morgan Securities"	1.3333333333333333
 161	"Elan Cohen"	"analyst at"	"J.P. Morgan Securities"	-0.16666666666666669
 They sweet-talked , cajoled , and begged people to come talk . 
@@ -3110,7 +3069,6 @@ That , he said , is what many of the POWs would like more than anything .
 163	"what"	"many would like"	"more than anything"	0.5833333333333333
 163	"the POWs"	"of many would like"	"more than anything"	0.5333333333333333
 Jane Boynton , a nurse from Miami who heard Forbes speak at the Christian Coalition convention , said : ` ` He said exactly what the people wanted to hear . 
-164	"Jane Boynton"	"Boynton"	"a nurse"	1.5
 164	"Jane Boynton"	"nurse from"	"Miami"	1.25
 164	"Jane Boynton"	"nurse heard"	"who"	1.25
 164	"Jane Boynton"	"nurse heard"	"Forbes"	1.25
@@ -3260,8 +3218,6 @@ The BSA suit , filed on behalf of Microsoft Corp. , Autodesk Inc. and Adobe Syst
 172	"behalf"	"of Microsoft Autodesk and"	"Adobe Systems"	1.1666666666666667
 172	"behalf"	"of Microsoft Autodesk and Systems"	"Inc."	1.1428571428571428
 172	"behalf"	"on filed alleged committed"	"SM Summit"	0.5333333333333333
-172	"Microsoft"	"Microsoft"	"Corp."	1.5
-172	"Microsoft"	"Microsoft"	"Autodesk"	1.5
 172	"Microsoft"	"Autodesk"	"Inc."	1.3333333333333333
 172	"Microsoft"	"Autodesk and"	"Adobe Systems"	1.25
 172	"Microsoft"	"Autodesk and Systems"	"Inc."	1.2
@@ -3273,7 +3229,6 @@ The BSA suit , filed on behalf of Microsoft Corp. , Autodesk Inc. and Adobe Syst
 172	"Corp."	"Microsoft Autodesk and Systems"	"Inc."	-0.3
 172	"Corp."	"Microsoft of behalf on filed alleged committed"	"SM Summit"	0.4583333333333333
 172	"Corp."	"Microsoft of behalf on filed alleged committed"	"software piracy"	0.4583333333333333
-172	"Autodesk"	"Autodesk"	"Inc."	1.5
 172	"Autodesk"	"and"	"Adobe Systems"	1.3333333333333333
 172	"Autodesk"	"and Systems"	"Inc."	1.25
 172	"Autodesk"	"Microsoft of behalf on filed alleged committed"	"SM Summit"	0.4583333333333333
@@ -3282,7 +3237,6 @@ The BSA suit , filed on behalf of Microsoft Corp. , Autodesk Inc. and Adobe Syst
 172	"Inc."	"Autodesk and Systems"	"Inc."	-0.25
 172	"Inc."	"Autodesk Microsoft of behalf on filed alleged committed"	"SM Summit"	0.4444444444444444
 172	"Inc."	"Autodesk Microsoft of behalf on filed alleged committed"	"software piracy"	0.4444444444444444
-172	"Adobe Systems"	"Systems"	"Inc."	1.5
 172	"Adobe Systems"	"and Autodesk Microsoft of behalf on filed alleged committed"	"SM Summit"	0.43333333333333335
 172	"Adobe Systems"	"and Autodesk Microsoft of behalf on filed alleged committed"	"software piracy"	0.43333333333333335
 172	"Inc."	"Systems and Autodesk Microsoft of behalf on filed alleged committed"	"SM Summit"	0.4242424242424242
@@ -3317,7 +3271,6 @@ Plus , Gidley notes , there are also a number of ` ` push providers ' ' such as 
 174	"push providers"	"as PointCast"	"Inc."	1.25
 174	"push providers"	"as PointCast provides"	"news"	1.2
 174	"push providers"	"as PointCast provides news and"	"information"	1.1428571428571428
-174	"PointCast"	"PointCast"	"Inc."	1.5
 174	"PointCast"	"provides"	"news"	1.3333333333333333
 174	"PointCast"	"provides news and"	"information"	1.2
 174	"PointCast"	"provides to"	"computer users"	1.25
@@ -3364,7 +3317,6 @@ Airports act as ` heat islands , ' so temperatures can vary as much as 10 degree
 176	"10"	"degrees"	"Fahrenheit"	0.8333333333333333
 176	"10"	"much vary"	"vegetable fields"	0.25
 176	"10"	"much vary fields and"	"citrus groves"	0.0
-176	"as much as 10 degrees"	"degrees"	"Fahrenheit"	1.5
 176	"as much as 10 degrees"	"vary"	"vegetable fields"	0.0
 176	"as much as 10 degrees"	"vary fields and"	"citrus groves"	-0.25
 176	"Fahrenheit"	"vary"	"vegetable fields"	0.16666666666666669
@@ -3373,7 +3325,6 @@ Airports act as ` heat islands , ' so temperatures can vary as much as 10 degree
 The Rams sorely miss departed third receiver Az Hakim . 
 177	"The Rams"	"miss departed"	"third receiver"	0.8333333333333333
 177	"The Rams"	"miss departed receiver"	"Az Hakim"	0.75
-177	"third receiver"	"receiver"	"Az Hakim"	1.5
 In the last four games of the losing streak , they surrendered deciding goals in the last minutes of the half or game three times and were blanked , 4-0 , by Tampa Bay . 
 178	"the last four games"	"of"	"the losing streak"	1.3333333333333333
 178	"the last four games"	"surrendered"	"they"	-0.16666666666666669
@@ -3441,16 +3392,13 @@ A similar bill is pending in the Senate , sponsored by Florida Sens . Connie Mac
 180	"the Senate"	"pending sponsored by Sens"	"Connie Mack"	-0.1333333333333333
 180	"the Senate"	"pending sponsored by Sens Mack"	"a Republican"	-0.16666666666666666
 180	"the Senate"	"pending sponsored by Sens Mack Republican and"	"Bob Graham"	-0.20833333333333331
-180	"Florida Sens"	"Sens"	"Connie Mack"	1.5
 180	"Florida Sens"	"Mack"	"a Republican"	1.3333333333333333
 180	"Florida Sens"	"Mack Republican and"	"Bob Graham"	1.2
 180	"Florida Sens"	"Mack Republican and Graham"	"a Democrat"	1.1666666666666667
-180	"Connie Mack"	"Mack"	"a Republican"	1.5
 180	"Connie Mack"	"Republican and"	"Bob Graham"	1.25
 180	"Connie Mack"	"Republican and Graham"	"a Democrat"	1.2
 180	"a Republican"	"and"	"Bob Graham"	1.3333333333333333
 180	"a Republican"	"and Graham"	"a Democrat"	1.25
-180	"Bob Graham"	"Graham"	"a Democrat"	1.5
 Taylor missed only one day of school , but another week went by before she could move her head smoothly to the right , or lift her writing arm up to desk level without pain . 
 181	"Taylor"	"missed day only"	"one"	0.75
 181	"Taylor"	"missed"	"only one day"	1.0
@@ -3573,7 +3521,6 @@ Organizations in the 33 states can use the grants announced today for both educa
 Come to think of it , that would be revolutionary . 
 185	"Come"	"to think of"	"it"	0.75
 But Leslie Robison , an epidemiologist from the University of Minnesota , who estimates that 1 out 630 children will develop cancer before the age of 15 , said that cancer has very different implications for a child compared to adults , even for those who survive . 
-186	"Leslie Robison"	"Robison"	"an epidemiologist"	1.5
 186	"Leslie Robison"	"epidemiologist from Minnesota"	"University"	1.2
 186	"Leslie Robison"	"epidemiologist from"	"the University of Minnesota"	1.25
 186	"Leslie Robison"	"epidemiologist from Minnesota estimates"	"who"	1.1666666666666667
@@ -3639,7 +3586,6 @@ He calculates his annual maintenance costs at $ 25,000 .
 Towers Financial was formed by one-time New York Post bidder Steven Hoffenberg . 
 188	"Towers Financial"	"was formed by"	"one-time New York Post bidder"	0.75
 188	"Towers Financial"	"was formed by bidder"	"Steven Hoffenberg"	0.7
-188	"one-time New York Post bidder"	"bidder"	"Steven Hoffenberg"	1.5
 Or it can maintain and expand a safety net that is already larger than many people had thought , possibly giving more discouraged workers reason to depend on a government check . 
 189	"it"	"can maintain and expand"	"a safety net"	0.7
 189	"it"	"can maintain and expand net is larger than had"	"many people"	0.6
@@ -3807,7 +3753,6 @@ Diana raised our consciousness about diseased children in Third World countries 
 199	"AIDS"	"and ravages of"	"land mines"	1.2
 199	"the ravages"	"of"	"land mines"	1.3333333333333333
 Hooters Inc. founded the chain 14 years ago , and owns the company trademark and related rights . 
-200	"Hooters"	"Hooters"	"Inc."	1.5
 200	"Hooters"	"founded"	"the chain"	1.0
 200	"Hooters"	"founded ago"	"14 years"	0.8333333333333333
 200	"Hooters"	"founded and owns"	"the company trademark"	0.75
@@ -3878,11 +3823,9 @@ Next up on the politics-and-calories calendar is a Buell dinner Monday for Chell
 204	"a Buell dinner"	"for"	"Chellie Pingree"	1.0
 204	"a Buell dinner"	"for Pingree candidate"	"the Dems"	0.75
 204	"a Buell dinner"	"for Pingree"	"the Dems ' Maine senatorial candidate"	0.8333333333333333
-204	"Monday"	"for"	"Chellie Pingree"	1.5
 204	"Monday"	"for Pingree candidate"	"the Dems"	1.25
 204	"Monday"	"for Pingree"	"the Dems ' Maine senatorial candidate"	1.3333333333333333
 204	"Chellie Pingree"	"candidate"	"the Dems"	1.3333333333333333
-204	"Chellie Pingree"	"Pingree"	"the Dems ' Maine senatorial candidate"	1.5
 204	"the Dems"	"candidate for Pingree"	"the Dems ' Maine senatorial candidate"	0.08333333333333331
 Meanwhile , Federal Express said it has kept about 15 percent of the extra deliveries it gained during the UPS strike . 
 205	"Federal Express"	"said has"	"it"	0.8333333333333333
@@ -4079,7 +4022,6 @@ A physician 's diet , exercise , The brewer said the improvement in trading perf
 217	"A physician"	"said"	"The brewer"	-0.16666666666666669
 217	"A physician"	"said was"	"the improvement"	0.6666666666666666
 217	"A physician"	"said was improvement in"	"trading performance"	0.5333333333333333
-217	"A physician 's diet"	"diet"	"exercise"	1.5
 217	"A physician 's diet"	"said"	"The brewer"	0.0
 217	"A physician 's diet"	"said was"	"the improvement"	0.8333333333333333
 217	"A physician 's diet"	"said was improvement in"	"trading performance"	0.7
@@ -4100,7 +4042,6 @@ A physician 's diet , exercise , The brewer said the improvement in trading perf
 217	"increased volumes"	"led by Guinness"	"an 11 percent increase"	1.2
 217	"increased volumes"	"led by Guinness increase in"	"productivity"	1.1428571428571428
 217	"increased volumes"	"led by Guinness increase in productivity per"	"employee"	1.1111111111111112
-217	"canned Draught Guinness"	"Guinness"	"an 11 percent increase"	1.5
 217	"canned Draught Guinness"	"increase in"	"productivity"	1.25
 217	"canned Draught Guinness"	"increase in productivity per"	"employee"	1.1666666666666667
 217	"canned Draught Guinness"	"increase in productivity per employee and"	"returns"	1.125
@@ -4125,7 +4066,6 @@ A physician 's diet , exercise , The brewer said the improvement in trading perf
 217	"marketing investment"	"to"	"107 million pounds"	1.3333333333333333
 The number of passengers on Lufthansa 's domestic routes declined 5.5 percent in the first half , even as overall passenger numbers rose 3 percent . 
 218	"The number"	"of"	"passengers"	1.3333333333333333
-218	"The number"	"number"	"Lufthansa"	1.5
 218	"The number"	". declined"	"domestic routes"	1.25
 218	"The number"	". declined"	"5.5 percent"	1.25
 218	"The number"	". declined in"	"the first half"	1.2
@@ -4183,7 +4123,6 @@ The scene was oddly serene compared with the mayhem on Monday after 12 North Kor
 221	"a compound housing"	"enter tried"	"the Ecuadorian Embassy"	0.25
 Spurred by requests from customers , health food stores started calling their suppliers yesterday looking for the sprouts , which are n't commercially available . 
 222	"requests"	"from"	"customers"	1.3333333333333333
-222	"requests"	"requests"	"health food stores"	1.5
 222	"requests"	"by started calling"	"yesterday"	0.5833333333333333
 222	"requests"	"by started looking for"	"the sprouts"	0.5
 222	"customers"	"requests"	"health food stores"	0.16666666666666669
@@ -4253,7 +4192,6 @@ Among the other companies that got a boost from restructurings , Sara Lee Corp. 
 227	"restructurings"	"from boost got companies gained"	"17 percent"	0.6428571428571428
 227	"restructurings"	"from boost got companies gained percent for"	"the week"	0.39285714285714285
 227	"restructurings"	"from boost got companies gained after announcing will"	"it"	0.34285714285714286
-227	"Sara Lee"	"Lee"	"Corp."	1.5
 227	"Sara Lee"	"gained"	"17 percent"	1.0
 227	"Sara Lee"	"gained percent for"	"the week"	0.75
 227	"Sara Lee"	"gained after announcing will"	"it"	0.7
@@ -4304,7 +4242,6 @@ The announcement , which came only days after a visit to Pyongyang by Japan 's p
 228	"Japan"	"minister"	"Junichiro Koizumi"	1.0
 228	"Japan"	"minister by visit after came marked"	"a significant change"	0.625
 228	"Japan"	"minister by visit after came marked change of"	"strategy"	0.375
-228	"Japan 's prime minister"	"minister"	"Junichiro Koizumi"	1.5
 228	"Japan 's prime minister"	"by visit after came marked"	"a significant change"	0.6428571428571428
 228	"Japan 's prime minister"	"by visit after came marked change of"	"strategy"	0.39285714285714285
 228	"Japan 's prime minister"	"by visit after came marked change for"	"the administration"	0.39285714285714285
@@ -4391,7 +4328,6 @@ Sometimes he thinks he is improving , but then he runs out of breath , his pulse
 232	"he"	"turns that was"	"he"	0.75
 232	"a way"	"turns that was"	"he"	-0.08333333333333331
 Intel Corp. rose 1 13 / 16 to 97 3 / 4 and was among the leaders after it introduced a new product to link computers that improves efficiency 30 percent . 
-233	"Intel"	"Intel"	"Corp."	1.5
 233	"Intel"	"rose ."	"1 13"	0.8333333333333333
 233	"Intel"	"rose ."	"16"	0.8333333333333333
 233	"Intel"	"rose . to 4"	"3"	0.7
@@ -4626,7 +4562,6 @@ Bensonhurst is a vintage Italian neighborhood , a place of tidy two-family brick
 247	"Bensonhurst"	"is"	"a vintage Italian neighborhood"	1.0
 247	"Bensonhurst"	"is neighborhood"	"a place"	0.8333333333333333
 247	"Bensonhurst"	"is neighborhood place of"	"tidy two-family brick homes"	0.7
-247	"a vintage Italian neighborhood"	"neighborhood"	"a place"	1.5
 247	"a vintage Italian neighborhood"	"place of"	"tidy two-family brick homes"	1.25
 247	"a vintage Italian neighborhood"	"place of homes adorned with"	"Madonnas"	1.1428571428571428
 247	"a vintage Italian neighborhood"	"place of homes adorned with Madonnas in"	"the front yard"	1.1111111111111112
@@ -4722,7 +4657,6 @@ E-mail her at mmccartycoxohio . com A Ply Gem Industries Inc. shareholder is sui
 253	"Inc. shareholder"	"is suing Selz"	"Inc."	0.75
 253	"Inc. shareholder"	"is suing for $"	"million"	0.7
 253	"Inc. shareholder"	"E-mail claiming was"	"it"	-0.08333333333333331
-253	"Furman Selz"	"Selz"	"Inc."	1.5
 253	"Furman Selz"	"suing for $"	"million"	-0.25
 253	"Furman Selz"	"suing E-mail claiming was"	"it"	0.0
 253	"Furman Selz"	"suing E-mail claiming was in recommending offer"	"Nortek"	-0.10714285714285715
@@ -4739,7 +4673,6 @@ E-mail her at mmccartycoxohio . com A Ply Gem Industries Inc. shareholder is sui
 253	"it"	"was in recommending offer Nortek"	"Inc."	0.6666666666666666
 253	"it"	"was in recommending"	"Nortek Inc. 's takeover offer"	0.75
 253	"it"	"was in recommending offer to"	"shareholders"	0.6666666666666666
-253	"Nortek"	"Nortek"	"Inc."	1.5
 253	"Nortek"	"offer recommending in was E-mail claiming was in recommending"	"Nortek Inc. 's takeover offer"	0.023809523809523808
 253	"Nortek"	"offer to"	"shareholders"	0.8333333333333333
 253	"Inc."	"Nortek offer recommending in was E-mail claiming was in recommending"	"Nortek Inc. 's takeover offer"	0.04166666666666666
@@ -4778,13 +4711,11 @@ Ruiz hopes Lewis 's decision will give light heavyweight champion Roy Jones Jr. 
 255	"Lewis 's decision"	"will give champion Jones"	"Jr."	0.7
 255	"Lewis 's decision"	"will give"	"the impetus"	0.8333333333333333
 255	"Lewis 's decision"	"will give to take on"	"Ruiz Dec."	0.6666666666666666
-255	"light heavyweight champion"	"champion"	"Roy Jones"	1.5
 255	"light heavyweight champion"	"Jones"	"Jr."	1.3333333333333333
 255	"light heavyweight champion"	"give"	"the impetus"	0.0
 255	"light heavyweight champion"	"give to take on"	"Ruiz Dec."	-0.3
 255	"light heavyweight champion"	"give to take on Dec."	"7"	-0.33333333333333337
 255	"light heavyweight champion"	"give to take on"	"HBO"	-0.3
-255	"Roy Jones"	"Jones"	"Jr."	1.5
 255	"Roy Jones"	"give"	"the impetus"	0.16666666666666669
 255	"Roy Jones"	"give to take on"	"Ruiz Dec."	-0.1333333333333333
 255	"Roy Jones"	"give to take on Dec."	"7"	-0.16666666666666666
@@ -4800,7 +4731,6 @@ Ruiz hopes Lewis 's decision will give light heavyweight champion Roy Jones Jr. 
 255	"the impetus"	"give to take on"	"HBO"	-0.3
 255	"the impetus"	"give hopes . being"	"the idea"	0.0
 255	"the impetus"	"give hopes . being that would"	"the winner"	-0.08333333333333334
-255	"Ruiz Dec."	"Dec."	"7"	1.5
 255	"Ruiz Dec."	"take on"	"HBO"	0.0
 255	"Ruiz Dec."	"on take to give hopes . being"	"the idea"	0.10714285714285715
 255	"Ruiz Dec."	"on take to give hopes . being that would"	"the winner"	0.023809523809523808
@@ -4852,7 +4782,6 @@ Turnout was light , according to news agency reports from the capital , Conakry 
 257	"light"	"was according to reports from"	"the capital"	-0.33333333333333337
 257	"light"	"was according to reports"	"Conakry"	-0.3
 257	"news agency reports"	"from"	"the capital"	1.3333333333333333
-257	"news agency reports"	"reports"	"Conakry"	1.5
 257	"the capital"	"reports"	"Conakry"	0.16666666666666669
 A Swiss Bank spokesman in Basel , Michel Willi , declined to comment on the talks , as did a spokesman in London . 
 258	"A Swiss Bank spokesman"	"in"	"Basel"	1.3333333333333333
@@ -4979,7 +4908,6 @@ On Wednesday , FBI Director Louis Freeh told the Senate Judiciary Subcommittee o
 265	"the Senate Judiciary Subcommittee"	"told on Technology Terrorism and"	"Government Information"	-0.33333333333333337
 265	"the Senate Judiciary Subcommittee"	"told that are"	"the keys"	-0.25
 265	"the Senate Judiciary Subcommittee"	"told that are keys and"	"export restrictions"	-0.33333333333333337
-265	"Technology"	"Technology"	"Terrorism"	1.5
 265	"Technology"	"Terrorism and"	"Government Information"	1.25
 265	"Technology"	"told that are"	"the keys"	-0.08333333333333331
 265	"Technology"	"told that are keys and"	"export restrictions"	-0.16666666666666666
@@ -5030,7 +4958,6 @@ The North Korean leader , Kim Jong Il , promptly satisfied Japan 's demands , al
 268	"Japan 's demands"	"satisfied in"	"the way"	-0.16666666666666669
 268	"Japan 's demands"	"satisfied in way"	"Japan"	-0.25
 268	"Japan 's demands"	"satisfied in way had"	"overly confident diplomats"	-0.3
-268	"the way"	"way"	"Japan"	1.5
 268	"the way"	"had"	"overly confident diplomats"	1.3333333333333333
 268	"Japan"	"way had"	"overly confident diplomats"	-0.16666666666666669
 In silence , a dozen women emerged in white chadors , the final one in black , standing silently and gazing mutely at the audience . 
@@ -5094,7 +5021,6 @@ Growth in 1998 is also likely to be less than earlier forecast -- 2.1 percent , 
 271	"3.0 percent"	"as IMF estimated in"	"May"	1.1666666666666667
 271	"the IMF"	"estimated in"	"May"	1.25
 Lois Epstein , an engineer with the Alaska environmental organization Cook Inlet Keeper and a longtime pipeline safety activist , said the legislation achieved a number of needed reforms , but did not go far enough . 
-272	"Lois Epstein"	"Epstein"	"an engineer"	1.5
 272	"Lois Epstein"	"engineer with organization"	"Alaska"	1.2
 272	"Lois Epstein"	"engineer with"	"the Alaska environmental organization"	1.25
 272	"Lois Epstein"	"engineer with organization"	"Cook Inlet Keeper"	1.2
@@ -5106,7 +5032,6 @@ Lois Epstein , an engineer with the Alaska environmental organization Cook Inlet
 272	"Alaska"	"organization"	"Cook Inlet Keeper"	1.0
 272	"Alaska"	"organization and"	"a longtime pipeline safety activist"	0.8333333333333333
 272	"Alaska"	"organization with engineer said achieved"	"the legislation"	0.5
-272	"the Alaska environmental organization"	"organization"	"Cook Inlet Keeper"	1.5
 272	"the Alaska environmental organization"	"and"	"a longtime pipeline safety activist"	1.3333333333333333
 272	"the Alaska environmental organization"	"with engineer said achieved"	"the legislation"	0.5333333333333333
 272	"Cook Inlet Keeper"	"organization and"	"a longtime pipeline safety activist"	-0.16666666666666669
@@ -5178,7 +5103,6 @@ The original basis for some of them grew out of fears of the experience before W
 275	"the experience"	"of fears of grew before controlled governments in"	"Europe"	0.0
 275	"the experience"	"of fears of grew before controlled governments in Europe and"	"Asia"	-0.04166666666666666
 275	"the experience"	"of fears of grew before controlled"	"all media outlets"	0.08333333333333334
-275	"World War"	"War"	"II"	1.5
 275	"World War"	"controlled"	"totalitarian governments"	0.0
 275	"World War"	"controlled governments in"	"Europe"	0.25
 275	"World War"	"controlled governments in Europe and"	"Asia"	0.33333333333333337
@@ -5246,11 +5170,9 @@ Hatley created a wild garden , complete with long grasses , hillocks , wildflowe
 279	"a wild garden"	"created complete with grasses"	"hillocks"	-0.3
 279	"a wild garden"	"created complete with grasses hillocks"	"wildflowers"	-0.33333333333333337
 279	"a wild garden"	"created complete with grasses hillocks wildflowers and"	"pathways"	-0.375
-279	"long grasses"	"grasses"	"hillocks"	1.5
 279	"long grasses"	"hillocks"	"wildflowers"	1.3333333333333333
 279	"long grasses"	"hillocks wildflowers and"	"pathways"	1.2
 279	"long grasses"	"with created turned"	"the underground stage"	0.08333333333333331
-279	"hillocks"	"hillocks"	"wildflowers"	1.5
 279	"hillocks"	"wildflowers and"	"pathways"	1.25
 279	"hillocks"	"grasses with created turned"	"the underground stage"	0.1333333333333333
 279	"hillocks"	"grasses with created turned at"	"the Manhattan Theater Club"	0.04999999999999999
@@ -5296,7 +5218,6 @@ Just weeks after the victory over United Parcel Service of America Inc. , a fede
 281	"United Parcel Service"	"of America"	"Inc."	1.25
 281	"United Parcel Service"	"of America was"	"a federal overseer"	1.2
 281	"United Parcel Service"	"of America was entangled in"	"a fund-raising scandal"	1.1428571428571428
-281	"America"	"America"	"Inc."	1.5
 281	"America"	"was"	"a federal overseer"	1.3333333333333333
 281	"America"	"was entangled in"	"a fund-raising scandal"	1.2
 281	"America"	"was entangled in scandal among"	"Carey aides"	1.1428571428571428
@@ -5314,7 +5235,6 @@ Just weeks after the victory over United Parcel Service of America Inc. , a fede
 281	"Carey aides"	"among scandal in entangled was America of Service over after leaving in eligibility doubt"	"Carey"	0.08333333333333333
 281	"Carey aides"	"among scandal in entangled was America of Service over after leaving in"	"doubt Carey 's eligibility"	0.16666666666666669
 281	"Carey aides"	"among scandal in entangled was America of Service over after leaving to run in"	"a new election"	0.08333333333333333
-281	"doubt"	"doubt"	"Carey"	1.5
 281	"doubt"	"eligibility in leaving . after leaving in"	"doubt Carey 's eligibility"	-0.033333333333333354
 281	"doubt"	"eligibility leaving to run in"	"a new election"	-0.04999999999999999
 281	"doubt"	"eligibility in leaving ."	"--: as well as its timetable"	-0.33333333333333337
@@ -5353,7 +5273,6 @@ Bush instructed Secretary of State Colin Powell to begin intensive diplomacy aim
 284	"Bush"	"instructed Secretary"	"Colin Powell"	0.8333333333333333
 284	"Bush"	"instructed to begin"	"intensive diplomacy"	0.75
 284	"Secretary"	"of"	"State"	1.3333333333333333
-284	"Secretary"	"Secretary"	"Colin Powell"	1.5
 284	"Secretary"	"instructed to begin"	"intensive diplomacy"	-0.25
 284	"State"	"Secretary"	"Colin Powell"	0.16666666666666669
 284	"State"	"of instructed to begin"	"intensive diplomacy"	0.0
@@ -5396,7 +5315,6 @@ El Pueblo Gallery is located in space E-13 on Olvera Street , downtown Los Angel
 287	"El Pueblo Gallery"	"is located in space"	"E-13"	0.7
 287	"El Pueblo Gallery"	"is located on"	"Olvera Street"	0.75
 287	"El Pueblo Gallery"	"is located downtown"	"Los Angeles"	0.75
-287	"space"	"space"	"E-13"	1.5
 287	"space"	"located on"	"Olvera Street"	0.0
 287	"space"	"located downtown"	"Los Angeles"	0.0
 287	"E-13"	"space located on"	"Olvera Street"	0.08333333333333331
@@ -5481,7 +5399,6 @@ When Adecco was formed , the company said it was the market leader in six of 11 
 291	"90 percent"	"of"	"the temporary employment market"	1.3333333333333333
 291	"90 percent"	"including"	"France"	1.3333333333333333
 291	"90 percent"	"market"	"Europe"	1.3333333333333333
-291	"90 percent"	"percent"	"Europe 's biggest temporary employment market"	1.5
 291	"the temporary employment market"	"percent including"	"France"	0.0
 291	"the temporary employment market"	"percent market"	"Europe"	0.0
 291	"the temporary employment market"	"percent"	"Europe 's biggest temporary employment market"	0.16666666666666669
@@ -5511,11 +5428,9 @@ When Adecco was formed , the company said it was the market leader in six of 11 
 291	"Germany"	"."	"Switzerland"	0.0
 291	"Germany"	". Switzerland"	"Britain"	0.16666666666666669
 291	"Germany"	". Switzerland Britain and"	"Australia"	0.3
-291	"Switzerland"	"Switzerland"	"Britain"	1.5
 291	"Switzerland"	"Britain and"	"Australia"	1.25
 291	"Britain"	"and"	"Australia"	1.3333333333333333
 Pat Day , the winning jockey , agreed that Royal Indy had been ` ` a little hot and nervous ' ' before the race , but added : ` ` She always seems to be like that , so I was n't that concerned . 
-292	"Pat Day"	"Day"	"the winning jockey"	1.5
 292	"Pat Day"	"agreed that had"	"Royal Indy"	0.75
 292	"the winning jockey"	"agreed that had"	"Royal Indy"	0.5833333333333333
 292	"Royal Indy"	"had agreed . added ' before"	"the race"	-0.08333333333333334
@@ -5565,11 +5480,9 @@ Pat Day , the winning jockey , agreed that Royal Indy had been ` ` a little hot 
 293	"profit margins"	"and sales said Meeks director at AMP"	"Jurika"	0.3666666666666667
 293	"profit margins"	"and sales said Meeks director at"	"Jurika & AMP"	0.4
 293	"profit margins"	"and sales said Meeks"	"Voyles LP"	0.5333333333333333
-293	"Paul Meeks"	"Meeks"	"director"	1.5
 293	"Paul Meeks"	"director of"	"research"	1.25
 293	"Paul Meeks"	"director at AMP"	"Jurika"	1.2
 293	"Paul Meeks"	"director at"	"Jurika & AMP"	1.25
-293	"Paul Meeks"	"Meeks"	"Voyles LP"	1.5
 293	"director"	"of"	"research"	1.3333333333333333
 293	"director"	"at AMP"	"Jurika"	1.25
 293	"director"	"at"	"Jurika & AMP"	1.3333333333333333
@@ -5748,7 +5661,6 @@ Maybe this is what the autistic twins in Oliver Sacks ' ` ` The Man Who Mistook 
 303	"His Wife"	"for Hat"	"saw"	1.25
 303	"His Wife"	"for Hat saw with eyes"	"their"	1.1428571428571428
 303	"His Wife"	"for Hat saw with"	"their inner eyes"	1.1666666666666667
-303	"a Hat"	"Hat"	"saw"	1.5
 303	"a Hat"	"saw with eyes"	"their"	1.2
 303	"a Hat"	"saw with"	"their inner eyes"	1.25
 303	"saw"	"with eyes"	"their"	1.25
@@ -5766,7 +5678,6 @@ Their pieces sell well in the $ 20 range , said Michael Rizzuto , a senior buyer
 304	"the $ 20 range"	"said"	"Michael Rizzuto"	0.8333333333333333
 304	"the $ 20 range"	"said Rizzuto"	"a senior buyer"	0.6666666666666666
 304	"the $ 20 range"	"said Rizzuto buyer at"	"Gracious Home"	0.5333333333333333
-304	"Michael Rizzuto"	"Rizzuto"	"a senior buyer"	1.5
 304	"Michael Rizzuto"	"buyer at"	"Gracious Home"	1.25
 304	"Michael Rizzuto"	"buyer at Home was"	"the first store"	1.1666666666666667
 304	"a senior buyer"	"at"	"Gracious Home"	1.3333333333333333
@@ -5809,10 +5720,8 @@ The Mariners ' oldest players -- Edgar Martinez , Jamie Moyer , John Olerud and 
 307	"The Mariners ' oldest players"	"have Martinez"	"Jamie Moyer"	0.16666666666666669
 307	"The Mariners ' oldest players"	"have Martinez Moyer"	"John Olerud"	0.25
 307	"The Mariners ' oldest players"	"have Martinez Moyer Olerud and"	"Mark McLemore"	0.33333333333333337
-307	"Edgar Martinez"	"Martinez"	"Jamie Moyer"	1.5
 307	"Edgar Martinez"	"Moyer"	"John Olerud"	1.3333333333333333
 307	"Edgar Martinez"	"Moyer Olerud and"	"Mark McLemore"	1.2
-307	"Jamie Moyer"	"Moyer"	"John Olerud"	1.5
 307	"Jamie Moyer"	"Olerud and"	"Mark McLemore"	1.25
 307	"John Olerud"	"and"	"Mark McLemore"	1.3333333333333333
 307	"John Olerud"	"Moyer have been though have"	"Martinez"	0.45
@@ -5850,7 +5759,6 @@ More than 30 years ago , when Ekman first set out to determine whether facial ex
 309	"he"	"was derided by scientists including anthropologist"	"Margaret Mead"	0.6428571428571428
 309	"esteemed social scientists"	"including"	"the famous anthropologist"	1.3333333333333333
 309	"esteemed social scientists"	"including anthropologist"	"Margaret Mead"	1.25
-309	"the famous anthropologist"	"anthropologist"	"Margaret Mead"	1.5
 American involvement in the Middle East is clearly the main impulse of the hatred that has been directed at America . 
 310	"American involvement"	"in"	"the Middle East"	1.3333333333333333
 310	"American involvement"	"is"	"the main impulse"	1.0
@@ -5886,7 +5794,6 @@ The findings , which the researchers say probably apply to men too , appear in t
 That , in itself , is n't awful . 
 313
 Nancy Cole , the president of ETS , says that the company is aware that its nonprofit status is a source of concern , particularly to outsiders , as the testing service increases its competition with for-profit businesses . 
-314	"Nancy Cole"	"Cole"	"the president"	1.5
 314	"Nancy Cole"	"president of"	"ETS"	1.25
 314	"Nancy Cole"	"says that is"	"the company"	0.75
 314	"Nancy Cole"	"says that is aware that is status"	"its"	0.625
@@ -5959,7 +5866,6 @@ Led by Guy Hands , managing director for Nomura International 's Principal Finan
 315	"1995"	"completed including"	"the 944 million pound securitization"	0.0
 315	"1995"	"completed including securitization of"	"Angel Trains"	-0.1333333333333333
 315	"1995"	"completed including securitization of Trains sold"	"the U.K. government"	-0.19047619047619047
-315	"944 million"	"million"	"pound"	1.5
 315	"944 million"	"securitization including has completed including"	"the 944 million pound securitization"	0.04999999999999999
 315	"944 million"	"securitization of"	"Angel Trains"	0.8333333333333333
 315	"944 million"	"securitization of Trains sold"	"the U.K. government"	0.7
@@ -6002,7 +5908,6 @@ Led by Guy Hands , managing director for Nomura International 's Principal Finan
 315	"its rail privatization program"	"of part as sold Trains of securitization including has bought securitization of"	"Annington Homes"	0.1090909090909091
 315	"its rail privatization program"	"of part as sold Trains of securitization including has bought securitization of Homes"	"a group"	0.07575757575757575
 315	"its rail privatization program"	"of part as sold Trains of securitization including has bought securitization of Homes group of houses"	"57,000"	0.020202020202020193
-315	"904 million"	"million"	"pound"	1.5
 315	"904 million"	"securitization has bought"	"the 904 million pound securitization"	0.08333333333333331
 315	"904 million"	"securitization of"	"Annington Homes"	0.8333333333333333
 315	"904 million"	"securitization of Homes"	"a group"	0.75
@@ -6017,7 +5922,6 @@ Led by Guy Hands , managing director for Nomura International 's Principal Finan
 315	"the 904 million pound securitization"	"of Homes"	"a group"	1.25
 315	"the 904 million pound securitization"	"of Homes group of houses"	"57,000"	1.1428571428571428
 315	"the 904 million pound securitization"	"of Homes group of"	"57,000 British military houses"	1.1666666666666667
-315	"Annington Homes"	"Homes"	"a group"	1.5
 315	"Annington Homes"	"group of houses"	"57,000"	1.2
 315	"Annington Homes"	"group of"	"57,000 British military houses"	1.25
 315	"Annington Homes"	"securitization and securitization"	"249 million"	-0.08333333333333331
@@ -6037,7 +5941,6 @@ Led by Guy Hands , managing director for Nomura International 's Principal Finan
 315	"57,000 British military houses"	"of group Homes securitization and"	"the 249 million pound securitization"	0.16666666666666666
 315	"57,000 British military houses"	"of group Homes securitization and securitization of"	"the Phoenix Inns pub chain"	0.033333333333333354
 315	"57,000 British military houses"	"of group Homes securitization and securitization of chain"	"Nomura"	0.0
-315	"249 million"	"million"	"pound"	1.5
 315	"249 million"	"securitization and securitization has bought securitization and"	"the 249 million pound securitization"	0.033333333333333354
 315	"249 million"	"securitization of"	"the Phoenix Inns pub chain"	0.8333333333333333
 315	"249 million"	"securitization of chain"	"Nomura"	0.75
@@ -6052,7 +5955,6 @@ Led by Guy Hands , managing director for Nomura International 's Principal Finan
 315	"the 249 million pound securitization"	"of chain"	"Nomura"	1.25
 315	"the 249 million pound securitization"	"and bought from"	"GrandMet"	0.5833333333333333
 315	"the 249 million pound securitization"	"and bought from GrandMet and"	"Fosters"	0.45
-315	"the Phoenix Inns pub chain"	"chain"	"Nomura"	1.5
 315	"the Phoenix Inns pub chain"	"of securitization and bought from"	"GrandMet"	0.5
 315	"the Phoenix Inns pub chain"	"of securitization and bought from GrandMet and"	"Fosters"	0.3666666666666667
 315	"Nomura"	"chain of securitization and bought from"	"GrandMet"	0.47619047619047616
@@ -6144,7 +6046,6 @@ Any notoriety for a Latina actress will promote Latina actresses in general , sa
 321	"Latina actresses"	"says"	"Bel Hernandez"	0.8333333333333333
 321	"Latina actresses"	"says Hernandez"	"former actress"	0.6666666666666666
 321	"Latina actresses"	"says Hernandez actress and"	"publisher"	0.5333333333333333
-321	"Bel Hernandez"	"Hernandez"	"former actress"	1.5
 321	"Bel Hernandez"	"actress and"	"publisher"	1.25
 321	"Bel Hernandez"	"actress of"	"a Hollywood trade publication"	1.25
 321	"Bel Hernandez"	"actress of publication for"	"Latinos"	1.1666666666666667
@@ -6207,7 +6108,6 @@ The company exported 2.13 million barrels a day of crude oil , and 966,000 barre
 326	"The company"	"exported barrels day of"	"crude oil"	0.7
 326	"The company"	"exported . day"	"966,000 barrels"	0.75
 326	"The company"	"exported ."	"966,000 barrels a day"	0.8333333333333333
-326	"2.13 million barrels"	"barrels"	"a day"	1.5
 326	"2.13 million barrels"	"day of"	"crude oil"	1.25
 326	"2.13 million barrels"	"exported . day"	"966,000 barrels"	-0.25
 326	"2.13 million barrels"	"exported ."	"966,000 barrels a day"	-0.16666666666666669
@@ -6264,7 +6164,6 @@ Still there is lingering concern that further earthquakes could follow , leading
 329	"Colombia"	"in mud-slides problems according to Fallar"	"president"	0.0
 329	"Colombia"	"in mud-slides problems according to Fallar president of"	"The Fallar"	-0.05714285714285716
 329	"Colombia"	"in mud-slides problems according to Fallar president of Fallar"	"Co."	-0.07500000000000001
-329	"Tim Fallar"	"Fallar"	"president"	1.5
 329	"Tim Fallar"	"president of"	"The Fallar"	1.25
 329	"Tim Fallar"	"president of Fallar"	"Co."	1.2
 329	"Tim Fallar"	"president of Fallar in"	"West Harrison"	1.1666666666666667
@@ -6273,12 +6172,10 @@ Still there is lingering concern that further earthquakes could follow , leading
 329	"president"	"of Fallar"	"Co."	1.25
 329	"president"	"of Fallar in"	"West Harrison"	1.2
 329	"president"	"of Fallar in Harrison"	"New York"	1.1666666666666667
-329	"The Fallar"	"Fallar"	"Co."	1.5
 329	"The Fallar"	"in"	"West Harrison"	1.3333333333333333
 329	"The Fallar"	"in Harrison"	"New York"	1.25
 329	"Co."	"Fallar in"	"West Harrison"	-0.16666666666666669
 329	"Co."	"Fallar in Harrison"	"New York"	-0.25
-329	"West Harrison"	"Harrison"	"New York"	1.5
 Did not the same radiant hope accompany the transition from the 19th to the 20th century ? 
 330	"the same radiant hope accompany"	"Did"	"the transition"	0.0
 330	"the same radiant hope accompany"	"Did to"	"the 20th century"	-0.16666666666666669
@@ -6307,7 +6204,6 @@ His memory was a good deal better about White House management of the DNC , espe
 333	"White House management"	"about was ."	"especially its fund-raising operations"	0.08333333333333331
 333	"the DNC"	"of management about was ."	"especially its fund-raising operations"	0.16666666666666666
 The company , Hydra Biosciences , is largely based on the work of Dr. Mark T. Keating , a founder of the company and a biologist at Harvard who studies regeneration in zebrafish . 
-334	"The company"	"company"	"Hydra Biosciences"	1.5
 334	"The company"	"is based on"	"the work"	0.75
 334	"The company"	"is based on work of"	"Dr. Mark T. Keating"	0.6666666666666666
 334	"Hydra Biosciences"	"is based on"	"the work"	0.5833333333333333
@@ -6317,7 +6213,6 @@ The company , Hydra Biosciences , is largely based on the work of Dr. Mark T. Ke
 334	"the work"	"of Keating"	"a founder"	1.25
 334	"the work"	"of Keating founder of"	"the company"	1.1666666666666667
 334	"the work"	"of Keating founder and"	"a biologist"	1.1666666666666667
-334	"Dr. Mark T. Keating"	"Keating"	"a founder"	1.5
 334	"Dr. Mark T. Keating"	"founder of"	"the company"	1.25
 334	"Dr. Mark T. Keating"	"founder and"	"a biologist"	1.25
 334	"Dr. Mark T. Keating"	"founder at"	"Harvard"	1.25
@@ -6363,7 +6258,6 @@ The finding revealed bay trees , not oak trees , to be the unexpected , key disp
 336	"The finding"	"revealed"	"bay trees"	1.0
 336	"The finding"	"revealed trees"	"oak trees"	0.8333333333333333
 336	"The finding"	"revealed to be"	"the unexpected key disperser"	0.75
-336	"bay trees"	"trees"	"oak trees"	1.5
 336	"bay trees"	"revealed to be"	"the unexpected key disperser"	-0.25
 336	"bay trees"	"revealed to be disperser of"	"the disease"	-0.33333333333333337
 336	"oak trees"	"revealed to be"	"the unexpected key disperser"	-0.08333333333333331
@@ -6402,7 +6296,6 @@ The Cardinals considered very seriously drafting Purdue fullback Mike Alstott wi
 338	"The Cardinals"	"considered drafting with pick"	"their"	0.7
 338	"The Cardinals"	"considered drafting with"	"their second-round pick"	0.75
 338	"The Cardinals"	"considered drafting with pick ago"	"a year"	0.6666666666666666
-338	"Purdue fullback"	"fullback"	"Mike Alstott"	1.5
 338	"Purdue fullback"	"drafting with pick"	"their"	-0.25
 338	"Purdue fullback"	"drafting with"	"their second-round pick"	-0.16666666666666669
 338	"Purdue fullback"	"drafting with pick ago"	"a year"	-0.3
@@ -6464,7 +6357,6 @@ The Chinese are still firing eight or nine million workers a year as part of the
 341	"state-owned enterprises"	"of reforming of part as are and do have"	"a safety net"	0.07500000000000001
 341	"those workers"	"do have"	"a safety net"	0.8333333333333333
 341	"those workers"	"do have net"	"much less a wage"	0.75
-341	"a safety net"	"net"	"much less a wage"	1.5
 Investigators are clearly looking into whether executives misled investors about the financial well-being of the company and its future prospects , said Jacob Frankel , a former Securities and Exchange Commission lawyer now in private practice . 
 342	"Investigators"	"said looking into whether misled"	"executives"	0.33333333333333337
 342	"Investigators"	"said looking into whether misled"	"investors"	0.33333333333333337
@@ -6501,7 +6393,6 @@ Investigators are clearly looking into whether executives misled investors about
 342	"its future prospects"	"and company of well-being about misled whether into said Frankel"	"a former Securities and Exchange Commission lawyer"	0.4242424242424242
 342	"Jacob Frankel"	"lawyer Commission"	"former Securities"	1.25
 342	"Jacob Frankel"	"lawyer Commission Securities and"	"Exchange"	1.1666666666666667
-342	"Jacob Frankel"	"Frankel"	"a former Securities and Exchange Commission lawyer"	1.5
 342	"Jacob Frankel"	"lawyer in"	"private practice"	1.25
 342	"former Securities"	"and"	"Exchange"	1.3333333333333333
 342	"former Securities"	"Commission lawyer said Frankel"	"a former Securities and Exchange Commission lawyer"	0.1333333333333333
@@ -6531,9 +6422,7 @@ Special-interest groups publish studies and issue news releases using road rage 
 344	"the case"	"for"	"highway construction"	1.3333333333333333
 344	"the case"	"for construction"	"road improvements"	1.25
 344	"the case"	"for construction improvements"	"tougher traffic regulations"	1.2
-344	"highway construction"	"construction"	"road improvements"	1.5
 344	"highway construction"	"improvements"	"tougher traffic regulations"	1.3333333333333333
-344	"road improvements"	"improvements"	"tougher traffic regulations"	1.5
 By early September , not only had the Revolution been involved in an 11-game losing streak , including cup games and exhibitions , they appeared to lose faith in themselves . 
 345	"early September"	"had"	"the Revolution"	0.8333333333333333
 345	"early September"	"had been involved in"	"an 11-game losing streak"	0.5333333333333333
@@ -6608,7 +6497,6 @@ Playing before a crowd of 39,294 , Army jumped to a 7-0 lead on its second posse
 347	"a 1-yard leap"	"culminated by fullback"	"Joe Hewitt"	-0.08333333333333331
 347	"the end zone"	"culminated by"	"the junior fullback"	0.0
 347	"the end zone"	"culminated by fullback"	"Joe Hewitt"	-0.08333333333333331
-347	"the junior fullback"	"fullback"	"Joe Hewitt"	1.5
 Houston : Baker Hughes Inc. releases its weekly survey of the number of active oil and gas drilling rigs in the U.S. and Canada . 
 348	"Houston"	"releases"	"Baker Hughes"	1.3333333333333333
 348	"Houston"	"releases Hughes"	"Inc."	1.25
@@ -6616,7 +6504,6 @@ Houston : Baker Hughes Inc. releases its weekly survey of the number of active o
 348	"Houston"	"releases"	"its weekly survey"	1.3333333333333333
 348	"Houston"	"releases survey of"	"the number"	1.2
 348	"Houston"	"releases survey of number of rigs drilling"	"oil"	1.1111111111111112
-348	"Baker Hughes"	"Hughes"	"Inc."	1.5
 348	"Baker Hughes"	"releases survey"	"its"	0.8333333333333333
 348	"Baker Hughes"	"releases"	"its weekly survey"	1.0
 348	"Baker Hughes"	"releases survey of"	"the number"	0.75
@@ -6657,7 +6544,6 @@ Houston : Baker Hughes Inc. releases its weekly survey of the number of active o
 348	"active oil and gas drilling rigs"	"of number of releases in U.S. and"	"Canada"	0.033333333333333354
 348	"the U.S."	"and"	"Canada"	1.3333333333333333
 Only Nikko Securities Co. has the same top executives it started the year with . 
-349	"Nikko Securities"	"Securities"	"Co."	1.5
 349	"Nikko Securities"	"has"	"the same top executives"	1.0
 349	"Nikko Securities"	"has executives started"	"it"	0.75
 349	"Nikko Securities"	"has executives started"	"the year"	0.75
@@ -6737,7 +6623,6 @@ Some city tests of the water have indeed found small traces of crude oil , and d
 352	"the trial"	"summer supervised"	"who"	0.6666666666666666
 352	"the trial"	"summer supervised"	"a water-pipe replacement"	0.6666666666666666
 352	"the trial"	"summer supervised in"	"the early 1990s"	0.5833333333333333
-352	"during the trial this summer"	"summer"	"Jeff Davis"	1.5
 352	"during the trial this summer"	"supervised"	"who"	1.3333333333333333
 352	"during the trial this summer"	"supervised"	"a water-pipe replacement"	1.3333333333333333
 352	"during the trial this summer"	"supervised in"	"the early 1990s"	1.25
@@ -6768,7 +6653,6 @@ At least that was the case for linebacker Brendon Ayanbadejo at the Rose Bowl on
 353	"the case"	"for linebacker"	"Brendon Ayanbadejo"	1.25
 353	"the case"	"for linebacker Ayanbadejo at"	"the Rose Bowl"	1.1666666666666667
 353	"the case"	"on"	"Saturday"	1.3333333333333333
-353	"linebacker"	"linebacker"	"Brendon Ayanbadejo"	1.5
 353	"linebacker"	"Ayanbadejo at"	"the Rose Bowl"	1.25
 353	"linebacker"	"case on"	"Saturday"	0.0
 353	"Brendon Ayanbadejo"	"at"	"the Rose Bowl"	1.3333333333333333
@@ -6811,7 +6695,6 @@ To make matters worse , they accidentally bumped into each other in the street s
 355	"the street"	"bumped from"	"their meeting spot"	0.0
 355	"some distance"	"bumped from"	"their meeting spot"	-0.16666666666666669
 Red Sox manager Grady Little kept Ramirez in the game but later admitted he should have benched him . 
-356	"Red Sox manager"	"manager"	"Grady Little"	1.5
 356	"Red Sox manager"	"kept"	"Ramirez"	1.0
 356	"Red Sox manager"	"kept in"	"the game"	0.8333333333333333
 356	"Red Sox manager"	"kept but admitted should"	"he"	0.7
@@ -6989,7 +6872,6 @@ Yet other studies point to fetal exposure to environmental toxins like lead , ci
 368	"environmental toxins"	"point"	"like lead"	0.16666666666666669
 368	"environmental toxins"	"point lead"	"cigarettes"	0.0
 368	"environmental toxins"	"point lead cigarettes and"	"alcohol"	-0.1333333333333333
-368	"like lead"	"lead"	"cigarettes"	1.5
 368	"like lead"	"cigarettes and"	"alcohol"	1.25
 368	"cigarettes"	"and"	"alcohol"	1.3333333333333333
 With one or two new distributors signing on every week , the Weinbergs are busy planning to expand into clothing hooks and towel racks . 
@@ -7133,9 +7015,6 @@ The Bank of Japan said in its quarterly report , the ` ` josei handan , ' ' that
 374	"M2+CDs"	"expects to grow by percent in"	"the July-September quarter"	-0.35714285714285715
 374	"about 3.0 percent"	"in"	"the July-September quarter"	1.3333333333333333
 Another survivor , David Hose , 60 , also expressed frustration over his slow recovery . 
-375	"Another survivor"	"survivor"	"David Hose"	1.5
-375	"Another survivor"	"survivor"	"60"	1.5
-375	"Another survivor"	"survivor"	"also expressed frustration"	1.5
 375	"Another survivor"	"frustration over recovery"	"his"	1.2
 375	"Another survivor"	"frustration over"	"his slow recovery"	1.25
 375	"David Hose"	"survivor"	"60"	0.0
@@ -7169,7 +7048,6 @@ TO MIDNIGHT When the results are compiled , sometime next year , the census is e
 376	"the Russian population"	"due to health"	"migration"	1.2
 376	"the Russian population"	"due to health migration and call"	"demographers"	1.125
 376	"the Russian population"	"in is ."	"the echo"	0.08333333333333331
-376	"ill health"	"health"	"migration"	1.5
 376	"ill health"	"migration and call"	"demographers"	1.2
 376	"ill health"	"to due population in is ."	"the echo"	0.19047619047619047
 376	"ill health"	"to due population in is . echo of"	"war"	0.05714285714285716
@@ -7184,14 +7062,12 @@ TO MIDNIGHT When the results are compiled , sometime next year , the census is e
 376	"the echo"	"of"	"war"	1.3333333333333333
 376	"the echo"	"from"	"World War"	1.3333333333333333
 376	"the echo"	"from War"	"II"	1.25
-376	"the echo"	"echo"	"the increasing concentration"	1.5
 376	"the echo"	"concentration of"	"jobs"	1.25
 376	"war"	"echo from"	"World War"	0.0
 376	"war"	"echo from War"	"II"	-0.08333333333333331
 376	"war"	"echo"	"the increasing concentration"	0.16666666666666669
 376	"war"	"echo concentration of"	"jobs"	-0.08333333333333331
 376	"war"	"echo concentration of jobs and"	"wealth"	-0.16666666666666666
-376	"World War"	"War"	"II"	1.5
 376	"World War"	"echo"	"the increasing concentration"	0.16666666666666669
 376	"World War"	"echo concentration of"	"jobs"	-0.08333333333333331
 376	"World War"	"echo concentration of jobs and"	"wealth"	-0.16666666666666666
@@ -7235,7 +7111,6 @@ TO MIDNIGHT When the results are compiled , sometime next year , the census is e
 376	"Stalin"	"relocations since be may and . War"	"II"	-0.20833333333333331
 376	"Stalin 's forced relocations"	"since be may and ."	"World War"	-0.35714285714285715
 376	"Stalin 's forced relocations"	"since be may and . War"	"II"	-0.19047619047619047
-376	"World War"	"War"	"II"	1.5
 For the major airlines , including Fort Worth-based American , it was as if an artery had been cut . 
 377	"the major airlines"	"was American Worth-based"	"Fort"	0.08333333333333331
 377	"the major airlines"	"was"	"including Fort Worth-based American"	-0.16666666666666669
@@ -7508,7 +7383,6 @@ They litter the road to redemption with chaos , contraband , broken marriages , 
 395	"contraband"	"called"	"contraband broken marriages"	-0.16666666666666669
 395	"contraband"	"marriages"	"jilted women"	1.0
 395	"contraband"	"marriages women and"	"political aspirations"	0.75
-395	"contraband broken marriages"	"marriages"	"jilted women"	1.5
 395	"contraband broken marriages"	"women and"	"political aspirations"	1.25
 395	"contraband broken marriages"	"but is"	"a ray"	1.25
 395	"contraband broken marriages"	"but is ray of"	"hope"	1.1666666666666667
@@ -7541,7 +7415,6 @@ That sharp drop in confidence was mirrored in follow-up interviews .
 396	"confidence"	"in was mirrored in"	"follow-up interviews"	0.5
 The large multinational companies in the S&AMP ; P 500 and the Dow had performed best this year , until those averages peaked on Aug. 6 . 
 397	"The large multinational companies"	"in"	"the S&AMP"	1.3333333333333333
-397	"The large multinational companies"	"companies"	"P 500"	1.5
 397	"The large multinational companies"	"and"	"the Dow"	1.3333333333333333
 397	"The large multinational companies"	"had performed"	"best this year"	0.8333333333333333
 397	"the S&AMP"	"companies"	"P 500"	0.16666666666666669
@@ -7572,7 +7445,6 @@ You likely have all but one of the ingredients in } 72847 : 929434 : 77 ; * 4292
 399	"You"	"77 all but one of"	"the ingredients"	0.33333333333333337
 399	"You"	"77 }"	"72847"	0.16666666666666669
 399	"You"	"77 }"	":: 929434"	0.16666666666666669
-399	"You"	"77"	":: 77"	1.5
 399	"one"	"but 77 all but of"	"the ingredients"	0.08333333333333334
 399	"one"	"but 77 }"	"72847"	-0.08333333333333331
 399	"one"	"but 77 }"	":: 929434"	-0.08333333333333331
@@ -7629,10 +7501,8 @@ You likely have all but one of the ingredients in } 72847 : 929434 : 77 ; * 4292
 399	"0940 :: 477973 :: 4219 9 :: 06309227921482 1 :: :: 10941066 7"	". salt"	"water"	0.16666666666666669
 399	"0940 :: 477973 :: 4219 9 :: 06309227921482 1 :: :: 10941066 7"	". salt water"	"ammonia"	0.25
 399	"0940 :: 477973 :: 4219 9 :: 06309227921482 1 :: :: 10941066 7"	". salt water ammonia and"	"laundry bluing"	0.33333333333333337
-399	"722d table salt"	"salt"	"water"	1.5
 399	"722d table salt"	"water"	"ammonia"	1.3333333333333333
 399	"722d table salt"	"water ammonia and"	"laundry bluing"	1.2
-399	"water"	"water"	"ammonia"	1.5
 399	"water"	"ammonia and"	"laundry bluing"	1.25
 399	"ammonia"	"and"	"laundry bluing"	1.3333333333333333
 In the U.S. , Volkswagen sales peaked at 293,000 in 1980 , dropped to 49,533 in 1993 , then climbed to 135,907 in 1996 . 
@@ -7712,7 +7582,6 @@ Shares of the New York-based company rose 5 1 / 4 , or 8.4 percent , to 67 3 / 4
 404	"company"	"."	"5 1 / 4 or 8.4 percent"	-0.16666666666666669
 404	"company"	". to 4"	"67 3"	0.08333333333333331
 404	"company"	". to"	"67 3 / 4"	0.0
-404	"5 1"	"1"	"/ 4"	1.5
 404	"5 1"	"4 or"	"8.4"	1.25
 404	"5 1"	"percent Shares ."	"5 1 / 4 or 8.4 percent"	0.08333333333333331
 404	"5 1"	". to 4"	"67 3"	0.08333333333333331
@@ -7759,16 +7628,13 @@ Remove the yolks carefully , mash them very fanE$ and season sparely with mustar
 405	"season"	"and mash with mustard vinegar salt"	"pepper"	-0.08333333333333334
 405	"season"	"and mash with mustard vinegar salt pepper and"	"a tablespoonful"	-0.125
 405	"season"	"and mash with mustard vinegar salt pepper and tablespoonful of"	"melted butter"	-0.15
-405	"mustard"	"mustard"	"vinegar"	1.5
 405	"mustard"	"vinegar"	"salt"	1.3333333333333333
 405	"mustard"	"vinegar salt"	"pepper"	1.25
 405	"mustard"	"vinegar salt pepper and"	"a tablespoonful"	1.1666666666666667
 405	"mustard"	"vinegar salt pepper and tablespoonful of"	"melted butter"	1.125
-405	"vinegar"	"vinegar"	"salt"	1.5
 405	"vinegar"	"salt"	"pepper"	1.3333333333333333
 405	"vinegar"	"salt pepper and"	"a tablespoonful"	1.2
 405	"vinegar"	"salt pepper and tablespoonful of"	"melted butter"	1.1428571428571428
-405	"salt"	"salt"	"pepper"	1.5
 405	"salt"	"pepper and"	"a tablespoonful"	1.25
 405	"salt"	"pepper and tablespoonful of"	"melted butter"	1.1666666666666667
 405	"pepper"	"and"	"a tablespoonful"	1.3333333333333333
@@ -7970,7 +7836,6 @@ By GREG LUCAS The end-of-the-month deadlines are a result of the landmark Immigr
 416	"a result"	"of landmark"	"Immigration Reform Act"	1.25
 416	"a result"	"are passed by"	"Congress"	-0.25
 416	"a result"	"are passed"	"last year"	-0.16666666666666669
-416	"the landmark"	"landmark"	"Immigration Reform Act"	1.5
 416	"the landmark"	"of are passed by"	"Congress"	0.0
 416	"the landmark"	"of are passed"	"last year"	0.08333333333333331
 416	"the landmark"	"of are passed to turn"	"the tide"	-0.04999999999999999
@@ -8097,7 +7962,6 @@ Helou joins a number of top writers like Claudia Roden , Paula Wolfert and Nancy
 425	"top writers"	"like Roden"	"Paula Wolfert"	1.25
 425	"top writers"	"like Roden Wolfert and"	"Nancy Harmon Jenkins"	1.1666666666666667
 425	"top writers"	"of joins in making"	"the Mediterranean"	0.0
-425	"Claudia Roden"	"Roden"	"Paula Wolfert"	1.5
 425	"Claudia Roden"	"Wolfert and"	"Nancy Harmon Jenkins"	1.25
 425	"Claudia Roden"	"like writers of joins in making"	"the Mediterranean"	0.08333333333333334
 425	"Claudia Roden"	"like writers of joins in making"	"the focus"	0.08333333333333334
@@ -8211,7 +8075,6 @@ They defeated the defending champion Philadelphia Eagles handily in their first 
 428	"They"	"defeated champion"	"Philadelphia Eagles"	0.8333333333333333
 428	"They"	"defeated in game"	"their"	0.75
 428	"They"	"defeated in"	"their first NFL game"	0.8333333333333333
-428	"the defending champion"	"champion"	"Philadelphia Eagles"	1.5
 428	"the defending champion"	"defeated in game"	"their"	-0.25
 428	"the defending champion"	"defeated in"	"their first NFL game"	-0.16666666666666669
 428	"Philadelphia Eagles"	"defeated in game"	"their"	-0.08333333333333331
@@ -8240,7 +8103,6 @@ Two other suspects , Brian Jay Robbins , 28 , and Ronald Eugene Timms , late 20s
 429	"Two other suspects Brian Jay Robbins 28"	"and were"	"Ronald Eugene Timms"	1.25
 429	"Two other suspects Brian Jay Robbins 28"	"and were Timms"	"late 20s"	1.2
 429	"Two other suspects Brian Jay Robbins 28"	"and were arrested"	"Wednesday afternoon"	1.2
-429	"Ronald Eugene Timms"	"Timms"	"late 20s"	1.5
 429	"Ronald Eugene Timms"	"were arrested"	"Wednesday afternoon"	0.8333333333333333
 429	"late 20s"	"were arrested"	"Wednesday afternoon"	0.6666666666666666
 Are the awards just an excuse to haul the stars out in finery given to them by designers ? 
@@ -8343,7 +8205,6 @@ We moved boxes and bags , favorite shirts and CDs , computer , new socks , noteb
 436	"We"	"moved would"	"computer"	0.8333333333333333
 436	"We"	"moved would"	"new socks"	0.8333333333333333
 436	"boxes"	"and"	"bags"	1.3333333333333333
-436	"boxes"	"boxes"	"favorite shirts"	1.5
 436	"boxes"	"shirts and"	"CDs"	1.25
 436	"boxes"	"moved would"	"computer"	-0.16666666666666669
 436	"boxes"	"moved would"	"new socks"	-0.16666666666666669
@@ -8369,11 +8230,9 @@ We moved boxes and bags , favorite shirts and CDs , computer , new socks , noteb
 436	"computer"	"would socks"	"notebooks"	0.16666666666666669
 436	"computer"	"would socks notebooks"	"tennis racket"	0.25
 436	"computer"	"would socks notebooks racket and"	"shoebox"	0.33333333333333337
-436	"new socks"	"socks"	"notebooks"	1.5
 436	"new socks"	"notebooks"	"tennis racket"	1.3333333333333333
 436	"new socks"	"notebooks racket and"	"shoebox"	1.2
 436	"new socks"	"stuffed with"	"emergency chocolate cupcakes"	1.25
-436	"notebooks"	"notebooks"	"tennis racket"	1.5
 436	"notebooks"	"racket and"	"shoebox"	1.25
 436	"notebooks"	"socks stuffed with"	"emergency chocolate cupcakes"	-0.25
 436	"tennis racket"	"and"	"shoebox"	1.3333333333333333
@@ -8499,7 +8358,6 @@ Hot-rolled and cold-rolled sheet , which has a smoother finish and is used on th
 440	"a smoother finish"	"has and is used for"	"about half"	-0.33333333333333337
 440	"the outside"	"of"	"autos"	1.3333333333333333
 440	"the outside"	"of autos and"	"appliances"	1.2
-440	"the outside"	"outside"	"account"	1.5
 440	"the outside"	"used for"	"about half"	0.0
 440	"the outside"	"used for half of"	"all U.S. steel shipments"	-0.1333333333333333
 440	"autos"	"and"	"appliances"	1.3333333333333333
@@ -8615,7 +8473,6 @@ Traina and three other trustees , including Fletcher and Clark treasurer James E
 446	"Fletcher"	"and treasurer"	"James E. Collins"	1.25
 446	"Fletcher"	"and treasurer make $"	"123,000"	1.1666666666666667
 446	"Fletcher"	"and treasurer make $"	"a year"	1.1666666666666667
-446	"Clark treasurer"	"treasurer"	"James E. Collins"	1.5
 446	"Clark treasurer"	"make $"	"123,000"	1.25
 446	"Clark treasurer"	"make $"	"a year"	1.25
 446	"Clark treasurer"	"make for"	"part-time work"	1.25
@@ -8631,7 +8488,6 @@ In fact , Fox , ABC and UPN are offering the same shows in the time slot now as 
 447	"fact"	"are Fox ABC and"	"UPN"	0.1333333333333333
 447	"fact"	"are offering"	"the same shows"	0.6666666666666666
 447	"fact"	"are offering in"	"the time slot"	0.5833333333333333
-447	"Fox"	"Fox"	"ABC"	1.5
 447	"Fox"	"ABC and"	"UPN"	1.25
 447	"Fox"	"are offering"	"the same shows"	0.8333333333333333
 447	"Fox"	"are offering in"	"the time slot"	0.75
@@ -8781,7 +8637,6 @@ As dramatic as these developments are , the tipping point is a long way off , sa
 459	"a long way"	"said"	"Stephen S. Roach"	1.0
 459	"a long way"	"said Roach"	"chief economist"	0.8333333333333333
 459	"a long way"	"said Roach economist at"	"Morgan Stanley"	0.7
-459	"Stephen S. Roach"	"Roach"	"chief economist"	1.5
 459	"Stephen S. Roach"	"economist at"	"Morgan Stanley"	1.25
 459	"chief economist"	"at"	"Morgan Stanley"	1.3333333333333333
 For this year , Thailand is bracing for growth of only 3 percent or even a recession ; the Philippines expects gross domestic product to grow 5.55 percent ; Standard & AMP ; Poor 's expects Malaysia to grow 7 percent ; Indonesia 's economy is expected to expand 7 percent and Singapore 's between 6 percent and 7 percent . 
@@ -8885,7 +8740,6 @@ Company after company followed suit as heightened security at major airports pos
 When speed is your life , the race never ends . 
 462	"speed"	"is"	"your life"	1.0
 462	"speed"	"is life"	"the race"	0.8333333333333333
-462	"your life"	"life"	"the race"	1.5
 That carpet cleaning company was started by a 16-year old who wound up with stock worth more than $ 100 million after his company went public . 
 463	"That carpet"	"was"	"That carpet cleaning company"	-0.16666666666666669
 463	"That carpet"	"was started by"	"a 16-year"	0.5833333333333333
@@ -8914,7 +8768,6 @@ In Norway , striking offshore oil workers forced state-owned oil company Statoil
 464	"striking offshore oil workers"	"forced to shut field"	"its"	0.7
 464	"striking offshore oil workers"	"forced to shut field"	"40,000 barrel-a-day"	0.7
 464	"striking offshore oil workers"	"forced to shut"	"its 40,000 barrel-a-day Yme oil field"	0.75
-464	"state-owned oil company"	"company"	"Statoil"	1.5
 464	"state-owned oil company"	"forced to shut field"	"its"	-0.3
 464	"state-owned oil company"	"forced to shut field"	"40,000 barrel-a-day"	-0.3
 464	"state-owned oil company"	"forced to shut"	"its 40,000 barrel-a-day Yme oil field"	-0.25
@@ -8958,7 +8811,6 @@ In return for shelling out the $ 368.5 billion , Philip Morris , RJR Nabisco Hol
 467	"Philip Morris"	"would Holdings"	"Corp."	0.16666666666666669
 467	"Philip Morris"	"would Holdings and"	"other tobacco companies"	0.25
 467	"Philip Morris"	"would obtain"	"protection"	0.8333333333333333
-467	"RJR Nabisco Holdings"	"Holdings"	"Corp."	1.5
 467	"RJR Nabisco Holdings"	"and"	"other tobacco companies"	1.3333333333333333
 467	"RJR Nabisco Holdings"	"would obtain"	"protection"	0.8333333333333333
 467	"RJR Nabisco Holdings"	"would obtain protection from"	"future class-action lawsuits"	0.7
@@ -9032,7 +8884,6 @@ Specifically , he 's driven by the prospect of rematches with Shane Mosley and F
 472	"Shane Mosley"	"and"	"Felix Trinidad"	1.3333333333333333
 472	"Shane Mosley"	"and Trinidad"	"the only fighters"	1.25
 472	"Shane Mosley"	"with rematches of prospect by 's to beat"	"him"	0.125
-472	"Felix Trinidad"	"Trinidad"	"the only fighters"	1.5
 472	"Felix Trinidad"	"and Mosley with rematches of prospect by 's to beat"	"him"	0.15
 472	"the only fighters"	"Trinidad and Mosley with rematches of prospect by 's to beat"	"him"	0.1590909090909091
 Efforts to reach Johnson were unsuccessful . 
@@ -9082,7 +8933,6 @@ Lee Janzen IF PUSHED TO THE WALL , ISRAEL MIGHT FIRE NUKES That earned him the r
 478	"Lee Janzen IF PUSHED"	"NUKES earned"	"him"	0.8333333333333333
 478	"Lee Janzen IF PUSHED"	"NUKES earned"	"the respect"	0.8333333333333333
 478	"Lee Janzen IF PUSHED"	"NUKES earned respect of"	"analysts"	0.7
-478	"THE WALL"	"WALL"	"ISRAEL MIGHT FIRE"	1.5
 478	"THE WALL"	"NUKES earned"	"him"	0.6666666666666666
 478	"THE WALL"	"NUKES earned"	"the respect"	0.6666666666666666
 478	"THE WALL"	"NUKES earned respect of"	"analysts"	0.5333333333333333
@@ -9103,7 +8953,6 @@ Lee Janzen IF PUSHED TO THE WALL , ISRAEL MIGHT FIRE NUKES That earned him the r
 478	"analysts"	"of earned though remains"	"the public"	0.0
 478	"investors"	"and analysts of earned though remains"	"the public"	0.08333333333333334
 Arnoldy logs about 30,000 miles a year aboard Intrepid , parking it on a private siding in Houston when he 's not riding the rails . 
-479	"30,000 miles"	"miles"	"a year"	1.5
 479	"30,000 miles"	"logs aboard"	"Intrepid"	0.0
 479	"30,000 miles"	"logs parking"	"it"	0.0
 479	"30,000 miles"	"logs parking on"	"a private siding"	-0.08333333333333331
@@ -9157,7 +9006,6 @@ The Treasury Department is responsible for U.S. foreign exchange policy .
 481	"The Treasury Department"	"is responsible for"	"U.S. foreign exchange policy"	0.75
 481	"U.S."	"policy for is responsible for"	"U.S. foreign exchange policy"	0.04999999999999999
 So is Nissan Motor Co. 's Altima . 
-482	"Nissan Motor"	"Motor"	"Co."	1.5
 482	"Nissan Motor"	"is"	"Nissan Motor Co. 's Altima"	0.16666666666666669
 482	"Co."	"Motor is"	"Nissan Motor Co. 's Altima"	0.25
 Television pictures showed police officers climbing over the roof and entering the offices of two related companies , Tatari Design and Tatex Trading G.m.b.H. , in Fitzbek , a village 35 miles from Hamburg . 
@@ -9185,7 +9033,6 @@ Television pictures showed police officers climbing over the roof and entering t
 483	"two"	"companies"	"Tatari Design"	1.0
 483	"two"	"companies Design and"	"Tatex Trading G.m.b.H."	0.75
 483	"two"	"companies in"	"Fitzbek"	0.8333333333333333
-483	"two related companies"	"companies"	"Tatari Design"	1.5
 483	"two related companies"	"Design and"	"Tatex Trading G.m.b.H."	1.25
 483	"two related companies"	"in"	"Fitzbek"	1.3333333333333333
 483	"two related companies"	"of offices entering and climbing showed . Hamburg from"	"a village 35 miles"	0.07500000000000001
@@ -9200,7 +9047,6 @@ Television pictures showed police officers climbing over the roof and entering t
 483	"Fitzbek"	"in companies of offices entering and climbing showed ."	"a village 35 miles from Hamburg"	0.2333333333333333
 483	"a village 35 miles"	"from Hamburg showed ."	"a village 35 miles from Hamburg"	0.1333333333333333
 Sprint Corp. 's recent disclosure that it expects a net loss in wireless customers this quarter helped send the company 's PCS tracking stock below $ 2 on Wednesday for the first time . 
-484	"Sprint"	"Sprint"	"Corp."	1.5
 484	"Sprint"	"."	"Sprint Corp. 's recent disclosure"	-0.16666666666666669
 484	"Sprint"	"disclosure that expects"	"it"	0.75
 484	"Sprint"	"disclosure that expects"	"a net loss"	0.75
@@ -9313,7 +9159,6 @@ They say it cannot be done , but we beat City Hall , ' ' said Becky Fenger , a s
 488	"City Hall"	"beat said"	"Becky Fenger"	0.75
 488	"City Hall"	"beat said Fenger"	"a spokesperson"	0.5833333333333333
 488	"City Hall"	"beat said Fenger spokesperson for"	"NO Transit Taxes"	0.45
-488	"Becky Fenger"	"Fenger"	"a spokesperson"	1.5
 488	"Becky Fenger"	"spokesperson for"	"NO Transit Taxes"	1.25
 488	"a spokesperson"	"for"	"NO Transit Taxes"	1.3333333333333333
 When the university 's president , Richard P. Traina , retired in 2000 , he moved right into a spot on the board of the George I. Alden Trust , a $ 135 million foundation that 's run out of Fletcher , Tilton 's offices and which has been a strong Clark supporter . 
@@ -9321,7 +9166,6 @@ When the university 's president , Richard P. Traina , retired in 2000 , he move
 489	"the university"	"president"	"Richard P. Traina"	1.0
 489	"the university"	"president retired in"	"2000"	0.75
 489	"the university"	"moved"	"he"	-0.16666666666666669
-489	"the university 's president"	"president"	"Richard P. Traina"	1.5
 489	"the university 's president"	"retired in"	"2000"	1.25
 489	"the university 's president"	"moved"	"he"	0.0
 489	"the university 's president"	"moved into"	"a spot"	0.8333333333333333
@@ -9343,7 +9187,6 @@ When the university 's president , Richard P. Traina , retired in 2000 , he move
 489	"the board"	"of Trust foundation $"	"million"	1.1666666666666667
 489	"the board"	"of Trust"	"a $ 135 million foundation"	1.25
 489	"the George I. Alden Trust"	"foundation $"	"million"	1.25
-489	"the George I. Alden Trust"	"Trust"	"a $ 135 million foundation"	1.5
 489	"the George I. Alden Trust"	"foundation 's run out of"	"Fletcher"	1.1428571428571428
 489	"the George I. Alden Trust"	"of board moved . offices"	"Tilton"	0.04999999999999999
 489	"million"	"$ foundation Trust of board moved on board of Trust"	"a $ 135 million foundation"	0.04166666666666666
@@ -9395,7 +9238,6 @@ Its commercial spine , 18th Avenue , is chock full of pork and pasta stores and 
 491	"pasta"	"and pork stores of is ."	"the Italian colors"	0.19047619047619047
 491	"pork and pasta stores"	"of is ."	"the Italian colors"	0.08333333333333331
 Instead of converging on the meeting place , Hall and Sax both approached from the same direction . 
-492	"the meeting place"	"place"	"Hall"	1.5
 492	"the meeting place"	"and"	"Sax"	1.3333333333333333
 492	"the meeting place"	"on converging . approached from"	"the same direction"	-0.04999999999999999
 492	"Hall"	"place and"	"Sax"	-0.16666666666666669

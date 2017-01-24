@@ -5,10 +5,7 @@ import math
 def estimate_weights(corrects, incorrects, unknowns):
     corr_tfs, corr_idfs = calculate_tfs_idfs(corrects)
     incorr_tfs, incorr_idfs = calculate_tfs_idfs(incorrects)
-
-    annotated_unknowns = cos_sim(corr_tfs, corr_idfs, incorr_tfs, incorr_idfs, unknowns)
-
-    return annotated_unknowns
+    return cos_sim(corr_tfs, corr_idfs, incorr_tfs, incorr_idfs, unknowns)
 
 
 def calculate_tfs_idfs(outputs):
@@ -52,8 +49,8 @@ def cos_sim(corr_tfs, corr_idfs, incorr_tfs, incorr_idfs, unannotated_unknowns):
                 words = [word.lower().strip('"') for word in arg.split()]
                 query += words
             query_tfs = {term: count / len(query) for term, count in Counter(query).items()}
-            corr_query_tfidfs = {}
-            incorr_query_tfidfs = {}
+            corr_query_tfidfs, incorr_query_tfidfs = {}, {}
+
             for term, tf in query_tfs.items():
                 if term not in corr_idfs:
                     corr_query_tfidfs[term] = 0
@@ -91,6 +88,5 @@ def cos_sim(corr_tfs, corr_idfs, incorr_tfs, incorr_idfs, unannotated_unknowns):
                     anno_known[i][extract] = 0
             else:
                 anno_known[i][extract] = 0.5
-
 
     return anno_known

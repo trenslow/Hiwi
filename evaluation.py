@@ -7,12 +7,12 @@ import operator
 from estimate import estimate_weights
 
 
-def read_extraction_file(output):
+def read_extraction_file(file):
     extraction_idx = {}
-    sent_id = 0
+    sent_id = -1
 
-    with open(output, encoding='latin-1') as file:
-        for line in file:
+    with open(file, encoding='latin-1') as f:
+        for line in f:
             # split line by tabs
             ln = line.strip().split('\t')
             # In the case the line in the file is the original sentence, skip the line.
@@ -26,9 +26,6 @@ def read_extraction_file(output):
                 sent_id = int(ln[0])
                 extraction = tuple([l.replace(' , ', ' ') for l in ln[1:-1]])
                 conf = float(ln[-1])
-                # initialize the extraction index entry with the index as key and empty dict as value
-                if sent_id not in extraction_idx:
-                    extraction_idx[sent_id] = {}
                 # initialize the dict for each extraction index with extraction as key and confidence as value
                 if extraction not in extraction_idx[sent_id]:
                     extraction_idx[sent_id][extraction] = {}
@@ -80,7 +77,7 @@ def compare(gold, extractions, nemex):
         return prec_by_extr, corr, incorr
 
 
-def write_eval_results(corrs, incorrs, unkwns, out_folder, dat_set, system, sent_idx):
+def write_nemex_results(corrs, incorrs, unkwns, out_folder, dat_set, system, sent_idx):
     path_to_txt = out_folder + dat_set + '/'
     correct_file = open(path_to_txt + system + '_' + 'correct.txt', 'w+')
     incorrect_file = open(path_to_txt + system + '_' + 'incorrect.txt', 'w+')
@@ -111,19 +108,16 @@ def write_eval_results(corrs, incorrs, unkwns, out_folder, dat_set, system, sent
 def write_stats_file(out_folder, dat_set, system, num_gold_corrs, num_gold_incorrs,
                      num_nemex_corrs, num_nemex_incorrs, num_nemex_unknwns):
     path_to_file = out_folder + dat_set + '/'
-    stats_file = open(path_to_file + system + '_' + 'stats.txt', 'w+')
-    num_extractions = num_nemex_corrs + num_nemex_incorrs
-
-    stats_file.write('For the system ' + system + ', on the ' + dat_set + ' data set:' + '\n')
-    stats_file.write('# of nemex positives / # of total positives = ' + str(num_nemex_corrs) + ' / ' +
-                     str(num_gold_corrs) + ' = ' + '{0:.2%}'.format(num_nemex_corrs / num_gold_corrs) + '\n')
-    stats_file.write('# of nemex negatives / # of total negatives = ' + str(num_nemex_incorrs) + ' / ' +
-                     str(num_gold_incorrs) + ' = ' + '{0:.2%}'.format(num_nemex_incorrs / num_gold_incorrs) + '\n')
-    stats_file.write('# of nemex unknowns: ' + str(num_nemex_unknwns) + '\n')
-    stats_file.write('precision = ' + str(num_nemex_corrs) + ' / ' + str(num_extractions) +
-                     ' = ' + '{0:.2%}'.format(num_nemex_corrs / num_extractions))
-
-    stats_file.close()
+    with open(path_to_file + system + '_' + 'stats.txt', 'w+') as stats_file:
+        num_extractions = num_nemex_corrs + num_nemex_incorrs
+        stats_file.write('For the system ' + system + ', on the ' + dat_set + ' data set:' + '\n')
+        stats_file.write('# of nemex positives / # of total positives = ' + str(num_nemex_corrs) + ' / ' +
+                         str(num_gold_corrs) + ' = ' + '{0:.2%}'.format(num_nemex_corrs / num_gold_corrs) + '\n')
+        stats_file.write('# of nemex negatives / # of total negatives = ' + str(num_nemex_incorrs) + ' / ' +
+                         str(num_gold_incorrs) + ' = ' + '{0:.2%}'.format(num_nemex_incorrs / num_gold_incorrs) + '\n')
+        stats_file.write('# of nemex unknowns: ' + str(num_nemex_unknwns) + '\n')
+        stats_file.write('precision = ' + str(num_nemex_corrs) + ' / ' + str(num_extractions) +
+                         ' = ' + '{0:.2%}'.format(num_nemex_corrs / num_extractions))
 
 
 def graph(dat, color, style, sys_name, width, data_name, xlim):
@@ -161,7 +155,7 @@ def create_output_directory(out_folder):
 
 
 if __name__ == '__main__':
-    system_name = r'extractions-(.*?).txt'
+    system_regex = r'extractions-(.*?).txt'
     nyt_folder = 'ClausIE/nyt/'
     reverb_folder = 'ClausIE/reverb/'
     wiki_folder = 'ClausIE/wikipedia/'
@@ -171,12 +165,12 @@ if __name__ == '__main__':
 
     # index that keeps track of all the paths to the output files
     # filters out any files that don't have extractions in them
-    output_file_index = {nyt_folder: {re.findall(system_name, n)[0]: n
-                                      for n in os.listdir(nyt_folder) if 'extractions' in n},
-                         reverb_folder: {re.findall(system_name, r)[0]: r
-                                         for r in os.listdir(reverb_folder) if 'extractions' in r},
-                         wiki_folder: {re.findall(system_name, w)[0]: w
-                                       for w in os.listdir(wiki_folder) if 'extractions' in w}
+    output_file_index = {nyt_folder: {re.findall(system_regex, n)[0]: n
+                                      for n in os.listdir(nyt_folder) if 'extractions' in n and 'all' not in n},
+                         reverb_folder: {re.findall(system_regex, r)[0]: r
+                                         for r in os.listdir(reverb_folder) if 'extractions' in r and 'all' not in r},
+                         wiki_folder: {re.findall(system_regex, w)[0]: w
+                                       for w in os.listdir(wiki_folder) if 'extractions' in w and 'all' not in w}
                          }
 
     # colors taken from graphs in ClausIE paper, nemex colors chosen for best contrast
@@ -197,69 +191,78 @@ if __name__ == '__main__':
     for path, data in sorted(output_file_index.items(), key=operator.itemgetter(0)):
         # initialize the number of max extractions to be used for setting x-axis limits later
         x_limit = 0
-        path_to_gold = path + data['all-labeled']
+        path_to_gold = path + 'extractions-all-labeled.txt'
         with open(path_to_gold, encoding='latin-1') as f:
             sentence_index = {i: sent for i, sent in enumerate([line for line in f
                                                                 if len(line.strip().split('\t')) == 1])}
         data_set_name = re.findall(r'ClausIE/(.*?)/', path)[0]
         for system, out_file in sorted(data.items(), key=operator.itemgetter(0)):
-            # skip over the all files
-            if 'all' not in out_file:
-                # fetch gold standard path and read its data into a dictionary
-                gold_index = read_extraction_file(path_to_gold)
-                gold_corrects = {i: {extr: weight for extr, weight in extrs.items() if weight == 1}
-                                 for i, extrs in gold_index.items()}
-                gold_incorrects = {i: {extr: weight for extr, weight in extrs.items() if weight == 0}
-                                   for i, extrs in gold_index.items()}
-                # read the output file and collect all the data into a dictionary
-                extraction_index = read_extraction_file(path + out_file)
-                # plot results, making the Nemex lines stand out more, and write Nemex results to file
-                if 'nemex' in system:
-                    line_width = 2.0
-                    line_style = 'solid'
-                    # compare a nemex output against the gold standard
-                    precision_by_extraction, corrects, incorrects, unknowns = compare(gold_index,
-                                                                                      extraction_index, True)
-                    unknowns_and_weights = estimate_weights(gold_corrects, gold_incorrects, unknowns)
+            # read gold standard data into dictionary
+            gold_index = read_extraction_file(path_to_gold)
+            gold_corrects = {i: {extr: weight for extr, weight in extrs.items() if weight == 1}
+                             for i, extrs in gold_index.items()}
+            gold_incorrects = {i: {extr: weight for extr, weight in extrs.items() if weight == 0}
+                               for i, extrs in gold_index.items()}
+            # read a system's output into a dictionary
+            extraction_index = read_extraction_file(path + out_file)
+            # plot results, making the Nemex lines stand out more, and write Nemex results to file
+            if 'nemex' in system:
+                line_width = 2.0
+                line_style = 'solid'
+                # compare a nemex output against the gold standard
+                precision_by_extraction, corrects, incorrects, unknowns = compare(gold_index,
+                                                                                  extraction_index, True)
+                unknowns_and_weights, no_corr, no_incorr, no_either = estimate_weights(gold_corrects,
+                                                                                       gold_incorrects, unknowns)
 
-                    num_gold_corrects = sum([len(lst) for lst in gold_corrects.values()])
-                    num_gold_incorrects = sum([len(lst) for lst in gold_incorrects.values()])
-                    num_nemex_corrects = sum([len(lst) for lst in corrects.values()])
-                    num_nemex_incorrects = sum([len(lst) for lst in incorrects.values()])
-                    num_nemex_unknowns = sum([len(lst) for lst in unknowns.values()])
+                num_unknowns = sum([len(e) for e in unknowns.values()])
+                with open(output_folder + data_set_name + '/' + system + '_estimation.txt', 'w+') as est_results:
+                    est_results.write('total unknown extractions: ' + str(num_unknowns) + '\n')
+                    est_results.write('no correct doc or query:(labeled as 0) ' + str(no_corr) + ' / ' +
+                                      str(num_unknowns) + ' = ' + str(no_corr / num_unknowns) + '\n')
+                    est_results.write('no incorrect doc or query:(labeled as 1) ' + str(no_incorr) + ' / ' +
+                                      str(num_unknowns) + ' = ' + str(no_incorr / num_unknowns) + '\n')
+                    est_results.write('no correct and no incorrect doc or query:(labeled as 0.5) ' + str(no_either) +
+                                      ' / ' + str(num_unknowns) + ' = ' + str(no_either / num_unknowns))
 
-                    write_eval_results(corrects, incorrects, unknowns_and_weights, output_folder,
-                                       data_set_name, system, sentence_index)
-                    write_stats_file(output_folder, data_set_name, system,
-                                     num_gold_corrects, num_gold_incorrects,
-                                     num_nemex_corrects, num_nemex_incorrects, num_nemex_unknowns)
+                num_gold_corrects = sum([len(lst) for lst in gold_corrects.values()])
+                num_gold_incorrects = sum([len(lst) for lst in gold_incorrects.values()])
+                num_nemex_corrects = sum([len(lst) for lst in corrects.values()])
+                num_nemex_incorrects = sum([len(lst) for lst in incorrects.values()])
+                num_nemex_unknowns = sum([len(lst) for lst in unknowns.values()])
 
-                else:
-                    line_width = 1.0
-                    line_style = 'dashed'
-                    # compare a system's output against the gold standard
-                    precision_by_extraction, corrects, incorrects = compare(gold_index, extraction_index, False)
+                write_nemex_results(corrects, incorrects, unknowns_and_weights, output_folder,
+                                   data_set_name, system, sentence_index)
+                write_stats_file(output_folder, data_set_name, system,
+                                 num_gold_corrects, num_gold_incorrects,
+                                 num_nemex_corrects, num_nemex_incorrects, num_nemex_unknowns)
 
-                # for plots analogous to those on the ClausIE paper
-                total_extractions = len(precision_by_extraction)
-                if full_plots:
-                    if total_extractions > x_limit:
-                        x_limit = total_extractions
-                    graph(precision_by_extraction, colors[system], line_style, system, line_width,
-                          data_set_name, x_limit)
-                # plot a development and test set
-                else:
-                    # slice the data into development and test sets
-                    # development set is the first half of data, test half is last half
-                    slice_idx = total_extractions // 2
-                    dev_set = precision_by_extraction[:slice_idx]
-                    test_set = precision_by_extraction[slice_idx:]
-                    if slice_idx + 1 > x_limit:
-                        x_limit = slice_idx + 1
-                    graph_subplots(1, dev_set, colors[system], line_style, system, line_width,
-                                   False, data_set_name, x_limit)
-                    graph_subplots(2, test_set, colors[system], line_style, system, line_width,
-                                   True, data_set_name, x_limit)
+            else:
+                line_width = 1.0
+                line_style = 'dashed'
+                # compare a system's output against the gold standard
+                precision_by_extraction, corrects, incorrects = compare(gold_index, extraction_index, False)
+
+            # for plots analogous to those on the ClausIE paper
+            total_extractions = len(precision_by_extraction)
+            if full_plots:
+                if total_extractions > x_limit:
+                    x_limit = total_extractions
+                graph(precision_by_extraction, colors[system], line_style, system, line_width,
+                      data_set_name, x_limit)
+            # split the plot into development and test sets
+            else:
+                # slice the data into development and test sets
+                # development set is the first half of data, test set is last half
+                slice_idx = total_extractions // 2
+                dev_set = precision_by_extraction[:slice_idx]
+                test_set = precision_by_extraction[slice_idx:]
+                if slice_idx + 1 > x_limit:
+                    x_limit = slice_idx + 1
+                graph_subplots(1, dev_set, colors[system], line_style, system, line_width,
+                               False, data_set_name, x_limit)
+                graph_subplots(2, test_set, colors[system], line_style, system, line_width,
+                               True, data_set_name, x_limit)
 
         plt.savefig(output_folder + data_set_name + '/' + data_set_name + '_plot.pdf', format='pdf', dpi=1200)
         plt.show()

@@ -31,18 +31,19 @@ def calculate_tfs_idfs(outputs):
                 buffer.update(words)
         num_docs_with_term.update(buffer)
 
-    tfs = {i: {word: count / sum(counter.values()) for word, count in counter.items()}
-           for i, counter in counts_by_sent.items()}
+    tfs = {sent: {word: count / sum(counter.values()) for word, count in counter.items()}
+           for sent, counter in counts_by_sent.items()}
 
-    idfs = {term: 1 + math.log(num_docs / freq) for term, freq in num_docs_with_term.items()}
+    idfs = {term: math.log(num_docs / freq) for term, freq in num_docs_with_term.items()}
 
     return tfs, idfs
 
 
 def cos_sim(corr_tfs, corr_idfs, incorr_tfs, incorr_idfs, unannotated_unknowns):
     anno_known = {i: {e: 0 for e in extracts} for i, extracts in unannotated_unknowns.items()}
+    no_corr, no_incorr, no_either = 0, 0, 0
 
-    for i, extracts in unannotated_unknowns.items():
+    for i, extracts in sorted(unannotated_unknowns.items()):
         for extract in extracts:
             query = []
             for arg in extract:
@@ -86,7 +87,16 @@ def cos_sim(corr_tfs, corr_idfs, incorr_tfs, incorr_idfs, unannotated_unknowns):
                     anno_known[i][extract] = 1
                 else:
                     anno_known[i][extract] = 0
+            elif corr_mag_a and corr_mag_b and not incorr_mag_a or not incorr_mag_b:
+                no_incorr += 1
+                anno_known[i][extract] = 1
+
+            elif incorr_mag_a and incorr_mag_b and not corr_mag_a or not corr_mag_b:
+                no_corr += 1
+                anno_known[i][extract] = 0
+
             else:
+                no_either += 1
                 anno_known[i][extract] = 0.5
 
-    return anno_known
+    return anno_known, no_corr, no_incorr, no_either

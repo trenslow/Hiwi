@@ -105,12 +105,12 @@ def write_nemex_results(corrs, incorrs, unkwns, out_folder, dat_set, system, sen
     unknown_file.close()
 
 
-def write_stats_file(out_folder, dat_set, system, num_gold_corrs, num_gold_incorrs,
+def write_stats_file(out_folder, data_set, system, num_gold_corrs, num_gold_incorrs,
                      num_nemex_corrs, num_nemex_incorrs, num_nemex_unknwns):
-    path_to_file = out_folder + dat_set + '/'
+    path_to_file = out_folder + data_set + '/'
     with open(path_to_file + system + '_' + 'stats.txt', 'w+') as stats_file:
         num_extractions = num_nemex_corrs + num_nemex_incorrs
-        stats_file.write('For the system ' + system + ', on the ' + dat_set + ' data set:' + '\n')
+        stats_file.write('For the system ' + system + ', on the ' + data_set + ' data set:' + '\n')
         stats_file.write('# of nemex positives / # of total positives = ' + str(num_nemex_corrs) + ' / ' +
                          str(num_gold_corrs) + ' = ' + '{0:.2%}'.format(num_nemex_corrs / num_gold_corrs) + '\n')
         stats_file.write('# of nemex negatives / # of total negatives = ' + str(num_nemex_incorrs) + ' / ' +
@@ -152,6 +152,17 @@ def create_output_directory(out_folder):
         os.makedirs(out_folder + 'reverb/')
     if not os.path.exists(out_folder + 'wikipedia/'):
         os.makedirs(out_folder + 'wikipedia/')
+
+
+def write_new_vocab(new, corr, out_fold, dat_set, syst):
+    path_to_file = out_fold + dat_set + '/'
+    if corr:
+        typ = 'correct'
+    else:
+        typ = 'incorrect'
+    with open(path_to_file + syst + '_' + 'new_' + typ + '.txt', 'w+') as n:
+        for word, count in sorted(new.items(), key=operator.itemgetter(1), reverse=True):
+            n.write(word + '\t' + str(count) + '\n')
 
 
 if __name__ == '__main__':
@@ -212,8 +223,11 @@ if __name__ == '__main__':
                 # compare a nemex output against the gold standard
                 precision_by_extraction, corrects, incorrects, unknowns = compare(gold_index,
                                                                                   extraction_index, True)
-                unknowns_and_weights, no_corr, no_incorr, no_either = estimate_weights(gold_corrects,
-                                                                                       gold_incorrects, unknowns)
+                unknowns_and_weights, no_corr, no_incorr, no_either, new_corr, new_incorr = estimate_weights(
+                    gold_corrects, gold_incorrects, unknowns)
+
+                write_new_vocab(new_corr, True, output_folder, data_set_name, system)
+                write_new_vocab(new_incorr, False, output_folder, data_set_name, system)
 
                 num_unknowns = sum([len(e) for e in unknowns.values()])
                 with open(output_folder + data_set_name + '/' + system + '_estimation.txt', 'w+') as est_results:

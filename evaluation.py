@@ -162,8 +162,8 @@ def write_new_vocab(new, corr, out_fold, dat_set, syst):
     else:
         typ = 'incorrect'
     with open(path_to_file + syst + '_' + 'new_' + typ + '.txt', 'w+') as n:
-        for sent_id, exs in sorted(new.items(), key=operator.itemgetter(0)):
-            for ex, words in sorted(exs.items(), key=operator.itemgetter(0)):
+        for sent_id, exs in new.items():
+            for ex, words in exs.items():
                 if words:
                     n.write(str(sent_id) + '-' + str(ex) + '\t' + ','.join(word for word in words) + '\n')
 

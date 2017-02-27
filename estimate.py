@@ -17,7 +17,7 @@ def calculate_tfs_idfs(outputs):
 
     for i, extrs in outputs.items():
         counts_by_sent[i] = Counter()
-        buffer = set()
+        buffer = []
         # split up extractions
         for ex in extrs:
             # split up args
@@ -29,7 +29,9 @@ def calculate_tfs_idfs(outputs):
                 up = e.strip('"')
                 words = [u.lower() for u in up.split()]
                 counts_by_sent[i].update(words)
-                buffer.update(words)
+                for w in words:
+                    if w not in buffer:
+                        buffer.append(w)
         num_docs_with_term.update(buffer)
 
     tfs = {sent: {word: count / sum(counter.values()) for word, count in counter.items()}
@@ -49,7 +51,7 @@ def cos_sim(corr_tfs, corr_idfs, incorr_tfs, incorr_idfs, unannotated_unknowns):
     no_corr, no_incorr, no_either = 0, 0, 0
     new_corr, new_incorr = OD(), OD()
 
-    for i, extracts in sorted(unannotated_unknowns.items()):
+    for i, extracts in unannotated_unknowns.items():
         new_corr[i] = OD()
         new_incorr[i] = OD()
         for id, extract in enumerate(extracts):
@@ -59,9 +61,17 @@ def cos_sim(corr_tfs, corr_idfs, incorr_tfs, incorr_idfs, unannotated_unknowns):
             for arg in extract:
                 words = [word.lower().strip('"') for word in arg.split()]
                 query += [word for word in words if word]
-            query_tfs = {term: count / len(query) for term, count in Counter(query).items()}
-            corr_query_tfidfs, incorr_query_tfidfs = [], []
 
+            query_tfs = OD()
+            for q in query:
+                if q not in query_tfs:
+                    query_tfs[q] = 1
+                else:
+                    query_tfs[q] += 1
+            for term, count in query_tfs.items():
+                query_tfs[term] = count / len(query)
+
+            corr_query_tfidfs, incorr_query_tfidfs = [], []
             for term, tf in query_tfs.items():
                 if term not in corr_idfs:
                     corr_query_tfidfs.append((term, 0))
@@ -72,8 +82,12 @@ def cos_sim(corr_tfs, corr_idfs, incorr_tfs, incorr_idfs, unannotated_unknowns):
                 else:
                     incorr_query_tfidfs.append((term, tf * incorr_idfs[term]))
 
-            corr_doc_tfidfs = {term: tf * corr_idfs[term] for term, tf in corr_tfs[i].items()}
-            incorr_doc_tfidfs = {term: tf * incorr_idfs[term] for term, tf in incorr_tfs[i].items()}
+            corr_doc_tfidfs = OD()
+            for term, tf in corr_tfs[i].items():
+                corr_doc_tfidfs[term] = tf * corr_idfs[term]
+            incorr_doc_tfidfs = OD()
+            for term, tf in incorr_tfs[i].items():
+                incorr_doc_tfidfs[term] = tf * incorr_idfs[term]
 
             for term, val in corr_query_tfidfs:
                 if term not in corr_doc_tfidfs:
@@ -112,6 +126,5 @@ def cos_sim(corr_tfs, corr_idfs, incorr_tfs, incorr_idfs, unannotated_unknowns):
             else:
                 no_either += 1
                 anno_known[i][extract] = 0.5
-
 
     return anno_known, no_corr, no_incorr, no_either, new_corr, new_incorr

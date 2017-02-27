@@ -12,13 +12,13 @@ And he has eased up on team rules .
 Jake decides to give Melanie a bit of a hard time because she 's giving him and everyone else she grew up with a megadose of New York attitude , which in this film is almost as grossly exaggerated as the Southern stuff .
 8	"Jake"	"decides to give"	"Melanie"	0.75
 Sather , whose box sits high above the Garden ice behind one of the nets , said that he could hardly notice the netting .
-9	"whose box"	"sits high above"	"the Garden ice"	0.75
 9	"Sather"	"sits high above"	"the Garden ice"	1.2
+9	"whose box"	"sits high above"	"the Garden ice"	0.75
 9	"he"	"could notice"	"the netting"	0.8333333333333333
 Eight percent went to Europe , while 1 percent went to other regions in the world .
+10	"Eight percent"	"went to"	"Europe"	0.8333333333333333
 10	"1 percent"	"went to"	"other regions"	0.8333333333333333
 10	"1 percent"	"went to regions in"	"the world"	0.7
-10	"Eight percent"	"went to"	"Europe"	0.8333333333333333
 As he left the UN building , Sabri said he hoped Iraq 's announcement was a first step toward the `` lifting of this brutal regime of sanctions '' against his country .
 A backdrop of steady economic growth , scant inflation , and stable bond yields provided support for stocks .
 His teammates indeed loved the show .
@@ -65,8 +65,8 @@ It did n't specify which goods in either case .
 The committee is planning to hear from him this month .
 The scandal has now forced resignations at Japan 's fourth-largest bank and three of Japan 's Big Four brokerages .
 It said it wanted the court to establish whether the government had failed to `` apply the same rules '' to all the bidders .
-48	"it"	"wanted"	"the court"	1.0
 48	"It"	"said wanted"	"the court"	0.8333333333333333
+48	"it"	"wanted"	"the court"	1.0
 If Calcavecchia plays Friday morning , he knows the importance of starting well , because the Americans have a recent history of falling behind early .
 49	"he"	"knows"	"the importance"	1.0
 On the next play , Tuman , who had lined up on the left side , glided unchecked to the right and caught Griese 's pass for a 53-yard play to the Colorado 2. Two plays later , Chris Floyd 's dive for a 1-yard touchdown put Michigan ahead .
@@ -99,8 +99,8 @@ The first batter he faced , Carl Everett , singled .
 69	"The first batter"	"faced"	"Carl Everett"	1.3333333333333333
 69	"he"	"faced"	"Carl Everett"	1.0
 Rhodes discovered he had cancer last October after he felt a sharp pain in his right leg .
-70	"Rhodes"	"discovered had"	"last October"	0.8333333333333333
 70	"Rhodes"	"discovered had"	"cancer"	0.8333333333333333
+70	"Rhodes"	"discovered had"	"last October"	0.8333333333333333
 70	"he"	"had"	"last October"	1.0
 Graham threw four touchdown passes in the title game and set up Groza 's 16-yard winning field goal with 28 seconds left on a frozen field at Cleveland 's Municipal Stadium .
 71	"28 seconds"	"left on"	"a frozen field"	1.25
@@ -112,8 +112,8 @@ DeLillo has brilliantly described the simultaneous explosion of knowledge in our
 Continuing to maintain his innocence of terrorism charges , Salim said the stabbing was unrelated to the escape plan and stemmed instead from his dissatisfaction with his lawyers .
 Tax revenue will fall as economic growth slows and the government will reduce spending , Mar 'ie said , again without specifying how big the cuts will be or where they will be made .
 The group 's attacks on the Kurdish leadership give it common cause with Saddam Hussein , though a firm link with the Iraqi dictator has not been established .
-77	"The group 's attacks"	"give"	"common cause"	1.0
 77	"The group 's attacks"	"give"	"it"	1.0
+77	"The group 's attacks"	"give"	"common cause"	1.0
 I showed him 15 photographs which represented what I felt the movie should look and feel like .
 78	"I"	"showed"	"him"	1.0
 The p53 protein is known to work as a genetic switch , binding to various sites along the DNA of cells and switching on nearby genes , a process called transactivation .
@@ -178,8 +178,8 @@ Slowing corporate profits and weakening export growth has also forced economic g
 124	"weakening export growth"	"has forced"	"economic growth expectations"	0.8333333333333333
 Euromoney 's executives spent several days this week huddled in negotiations with Robert Teitelman , managing editor of Institutional Investor 's Americas edition , whom they named editor to replace Cudaback .
 125	"this week"	"huddled in"	"negotiations"	0.8333333333333333
-125	"editor"	"to replace"	"Cudaback"	1.25
 125	"they"	"named"	"editor"	1.0
+125	"editor"	"to replace"	"Cudaback"	1.25
 Ms. Denis 's gift is to integrate the characters so fully in their milieu that they emerge from it almost insensibly .
 Oh , and keep the cats away .
 The board of directors of UAL , the parent company of United Airlines , is likely to name Glenn F. Tilton , an oil industry executive , as the airline 's new president and chief executive in a meeting Monday morning , according to people with knowledge of the situation .
@@ -189,8 +189,8 @@ Jim Suydam writes for the Austin American-Statesman .
 As for Miller and Oswalt , they accept the responsibility without blinking .
 For Use By Clients of the New York Times News Service `` I was pretty obnoxious , '' says Steers , who did a year at Hotchkiss and another at an Indiana military school before running away to New York , where he bunked with members of a dance company he had worked for as a stagehand the previous summer on Martha 's Vineyard .
 133	"Steers"	"did"	"a year"	1.3333333333333333
-133	"he"	"had worked as"	"a stagehand"	0.75
 133	"Steers"	"did at"	"Hotchkiss"	1.25
+133	"he"	"had worked as"	"a stagehand"	0.75
 The glamour of Callas ' life has been much exaggerated .
 For clients of the New York Times News Service Manufacturers ' orders will likely be stronger than the 9.1 percent growth for the July-September quarter the EPA originally forecast , the government said .
 Politicians , historians , locals and the victims ' families are grappling with how the site should be preserved .
@@ -224,8 +224,8 @@ Why does this `` moment , '' to use a term bandied about by designers , call for
 156	"a term"	"bandied by"	"designers"	1.25
 156	"they"	"expect to look for"	"opportunities"	0.7
 A spokesman for Hayden said Sunday that the senator was looking at several areas for possible legislation , including clarification of existing laws dealing with stalking and trespassing .
-157	"the senator"	"was looking at"	"several areas"	0.75
 157	"A spokesman"	"said"	"Sunday"	1.0
+157	"the senator"	"was looking at"	"several areas"	0.75
 What the team did n't count on was that Boselli would have two more surgical procedures on his shoulder after he became a Texan .
 Think of how many people stay in bad marriages because they are financially dependent or simply afraid of the unknown .
 But within seconds , his smile had receded and his tone had again turned serious .
@@ -272,8 +272,8 @@ She said she was looking forward to returning to Texas with her family .
 And just to get to that point , the Chiefs had to overcome a 10-0 first-half deficit and a 17-14 Seahawks advantage in the third quarter .
 For historians , this euphoria rang a bell of memory .
 Even if you just want to take a dip , you 'll find the ocean conditions generally inviting -- and family-friendly .
-194	"you"	"'ll find"	"the ocean conditions"	0.8333333333333333
 194	"you"	"want 'll find"	"the ocean conditions"	0.5833333333333333
+194	"you"	"'ll find"	"the ocean conditions"	0.8333333333333333
 Together , the year 's two moves have raised prices 14 percent at the wholesale level , and 7 percent at retail , according to Black .
 It was Tuesday , he explained .
 There is no escaping the fact that Arab political emotions have been shaped by the region 's encounter with French and British colonialism , by the defeat of the Arab effort to prevent the existence of Israel and by the subsequent American support for Israel and its treatment of the Palestinians , as well as by the direct injection of American power into the region .
@@ -292,8 +292,8 @@ Biondi said that Kay Koplovitz would remain as chairwoman of the company .
 Like most visitors to Xi'an , Rubin tours China 's most astounding archeological treasure : the army of thousands of life-size figures that protect the graves of the Chinese emperors .
 The yield spread between an index of option-free 10-year `` A2 '' bank bonds and the 10-year Treasury note was 70 basis points yesterday , 2 basis points wider from a week earlier .
 As a human rights officer , she regularly traveled around the country , returning to brief officials about ethnic clashes and human rights abuses that deter Bosnia 's refugees from returning home .
-209	"Bosnia 's refugees"	"from returning"	"home"	1.25
 209	"human rights abuses"	"deter"	"Bosnia 's refugees"	1.3333333333333333
+209	"Bosnia 's refugees"	"from returning"	"home"	1.25
 This quality transcended fashion .
 Dot with food coloring and wait .
 Most were dragged off instantly by police officers who had apparently been warned .
@@ -322,8 +322,8 @@ The proposed accord was reached June 20 by the tobacco industry and 39 states .
 Among the other companies that got a boost from restructurings , Sara Lee Corp. gained 17 percent for the week after announcing it will sell some business and cut costs to raise $ 3 billion for a stock buyback .
 227	"costs"	"to raise for"	"a stock buyback"	1.2
 The announcement , which came only days after a visit to Pyongyang by Japan 's prime minister , Junichiro Koizumi , marked a significant change of strategy for the administration , which had terminated similar negotiations pursued with North Korea by President Bill Clinton shortly before he left office .
-228	"the administration"	"had terminated"	"similar negotiations"	1.25
 228	"The announcement"	"came"	"only days"	1.3333333333333333
+228	"the administration"	"had terminated"	"similar negotiations"	1.25
 E. Martin Gibson is the company 's chairman and has served as a director of the parent company since 1992 .
 Her friend was waiting for her at a bar , shaken and alone .
 By contrast , European countries tested 10 million animals last year .
@@ -360,10 +360,10 @@ At times there were beautiful moments .
 E-mail her at mmccartycoxohio.com A Ply Gem Industries Inc. shareholder is suing Furman Selz Inc. for $ 100 million , claiming it was negligent in recommending Nortek Inc. 's takeover offer as fair to shareholders .
 So they fire up the pits and smoke the briskets for 18 hours over mesquite or hickory .
 Ruiz hopes Lewis 's decision will give light heavyweight champion Roy Jones Jr. the impetus to take on Ruiz Dec. 7 on HBO , the idea being that the winner would fight the winner of the WBA title next spring .
-255	"Lewis 's decision"	"will give"	"the impetus"	0.8333333333333333
-255	"Ruiz"	"hopes will give"	"the impetus"	0.75
 255	"Ruiz"	"hopes will give"	"light heavyweight champion"	0.75
+255	"Ruiz"	"hopes will give"	"the impetus"	0.75
 255	"Lewis 's decision"	"will give"	"light heavyweight champion"	0.8333333333333333
+255	"Lewis 's decision"	"will give"	"the impetus"	0.8333333333333333
 Grbac wore a quizzical look , like a guy who was given a wonderful gift by his worst enemy .
 Turnout was light , according to news agency reports from the capital , Conakry .
 A Swiss Bank spokesman in Basel , Michel Willi , declined to comment on the talks , as did a spokesman in London .
@@ -433,8 +433,8 @@ And as city officials scrambled to recruit new foster parents , they found thems
 Maybe this is what the autistic twins in Oliver Sacks ' `` The Man Who Mistook His Wife for a Hat '' saw with their inner eyes .
 303	"a Hat"	"saw with"	"their inner eyes"	1.25
 Their pieces sell well in the $ 20 range , said Michael Rizzuto , a senior buyer at Gracious Home , which was the first store to feature the North River Mint .
-304	"the first store"	"to feature"	"the North River Mint"	1.25
 304	"Their pieces"	"said"	"Michael Rizzuto"	1.0
+304	"the first store"	"to feature"	"the North River Mint"	1.25
 But a group of protesters showed up and burned two American flags .
 Open positions of short sales on the Nasdaq stock market rose 1 percent in the most recent month , according to figures released Wednesday .
 306	"figures"	"released"	"Wednesday"	1.3333333333333333
@@ -479,9 +479,9 @@ For its part , Israel has long said it will not pull out of southern Lebanon unt
 The finding revealed bay trees , not oak trees , to be the unexpected , key disperser of the disease .
 336	"The finding"	"revealed"	"bay trees"	1.0
 At the time , Little said he left Ramirez in the game because the slugger apologized to everybody in the dugout .
-337	"the slugger"	"apologized to"	"everybody"	0.8333333333333333
-337	"he"	"left"	"Ramirez"	1.0
 337	"Little"	"said left"	"Ramirez"	0.8333333333333333
+337	"he"	"left"	"Ramirez"	1.0
+337	"the slugger"	"apologized to"	"everybody"	0.8333333333333333
 The Cardinals considered very seriously drafting Purdue fullback Mike Alstott with their second-round pick a year ago .
 He paid $ 350,000 for the car in 1990 , then thoroughly remodeled it .
 339	"He"	"paid remodeled"	"it"	0.8333333333333333
@@ -496,12 +496,12 @@ Special-interest groups publish studies and issue news releases using road rage 
 By early September , not only had the Revolution been involved in an 11-game losing streak , including cup games and exhibitions , they appeared to lose faith in themselves .
 In the end , blacks and whites came , and , to hear many of them tell it , climbed over a lot of harsh terrain to get there .
 Playing before a crowd of 39,294 , Army jumped to a 7-0 lead on its second possession , covering 66 yards in a 14-play drive that culminated in a 1-yard leap into the end zone by the junior fullback Joe Hewitt .
-347	"a 14-play drive"	"culminated in"	"a 1-yard leap"	1.25
 347	"Army"	"jumped covering"	"66 yards"	0.8333333333333333
+347	"a 14-play drive"	"culminated in"	"a 1-yard leap"	1.25
 Houston : Baker Hughes Inc. releases its weekly survey of the number of active oil and gas drilling rigs in the U.S. and Canada .
 Only Nikko Securities Co. has the same top executives it started the year with .
-349	"it"	"started"	"the year"	1.0
 349	"the same top executives"	"started"	"the year"	1.3333333333333333
+349	"it"	"started"	"the year"	1.0
 Illustrating that point , he asserted that Iraq could be a laboratory for terror groups , easily furnishing them with the chemical and biological weapons it had developed .
 350	"that point"	"asserted that could be"	"a laboratory"	0.5333333333333333
 350	"he"	"asserted that could be"	"a laboratory"	0.7
@@ -524,17 +524,17 @@ Mills stressed that the release of test results and his plans for a review panel
 At times there was silence , and sometimes the silence turned volcanic .
 She was a little anxious early on .
 That creature was in turn named for the mythical multiheaded serpent that regrew new heads when one was cut off .
-366	"turn"	"named for"	"the mythical multiheaded serpent"	1.25
 366	"That creature"	"was in"	"turn"	0.8333333333333333
+366	"turn"	"named for"	"the mythical multiheaded serpent"	1.25
 Hydra , of Cambridge , Mass. , is named after a pond-dwelling creature that can grow two wholes after being sliced in half .
 Yet other studies point to fetal exposure to environmental toxins like lead , cigarettes and alcohol .
 With one or two new distributors signing on every week , the Weinbergs are busy planning to expand into clothing hooks and towel racks .
 369	"busy planning"	"to expand into"	"clothing hooks"	1.2
 Hevesi said that in managing an investment portfolio , there are a wide array of stocks and that the performance of the broader markets affects the level of return .
 In its report , the IMF also said it cut in half its growth estimate for Japan this year -- to 1.1 percent from May 's estimate of 2.2 percent .
-371	"it"	"cut"	"this year"	1.0
 371	"the IMF"	"said cut in"	"half its growth estimate"	0.75
 371	"the IMF"	"said cut"	"this year"	0.8333333333333333
+371	"it"	"cut"	"this year"	1.0
 Moreover , he said that foreign students spend an estimated $ 11 billion a year for tuition and rent , not to mention items ranging from jeans to pizzas .
 372	"items"	"ranging from"	"jeans"	1.25
 But starters Torry Holt and Isaac Bruce might be the best and most explosive tandem in the league .
@@ -585,8 +585,8 @@ In contrast to the two technique books , it has few photos in its 500+ pages , a
 The rules were written to encourage diversity of voices on the airwaves and competition among media outlets , and to prevent the biggest companies from becoming too powerful in controlling news and entertainment .
 The new Cadillac is scheduled to go on sale next summer for model year 2004 .
 U.S. officials say Japan has done little since April to change unfair port practices .
-411	"Japan"	"has done since"	"April"	0.75
 411	"U.S. officials"	"say has done since"	"April"	0.7
+411	"Japan"	"has done since"	"April"	0.75
 Since the report was prepared , however , the energy market has declined and the number of possible buyers has dwindled , diminishing the value of those assets , analysts say .
 In the past , senior American intelligence officials have said that some Iraqi fighters who opposed the United States in Afghanistan have now drifted back to Iraq and joined ranks with Ansar al-Islam .
 Hilton 's shares rose 1 1/16 to 33 3/16 .
@@ -645,10 +645,10 @@ Officials at Volvo , long known for safe design , acknowledge that their cars ar
 453	"Officials"	"known for"	"safe design"	1.25
 453	"their cars"	"are match for"	"a large sport utility vehicle"	0.75
 Sacks wrote of how he observed the brothers one day at a state mental hospital as they sat in apparent rapture exchanging six-figure primes that they seemed to pull from their heads .
+454	"Sacks"	"wrote of observed"	"the brothers"	0.75
 454	"Sacks"	"wrote of observed"	"one day"	0.75
 454	"he"	"observed"	"one day"	1.0
 454	"they"	"sat in rapture exchanging"	"six-figure primes"	0.7
-454	"Sacks"	"wrote of observed"	"the brothers"	0.75
 Mary McCarty writes for the Dayton Daily News .
 You should probably just go online .
 One of life 's simple pleasures is guessing who 'll walk away with the VeeHee .

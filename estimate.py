@@ -1,6 +1,6 @@
 from collections import Counter
+from collections import OrderedDict as OD
 import math
-import operator
 
 
 def estimate_weights(corrects, incorrects, unknowns):
@@ -11,7 +11,7 @@ def estimate_weights(corrects, incorrects, unknowns):
 
 def calculate_tfs_idfs(outputs):
     # treating sentences as a document
-    counts_by_sent = {}
+    counts_by_sent = OD()
     num_docs_with_term = Counter()
     num_docs = len(outputs)
 
@@ -41,14 +41,17 @@ def calculate_tfs_idfs(outputs):
 
 
 def cos_sim(corr_tfs, corr_idfs, incorr_tfs, incorr_idfs, unannotated_unknowns):
-    anno_known = {i: {e: 0 for e in extracts} for i, extracts in unannotated_unknowns.items()}
+    anno_known = OD()
+    for i, extracts in unannotated_unknowns.items():
+        anno_known[i] = OD()
+        for e in extracts:
+            anno_known[i][e] = 0
     no_corr, no_incorr, no_either = 0, 0, 0
-    new_corr = {}
-    new_incorr = {}
+    new_corr, new_incorr = OD(), OD()
 
     for i, extracts in sorted(unannotated_unknowns.items()):
-        new_corr[i] = {}
-        new_incorr[i] = {}
+        new_corr[i] = OD()
+        new_incorr[i] = OD()
         for id, extract in enumerate(extracts):
             query = []
             corr_buff = []
@@ -109,5 +112,6 @@ def cos_sim(corr_tfs, corr_idfs, incorr_tfs, incorr_idfs, unannotated_unknowns):
             else:
                 no_either += 1
                 anno_known[i][extract] = 0.5
+
 
     return anno_known, no_corr, no_incorr, no_either, new_corr, new_incorr

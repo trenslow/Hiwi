@@ -2,8 +2,8 @@
 
 -The nemexDetailedOutputs contains the detailed results of running Nemex on the individual data sets.
 
--evaluation.py is a Python script that evaluates the outputs of the systems according to the ClauseIE paper. It is to be run on Python 3, with the matplotlib library used for plotting purposes (Anaconda is recommended, since it packages matplotlib with Python 3).
+-evaluation.py is a Python script that evaluates the outputs of the systems according to the ClauseIE paper. It is to be run on Python 3, with the matplotlib library used for plotting purposes (Anaconda is recommended, since it packages matplotlib with Python 3). estimate.py is a script that is called by evaluation.py in order to estimate the labels of unknown extractions.
 
 -nemexImprovements is a file containing potential improvements to Nemex, based on its outputs.
 
--nemexOutputs is a folder containing different collections of data such as correct/incorrect extractions, plots and some statistics.
+-nemexOutputs is a folder containing different collections of data such as correct/incorrect extractions, plots, statistics, etc.

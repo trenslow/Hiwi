@@ -5,10 +5,11 @@ import re
 import matplotlib.pyplot as plt
 import operator
 from estimate import estimate_weights
+from collections import OrderedDict as OD
 
 
 def read_extraction_file(file):
-    extraction_idx = {}
+    extraction_idx = OD()
     sent_id = -1
 
     with open(file, encoding='latin-1') as f:
@@ -19,7 +20,7 @@ def read_extraction_file(file):
             # Otherwise, create an index for the sentences to be used later.
             if len(ln) == 1:
                 sent_id += 1
-                extraction_idx[sent_id] = {}
+                extraction_idx[sent_id] = OD()
                 continue
             else:
                 # break apart the line into sentence id, extraction and confidence
@@ -28,7 +29,7 @@ def read_extraction_file(file):
                 conf = float(ln[-1])
                 # initialize the dict for each extraction index with extraction as key and confidence as value
                 if extraction not in extraction_idx[sent_id]:
-                    extraction_idx[sent_id][extraction] = {}
+                    extraction_idx[sent_id][extraction] = OD()
                 # add each relation to the extraction index with its corresponding confidence value
                 extraction_idx[sent_id][extraction] = conf
 
@@ -37,11 +38,11 @@ def read_extraction_file(file):
 
 def compare(gold, extractions, nemex):
     corr_and_conf = []
-    corr, incorr, unknwn = {}, {}, {}
+    corr, incorr, unknwn = OD(), OD(), OD()
 
     for sent_id, extr in extractions.items():
-        corr[sent_id] = {}
-        incorr[sent_id] = {}
+        corr[sent_id] = OD()
+        incorr[sent_id] = OD()
         unknwn[sent_id] = []
         for ext in extr:
             weight = extractions[sent_id][ext]

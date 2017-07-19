@@ -174,7 +174,7 @@ Inspired by the Cadillac Vison concept SUV shown at last year 's auto shows , th
 It 's an effective , maybe even subversive , way to get the message across .
 For their part , investors kept selling off stocks in trading and deregulated power companies , spurred Monday by negative news for El Paso Corp. Better yet , Miller and Roy Oswalt have won 19 straight decisions , and since July 1 , they 're a combined 21-1 with a 2.41 ERA.
 56	"investors"	"kept selling yet"	"stocks in trading"	1
-56	"investors"	"kept selling yet"	"For their part stocks in trading"	1
+56	"investors"	"kept selling yet"	"For their part stocks in trading"	0
 56	"investors"	"spurred"	"Monday"	0
 56	"investors"	"spurred"	"Monday by negative news for El Paso Corp. Better"	0
 56	"Miller and Roy Oswalt"	"have"	"won 19 straight decisions"	0
@@ -278,7 +278,7 @@ Without admitting any error , the department has rapidly increased the number of
 It did not take long .
 She sought out the untouchables of our society and she touched them .
 92	"She"	"sought"	"the untouchables of our society"	0
-92	"She"	"sought"	"the untouchables"	0
+92	"She"	"sought"	"the untouchables"	1
 You can venture out 100 yards and still find the water no deeper than 4 feet .
 93	"You"	"can venture"	"100 yards"	1
 93	"You"	"still find"	"the water no"	0
@@ -307,7 +307,7 @@ Katzenberg , for example , is feuding with former employer Disney , which he sue
 100	"he"	"sued"	"which for $ 250 million"	0
 100	"he"	"claiming animated make"	"films he helped"	0
 So , 1,200-degree air is pumped back to the turbine blades from the compressor in order to cool the blades .
-101	"1,200-degree air"	"So is pumped back cool"	"to the turbine blades from the compressor the blades"	1
+101	"1,200-degree air"	"So is pumped back cool"	"to the turbine blades from the compressor the blades"	0
 101	"1,200-degree air"	"So is pumped back cool"	"the blades"	1
 NYT News Service And when `` Presidio Med '' fills the time between those scenes with even more stock situations , it may be a sign that it 's time for a moratorium on medical dramas , if not for complete euthanasia .
 M2+CDs rose 3.0 percent in the April-June period .
@@ -345,7 +345,7 @@ Bullion rose as the U.S. dollar fell against the yen and the German mark , makin
 114	"analysts"	"buy"	"the precious metal"	0
 Solutia is saddled with $ 1 billion in debt and even more than that in retiree medical costs and environmental liabilities .
 A grocery store strike between Ralphs ' parent company , Kroger Co. , and 3,300 union employees in Wms T$ Virginia , Ohio and Kentucky ities between the two situations offer reason to hope : Both strikes involve Kroger stores and United Food and Commercial Workers employees , both disputes center on health care plans , both began in early October , and both have been mediated by federal officials .
-116	"began in early October and both have been mediated by federal officials"	"involve began have been mediated"	"by federal officials"	1
+116	"began in early October and both have been mediated by federal officials"	"involve began have been mediated"	"by federal officials"	0
 Seattle 's roster is old .
 Those three were apprehended Sunday .
 The most unpopular agencies , he noted , are usually those charged with solving the most unsolvable problems .
@@ -385,7 +385,7 @@ It will also increase luxury taxes on other goods `` that are not essential for 
 130	"It"	"lower"	"non-productive imports"	0
 Jim Suydam writes for the Austin American-Statesman .
 As for Miller and Oswalt , they accept the responsibility without blinking .
-132	"Miller and Oswalt"	"accept"	"the responsibility without blinking"	0
+132	"Miller and Oswalt"	"accept"	"the responsibility without blinking"	1
 132	"Miller and Oswalt"	"accept"	"the responsibility"	0
 For Use By Clients of the New York Times News Service `` I was pretty obnoxious , '' says Steers , who did a year at Hotchkiss and another at an Indiana military school before running away to New York , where he bunked with members of a dance company he had worked for as a stagehand the previous summer on Martha 's Vineyard .
 133	"Steers"	"did"	"at Hotchkiss and another at an Indiana military school before running away to New York where"	1
@@ -396,7 +396,7 @@ For Use By Clients of the New York Times News Service `` I was pretty obnoxious 
 133	"Steers"	"running away"	"to New York where"	0
 133	"Steers"	"where bunked"	"with members of a dance company"	1
 133	"Steers"	"where bunked"	"he"	0
-133	"Steers"	"where bunked"	"with members of a dance company he"	0
+133	"Steers"	"where bunked"	"with members of a dance company he"	1
 133	"Steers"	"had worked"	"as a stagehand"	0
 The glamour of Callas ' life has been much exaggerated .
 For clients of the New York Times News Service Manufacturers ' orders will likely be stronger than the 9.1 percent growth for the July-September quarter the EPA originally forecast , the government said .
@@ -413,7 +413,7 @@ BLUE RIBBON COOK BOOK 1907 DEVILED EGGS Cut in two , crosswise , one dozen hard-
 Fowler clearly resented Ickes ' authority , and his testimony affirms once again that Ickes , probably more than any other person , knows the full story of the 1996 Clinton campaign , including President Clinton 's role in the fund-raising excesses .
 142	"Fowler"	"clearly resented once again"	"Ickes ' authority"	0
 142	"Fowler"	"knows"	"the full story of the 1996 Clinton campaign including President Clinton 's role in the fund-raising excesses"	1
-142	"Fowler"	"knows"	"the full story"	1
+142	"Fowler"	"knows"	"the full story"	0
 Netscape is aiming to distribute 100 million copies of Navigator over the next year through partners , including Internet service providers and U.S. Robotics , a division of 3Com Corp. Wide familiarity with Navigator helps Netscape sell its higher-end Internet software packages , especially to large companies .
 143	"Netscape"	"is aiming distribute"	"100 million copies of Navigator over the next year through partners including Internet service providers and U.S. Robotics a division of 3Com Corp. Wide familiarity with Navigator"	0
 143	"Netscape"	"is aiming distribute"	"100 million copies of Navigator"	1
@@ -517,7 +517,7 @@ Airports act as `heat islands , ' so temperatures can vary as much as 10 degrees
 176	"temperatures"	"can vary as much from far away"	"Fahrenheit"	0
 176	"temperatures"	"can vary as much from far away"	"as 10 degrees Fahrenheit"	1
 The Rams sorely miss departed third receiver Az Hakim .
-177	"The Rams"	"sorely miss departed"	"third receiver"	1
+177	"The Rams"	"sorely miss departed"	"third receiver"	0
 In the last four games of the losing streak , they surrendered deciding goals in the last minutes of the half or game three times and were blanked , 4-0 , by Tampa Bay .
 178	"they"	"surrendered deciding"	"In the last four games of the losing streak goals in the last minutes of the half or game three"	0
 178	"they"	"surrendered deciding"	"In the last four games of the losing streak goals"	0
@@ -527,7 +527,7 @@ Eating disorders affect 5 million to 10 million American adolescent girls and wo
 A similar bill is pending in the Senate , sponsored by Florida Sens. Connie Mack , a Republican , and Bob Graham , a Democrat .
 180	"A similar bill"	"is pending"	"Connie Mack a Republican and Bob Graham a"	1
 180	"A similar bill"	"is pending"	"in the Senate Connie Mack a Republican and Bob Graham a"	1
-180	"A similar bill"	"sponsored"	"by Florida Sens"	0
+180	"A similar bill"	"sponsored"	"by Florida Sens"	1
 Taylor missed only one day of school , but another week went by before she could move her head smoothly to the right , or lift her writing arm up to desk level without pain .
 181	"another week"	"could move smoothly"	"her head"	0
 181	"another week"	"could move smoothly"	"her head to the right"	0
@@ -545,7 +545,7 @@ Organizations in the 33 states can use the grants announced today for both educa
 184	"Organizations in the 33 states"	"can use announced"	"the grants for both education and enforcement efforts -- including funding for enforcement"	1
 184	"Organizations in the 33 states"	"can use announced"	"the grants today for both education and enforcement efforts -- including funding for enforcement"	1
 184	"Organizations in the 33 states"	"can use announced"	"the grants"	1
-184	"Organizations in the 33 states"	"housing"	"counseling and other activities"	0
+184	"Organizations in the 33 states"	"housing"	"counseling and other activities"	1
 184	"Organizations in the 33 states"	"will promote"	"fair housing"	0
 Come to think of it , that would be revolutionary .
 But Leslie Robison , an epidemiologist from the University of Minnesota , who estimates that 1 out 630 children will develop cancer before the age of 15 , said that cancer has very different implications for a child compared to adults , even for those who survive .
@@ -915,7 +915,7 @@ El Pueblo Gallery is located in space E-13 on Olvera Street , downtown Los Angel
 Oakland , in need of a catcher after trading Ramon Hernandez to San Diego , acquired Michael Barrett from Montreal for a player to be named later .
 288	"trading Ramon Hernandez to San Diego"	"acquired be named later"	"Michael Barrett"	1
 288	"trading Ramon Hernandez to San Diego"	"acquired be named later"	"Michael Barrett from Montreal"	1
-288	"trading Ramon Hernandez to San Diego"	"acquired be named later"	"Michael Barrett from Montreal for a player"	1
+288	"trading Ramon Hernandez to San Diego"	"acquired be named later"	"Michael Barrett from Montreal for a player"	0
 288	"trading Ramon Hernandez to San Diego"	"acquired be named later"	"Michael Barrett for a player"	1
 Edge Rams Offensive linemen `` Texans are passionate about cooking briskets , '' McAdams adds .
 Hoffenberg was sentenced in March to 20 years in jail and ordered to pay $ 462.6 million in restitution and a $ 1 million fine for defrauding Tower Financial debt holders of $ 460 million .
@@ -940,15 +940,15 @@ Pat Day , the winning jockey , agreed that Royal Indy had been `` a little hot a
 293	"director of research at Jurika & AMP ; Voyles LP which owned 3.7 million 3Com shares at the end of June"	"integrating"	"U.S. Robotics of a large number of new networking products"	0
 293	"director of research at Jurika & AMP ; Voyles LP which owned 3.7 million 3Com shares at the end of June"	"integrating"	"U.S. Robotics"	0
 293	"director of research at Jurika & AMP ; Voyles LP which owned 3.7 million 3Com shares at the end of June"	"integrating"	"U.S. Robotics and the introduction of a large number of new networking products"	0
-293	"Paul Meeks"	"integrating"	"U.S. Robotics and the introduction of a large number of new networking products"	1
-293	"Paul Meeks"	"integrating"	"U.S. Robotics of a large number of new networking products"	1
+293	"Paul Meeks"	"integrating"	"U.S. Robotics and the introduction of a large number of new networking products"	0
+293	"Paul Meeks"	"integrating"	"U.S. Robotics of a large number of new networking products"	0
 293	"Paul Meeks"	"integrating"	"U.S. Robotics"	1
 293	"Paul Meeks"	"integrating"	"U.S. Robotics and the introduction"	1
 293	"director of research at Jurika & AMP ; Voyles LP which owned 3.7 million 3Com shares at the end of June"	"integrating"	"U.S. Robotics and the introduction"	0
 The Rangers and Giants represent opposite viewpoints .
 294	"Giants"	"represent"	"opposite viewpoints"	0
 Dell Computer said it 's adding 25 million shares to its stock repurchase program , for a total of 125 million shares , almost a third of its 383 million outstanding as of last quarter .
-295	"Dell Computer"	"'s adding"	"25 million shares to its stock repurchase program"	0
+295	"Dell Computer"	"'s adding"	"25 million shares to its stock repurchase program"	1
 The last prisoner was released in 1988 .
 Do look at me with just a little lust !
 Pageant officials do not release the winner 's name of the preliminary interview contest until within hours of Saturday night 's final competition .
@@ -964,10 +964,10 @@ And as city officials scrambled to recruit new foster parents , they found thems
 302	"they"	"struggling find"	"homes"	0
 302	"children"	"suffering"	"from psychological disorders young mothers with babies and large groups of siblings"	0
 Maybe this is what the autistic twins in Oliver Sacks ' `` The Man Who Mistook His Wife for a Hat '' saw with their inner eyes .
-303	"this"	"Mistook saw"	"what His Wife for a Hat '"	0
+303	"this"	"Mistook saw"	"what His Wife for a Hat '"	1
 303	"this"	"Mistook saw"	"what with their inner eyes"	1
 303	"this"	"Mistook saw"	"what for a Hat '"	0
-303	"this"	"Mistook saw"	"what His Wife"	0
+303	"this"	"Mistook saw"	"what His Wife"	1
 303	"the autistic twins in Oliver Sacks ' ` `"	"Mistook saw"	"what for a Hat ' with their inner eyes"	0
 303	"this"	"Mistook saw"	"what His Wife for a Hat ' with their inner eyes"	1
 303	"the autistic twins in Oliver Sacks ' ` `"	"Mistook saw"	"what His Wife"	0
@@ -1068,7 +1068,7 @@ Still there is lingering concern that further earthquakes could follow , leading
 Did not the same radiant hope accompany the transition from the 19th to the 20th century ?
 Born in 1912 in Hazelhurst , Miss .
 An online bidder in Boerne paid $ 525 for a 20-inch Sony television set that retails at less than $ 350 new .
-332	"An online bidder in Boerne"	"paid"	"$ 525 for a 20-inch Sony television set that retails at less than $ 350 new"	1
+332	"An online bidder in Boerne"	"paid"	"$ 525 for a 20-inch Sony television set that retails at less than $ 350 new"	0
 332	"Sony television"	"set"	"that retails"	0
 332	"Sony television"	"set"	"that retails at less than $ 350"	0
 His memory was a good deal better about White House management of the DNC , especially its fund-raising operations .
@@ -1186,7 +1186,7 @@ With some prompting from his own earlier deposition on this issue , Fowler ackno
 357	"Harold Ickes"	"was directing"	"the DNC finance division from the White House"	1
 A Georgia inventor has won a patent for a method of regiving items ordered online when they turn out to be white elephants .
 358	"A Georgia inventor"	"has ordered"	"won a patent for a method of regiving items"	1
-358	"A Georgia inventor"	"turn"	"to be white elephants"	0
+358	"A Georgia inventor"	"turn"	"to be white elephants"	1
 So Michigan Stadium is indeed the largest in the nation in seating capacity .
 Still , the agent said he advises clients who are at fault in minor fender benders where there are no personal injuries to inquire whether a private resolution is possible .
 360	"the agent"	"advises"	"clients who are at fault in minor fender benders"	1
@@ -1380,7 +1380,7 @@ She knew too well that the world is filled with people who talk about virtue but
 420	"well that the world"	"act"	"on it"	1
 Yet in her work for people with AIDS she broke through .
 In fact , Clark appears to have a reserved seat .
-422	"Clark"	"appears have"	"In fact a reserved seat"	0
+422	"Clark"	"appears have"	"In fact a reserved seat"	1
 422	"Clark"	"appears have"	"a reserved seat"	1
 Seagram shares rose C$ 0.25 to C$ 50.30 in midmorning Toronto trading and rose 3/16 to 36 3/16 in New York .
 423	"Seagram shares"	"rose"	"C$ 0.25 to C$ 50.30"	1
@@ -1496,9 +1496,9 @@ Brown and her staff persisted .
 Some of that money is earmarked for the new Traina Center for the Arts .
 I did n't stop living because I was diagnosed with HIV.
 What he did n't understand was the true essence of the Raiders : You might not understand it all , but you 're never going to get cheated .
-451	"he"	"was might not understand"	"it all"	1
+451	"he"	"was might not understand"	"it all"	0
 When the passengers realized that other commercial jets had been hijacked and crashed , they fulfilled `` the quintessential American desire to act '' and `` decided to take matters into their own hands to avert a catastrophe , '' he said .
-452	"other commercial jets"	"decided take avert"	"matters into their own hands a catastrophe"	0
+452	"other commercial jets"	"decided take avert"	"matters into their own hands a catastrophe"	1
 452	"other commercial jets"	"decided take avert"	"matters a catastrophe"	0
 452	"other commercial jets"	"decided take avert"	"matters"	0
 452	"other commercial jets"	"decided take avert"	"matters into their own hands"	1
@@ -1583,7 +1583,7 @@ Specifically , he 's driven by the prospect of rematches with Shane Mosley and F
 Efforts to reach Johnson were unsuccessful .
 When you have to resort to 1,200-degree air to cool something , you 're running a hot system .
 474	"you"	"have resort 1,200-degree cool"	"air something"	0
-474	"you"	"have resort 1,200-degree cool"	"air"	0
+474	"you"	"have resort 1,200-degree cool"	"air"	1
 I asked the Armenian native if the neighborhood kids or anybody else ever poked fun at the sign , which is basically a Bart Simpson dream come true .
 475	"the neighborhood kids or anybody else"	"ever poked"	"fun at the sign"	1
 475	"the neighborhood kids or anybody else"	"ever poked"	"fun"	0

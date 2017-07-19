@@ -1,9 +1,9 @@
+####################################### Nemex #######################################
 -The ClauseIE folder contains each system's output on each data set in the corresponding folders. The Nemex outputs have either "TD" or "BU" in their file names, representing the top-down and bottom-up approaches, respectively.
-
+---> evaluation.py is a Python script that evaluates the outputs of the systems according to the ClauseIE paper. It is to be run on Python 3, with the matplotlib library used for plotting purposes (Anaconda is recommended, since it packages matplotlib with Python 3). estimate.py is a script that is called by evaluation.py in order to estimate the labels of unknown extractions.
 -The nemexDetailedOutputs contains the detailed results of running Nemex on the individual data sets.
-
--evaluation.py is a Python script that evaluates the outputs of the systems according to the ClauseIE paper. It is to be run on Python 3, with the matplotlib library used for plotting purposes (Anaconda is recommended, since it packages matplotlib with Python 3). estimate.py is a script that is called by evaluation.py in order to estimate the labels of unknown extractions.
-
 -nemexImprovements is a file containing potential improvements to Nemex, based on its outputs.
-
 -nemexOutputs is a folder containing different collections of data such as correct/incorrect extractions, plots, statistics, etc.
+
+####################################### SemEval #######################################
+-SemEval related directories include SemEval2010_task8_all_data, all python scripts and the shell script that calls all the python scripts

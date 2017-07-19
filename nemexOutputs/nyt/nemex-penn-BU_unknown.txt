@@ -29,7 +29,7 @@ CourtLink, which has 160 employees, developed a filing system that enables judge
 A graduate of the University of Arizona, she is a lecturer in writing at Princeton University and an author under the name of Kathryn Watterson Burkhart.
 1	"A graduate"	"of Arizona"	"University"	0
 1	"A graduate"	"of"	"the University of Arizona"	0
-1	"A graduate"	"is"	"she"	1
+1	"A graduate"	"is"	"she"	0
 1	"A graduate"	"is"	"a lecturer"	0
 1	"A graduate"	"is lecturer in writing at"	"Princeton University"	0
 1	"University"	"Arizona of is graduate of"	"the University of Arizona"	0
@@ -44,7 +44,7 @@ A graduate of the University of Arizona, she is a lecturer in writing at Princet
 1	"she"	"is lecturer in writing at"	"Princeton University"	1
 1	"she"	"is ."	"an author"	1
 1	"she"	"is . author under"	"the name"	1
-1	"a lecturer"	"in writing at"	"Princeton University"	0
+1	"a lecturer"	"in writing at"	"Princeton University"	1
 1	"a lecturer"	"is ."	"an author"	1
 1	"a lecturer"	"is . author under"	"the name"	1
 1	"a lecturer"	"is . author under name of"	"Kathryn Watterson Burkhart"	1
@@ -127,7 +127,7 @@ He also had stints with the New York Philharmonic, Metropolitan Opera Orchestra,
 6	"the NBC Symphony"	"had"	"the NBC Symphony 's successor"	1
 In recent weeks, as the incentive wars have escalated, other automakers have beefed up their warranties.
 7	"recent weeks"	"have as have"	"the incentive wars"	1
-7	"recent weeks"	"have"	"other automakers"	1
+7	"recent weeks"	"have"	"other automakers"	0
 7	"recent weeks"	"have beefed"	"their warranties"	0
 7	"the incentive wars"	"have have"	"other automakers"	1
 7	"the incentive wars"	"have have beefed"	"their warranties"	1
@@ -398,7 +398,7 @@ To reach the museums by foot, leave from the station's 30th Street exit and walk
 30	"the museums"	"reach by"	"foot"	0
 30	"the museums"	"To leave from exit"	"the station"	0
 30	"the museums"	"To leave from"	"the station 's 30th Street exit"	1
-30	"foot"	"by To leave from exit"	"the station"	1
+30	"foot"	"by To leave from exit"	"the station"	0
 30	"foot"	"by To leave from"	"the station 's 30th Street exit"	1
 30	"the station"	"exit from To leave from"	"the station 's 30th Street exit"	1
 In lieu of flowers, donations in his memory can be made to the International Myeloma Foundation, 12650 Riverside Drive, Suite 206, North Hollywood, CA.
@@ -420,8 +420,8 @@ In lieu of flowers, donations in his memory can be made to the International Mye
 31	"the International Myeloma Foundation"	"to made can ."	"12650"	1
 31	"the International Myeloma Foundation"	"to made can ."	"Riverside Drive"	1
 31	"the International Myeloma Foundation"	"to made can . Drive"	"Suite 206"	1
-31	"the International Myeloma Foundation"	"to made can . Drive CA"	"North Hollywood"	0
-31	"the International Myeloma Foundation"	"to made can . Drive"	"North Hollywood CA"	0
+31	"the International Myeloma Foundation"	"to made can . Drive CA"	"North Hollywood"	1
+31	"the International Myeloma Foundation"	"to made can . Drive"	"North Hollywood CA"	1
 31	"12650"	"."	"Riverside Drive"	0
 31	"12650"	". Drive"	"Suite 206"	0
 31	"12650"	". Drive CA"	"North Hollywood"	0
@@ -429,7 +429,7 @@ In lieu of flowers, donations in his memory can be made to the International Mye
 31	"Riverside Drive"	"CA"	"North Hollywood"	0
 31	"Suite 206"	"Drive CA"	"North Hollywood"	0
 31	"Suite 206"	"Drive"	"North Hollywood CA"	0
-31	"North Hollywood"	"CA Drive can . Drive"	"North Hollywood CA"	0
+31	"North Hollywood"	"CA Drive can . Drive"	"North Hollywood CA"	1
 Julian Stark does his own hapless stunts in his takeoff on the "Hercules" movies starring Steve Reeves; Shannon Plumb contributes a Chaplinesque "Diary of a Mad Housewife."
 32	"Julian Stark"	"does stunts"	"his"	0
 32	"Julian Stark"	"does in"	"his takeoff"	0
@@ -519,8 +519,8 @@ My words were as perishable as doodles on an Etch-a-Sketch, I got half the money
 34	"I"	"had to share credit"	"the writer"	1
 34	"the writer"	"credit share to had and were got and had to share"	"the writer 's credit"	1
 Although the classic loafer can travel anywhere, this spring's variations are certainly a step in a new direction.
-35	"the classic loafer"	"can are variations"	"this spring"	1
-35	"the classic loafer"	"can are"	"this spring 's variations"	1
+35	"the classic loafer"	"can are variations"	"this spring"	0
+35	"the classic loafer"	"can are"	"this spring 's variations"	0
 35	"the classic loafer"	"can are"	"a step"	1
 35	"this spring"	"are"	"this spring 's variations"	0
 35	"this spring"	"are"	"a step"	0
@@ -576,7 +576,7 @@ Taken for granted it sometimes may be, but this year the Defense Department soug
 37	"assistance"	"sought and secured"	"half"	1
 37	"assistance"	"sought and secured"	"that amount"	1
 37	"assistance"	"sought and secured amount for machine"	"Ankara"	1
-37	"assistance"	"sought and secured amount for"	"Ankara 's huge military machine"	1
+37	"assistance"	"sought and secured amount for"	"Ankara 's huge military machine"	0
 37	"Congress"	"sought and secured"	"half"	1
 37	"Congress"	"sought and secured"	"that amount"	1
 37	"Congress"	"sought and secured amount for machine"	"Ankara"	1
@@ -652,7 +652,7 @@ The Giants convened today to begin their first preparations for Monday night's g
 40	"Monday night"	"game in"	"Minnesota"	1
 40	"Monday night"	"game begin against"	"the Vikings"	0
 40	"Monday night 's game"	"in"	"Minnesota"	1
-40	"Monday night 's game"	"begin against"	"the Vikings"	0
+40	"Monday night 's game"	"begin against"	"the Vikings"	1
 40	"Minnesota"	"in game begin against"	"the Vikings"	0
 John Lamar Odom, pastor of the First Presbyterian Church in Oceanside, L.I., were married yesterday.
 41	"John Lamar Odom"	"pastor of"	"the First Presbyterian Church"	1
@@ -685,7 +685,7 @@ Kent was not told of the situation until the game was over.
 43	"the situation"	"told until was"	"the game"	1
 It has set up a robotic system that systematically tests all 2,000 existing chemical drugs in combinations of two.
 44	"It"	"has set"	"a robotic system"	1
-44	"It"	"has set system tests drugs"	"all 2,000"	0
+44	"It"	"has set system tests drugs"	"all 2,000"	1
 44	"It"	"has set system tests"	"all 2,000 existing chemical drugs"	0
 44	"a robotic system"	"tests drugs"	"all 2,000"	1
 44	"a robotic system"	"tests"	"all 2,000 existing chemical drugs"	0
@@ -698,7 +698,7 @@ It has set up a robotic system that systematically tests all 2,000 existing chem
 44	"all 2,000 existing chemical drugs"	"tests in combinations of"	"two"	0
 44	"combinations"	"of"	"two"	1
 The state-run English-language Teheran Times reported that Parliament would begin debate on the Cabinet on Tuesday, with "two weeks to complete discussions and vote."
-45	"The state-run English-language Teheran Times"	"reported that would"	"Parliament"	1
+45	"The state-run English-language Teheran Times"	"reported that would"	"Parliament"	0
 45	"The state-run English-language Teheran Times"	"reported that would begin"	"debate"	0
 45	"The state-run English-language Teheran Times"	"reported that would begin debate on"	"the Cabinet"	0
 45	"The state-run English-language Teheran Times"	"reported that would begin on"	"Tuesday"	0
@@ -756,7 +756,7 @@ Nordstrom Inc., the retail chain based on the West Coast, said today that it had
 47	"today"	"said that had created office of"	"the president"	0
 47	"today"	"said that had created to strengthen team"	"its"	0
 47	"today"	"said that had created to strengthen"	"its executive management team"	0
-47	"it"	"had created"	"an office"	0
+47	"it"	"had created"	"an office"	1
 47	"it"	"had created office of"	"the president"	0
 47	"it"	"had created to strengthen team"	"its"	1
 47	"it"	"had created to strengthen"	"its executive management team"	1
@@ -1083,7 +1083,7 @@ It will not settle anything and her advisers will walk away and they'll still be
 72	"anything"	"will and 'll"	"they"	1
 72	"anything"	"will and 'll be making"	"demands"	1
 72	"her advisers"	"and anything will and 'll"	"they"	0
-72	"her advisers"	"and anything will and 'll be making"	"demands"	0
+72	"her advisers"	"and anything will and 'll be making"	"demands"	1
 His one miscalculation was to ask for humming in the second song, for nobody can hum to fill Carnegie Hall.
 73	"His one miscalculation"	"was to ask for humming in"	"the second song"	0
 73	"His one miscalculation"	"was can for"	"nobody"	0
@@ -1192,7 +1192,7 @@ That pushed the unemployment rate to 12.5 percent, from 12.4 percent in May.
 80	"12.4 percent"	"pushed in"	"May"	0
 It's not that I wouldn't drink these -- a number of them were very good.
 81	"It"	"'s that would"	"I"	1
-81	"It"	"'s"	"a number"	0
+81	"It"	"'s"	"a number"	1
 81	"It"	"'s number of"	"them"	0
 81	"I"	"would 's"	"a number"	1
 81	"I"	"would 's number of"	"them"	0
@@ -1337,7 +1337,7 @@ Two Japanese travel agencies have desks beside the finely manicured English-styl
 88	"Two"	"have"	"Two Japanese travel agencies"	1
 88	"Two"	"have"	"desks"	1
 88	"Two"	"have beside"	"the finely manicured English-style garden"	0
-88	"Two"	"have beside garden adjacent to"	"the lobby"	0
+88	"Two"	"have beside garden adjacent to"	"the lobby"	1
 88	"Two Japanese travel agencies"	"have beside"	"the finely manicured English-style garden"	1
 88	"Two Japanese travel agencies"	"have beside garden adjacent to"	"the lobby"	1
 88	"desks"	"have beside"	"the finely manicured English-style garden"	1
@@ -1368,7 +1368,7 @@ Barak also ended six weeks of total public silence on policy to reproach Preside
 90	"six weeks"	"ended to reproach"	"President Clinton"	0
 90	"six weeks"	"ended to reproach for making"	"seemingly offhand remarks"	0
 90	"total public silence"	"of ended on"	"policy"	1
-90	"total public silence"	"of ended to reproach"	"President Clinton"	1
+90	"total public silence"	"of ended to reproach"	"President Clinton"	0
 90	"total public silence"	"of ended to reproach for making"	"seemingly offhand remarks"	0
 90	"total public silence"	"of ended to reproach for making remarks about"	"the rights"	0
 90	"policy"	"ended to reproach"	"President Clinton"	1
@@ -1529,7 +1529,7 @@ A report in the Egos & Ids column of Styles of the Times on July 26 omitted the 
 95	"Power"	"omitted"	" The Power of Style"	1
 It was "The Wife of Governor Dufresne."
 96	"It"	"was Dufresne"	"Wife"	0
-96	"Wife"	"was"	"The Wife of Governor Dufresne"	0
+96	"Wife"	"was"	"The Wife of Governor Dufresne"	1
 Union officials say they are pleased with the G.H.I. plan and they assert that the main reason they are being asked to pay premiums is that the Oxford plan is costing Barnard $63,000 more than G.H.I.
 97	"Union officials"	"say are"	"they"	0
 97	"Union officials"	"say are pleased with"	"the G.H.I. plan"	1
@@ -1699,7 +1699,7 @@ Most significantly, the new machines will give Sony and other makers of the devi
 104	"the devices"	"of makers and give"	"unusual control"	1
 104	"the devices"	"of makers and give control over"	"the presentation"	1
 104	"the devices"	"of makers and give control over presentation of"	"programming"	1
-104	"the devices"	"of makers and Sony will ."	"what"	1
+104	"the devices"	"of makers and Sony will ."	"what"	0
 104	"the devices"	"of makers and Sony will . choose"	"consumers"	0
 104	"unusual control"	"over"	"the presentation"	1
 104	"unusual control"	"over presentation of"	"programming"	1
@@ -1909,13 +1909,13 @@ A table in Business Day on Thursday showing the New York Stock Exchange's uncove
 110	"June 15"	"ended weeks for interest or sales uncovered showing included amount provided by"	"the company"	0
 110	"an incorrect amount"	"for"	"the Tech-Sym Corporation"	1
 110	"an incorrect amount"	"provided by"	"the company"	0
-110	"an incorrect amount"	"provided to"	"the exchange"	1
+110	"an incorrect amount"	"provided to"	"the exchange"	0
 110	"the Tech-Sym Corporation"	"amount provided by"	"the company"	0
 110	"the Tech-Sym Corporation"	"amount provided to"	"the exchange"	0
 110	"the Tech-Sym Corporation"	"for included and misstated"	"the total"	0
 110	"the company"	"provided to"	"the exchange"	0
 110	"the company"	"by provided included and misstated"	"the total"	0
-110	"the exchange"	"to provided included and misstated"	"the total"	1
+110	"the exchange"	"to provided included and misstated"	"the total"	0
 "She could easily be seen as someone who tries to help the public with a tax cut when she can, but who is also candid enough to level with folks when the state fiscal situation prevents a tax giveback.
 111	"She"	"could be seen as"	"someone"	1
 111	"She"	". tries"	"who"	1
@@ -1944,7 +1944,7 @@ A table in Business Day on Thursday showing the New York Stock Exchange's uncove
 111	"folks"	"with level to candid is but prevents"	"the state fiscal situation"	0
 111	"folks"	"with level to candid is but prevents"	"a tax giveback"	0
 111	"state"	"situation prevents . tries prevents"	"the state fiscal situation"	1
-111	"state"	"prevents"	"a tax giveback"	1
+111	"state"	"prevents"	"a tax giveback"	0
 Just before this season began, the baseball commissioner's office suspended him for violating the terms of his after-care program for substance abuse.
 112	"this season"	"began suspended office"	"the baseball commissioner"	1
 112	"this season"	"began suspended"	"the baseball commissioner 's office"	1
@@ -2027,7 +2027,7 @@ The songs are driven by short melodic riffs, call-and-response with her backup s
 113	"a harp"	"similar to kora played by"	"griots"	1
 113	"the kora"	"played by"	"griots"	1
 Two batters later, Edgardo Alfonzo rapped a two-run double down the third-base line for a 3-0 lead, and Hundley later launched a double to the left-center warning track to make it 4-0.
-114	"Two batters"	"rapped"	"Edgardo Alfonzo"	1
+114	"Two batters"	"rapped"	"Edgardo Alfonzo"	0
 114	"Two batters"	"rapped down"	"the third-base line"	0
 114	"Edgardo Alfonzo"	"rapped down"	"the third-base line"	1
 114	"Edgardo Alfonzo"	"rapped down line for"	"a 3-0 lead"	1
@@ -2097,22 +2097,22 @@ Mexican reporters staked out meetings of the board of Dow Jones & Company, where
 117	"the board"	"of Company meetings of"	"Dow Jones"	1
 117	"the board"	"of Company"	"& Company"	1
 117	"the board"	"of Company is"	"Mr. Salinas"	1
-117	"the board"	"of Company is"	"a member"	0
+117	"the board"	"of Company is"	"a member"	1
 117	"Dow Jones"	"board of Company"	"& Company"	1
 117	"Dow Jones"	"board of Company is"	"Mr. Salinas"	1
-117	"Dow Jones"	"board of Company is"	"a member"	0
+117	"Dow Jones"	"board of Company is"	"a member"	1
 117	"& Company"	"is"	"Mr. Salinas"	1
-117	"& Company"	"is"	"a member"	0
+117	"& Company"	"is"	"a member"	1
 117	"& Company"	"but caught"	"just a brief glimpse"	0
 117	"Mr. Salinas"	"Company but caught"	"just a brief glimpse"	0
 117	"Mr. Salinas"	"Company but caught glimpse of"	"him"	0
 117	"a member"	"Company but caught"	"just a brief glimpse"	0
 117	"a member"	"Company but caught glimpse of"	"him"	0
-117	"a member"	"Company but caught on"	"the 43d floor"	0
+117	"a member"	"Company but caught on"	"the 43d floor"	1
 117	"just a brief glimpse"	"of"	"him"	0
 117	"just a brief glimpse"	"caught on"	"the 43d floor"	0
 117	"just a brief glimpse"	"caught on floor of"	"the World Trade Center"	0
-117	"him"	"of caught on"	"the 43d floor"	1
+117	"him"	"of caught on"	"the 43d floor"	0
 117	"him"	"of caught on floor of"	"the World Trade Center"	1
 117	"the 43d floor"	"of"	"the World Trade Center"	1
 In October, the university's Electronic Music Center will put the finishing touches on an ambitious surround-sound speaker installation.
@@ -2267,14 +2267,14 @@ Miss Collins is immutably Miss Collins.
 IT was graduation night at the Ophelia DeVore School of Charm.
 132	"IT"	"was night at Charm"	"School"	0
 132	"IT"	"was night at"	"the Ophelia DeVore School of Charm"	0
-132	"graduation night"	"at Charm"	"School"	1
+132	"graduation night"	"at Charm"	"School"	0
 132	"graduation night"	"at"	"the Ophelia DeVore School of Charm"	0
 132	"School"	"Charm at was night at"	"the Ophelia DeVore School of Charm"	0
 The market wants to do better, said Gregory Bundy, head of equity trading at Merrill Lynch Japan Inc.
-133	"The market"	"wants"	"Gregory Bundy"	0
+133	"The market"	"wants"	"Gregory Bundy"	1
 133	"The market"	"wants Bundy"	"head"	1
 133	"The market"	"wants Bundy head of"	"equity trading"	1
-133	"Gregory Bundy"	"head of"	"equity trading"	1
+133	"Gregory Bundy"	"head of"	"equity trading"	0
 133	"Gregory Bundy"	"head at"	"Merrill Lynch Japan"	0
 133	"Gregory Bundy"	"head at Japan"	"Inc."	0
 133	"head"	"of"	"equity trading"	1
@@ -2438,23 +2438,23 @@ The Federal Home Loan Bank Board last week provided reassurances to securities d
 144	"reassurances"	"to dealers holding"	"certain futures"	0
 144	"reassurances"	"to dealers holding futures and"	"options"	0
 144	"reassurances"	"to dealers holding"	"contracts"	0
-144	"reassurances"	"to dealers holding contracts with"	"the American Savings"	1
-144	"reassurances"	"to dealers holding contracts with Savings and"	"Loan"	1
+144	"reassurances"	"to dealers holding contracts with"	"the American Savings"	0
+144	"reassurances"	"to dealers holding contracts with Savings and"	"Loan"	0
 144	"securities dealers"	"holding"	"certain futures"	0
 144	"securities dealers"	"holding futures and"	"options"	0
 144	"securities dealers"	"holding"	"contracts"	0
-144	"securities dealers"	"holding contracts with"	"the American Savings"	1
-144	"securities dealers"	"holding contracts with Savings and"	"Loan"	1
-144	"securities dealers"	"to provided"	"Association"	0
+144	"securities dealers"	"holding contracts with"	"the American Savings"	0
+144	"securities dealers"	"holding contracts with Savings and"	"Loan"	0
+144	"securities dealers"	"to provided"	"Association"	1
 144	"certain futures"	"and"	"options"	0
 144	"certain futures"	"holding"	"contracts"	0
-144	"certain futures"	"holding contracts with"	"the American Savings"	1
-144	"certain futures"	"holding contracts with Savings and"	"Loan"	1
+144	"certain futures"	"holding contracts with"	"the American Savings"	0
+144	"certain futures"	"holding contracts with Savings and"	"Loan"	0
 144	"certain futures"	"holding dealers to provided"	"Association"	0
 144	"certain futures"	"holding dealers to provided . institution"	"the nation"	1
 144	"options"	"and holding"	"contracts"	0
-144	"options"	"and holding contracts with"	"the American Savings"	1
-144	"options"	"and holding contracts with Savings and"	"Loan"	1
+144	"options"	"and holding contracts with"	"the American Savings"	0
+144	"options"	"and holding contracts with Savings and"	"Loan"	0
 144	"options"	"and futures holding dealers to provided"	"Association"	0
 144	"options"	"and futures holding dealers to provided . institution"	"the nation"	1
 144	"options"	"and futures holding dealers to provided ."	"the nation 's largest savings institution"	1
@@ -2464,10 +2464,10 @@ The Federal Home Loan Bank Board last week provided reassurances to securities d
 144	"contracts"	"holding dealers to provided . institution"	"the nation"	1
 144	"contracts"	"holding dealers to provided ."	"the nation 's largest savings institution"	1
 144	"the American Savings"	"and"	"Loan"	1
-144	"the American Savings"	"with contracts holding dealers to provided"	"Association"	1
+144	"the American Savings"	"with contracts holding dealers to provided"	"Association"	0
 144	"the American Savings"	"with contracts holding dealers to provided . institution"	"the nation"	1
 144	"the American Savings"	"with contracts holding dealers to provided ."	"the nation 's largest savings institution"	1
-144	"Loan"	"and Savings with contracts holding dealers to provided"	"Association"	1
+144	"Loan"	"and Savings with contracts holding dealers to provided"	"Association"	0
 144	"Loan"	"and Savings with contracts holding dealers to provided . institution"	"the nation"	1
 144	"Loan"	"and Savings with contracts holding dealers to provided ."	"the nation 's largest savings institution"	1
 144	"Association"	"provided . institution"	"the nation"	1
@@ -2542,7 +2542,7 @@ On Fridays and Saturdays (the only nights it is open), every inch of that floor 
 148	"it"	"is nights Saturdays and is"	"every inch"	1
 148	"it"	"is nights Saturdays and is inch of"	"that floor"	0
 148	"it"	"is nights Saturdays and is rocking with"	"people"	1
-148	"it"	"is nights Saturdays and is rocking with people are"	"who"	1
+148	"it"	"is nights Saturdays and is rocking with people are"	"who"	0
 148	"every inch"	"of"	"that floor"	1
 148	"every inch"	"is rocking with"	"people"	1
 148	"every inch"	"is rocking with people are"	"who"	1
@@ -2690,7 +2690,7 @@ The United States has talked tough on trade during eight months of negotiations,
 157	"The United States"	"has but has"	"Japan"	1
 157	"trade"	"on talked during"	"eight months"	1
 157	"trade"	"on talked during months of"	"negotiations"	1
-157	"trade"	"on tough has but has"	"Japan"	0
+157	"trade"	"on tough has but has"	"Japan"	1
 157	"trade"	"on tough has but has called"	"its bluff"	1
 157	"eight months"	"of"	"negotiations"	1
 157	"eight months"	"during has but has"	"Japan"	1
@@ -2703,7 +2703,7 @@ The United States has talked tough on trade during eight months of negotiations,
 157	"its bluff"	"has and has yielded"	"virtually nothing"	0
 The day after the Bulls' Dennis Rodman suggested that they were "yellow" in Tuesday's night's loss to Chicago, the Knicks laughed it off as Rodman merely being Rodman.
 158	"The day"	"after suggested Rodman"	"the Bulls"	0
-158	"The day"	"after suggested"	"the Bulls ' Dennis Rodman"	1
+158	"The day"	"after suggested"	"the Bulls ' Dennis Rodman"	0
 158	"The day"	"after suggested that were"	"they"	0
 158	"The day"	"after suggested that were in loss"	"Tuesday"	0
 158	"the Bulls"	"Rodman suggested after laughed day after suggested"	"the Bulls ' Dennis Rodman"	0
@@ -2780,7 +2780,7 @@ They maintain that this "negligent distribution" makes the companies collectivel
 160	"which company"	"was used in"	"a given shooting"	0
 160	"which company"	"was"	"an argument"	0
 160	"which company 's gun"	"was used in"	"a given shooting"	0
-160	"which company 's gun"	"was"	"an argument"	0
+160	"which company 's gun"	"was"	"an argument"	1
 160	"which company 's gun"	"maintain ."	"legal experts term novel"	0
 160	"a given shooting"	"in was"	"an argument"	0
 160	"a given shooting"	"in used maintain ."	"legal experts term novel"	0
@@ -2932,17 +2932,17 @@ She was a continuing source of love, kindness and generosity who never failed to
 168	"She"	"was source of"	"love"	1
 168	"She"	"was source of love"	"kindness"	1
 168	"She"	"was source of love kindness and"	"generosity"	1
-168	"She"	"was failed"	"who"	0
+168	"She"	"was failed"	"who"	1
 168	"a continuing source"	"of"	"love"	1
 168	"a continuing source"	"of love"	"kindness"	1
 168	"a continuing source"	"of love kindness and"	"generosity"	1
-168	"a continuing source"	"was failed"	"who"	1
+168	"a continuing source"	"was failed"	"who"	0
 168	"a continuing source"	"was failed to nurture"	"her adoring family"	0
 168	"love"	"kindness and"	"generosity"	1
 168	"love"	"of was failed"	"who"	0
 168	"love"	"of was failed to nurture"	"her adoring family"	0
 168	"kindness"	"and"	"generosity"	1
-168	"kindness"	"love of was failed"	"who"	1
+168	"kindness"	"love of was failed"	"who"	0
 168	"kindness"	"love of was failed to nurture"	"her adoring family"	0
 168	"generosity"	"and kindness love of was failed"	"who"	1
 168	"generosity"	"and kindness love of was failed to nurture"	"her adoring family"	0
@@ -3003,7 +3003,7 @@ In 1954, the committee presented a $100 million improvement plan and obtained le
 170	"the funds"	"borrow to create"	"a new Aqueduct"	1
 170	"the funds"	"borrow to paying nondividend set to legislation obtained presented and to improve"	"Belmont"	1
 170	"the funds"	"borrow to paying nondividend set to legislation obtained presented and to improve Belmont and"	"Saratoga"	1
-170	"the funds"	"borrow to paying nondividend set to legislation obtained presented and to improve"	"race tracks"	1
+170	"the funds"	"borrow to paying nondividend set to legislation obtained presented and to improve"	"race tracks"	0
 170	"a new Aqueduct"	"create to borrow to paying nondividend set to legislation obtained presented and to improve"	"Belmont"	1
 170	"a new Aqueduct"	"create to borrow to paying nondividend set to legislation obtained presented and to improve Belmont and"	"Saratoga"	1
 170	"a new Aqueduct"	"create to borrow to paying nondividend set to legislation obtained presented and to improve"	"race tracks"	1
@@ -3198,7 +3198,7 @@ The Digital Domain column last Sunday, about Craigslist, the online bulletin boa
 182	"the name"	"of firm found in"	"a survey"	0
 182	"the name"	"of firm found"	"last fall"	0
 182	"a consulting firm"	"found"	"last fall"	0
-182	"a consulting firm"	"found that were"	"many newspaper industry executives"	0
+182	"a consulting firm"	"found that were"	"many newspaper industry executives"	1
 182	"a survey"	"found"	"last fall"	0
 182	"a survey"	"found that were"	"many newspaper industry executives"	1
 182	"a survey"	"found that were unaware of arrival"	"the site"	1
@@ -3214,7 +3214,7 @@ The Digital Domain column last Sunday, about Craigslist, the online bulletin boa
 182	"the site 's arrival"	"in"	"their cities"	1
 A review on June 29, about two books on German musicians and music in the Nazi period, referred incorrectly to Fred K. Prieberg's 1982 German book on those subjects.
 183	"A review"	"on"	"June 29"	0
-183	"A review"	"books on"	"German musicians"	1
+183	"A review"	"books on"	"German musicians"	0
 183	"A review"	"books on musicians and"	"music"	0
 183	"June 29"	"review"	"about two books"	0
 183	"June 29"	"review books on"	"German musicians"	0
@@ -3244,7 +3244,7 @@ A review on June 29, about two books on German musicians and music in the Nazi p
 Hayden's Point was built by James Gamble Rogers for Chet Bowles, and it was never meant to be a showplace.
 184	"Hayden"	". was"	"Point"	0
 184	"Hayden"	". was built by"	"James Gamble Rogers"	1
-184	"Hayden"	". was built for"	"Chet Bowles"	0
+184	"Hayden"	". was built for"	"Chet Bowles"	1
 184	"Hayden"	". was and was"	"it"	0
 184	"Point"	"was built by"	"James Gamble Rogers"	1
 184	"Point"	"was built for"	"Chet Bowles"	1
@@ -3260,8 +3260,8 @@ Bennett confirmed when he addressed the Township Council tonight that the United
 185	"Bennett"	"confirmed addressed"	"the Township Council tonight"	0
 185	"Bennett"	"confirmed addressed tonight that had office"	"the United States attorney"	0
 185	"Bennett"	"confirmed addressed tonight that had"	"the United States attorney 's office"	0
-185	"he"	"addressed tonight that had office"	"the United States attorney"	1
-185	"he"	"addressed tonight that had"	"the United States attorney 's office"	1
+185	"he"	"addressed tonight that had office"	"the United States attorney"	0
+185	"he"	"addressed tonight that had"	"the United States attorney 's office"	0
 185	"he"	"addressed tonight that had requested"	"information"	0
 185	"the Township Council tonight"	"that had office"	"the United States attorney"	0
 185	"the Township Council tonight"	"that had"	"the United States attorney 's office"	0
@@ -3271,7 +3271,7 @@ Bennett confirmed when he addressed the Township Council tonight that the United
 185	"the United States attorney"	"had requested"	"information"	1
 185	"the United States attorney"	"had requested from"	"the township"	1
 185	"the United States attorney 's office"	"had requested from"	"the township"	1
-185	"information"	"requested from"	"the township"	0
+185	"information"	"requested from"	"the township"	1
 In 1964, he joined CBS News as an associate producer of "CBS News With Walter Cronkite" in Washington, and he later became the producer for White House correspondent Dan Rather, now CBS's weekday anchor, during the Nixon Administration.
 186	"1964"	"joined"	"he"	0
 186	"1964"	"joined"	"CBS News"	0
@@ -3283,7 +3283,7 @@ In 1964, he joined CBS News as an associate producer of "CBS News With Walter Cr
 186	"CBS News"	"joined as"	"an associate producer"	0
 186	"CBS News"	"joined as producer of"	"CBS News"	1
 186	"CBS News"	"joined as producer With"	"Walter Cronkite "	0
-186	"CBS News"	"joined as producer With  in"	"Washington"	1
+186	"CBS News"	"joined as producer With  in"	"Washington"	0
 186	"an associate producer"	"of"	"CBS News"	1
 186	"an associate producer"	"With"	"Walter Cronkite "	0
 186	"an associate producer"	"With  in"	"Washington"	0
@@ -3298,9 +3298,9 @@ In 1964, he joined CBS News as an associate producer of "CBS News With Walter Cr
 186	"Walter Cronkite "	"With producer joined and became producer for"	"White House correspondent"	0
 186	"Walter Cronkite "	"With producer joined and became producer for correspondent"	"Dan Rather"	0
 186	"Washington"	"in  With producer joined and became"	"he"	1
-186	"Washington"	"in  With producer joined and became"	"the producer"	1
-186	"Washington"	"in  With producer joined and became producer for"	"White House correspondent"	1
-186	"Washington"	"in  With producer joined and became producer for correspondent"	"Dan Rather"	1
+186	"Washington"	"in  With producer joined and became"	"the producer"	0
+186	"Washington"	"in  With producer joined and became producer for"	"White House correspondent"	0
+186	"Washington"	"in  With producer joined and became producer for correspondent"	"Dan Rather"	0
 186	"he"	"became producer for"	"White House correspondent"	1
 186	"he"	"became producer for correspondent"	"Dan Rather"	1
 186	"he"	"became producer for correspondent Rather anchor"	"CBS"	1
@@ -3334,11 +3334,11 @@ Her subjects were friends and artists who posed for her in their "Full Monty" gl
 187	"artists"	"and were . in glory"	"their"	1
 187	"artists"	"and were . in glory"	"Full Monty"	1
 187	"artists"	"and were . in"	"their  Full Monty  glory"	1
-187	"who"	"posed artists and were ."	"her"	1
+187	"who"	"posed artists and were ."	"her"	0
 187	"who"	"posed artists and were . in glory"	"their"	1
 187	"who"	"posed artists and were . in glory"	"Full Monty"	1
 187	"who"	"posed artists and were . in"	"their  Full Monty  glory"	1
-187	"her"	". in glory"	"their"	1
+187	"her"	". in glory"	"their"	0
 187	"her"	". in glory"	"Full Monty"	1
 187	"her"	". in"	"their  Full Monty  glory"	1
 187	"their"	"glory"	"Full Monty"	1
@@ -3380,8 +3380,8 @@ David Johansen's latest genre excursion heads for the recorded roots of American
 189	"the recorded roots"	"blues ballads"	"country"	0
 189	"the recorded roots"	"blues ballads country and"	"gospel"	0
 189	"the recorded roots"	"heads"	"songs"	1
-189	"American music"	"roots"	"the blues"	0
-189	"American music"	"roots blues"	"ballads"	0
+189	"American music"	"roots"	"the blues"	1
+189	"American music"	"roots blues"	"ballads"	1
 189	"American music"	"roots blues ballads"	"country"	0
 189	"American music"	"roots blues ballads country and"	"gospel"	0
 189	"American music"	"of roots heads"	"songs"	1
@@ -3421,7 +3421,7 @@ David Johansen's latest genre excursion heads for the recorded roots of American
 189	"redemption"	"for . Music"	"Anthology"	1
 189	"redemption"	"for ."	"Anthology of American Folk Music"	1
 189	"Harry Smith"	"by collected were ."	"his"	0
-189	"Harry Smith"	"by collected were . Music"	"Anthology"	1
+189	"Harry Smith"	"by collected were . Music"	"Anthology"	0
 189	"Harry Smith"	"by collected were ."	"Anthology of American Folk Music"	1
 189	"Harry Smith"	"by collected were . Music"	"a foundation"	0
 189	"Harry Smith"	"by collected were . Music foundation of revival"	"1950"	1

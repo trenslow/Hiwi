@@ -1,0 +1,17 @@
+path_to_feat_folder = 'features/'
+path_to_model_folder = 'models/'
+path_to_train = 'SemEval2010_task8_all_data/SemEval2010_task8_training/TRAIN_FILE.TXT'
+path_to_test = 'SemEval2010_task8_all_data/SemEval2010_task8_testing_keys/TEST_FILE_FULL.TXT'
+W = 0
+max_suffix_size = 3  # if 0, creates all possible suffixes from words
+fire_words = True
+fire_positions = False
+fire_clusters = True
+fire_suffixes = False
+fire_shapes = True
+use_avg_M = False
+use_avg_M_plus_mode = False
+after_e1 = False
+before_e2 = True
+marlin = True
+brown = False

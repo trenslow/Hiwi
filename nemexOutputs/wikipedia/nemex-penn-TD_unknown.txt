@@ -2,7 +2,7 @@ Henry was Governor Edwin Washington Edwards's choice for Speaker.
 Mrs. Yogeswaran was shot five times with a pistol near her Jaffna home on May 17, 1998.
 1	"Mrs. Yogeswaran"	"was shot"	"five times with a pistol"	0
 1	"Mrs. Yogeswaran"	"was shot"	"five times on May 17 1998"	0
-1	"Mrs. Yogeswaran"	"was shot"	"five times with a pistol on May 17 1998"	1
+1	"Mrs. Yogeswaran"	"was shot"	"five times with a pistol on May 17 1998"	0
 1	"Mrs. Yogeswaran"	"was shot"	"five times near her Jaffna home"	1
 1	"Mrs. Yogeswaran"	"was shot"	"five times near her Jaffna home on May 17 1998"	1
 Girard has a bachelor's degree in political sciences at the Universite de Montreal and did studies for the master's degree in industrial relations.
@@ -138,7 +138,7 @@ In his years on Newsnight, he has reported on many of the most compelling foreig
 30	"he"	"has reported"	"on Newsnight on many of the most compelling foreign news stories the Gulf War"	1
 30	"he"	"has reported"	"on many in the past two decades the Gulf War"	0
 30	"he"	"has reported"	"In his years on many"	1
-30	"he"	"has reported"	"In his years on many of the most compelling foreign news stories in the past two decades the Gulf War"	0
+30	"he"	"has reported"	"In his years on many of the most compelling foreign news stories in the past two decades the Gulf War"	1
 30	"he"	"has reported"	"on many"	1
 30	"he"	"has reported"	"on Newsnight on many in the past two decades the Gulf War"	1
 30	"he"	"has reported"	"on Newsnight on many in the past two decades"	1
@@ -197,7 +197,7 @@ On February 6, 2008, the post office in Taft was renamed the "Larry S. Pierce Po
 LaBrocca scored his first goal for the club in a 4-1 home victory vs. Chicago Fire.
 43	"LaBrocca"	"scored"	"his first goal in a 4-1 home victory"	0
 43	"LaBrocca"	"scored"	"his first goal vs. Chicago Fire"	0
-43	"LaBrocca"	"scored"	"his first goal for the club in a 4-1 home victory"	0
+43	"LaBrocca"	"scored"	"his first goal for the club in a 4-1 home victory"	1
 43	"LaBrocca"	"scored"	"his first goal for the club vs. Chicago Fire"	1
 43	"LaBrocca"	"scored"	"his first goal for the club in a 4-1 home victory vs. Chicago Fire"	0
 He is married to Washington Post journalist Ruth Marcus.
@@ -216,8 +216,8 @@ Kuroki is the only Japanese American known to have participated in air combat mi
 45	"Kuroki"	"is"	"the only Japanese American known in air combat missions in the Pacific theater of operations during the war"	1
 45	"Kuroki"	"is"	"the only Japanese American known to have participated in air combat missions in the Pacific theater of operations during the war"	1
 45	"Kuroki"	"is"	"the only Japanese American known to have participated"	0
-45	"Kuroki"	"is"	"the only Japanese American known to have participated in the Pacific theater of operations during the war"	0
-45	"Kuroki"	"is"	"the only Japanese American known to have participated in air combat missions during the war"	0
+45	"Kuroki"	"is"	"the only Japanese American known to have participated in the Pacific theater of operations during the war"	1
+45	"Kuroki"	"is"	"the only Japanese American known to have participated in air combat missions during the war"	1
 45	"Kuroki"	"is"	"the only Japanese American known to have participated during the war"	0
 45	"Kuroki"	"have participated"	"in air combat missions in the Pacific theater of operations during the war"	1
 45	"Kuroki"	"have participated"	"during the war"	1
@@ -524,9 +524,9 @@ It was later broadcast on NBC on February 26, 2009 and is now available as a sep
 69	"It"	"was broadcast"	"on NBC on February 26 2009 It also the televison premiere for Nickelodeon"	1
 69	"It"	"was broadcast"	"as of March 24 2009 It also the televison premiere for Nickelodeon on March 6 2011"	0
 69	"It"	"was broadcast"	"on NBC on February 26 2009 as of March 24 2009"	1
-69	"It"	"was broadcast"	"as of March 24 2009 for Nickelodeon"	1
+69	"It"	"was broadcast"	"as of March 24 2009 for Nickelodeon"	0
 69	"It"	"was broadcast"	"on February 26 2009 It also the televison premiere on March 6 2011"	0
-69	"It"	"was broadcast"	"on February 26 2009 It also the televison premiere"	1
+69	"It"	"was broadcast"	"on February 26 2009 It also the televison premiere"	0
 69	"It"	"was broadcast"	"on NBC on February 26 2009 as of March 24 2009 It also the televison premiere for Nickelodeon"	1
 69	"It"	"was broadcast"	"on NBC It also the televison premiere for Nickelodeon on March 6 2011"	0
 69	"It"	"was broadcast"	"on NBC on February 26 2009 It also the televison premiere for Nickelodeon on March 6 2011"	0
@@ -618,7 +618,7 @@ He trained with the club for one month before being waived on March 1, 2011, pri
 79	"He"	"trained"	"before being waived on March 1 2011 prior"	1
 79	"He"	"trained"	"for one month on March 1 2011 prior"	1
 79	"He"	"trained"	"for one month on March 1 2011 prior to the start of the MLS season"	0
-79	"He"	"trained"	"for one month before being waived to the start of the MLS season"	1
+79	"He"	"trained"	"for one month before being waived to the start of the MLS season"	0
 79	"He"	"trained"	"before being waived"	1
 79	"He"	"trained"	"with the club before being waived"	1
 79	"He"	"trained"	"for one month before being waived on March 1 2011 prior to the start of the MLS season"	1
@@ -716,10 +716,10 @@ She later revealed to Christina the late Sommers was a friend of her family and 
 90	"her father"	"had appealed"	"to Fey in getting Amanda a job at  MODE"	1
 90	"her father"	"had appealed"	"to Fey for help at  MODE"	1
 90	"her father"	"had appealed"	"in getting Amanda a job at  MODE"	0
-90	"her father"	"had appealed"	"to Fey for help in getting Amanda a job"	0
+90	"her father"	"had appealed"	"to Fey for help in getting Amanda a job"	1
 90	"her father"	"had appealed"	"for help in getting Amanda a job at  MODE"	0
 90	"her father"	"had appealed"	"to Fey in getting Amanda a job"	1
-90	"her father"	"had appealed"	"to Fey for help in getting Amanda a job at  MODE"	0
+90	"her father"	"had appealed"	"to Fey for help in getting Amanda a job at  MODE"	1
 90	"her father"	"had appealed"	"for help at  MODE"	1
 90	"her father"	"had appealed"	"to Fey"	1
 90	"her father"	"had appealed"	"for help in getting Amanda a job"	0
@@ -770,10 +770,10 @@ Ronald Squire (25 March 1886 - 16 November 1958) was an English character actor.
 98	"Casanova Brown "	"starring"	"Gary Cooper"	1
 The same day, after Macher had informed the local fire brigade, the south-east tower, the least important tower of the large castle, was blown up.
 While in the legislature, he sponsored successful bills to encourage state purchasing of "environmentally preferable" products, to allow Colorado State University to require graduate student health insurance, and to create licensing standards for hemodialysis technicians.
-100	"he"	"to encourage"	"state purchasing of  environmentally preferable"	0
-100	"he"	"to encourage"	"state purchasing  products"	0
+100	"he"	"to encourage"	"state purchasing of  environmentally preferable"	1
+100	"he"	"to encourage"	"state purchasing  products"	1
 100	"he"	"to encourage"	"state purchasing of  environmentally preferable  products"	1
-100	"he"	"to encourage"	"state purchasing"	0
+100	"he"	"to encourage"	"state purchasing"	1
 100	"he"	"to allow"	"Colorado State University"	0
 100	"he"	"to require"	"graduate student health insurance"	0
 100	"he"	"to create"	"licensing standards for hemodialysis technicians"	0
@@ -911,7 +911,7 @@ While some reviewers praised the movie as a classic example of 1960s camp, other
 129	"others"	"noted"	"its mediocre production values changes in some songs"	1
 129	"others"	"noted"	"its mediocre production values in some songs"	0
 129	"others"	"noted"	"its mediocre production values in the musical score and disappointing choreography in some songs"	1
-129	"others"	"noted"	"its mediocre production values in the musical score and disappointing choreography"	1
+129	"others"	"noted"	"its mediocre production values in the musical score and disappointing choreography"	0
 129	"others"	"noted"	"its mediocre production values changes in the musical score and disappointing choreography"	1
 129	"others"	"rewriting"	"of the script"	0
 As of 2009, it is ranked as the strongest hockey league in Europe.
@@ -1131,7 +1131,7 @@ He was called up for the Black Stars for a friendly game against Argentina natio
 167	"He"	"was called up"	"for the Black Stars for a friendly game against Argentina national football team"	0
 167	"He"	"was called up"	"for a friendly game against Argentina national football team"	1
 167	"He"	"was called up"	"for the Black Stars for a friendly game"	1
-167	"He"	"was called up"	"for the Black Stars"	0
+167	"He"	"was called up"	"for the Black Stars"	1
 167	"He"	"was called up"	"for the Black Stars against Argentina national football team"	0
 167	"He"	"marked"	"in the game his debut"	0
 167	"He"	"marked"	"his debut"	0
@@ -1156,7 +1156,7 @@ A woman Tina arrives at Cholera street where she takes up residence and works as
 173	"A woman Tina"	"arrives"	"at Cholera street where"	1
 173	"A woman Tina"	"arrives"	"she"	1
 173	"A woman Tina"	"arrives"	"at Cholera street where she"	1
-173	"A woman Tina"	"takes up"	"residence"	0
+173	"A woman Tina"	"takes up"	"residence"	1
 173	"A woman Tina"	"works"	"as a prostitute"	1
 The plan was to airlift one battalion of the 24th Infantry Division into South Korea via C-54 Skymaster transport aircraft and quickly block advancing North Korean forces while the remainder of the division was transported on ships.
 His usual position was on the wing or in the centres.
@@ -1219,7 +1219,7 @@ Among modern critics, Steve Biodrowski of "Cinefantastique" wrote, "In the end, 
 188	"Destroy All Monsters"	"is"	"too slim in its storyline"	0
 188	"Destroy All Monsters"	"is"	"too slim too thin"	0
 188	"Destroy All Monsters"	"is"	"too slim in its characterizations"	0
-188	"Destroy All Monsters"	"is"	"too slim in its storyline in its characterizations"	0
+188	"Destroy All Monsters"	"is"	"too slim in its storyline in its characterizations"	1
 188	"Destroy All Monsters"	"is"	"too slim in its storyline too thin in its characterizations"	0
 188	"Destroy All Monsters"	"is"	"too slim in its storyline too thin"	0
 More widely, in late August, 2007 the group was accused in "The Telegraph", a conservative British newspaper, of torturing, detaining, and firing on unarmed protesters who had objected to policies of the Hamas government.
@@ -1243,7 +1243,7 @@ More widely, in late August, 2007 the group was accused in "The Telegraph", a co
 189	"2007 the group"	"was accused"	"More widely The Telegraph : a conservative British newspaper of torturing detaining and firing on unarmed protesters who had objected to policies of the Hamas government ."	0
 189	"2007 the group"	"was accused"	"The Telegraph : a conservative British newspaper"	0
 189	"2007 the group"	"was accused"	"in late August : a conservative British newspaper of torturing detaining and firing on unarmed protesters who had objected to policies of the Hamas government ."	1
-189	"2007 the group"	"was accused"	"in late August The Telegraph of torturing detaining and firing on unarmed protesters who had objected to policies of the Hamas government ."	1
+189	"2007 the group"	"was accused"	"in late August The Telegraph of torturing detaining and firing on unarmed protesters who had objected to policies of the Hamas government ."	0
 189	"2007 the group"	"was accused"	"More widely : a conservative British newspaper"	0
 189	"2007 the group"	"was accused"	"More widely in late August The Telegraph : a conservative British newspaper of torturing detaining and firing on unarmed protesters who had objected to policies of the Hamas government ."	0
 189	"2007 the group"	"was accused"	"More widely"	0

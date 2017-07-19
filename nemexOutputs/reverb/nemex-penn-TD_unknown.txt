@@ -250,12 +250,12 @@ ONE OF THOSE DAYS FOR JARRETT Worn out by the travel and discouraged by agency '
 Extendicare Inc. agreed to buy Arbor Health Care Co. for about US$ 432 million in cash and assumed debt , nearly doubling its Florida and Ohio businesses and making it one of North America 's largest long-term health care providers .
 60	"Extendicare Inc."	"agreed to buy"	"Arbor Health Care for about US$ 432 million"	1
 60	"Extendicare Inc."	"agreed to buy"	"Arbor Health Care for about US$ 432 million in cash"	1
-60	"Extendicare Inc."	"agreed to buy"	"Arbor Health Care"	1
-60	"Extendicare Inc."	"agreed to buy"	"Arbor Health Care in cash"	1
+60	"Extendicare Inc."	"agreed to buy"	"Arbor Health Care"	0
+60	"Extendicare Inc."	"agreed to buy"	"Arbor Health Care in cash"	0
 60	"Extendicare Inc."	"agreed to buy"	"Arbor Health Care Co. for about US$ 432 million"	1
 60	"Extendicare Inc."	"agreed to buy"	"Arbor Health Care Co. in cash"	0
 60	"Extendicare Inc."	"agreed to buy"	"Arbor Health Care Co. for about US$ 432 million in cash"	1
-60	"Extendicare Inc."	"making"	"it"	0
+60	"Extendicare Inc."	"making"	"it"	1
 She began her career as a chunky woman , awkward on stage and unsure of her musical direction .
 This leads to one of two inescapable conclusions : Either the president reads BioScope or I got lucky .
 62	"the president"	"got"	"lucky"	0
@@ -499,7 +499,7 @@ Bullion rose as the U.S. dollar fell against the yen and the German mark , makin
 114	"Bullion"	"rose"	"dollar"	1
 114	"Bullion"	"rose"	"as the U.S."	0
 114	"Bullion"	"rose"	"as the U.S. dollar"	1
-114	"Bullion"	"making"	"it"	1
+114	"Bullion"	"making"	"it"	0
 114	"analysts"	"using"	"other major currencies"	0
 114	"analysts"	"to buy"	"the precious metal"	0
 114	"the U.S. dollar"	"fell"	"against the yen and the German mark"	1
@@ -533,7 +533,7 @@ Kidd , 29 , the team 's star point guard , extended his current contract years a
 122	"Kidd 29 the team 's star point guard"	"may not sign"	"another extension before becoming a free agent on July 1"	1
 122	"Kidd 29 the team 's star point guard"	"may not sign"	"another extension before becoming a free agent"	1
 122	"Kidd 29 the team 's star point guard"	"may not sign"	"another extension with the Nets"	1
-122	"Kidd 29 the team 's star point guard"	"may not sign"	"another extension with the Nets before becoming a free agent"	0
+122	"Kidd 29 the team 's star point guard"	"may not sign"	"another extension with the Nets before becoming a free agent"	1
 122	"Kidd 29 the team 's star point guard"	"may not sign"	"another extension"	1
 122	"Kidd 29 the team 's star point guard"	"may not sign"	"another extension on July 1"	1
 122	"Kidd 29 the team 's star point guard"	"may not sign"	"another extension with the Nets before becoming a free agent on July 1"	0
@@ -811,7 +811,7 @@ Airports act as `heat islands , ' so temperatures can vary as much as 10 degrees
 176	"temperatures"	"can vary"	"as much as 10 degrees"	1
 176	"temperatures"	"can vary"	"as much as 10 degrees Fahrenheit vegetable fields"	1
 The Rams sorely miss departed third receiver Az Hakim .
-177	"The Rams"	"miss departed"	"third receiver"	1
+177	"The Rams"	"miss departed"	"third receiver"	0
 In the last four games of the losing streak , they surrendered deciding goals in the last minutes of the half or game three times and were blanked , 4-0 , by Tampa Bay .
 178	"they"	"surrendered deciding"	"In the last four games of the losing streak goals three times and were blanked 4-0 by Tampa Bay"	1
 178	"they"	"surrendered deciding"	"In the last four games of the losing streak goals"	0
@@ -866,10 +866,10 @@ She said she was looking forward to returning to Texas with her family .
 191	"She"	"was looking"	"to Texas"	0
 191	"She"	"was looking"	"to returning to Texas"	1
 191	"She"	"was looking"	"with her family"	0
-191	"She"	"was looking"	"to returning with her family"	0
+191	"She"	"was looking"	"to returning with her family"	1
 191	"She"	"was looking"	"to returning"	0
 191	"She"	"was looking"	"to returning to Texas with her family"	1
-191	"She"	"was looking"	"to Texas with her family"	0
+191	"She"	"was looking"	"to Texas with her family"	1
 And just to get to that point , the Chiefs had to overcome a 10-0 first-half deficit and a 17-14 Seahawks advantage in the third quarter .
 192	"the Chiefs"	"had to overcome"	"a 10-0 first-half deficit and a 17-14 Seahawks advantage in the third quarter"	1
 192	"the Chiefs"	"had to overcome"	"a 10-0 first-half deficit in the third quarter"	0
@@ -1071,7 +1071,7 @@ He now needs inhaled asthma medicine to help him breathe , even though he never 
 237	"He"	"needs"	"inhaled asthma medicine he"	1
 237	"He"	"needs"	"inhaled asthma medicine even though he"	1
 237	"He"	"to help"	"him"	0
-237	"He"	"had"	"asthma"	0
+237	"He"	"had"	"asthma"	1
 The foundations , separate from the boards of educations , are modeled on those that began appearing in California in the 1970s after the passage of Proposition 13 , which limited property taxes .
 238	"The foundations"	"separate"	"from the boards of educations"	0
 238	"The foundations"	"are modeled"	"on those"	0
@@ -1138,7 +1138,7 @@ He still remembers when Weinberg came to him with his wife 's sculpture portfoli
 248	"Weinberg"	"came"	"with his wife 's sculpture portfolio"	0
 248	"Weinberg"	"proposed making"	"similarly styled knobs"	1
 The money losing airline offered discount prices between western Canadian destinations .
-249	"The money losing airline"	"losing"	"airline"	1
+249	"The money losing airline"	"losing"	"airline"	0
 The ailing incumbent , Lansana Conte , in office since seizing power in a coup in 1984 , was widely expected to win .
 You can also look up individual carriers for more detailed info on their respective products and special offers .
 251	"You"	"can look up"	"individual carriers on their respective products and special offers"	1
@@ -1335,7 +1335,7 @@ If that fails , the government will liquidate banks that are insolvent .
 El Pueblo Gallery is located in space E-13 on Olvera Street , downtown Los Angeles .
 287	"El Pueblo Gallery"	"is located"	"downtown Los Angeles"	0
 287	"El Pueblo Gallery"	"is located"	"on Olvera Street downtown Los Angeles"	0
-287	"El Pueblo Gallery"	"is located"	"in space E-13 downtown Los Angeles"	0
+287	"El Pueblo Gallery"	"is located"	"in space E-13 downtown Los Angeles"	1
 287	"El Pueblo Gallery"	"is located"	"on Olvera Street"	0
 287	"El Pueblo Gallery"	"is located"	"in space E-13 on Olvera Street downtown Los Angeles"	0
 Oakland , in need of a catcher after trading Ramon Hernandez to San Diego , acquired Michael Barrett from Montreal for a player to be named later .
@@ -1376,7 +1376,7 @@ Dell Computer said it 's adding 25 million shares to its stock repurchase progra
 295	"Dell Computer"	"'s adding"	"25 million shares for a total of 125 million shares as of last quarter"	1
 295	"Dell Computer"	"'s adding"	"25 million shares to its stock repurchase program for a total of 125 million shares almost a third of its 383 million outstanding as of last quarter"	1
 295	"Dell Computer"	"'s adding"	"25 million shares almost a third"	1
-295	"Dell Computer"	"'s adding"	"25 million shares to its stock repurchase program"	0
+295	"Dell Computer"	"'s adding"	"25 million shares to its stock repurchase program"	1
 295	"Dell Computer"	"'s adding"	"25 million shares to its stock repurchase program for a total of 125 million shares as of last quarter"	1
 295	"Dell Computer"	"'s adding"	"25 million shares to its stock repurchase program almost a third of its 383 million outstanding as of last quarter"	1
 295	"Dell Computer"	"'s adding"	"25 million shares to its stock repurchase program for a total of 125 million shares of its 383 million outstanding"	1
@@ -1422,7 +1422,7 @@ And as city officials scrambled to recruit new foster parents , they found thems
 Maybe this is what the autistic twins in Oliver Sacks ' `` The Man Who Mistook His Wife for a Hat '' saw with their inner eyes .
 303	"this"	"Mistook"	"His Wife with their inner eyes"	1
 303	"this"	"Mistook"	"His Wife"	1
-303	"this"	"Mistook"	"His Wife for a Hat ' ' saw"	0
+303	"this"	"Mistook"	"His Wife for a Hat ' ' saw"	1
 303	"this"	"Mistook"	"His Wife for a Hat ' ' saw with their inner eyes"	1
 Their pieces sell well in the $ 20 range , said Michael Rizzuto , a senior buyer at Gracious Home , which was the first store to feature the North River Mint .
 304	"Michael Rizzuto"	"is"	"a senior buyer at Gracious Home which was the first store to feature the North River Mint"	0
@@ -1676,10 +1676,10 @@ The latest price rise was the second by the cigarette makers this year .
 It went from testing 219 in 1997 to 20,526 last year .
 362	"It"	"went"	"to 20,526 last year"	0
 362	"It"	"went"	"in 1997 to 20,526 last year"	1
-362	"It"	"went"	"in 1997"	1
+362	"It"	"went"	"in 1997"	0
 362	"It"	"went"	"from testing 219 to 20,526 last year"	1
 362	"It"	"went"	"from testing 219 in 1997"	1
-362	"It"	"went"	"from testing 219"	1
+362	"It"	"went"	"from testing 219"	0
 Mills stressed that the release of test results and his plans for a review panel were not a reaction to criticism .
 At times there was silence , and sometimes the silence turned volcanic .
 364	"sometimes the silence"	"turned"	"volcanic"	1
@@ -1739,7 +1739,7 @@ The Bank of Japan said in its quarterly report , the `` josei handan , '' that i
 374	"The Bank of Japan"	"expects"	"M2+CDs"	0
 374	"The Bank of Japan"	"to grow"	"in the July-September quarter"	0
 374	"The Bank of Japan"	"to grow"	"by about 3.0 percent in the July-September quarter"	1
-374	"The Bank of Japan"	"to grow"	"by about 3.0 percent"	1
+374	"The Bank of Japan"	"to grow"	"by about 3.0 percent"	0
 Another survivor , David Hose , 60 , also expressed frustration over his slow recovery .
 TO MIDNIGHT When the results are compiled , sometime next year , the census is expected to confirm what demographers have already been predicting : the steady decline in the Russian population due to ill health , migration and what demographers call `` the echo of war '' from World War II ; the increasing concentration of jobs and wealth in the biggest cities ; and what may be the largest mass movement of people here since Stalin 's forced relocations after World War II .
 376	"the census"	"is expected to confirm"	"the steady decline in the Russian population due to ill health migration and what"	1
@@ -1906,7 +1906,7 @@ The rules were written to encourage diversity of voices on the airwaves and comp
 409	"The rules"	"were written to encourage"	"diversity of voices among media outlets"	1
 409	"The rules"	"were written to encourage"	"diversity of voices on the airwaves and competition"	1
 409	"The rules"	"to prevent"	"the biggest companies in controlling news and entertainment"	0
-409	"The rules"	"to prevent"	"the biggest companies from becoming too powerful"	1
+409	"The rules"	"to prevent"	"the biggest companies from becoming too powerful"	0
 409	"The rules"	"to prevent"	"the biggest companies from becoming too powerful in controlling news and entertainment"	1
 409	"The rules"	"to prevent"	"the biggest companies"	0
 The new Cadillac is scheduled to go on sale next summer for model year 2004 .
@@ -1932,7 +1932,7 @@ In the past , senior American intelligence officials have said that some Iraqi f
 413	"some Iraqi fighters"	"have drifted"	"to Iraq"	1
 413	"some Iraqi fighters who opposed the United States in Afghanistan"	"have drifted"	"to Iraq"	1
 413	"some Iraqi fighters who opposed the United States in Afghanistan"	"joined"	"ranks with Ansar al-Islam"	1
-413	"some Iraqi fighters"	"joined"	"ranks"	0
+413	"some Iraqi fighters"	"joined"	"ranks"	1
 413	"some Iraqi fighters"	"joined"	"ranks with Ansar al-Islam"	0
 Hilton 's shares rose 1 1/16 to 33 3/16 .
 414	"Hilton 's shares"	"to"	"33 3 / 16"	0
@@ -1988,7 +1988,7 @@ Instead , he gives blow-by-blow accounts of encounters Oppenheimer had in the 19
 426	"he"	"removed"	"from power and of differences Oppenheimer"	0
 426	"Oppenheimer"	"had"	"with Communist sympathizers of FBI efforts to bug his homes and offices of the machinations of Lewis Strauss"	1
 426	"Oppenheimer"	"had"	"on the Atomic Energy Commission to have him"	0
-426	"Oppenheimer"	"had"	"in the 1930s with Communist sympathizers of FBI efforts on the Atomic Energy Commission to have him"	0
+426	"Oppenheimer"	"had"	"in the 1930s with Communist sympathizers of FBI efforts on the Atomic Energy Commission to have him"	1
 426	"Oppenheimer"	"had"	"in the 1930s with Communist sympathizers of FBI efforts to bug his homes and offices of the machinations of Lewis Strauss on the Atomic Energy Commission to have him"	1
 426	"Oppenheimer"	"had"	"in the 1930s with Communist sympathizers of FBI efforts to bug his homes and offices of the machinations of Lewis Strauss"	1
 426	"Oppenheimer"	"had"	"in the 1930s on the Atomic Energy Commission to have him"	0
@@ -2004,7 +2004,7 @@ Instead , he gives blow-by-blow accounts of encounters Oppenheimer had in the 19
 426	"Oppenheimer"	"bug"	"his homes and offices of the machinations of Lewis Strauss on the Atomic Energy Commission"	1
 426	"Oppenheimer"	"bug"	"his homes and offices"	0
 426	"Oppenheimer"	"bug"	"his homes on the Atomic Energy Commission"	1
-426	"Oppenheimer"	"bug"	"his homes of the machinations of Lewis Strauss"	1
+426	"Oppenheimer"	"bug"	"his homes of the machinations of Lewis Strauss"	0
 426	"Oppenheimer"	"bug"	"his homes of the machinations of Lewis Strauss on the Atomic Energy Commission"	1
 426	"Oppenheimer"	"bug"	"his homes and offices of the machinations of Lewis Strauss"	1
 426	"Oppenheimer"	"bug"	"his homes and offices on the Atomic Energy Commission"	1
@@ -2018,7 +2018,7 @@ As Dr. Norman J. Silver was winding down his orthopedic surgery practice in New 
 427	"there"	"were"	"opportunities"	1
 427	"there"	"were"	"opportunities in the place"	1
 427	"there"	"were"	"opportunities for continuing education"	1
-427	"Dr. Norman J. Silver"	"was winding down"	"his orthopedic surgery practice in New Rochelle N.Y."	1
+427	"Dr. Norman J. Silver"	"was winding down"	"his orthopedic surgery practice in New Rochelle N.Y."	0
 They defeated the defending champion Philadelphia Eagles handily in their first NFL game and went on to win the league championship with a dramatic 30-28 victory over the Los Angeles Rams .
 428	"They"	"defeated"	"the defending champion handily in their first NFL game"	1
 428	"They"	"went to win"	"the league championship over the Los Angeles Rams"	1
@@ -2160,7 +2160,7 @@ For this year , Thailand is bracing for growth of only 3 percent or even a reces
 Company after company followed suit as heightened security at major airports posed new obstacles .
 461	"company"	"followed"	"suit as heightened security posed new obstacles"	1
 461	"company"	"followed"	"suit as heightened security"	1
-461	"company"	"followed"	"suit posed new obstacles"	1
+461	"company"	"followed"	"suit posed new obstacles"	0
 461	"company"	"followed"	"suit at major airports posed new obstacles"	0
 461	"company"	"followed"	"suit at major airports"	1
 461	"company"	"followed"	"suit as heightened security at major airports posed new obstacles"	1
@@ -2233,7 +2233,7 @@ Lee Janzen IF PUSHED TO THE WALL , ISRAEL MIGHT FIRE NUKES That earned him the r
 478	"Lee Janzen IF PUSHED TO THE WALL ISRAEL MIGHT FIRE NUKES"	"earned"	"him the respect of analysts and investors though the public"	0
 Arnoldy logs about 30,000 miles a year aboard Intrepid , parking it on a private siding in Houston when he 's not riding the rails .
 There were also searches of two warehouses owned by the firms in Schleswig-Holstein state and the office of the firms ' tax adviser in Hamburg .
-480	"There"	"were"	"searches of two warehouses owned by the firms in Schleswig-Holstein state and the office of the firms ' tax adviser in Hamburg"	0
+480	"There"	"were"	"searches of two warehouses owned by the firms in Schleswig-Holstein state and the office of the firms ' tax adviser in Hamburg"	1
 The Treasury Department is responsible for U.S. foreign exchange policy .
 So is Nissan Motor Co. 's Altima .
 Television pictures showed police officers climbing over the roof and entering the offices of two related companies , Tatari Design and Tatex Trading G.m.b.H. , in Fitzbek , a village 35 miles from Hamburg .

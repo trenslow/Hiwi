@@ -74,7 +74,7 @@ A Spanish official , who had just finished a siesta and seemed not the least bit
 5	"who"	"official and seemed"	"the least bit"	0
 5	"who"	"had offered ."	"what"	0
 5	"a siesta"	"finished official and seemed"	"the least bit"	0
-5	"a siesta"	"finished had offered ."	"what"	1
+5	"a siesta"	"finished had offered ."	"what"	0
 5	"a siesta"	"finished had offered . believed"	"he"	0
 5	"the least bit"	"seemed and offered ."	"what"	0
 5	"the least bit"	"seemed and offered . believed"	"he"	0
@@ -177,7 +177,7 @@ Eight percent went to Europe , while 1 percent went to other regions in the worl
 10	"Europe"	"went while went"	"1 percent"	1
 10	"Europe"	"went while went to"	"other regions"	1
 10	"Europe"	"went while went to regions in"	"the world"	1
-10	"other regions"	"in"	"the world"	0
+10	"other regions"	"in"	"the world"	1
 As he left the UN building , Sabri said he hoped Iraq 's announcement was a first step toward the `` lifting of this brutal regime of sanctions '' against his country .
 11	"he"	"left said"	"Sabri"	0
 11	"he"	"left said hoped"	"he"	0
@@ -246,7 +246,7 @@ The Revolution also gave up a 90th-minute goal in a 2-2 regulation draw at D.C. 
 14	"their"	"matches win to recovered gave but recovered to win"	"their final two matches"	1
 One factor , he said , might be that consumers have just decided they have enough stuff and are salting money away for retirement or spending it on vacations or entertainment .
 15	"One factor"	". might said"	"he"	1
-15	"One factor"	". might be that have"	"consumers"	0
+15	"One factor"	". might be that have"	"consumers"	1
 15	"One factor"	". might be that have decided have"	"they"	1
 15	"One factor"	". might be that have decided have"	"enough stuff"	1
 15	"he"	"might be that have"	"consumers"	0
@@ -277,7 +277,7 @@ One factor , he said , might be that consumers have just decided they have enoug
 He threw three scoreless innings , enabling Seattle to climb back into the game .
 16	"He"	"threw innings"	"three"	1
 16	"He"	"threw enabling"	"Seattle"	1
-16	"He"	"threw enabling to climb into"	"the game"	0
+16	"He"	"threw enabling to climb into"	"the game"	1
 16	"three"	"threw"	"three scoreless innings"	1
 16	"three"	"threw enabling"	"Seattle"	1
 16	"three"	"threw enabling to climb into"	"the game"	1
@@ -361,7 +361,7 @@ She 's a hard act to follow , '' said Ruth Brown of London , who was among the c
 23	"a hard act"	"said Brown of London was"	"who"	0
 23	"Ruth Brown"	"of"	"London"	0
 23	"Ruth Brown"	"of London was"	"who"	0
-23	"Ruth Brown"	"of London was among"	"the crowds"	1
+23	"Ruth Brown"	"of London was among"	"the crowds"	0
 23	"Ruth Brown"	"of London was"	"Wednesday"	0
 23	"London"	"was"	"who"	0
 23	"London"	"was among"	"the crowds"	1
@@ -428,7 +428,7 @@ We are going to have to do it when we see fit , '' said Bobby Brown , Netanyahu 
 28	"we"	"see do to have to said"	"Bobby Brown"	0
 28	"we"	"see do to have to said Brown adviser"	"Netanyahu"	1
 28	"we"	"see do to have to said Brown"	"Netanyahu 's adviser"	1
-28	"we"	"see do to have to said Brown adviser on affairs"	"world"	1
+28	"we"	"see do to have to said Brown adviser on affairs"	"world"	0
 28	"fit"	"see do to have to said"	"Bobby Brown"	0
 28	"fit"	"see do to have to said Brown adviser"	"Netanyahu"	1
 28	"fit"	"see do to have to said Brown"	"Netanyahu 's adviser"	1
@@ -466,8 +466,8 @@ But some conglomerates , like Viacom and the News Corp. , have already bumped up
 32	"Corp."	"News and have bumped against limits of"	"the rules"	1
 32	"the limits"	"of"	"the rules"	1
 E-mail : jsuydamstatesman.com In person Ms. Holloman looks less like a tomboy than her film roles suggest , with her hazel eyes and faint drawl her most beguiling features .
-33	"E-mail"	"roles"	"jsuydamstatesman"	0
-33	"E-mail"	"roles"	"com"	0
+33	"E-mail"	"roles"	"jsuydamstatesman"	1
+33	"E-mail"	"roles"	"com"	1
 33	"E-mail"	"roles"	"person"	0
 33	"E-mail"	"roles looks"	"Ms. Holloman"	0
 33	"E-mail"	"roles looks less like"	"a tomboy"	0
@@ -672,7 +672,7 @@ Koplowitz 's next concert will be a more modest affair and presented indoors at 
 43	"indoors"	"presented in"	"May"	0
 43	"Dance Theater Workshop"	"presented in"	"May"	0
 Only about one in five private-sector employees still receives that kind of deal , experts say .
-44	"about one"	"employees receives . say receives"	"about one in five private-sector employees"	1
+44	"about one"	"employees receives . say receives"	"about one in five private-sector employees"	0
 44	"about one"	"receives"	"that kind"	0
 44	"about one"	"receives kind of"	"deal"	1
 44	"about one"	"employees say"	"experts"	0
@@ -689,7 +689,7 @@ Only about one in five private-sector employees still receives that kind of deal
 It did n't specify which goods in either case .
 45	"It"	"did specify"	"which goods"	1
 45	"It"	"did specify in"	"either case"	1
-45	"which goods"	"specify in"	"either case"	1
+45	"which goods"	"specify in"	"either case"	0
 The committee is planning to hear from him this month .
 46	"The committee"	"is planning to hear"	"this month"	0
 46	"him"	"hear"	"this month"	0
@@ -716,7 +716,7 @@ The scandal has now forced resignations at Japan 's fourth-largest bank and thre
 It said it wanted the court to establish whether the government had failed to `` apply the same rules '' to all the bidders .
 48	"It"	"said wanted"	"it"	0
 48	"It"	"said wanted to establish whether had"	"the government"	0
-48	"it"	"wanted to establish whether had"	"the government"	0
+48	"it"	"wanted to establish whether had"	"the government"	1
 48	"the court"	"wanted to establish whether had"	"the government"	0
 48	"the court"	"said ."	"the same rules"	0
 48	"the government"	"had whether establish to said ."	"the same rules"	1
@@ -740,8 +740,8 @@ On the next play , Tuman , who had lined up on the left side , glided unchecked 
 50	"who"	"put had lined on"	"the left side"	1
 50	"who"	"put glided to"	"the right"	0
 50	"the left side"	"on lined put glided to"	"the right"	1
-50	"the left side"	"on lined put glided and caught pass"	"Griese"	0
-50	"the left side"	"on lined put glided and caught"	"Griese 's pass"	0
+50	"the left side"	"on lined put glided and caught pass"	"Griese"	1
+50	"the left side"	"on lined put glided and caught"	"Griese 's pass"	1
 50	"the left side"	"on lined put glided and caught pass for"	"a 53-yard play"	0
 50	"the right"	"to put glided and caught pass"	"Griese"	0
 50	"the right"	"to put glided and caught"	"Griese 's pass"	0
@@ -867,7 +867,7 @@ Inspired by the Cadillac Vison concept SUV shown at last year 's auto shows , th
 54	"its"	"Aviator based on platform"	"Ford Explorer"	1
 54	"its"	"Aviator based on"	"the Ford Explorer / Mercury Mountaineer platform"	0
 54	"its own Aviator"	"based on platform"	"Ford Explorer"	1
-54	"Ford Explorer"	"platform on based Aviator add to will become to add Aviator based on"	"the Ford Explorer / Mercury Mountaineer platform"	1
+54	"Ford Explorer"	"platform on based Aviator add to will become to add Aviator based on"	"the Ford Explorer / Mercury Mountaineer platform"	0
 It 's an effective , maybe even subversive , way to get the message across .
 55	"It"	"'s ."	"maybe even subversive way"	0
 55	"It"	"'s . way to get"	"the message"	0
@@ -924,7 +924,7 @@ For their part , investors kept selling off stocks in trading and deregulated po
 56	"Better"	"kept have"	"Miller"	0
 56	"Better"	"kept have Miller and"	"Roy Oswalt"	0
 56	"Better"	"kept have won decisions"	"19"	0
-56	"Better"	"kept have won"	"19 straight decisions"	0
+56	"Better"	"kept have won"	"19 straight decisions"	1
 56	"Miller"	"and"	"Roy Oswalt"	0
 56	"Miller"	"have won decisions"	"19"	0
 56	"Miller"	"have and 're since"	"July 1"	1
@@ -1024,7 +1024,7 @@ ONE OF THOSE DAYS FOR JARRETT Worn out by the travel and discouraged by agency '
 59	"ONE"	"retired OF DAYS Worn by travel by difficulties"	"agency"	0
 59	"THOSE DAYS"	"FOR"	"JARRETT"	0
 59	"THOSE DAYS"	"Worn by"	"the travel"	0
-59	"THOSE DAYS"	"Worn by travel by difficulties"	"agency"	0
+59	"THOSE DAYS"	"Worn by travel by difficulties"	"agency"	1
 59	"THOSE DAYS"	"Worn by travel by"	"agency 's perpetual financial difficulties"	1
 59	"JARRETT"	"DAYS Worn by"	"the travel"	0
 59	"JARRETT"	"DAYS Worn by travel by difficulties"	"agency"	1
@@ -1051,7 +1051,7 @@ ONE OF THOSE DAYS FOR JARRETT Worn out by the travel and discouraged by agency '
 59	"Rennie"	"retired at"	"60"	0
 59	"1977"	"retired at"	"60"	0
 Extendicare Inc. agreed to buy Arbor Health Care Co. for about US$ 432 million in cash and assumed debt , nearly doubling its Florida and Ohio businesses and making it one of North America 's largest long-term health care providers .
-60	"Extendicare"	"agreed to buy"	"Arbor Health Care"	1
+60	"Extendicare"	"agreed to buy"	"Arbor Health Care"	0
 60	"Extendicare"	"agreed to buy Care"	"Co."	1
 60	"Extendicare"	"agreed to buy for US$"	"million"	1
 60	"Extendicare"	"agreed to buy in"	"cash"	1
@@ -1059,8 +1059,8 @@ Extendicare Inc. agreed to buy Arbor Health Care Co. for about US$ 432 million i
 60	"Inc."	"agreed to buy Care"	"Co."	1
 60	"Inc."	"agreed to buy for US$"	"million"	1
 60	"Inc."	"agreed to buy in"	"cash"	1
-60	"Arbor Health Care"	"buy for US$"	"million"	1
-60	"Arbor Health Care"	"buy in"	"cash"	1
+60	"Arbor Health Care"	"buy for US$"	"million"	0
+60	"Arbor Health Care"	"buy in"	"cash"	0
 60	"Arbor Health Care"	"buy agreed and assumed"	"debt"	0
 60	"Co."	"buy for US$"	"million"	1
 60	"Co."	"buy in"	"cash"	0
@@ -1077,7 +1077,7 @@ Extendicare Inc. agreed to buy Arbor Health Care Co. for about US$ 432 million i
 60	"cash"	"in buy agreed doubling"	"its Florida and Ohio businesses"	1
 60	"cash"	"in buy agreed doubling and making"	"one"	1
 60	"debt"	"assumed agreed doubling businesses"	"Florida"	0
-60	"debt"	"assumed agreed doubling businesses Florida and"	"Ohio"	0
+60	"debt"	"assumed agreed doubling businesses Florida and"	"Ohio"	1
 60	"debt"	"assumed agreed doubling"	"its Florida and Ohio businesses"	0
 60	"debt"	"assumed agreed doubling and making"	"one"	0
 60	"debt"	"assumed agreed doubling and making one of providers"	"North America"	1
@@ -1103,7 +1103,7 @@ She began her career as a chunky woman , awkward on stage and unsure of her musi
 61	"her career"	"began awkward on"	"stage"	0
 61	"her career"	"began awkward on stage and unsure of direction"	"her"	0
 61	"her career"	"began awkward on stage and unsure of"	"her musical direction"	0
-61	"a chunky woman"	"began awkward on"	"stage"	1
+61	"a chunky woman"	"began awkward on"	"stage"	0
 61	"a chunky woman"	"began awkward on stage and unsure of direction"	"her"	0
 61	"a chunky woman"	"began awkward on stage and unsure of"	"her musical direction"	0
 61	"stage"	"and unsure of direction"	"her"	0
@@ -1112,7 +1112,7 @@ She began her career as a chunky woman , awkward on stage and unsure of her musi
 This leads to one of two inescapable conclusions : Either the president reads BioScope or I got lucky .
 62	"one"	"of conclusions"	"two"	1
 62	"one"	"of"	"two inescapable conclusions"	1
-62	"one"	"leads Either reads"	"the president"	1
+62	"one"	"leads Either reads"	"the president"	0
 62	"one"	"leads Either reads"	"BioScope"	0
 62	"one"	"leads Either reads or got"	"I"	1
 62	"two"	"conclusions of one leads to one of"	"two inescapable conclusions"	1
@@ -1210,7 +1210,7 @@ The drill has a keyless chuck , a built-in level for drilling straight holes and
 Six of the 11 missing were dead , and the whereabouts of another is unknown .
 68	"Six"	"of missing"	"11"	0
 68	"Six"	"were and is"	"the whereabouts"	1
-68	"11"	"missing of were and is"	"the whereabouts"	0
+68	"11"	"missing of were and is"	"the whereabouts"	1
 The first batter he faced , Carl Everett , singled .
 69	"The first batter"	"faced"	"he"	1
 Rhodes discovered he had cancer last October after he felt a sharp pain in his right leg .
@@ -1330,7 +1330,7 @@ DeLillo has brilliantly described the simultaneous explosion of knowledge in our
 74	"the simultaneous explosion"	"of"	"knowledge"	1
 74	"the simultaneous explosion"	"in"	"our times"	1
 74	"the simultaneous explosion"	"has ."	"the spread"	1
-74	"the simultaneous explosion"	"has . spread of"	"Dark Age superstitions"	0
+74	"the simultaneous explosion"	"has . spread of"	"Dark Age superstitions"	1
 74	"the simultaneous explosion"	"has ."	"the loss"	1
 74	"knowledge"	"explosion in"	"our times"	1
 74	"knowledge"	"of explosion has ."	"the spread"	1
@@ -1384,7 +1384,7 @@ Continuing to maintain his innocence of terrorism charges , Salim said the stabb
 Tax revenue will fall as economic growth slows and the government will reduce spending , Mar 'ie said , again without specifying how big the cuts will be or where they will be made .
 76	"Tax revenue"	"said fall as"	"economic growth"	0
 76	"Tax revenue"	"said and will"	"the government"	0
-76	"Tax revenue"	"said and will reduce"	"spending"	0
+76	"Tax revenue"	"said and will reduce"	"spending"	1
 76	"Tax revenue"	"said ie"	"Mar"	0
 76	"economic growth"	"as said and will"	"the government"	1
 76	"economic growth"	"as said and will reduce"	"spending"	1
@@ -1651,7 +1651,7 @@ Without admitting any error , the department has rapidly increased the number of
 90	"cattle"	"number tests"	"it"	1
 It did not take long .
 She sought out the untouchables of our society and she touched them .
-92	"She"	"sought"	"the untouchables"	0
+92	"She"	"sought"	"the untouchables"	1
 92	"She"	"sought untouchables of"	"our society"	0
 92	"She"	"sought and touched"	"she"	0
 92	"She"	"sought and touched"	"them"	1
@@ -1712,7 +1712,7 @@ Japanese automakers have taken some of the biggest strides with their new car mo
 97	"their"	"models with is Accord"	"Honda Motor"	1
 97	"their"	"models with is Accord Motor"	"Co."	1
 97	"their"	"models with is"	"Honda Motor Co. 's new Accord"	1
-97	"their new car models"	"with is Accord"	"Honda Motor"	1
+97	"their new car models"	"with is Accord"	"Honda Motor"	0
 97	"their new car models"	"with is Accord Motor"	"Co."	0
 97	"their new car models"	"with is"	"Honda Motor Co. 's new Accord"	1
 97	"their new car models"	"with is Accord likely to be"	"a best-seller"	0
@@ -1776,7 +1776,7 @@ Type in your ZIP code and fill out the easy questionnaire , and you 'll get side
 99	"your ZIP code"	"in 'll get comparisons for"	"plans"	1
 99	"the easy questionnaire"	"fill and 'll"	"you"	0
 99	"the easy questionnaire"	"fill and 'll get"	"side-by-side comparisons"	1
-99	"the easy questionnaire"	"fill and 'll get comparisons for"	"plans"	1
+99	"the easy questionnaire"	"fill and 'll get comparisons for"	"plans"	0
 99	"the easy questionnaire"	"fill and 'll get comparisons for plans in"	"your area"	0
 99	"you"	"'ll get comparisons for"	"plans"	1
 99	"you"	"'ll get comparisons for plans in"	"your area"	1
@@ -1807,7 +1807,7 @@ Katzenberg , for example , is feuding with former employer Disney , which he sue
 100	"million"	"$ for sued employer with is claiming was denied cut of"	"the Disney"	1
 100	"million"	"$ for sued employer with is animated"	"films"	0
 100	"million"	"$ for sued employer with is animated films helped"	"he"	0
-100	"he"	"was denied"	"his cut"	1
+100	"he"	"was denied"	"his cut"	0
 100	"he"	"was denied cut of"	"the Disney"	1
 100	"he"	"was is animated"	"films"	0
 100	"he"	"was is animated films helped"	"he"	0
@@ -1871,7 +1871,7 @@ But the poverty rate for people 18 to 64 rose a half percentage point , to 10.1 
 104	"the poverty rate"	"for"	"people"	1
 104	"the poverty rate"	"rose"	"18"	1
 104	"the poverty rate"	"rose to"	"64"	1
-104	"the poverty rate"	"rose to"	"10.1 percent"	0
+104	"the poverty rate"	"rose to"	"10.1 percent"	1
 104	"people"	"for rose"	"18"	1
 104	"people"	"for rose to"	"64"	1
 104	"people"	"for rose"	"a half percentage point"	0
@@ -1936,12 +1936,12 @@ After a few minutes and some lighthearted chuckles , normalcy prevailed and ever
 106	"a few minutes"	"prevailed"	"normalcy"	1
 106	"a few minutes"	"prevailed and reverted"	"everyone"	1
 106	"a few minutes"	"prevailed and reverted to duties"	"their"	1
-106	"a few minutes"	"prevailed and reverted to"	"their traditional duties"	1
+106	"a few minutes"	"prevailed and reverted to"	"their traditional duties"	0
 106	"some lighthearted chuckles"	"and minutes prevailed"	"normalcy"	1
 106	"some lighthearted chuckles"	"and minutes prevailed and reverted"	"everyone"	0
 106	"some lighthearted chuckles"	"and minutes prevailed and reverted to duties"	"their"	0
 106	"some lighthearted chuckles"	"and minutes prevailed and reverted to"	"their traditional duties"	0
-106	"normalcy"	"prevailed and reverted"	"everyone"	1
+106	"normalcy"	"prevailed and reverted"	"everyone"	0
 106	"normalcy"	"prevailed and reverted to duties"	"their"	1
 106	"normalcy"	"prevailed and reverted to"	"their traditional duties"	0
 106	"everyone"	"reverted to duties"	"their"	0
@@ -2068,11 +2068,11 @@ A grocery store strike between Ralphs ' parent company , Kroger Co. , and 3,300 
 116	"Ralphs ' parent company"	"Kroger"	"Co."	1
 116	"Ralphs ' parent company"	"strike and"	"3,300 union"	0
 116	"Ralphs ' parent company"	"strike have"	"employees"	1
-116	"Ralphs ' parent company"	"strike have employees in"	"Wms T$ Virginia"	1
+116	"Ralphs ' parent company"	"strike have employees in"	"Wms T$ Virginia"	0
 116	"Ralphs ' parent company"	"strike have employees in Virginia"	"Ohio"	1
 116	"Kroger"	"company strike and"	"3,300 union"	0
 116	"Kroger"	"company strike have"	"employees"	1
-116	"Kroger"	"company strike have employees in"	"Wms T$ Virginia"	1
+116	"Kroger"	"company strike have employees in"	"Wms T$ Virginia"	0
 116	"Kroger"	"company strike have employees in Virginia"	"Ohio"	1
 116	"Kroger"	"company strike have employees in Virginia Ohio and"	"Kentucky"	1
 116	"Kroger"	"company strike have employees began offer"	"ities"	0
@@ -2107,7 +2107,7 @@ A grocery store strike between Ralphs ' parent company , Kroger Co. , and 3,300 
 116	"Kentucky"	"and Ohio Virginia employees began offer ities between"	"the two situations"	0
 116	"Kentucky"	"and Ohio Virginia employees began offer"	"reason"	0
 116	"Kentucky"	"and Ohio Virginia employees began offer reason involve"	"Both strikes"	1
-116	"Kentucky"	"and Ohio Virginia employees began offer reason involve"	"Kroger stores"	1
+116	"Kentucky"	"and Ohio Virginia employees began offer reason involve"	"Kroger stores"	0
 116	"ities"	"between"	"the two situations"	0
 116	"ities"	"offer"	"reason"	0
 116	"ities"	"offer reason involve"	"Both strikes"	1
@@ -2133,14 +2133,14 @@ A grocery store strike between Ralphs ' parent company , Kroger Co. , and 3,300 
 116	"Kroger stores"	"involve offer center on"	"health care plans"	0
 116	"United Food"	"and"	"Commercial"	1
 116	"United Food"	"and involve"	"Workers employees"	1
-116	"United Food"	"and stores involve offer center"	"both disputes"	1
+116	"United Food"	"and stores involve offer center"	"both disputes"	0
 116	"United Food"	"and stores involve offer center on"	"health care plans"	0
 116	"Commercial"	"and Food and involve"	"Workers employees"	1
-116	"Commercial"	"and Food and stores involve offer center"	"both disputes"	1
+116	"Commercial"	"and Food and stores involve offer center"	"both disputes"	0
 116	"Commercial"	"and Food and stores involve offer center on"	"health care plans"	0
 116	"Workers employees"	"involve offer center"	"both disputes"	0
 116	"Workers employees"	"involve offer center on"	"health care plans"	0
-116	"Workers employees"	"involve reason began in"	"early October"	0
+116	"Workers employees"	"involve reason began in"	"early October"	1
 116	"both disputes"	"center on"	"health care plans"	0
 116	"both disputes"	"center began in"	"early October"	0
 116	"health care plans"	"on center began in"	"early October"	0
@@ -2289,7 +2289,7 @@ The board of directors of UAL , the parent company of United Airlines , is likel
 128	"UAL"	"of directors of is likely to name"	"Glenn F. Tilton"	1
 128	"the parent company"	"of"	"United Airlines"	0
 128	"the parent company"	"UAL of directors of is likely to name"	"Glenn F. Tilton"	1
-128	"United Airlines"	"of company UAL of directors of is likely to name"	"Glenn F. Tilton"	0
+128	"United Airlines"	"of company UAL of directors of is likely to name"	"Glenn F. Tilton"	1
 128	"United Airlines"	"of company UAL of directors of is likely to name Tilton"	"an oil industry executive"	0
 128	"Glenn F. Tilton"	"name as president"	"the airline"	1
 128	"Glenn F. Tilton"	"name as"	"the airline 's new president"	1
@@ -2439,7 +2439,7 @@ Politicians , historians , locals and the victims ' families are grappling with 
 136	"Politicians"	"are historians"	"locals"	1
 136	"Politicians"	"are historians locals and families"	"the victims"	1
 136	"Politicians"	"are historians locals and"	"the victims ' families"	1
-136	"Politicians"	"are . should"	"the site"	1
+136	"Politicians"	"are . should"	"the site"	0
 136	"historians"	"locals and families"	"the victims"	1
 136	"historians"	"locals and"	"the victims ' families"	0
 136	"historians"	"are . should"	"the site"	1
@@ -2467,7 +2467,7 @@ Born in New York City to Greek parents , she returned with her mother to Greece 
 138	"New York City"	"in returned at"	"14"	1
 138	"Greek parents"	"to returned"	"she"	1
 138	"Greek parents"	"to returned with"	"her mother"	1
-138	"Greek parents"	"to returned with mother to"	"Greece"	1
+138	"Greek parents"	"to returned with mother to"	"Greece"	0
 138	"Greek parents"	"to returned at"	"14"	1
 138	"Greek parents"	"to returned and entered"	"the conservatory"	0
 138	"she"	"returned and entered"	"the conservatory"	1
@@ -2535,7 +2535,7 @@ Fowler clearly resented Ickes ' authority , and his testimony affirms once again
 142	"any other person"	"more"	"knows the full story"	0
 142	"any other person"	"more story of"	"the 1996 Clinton campaign"	0
 142	"any other person"	"more story of campaign including role"	"President Clinton"	1
-142	"knows the full story"	"of"	"the 1996 Clinton campaign"	1
+142	"knows the full story"	"of"	"the 1996 Clinton campaign"	0
 142	"knows the full story"	"of campaign including role"	"President Clinton"	1
 142	"knows the full story"	"of campaign including"	"President Clinton 's role"	1
 142	"knows the full story"	"of campaign including role in"	"the fund-raising excesses"	1
@@ -2554,7 +2554,7 @@ Netscape is aiming to distribute 100 million copies of Navigator over the next y
 143	"100 million copies"	"distribute over"	"the next year"	1
 143	"100 million copies"	"distribute through"	"partners"	1
 143	"100 million copies"	"distribute aiming including"	"Internet service providers"	0
-143	"Navigator"	"of distribute over"	"the next year"	0
+143	"Navigator"	"of distribute over"	"the next year"	1
 143	"Navigator"	"of distribute through"	"partners"	0
 143	"Navigator"	"of copies distribute aiming including"	"Internet service providers"	0
 143	"Navigator"	"of copies distribute aiming including providers and"	"U.S. Robotics"	0
@@ -2688,7 +2688,7 @@ If the administration wished to support something appropriate and useful , Presi
 152	"President Clinton"	"would . Accounts savings"	"U.S. Sen. Paul Coverdell"	0
 152	"U.S. Sen. Paul Coverdell"	"savings Accounts would ."	"U.S. Sen. Paul Coverdell 's K-12 education savings A+ Accounts"	0
 He did n't quite understand what I was getting at , or so he claimed .
-153	"He"	"did ."	"what"	0
+153	"He"	"did ."	"what"	1
 153	"He"	"did . claimed was"	"I"	0
 153	"He"	"did . claimed"	"he"	0
 153	"what"	". claimed was"	"I"	0
@@ -2753,7 +2753,7 @@ He was back in Atlanta last October on a non-guaranteed training camp contract ,
 155	"a guaranteed deal"	"sign with Panathinaikos"	"a Greek team"	1
 155	"a guaranteed deal"	"sign with Panathinaikos team that led"	"he"	1
 155	"a guaranteed deal"	"sign with Panathinaikos team that led to"	"the Euroleague championship"	0
-155	"Panathinaikos"	"team that led"	"he"	1
+155	"Panathinaikos"	"team that led"	"he"	0
 155	"Panathinaikos"	"team that led to"	"the Euroleague championship"	0
 155	"a Greek team"	"that led"	"he"	0
 155	"a Greek team"	"that led to"	"the Euroleague championship"	0
@@ -2902,10 +2902,10 @@ They sweet-talked , cajoled , and begged people to come talk .
 162	"people"	"begged to come"	"talk"	0
 That , he said , is what many of the POWs would like more than anything .
 163	"he"	"is many"	"what"	1
-163	"he"	"is many of"	"the POWs"	1
+163	"he"	"is many of"	"the POWs"	0
 163	"he"	"said would like"	"more than anything"	0
 163	"what"	"many of"	"the POWs"	1
-163	"what"	"many would like"	"more than anything"	1
+163	"what"	"many would like"	"more than anything"	0
 163	"the POWs"	"of many would like"	"more than anything"	0
 Jane Boynton , a nurse from Miami who heard Forbes speak at the Christian Coalition convention , said : `` He said exactly what the people wanted to hear .
 164	"Jane Boynton"	"nurse from"	"Miami"	0
@@ -2928,7 +2928,7 @@ Jane Boynton , a nurse from Miami who heard Forbes speak at the Christian Coalit
 164	"the Christian Coalition convention"	"at speak heard nurse said said"	"He"	1
 164	"the Christian Coalition convention"	"at speak heard nurse said ."	"what"	1
 164	"the Christian Coalition convention"	"at speak heard nurse said . wanted"	"the people"	1
-164	"He"	"said ."	"what"	1
+164	"He"	"said ."	"what"	0
 164	"He"	"said . wanted"	"the people"	1
 164	"what"	". wanted"	"the people"	1
 That 's about 2 percentage points more than investment grade bonds and in contrast to the 6.7 percent average yield on benchmark 30-year Treasuries this year .
@@ -2960,7 +2960,7 @@ The couple was riding in a rented Mercedes-Benz , and the driver , trying to avo
 166	"the driver"	"crashed trying to avoid"	"the photographers ' harassment"	1
 166	"the driver"	"crashed at"	"high speed"	1
 166	"the photographers"	"harassment avoid to trying crashed was and crashed trying to avoid"	"the photographers ' harassment"	1
-166	"the photographers"	"harassment avoid to crashed"	"the car"	0
+166	"the photographers"	"harassment avoid to crashed"	"the car"	1
 166	"the photographers"	"harassment avoid to crashed at"	"high speed"	0
 166	"the photographers"	"harassment avoid to crashed at speed against"	"a concrete pillar"	1
 166	"the photographers ' harassment"	"avoid to crashed"	"the car"	0
@@ -2977,8 +2977,8 @@ They want news of the latest United Nations debate , bulletins on the Sudanese e
 167	"news"	"of"	"the latest United Nations debate"	0
 167	"news"	"want . dope"	"bulletins"	1
 167	"news"	"want . dope bulletins on"	"the Sudanese economy"	1
-167	"news"	"want ."	"bulletins on the Sudanese economy inside dope"	1
-167	"the latest United Nations debate"	"of want . dope"	"bulletins"	1
+167	"news"	"want ."	"bulletins on the Sudanese economy inside dope"	0
+167	"the latest United Nations debate"	"of want . dope"	"bulletins"	0
 167	"the latest United Nations debate"	"of want . dope bulletins on"	"the Sudanese economy"	0
 167	"the latest United Nations debate"	"of want ."	"bulletins on the Sudanese economy inside dope"	0
 167	"the latest United Nations debate"	"of want . dope on"	"the recent political coup"	0
@@ -3071,7 +3071,7 @@ The BSA suit , filed on behalf of Microsoft Corp. , Autodesk Inc. and Adobe Syst
 172	"Inc."	"Autodesk Microsoft of behalf on filed alleged committed"	"software piracy"	1
 172	"Adobe Systems"	"and Autodesk Microsoft of behalf on filed alleged committed"	"SM Summit"	0
 172	"Adobe Systems"	"and Autodesk Microsoft of behalf on filed alleged committed"	"software piracy"	1
-172	"Inc."	"Systems and Autodesk Microsoft of behalf on filed alleged committed"	"SM Summit"	0
+172	"Inc."	"Systems and Autodesk Microsoft of behalf on filed alleged committed"	"SM Summit"	1
 172	"Inc."	"Systems and Autodesk Microsoft of behalf on filed alleged committed"	"software piracy"	1
 A year ago , three-fifths of Americans said the government had done enough to protect them against another terrorist attack ; now just two-fifths do .
 173	"A year"	"said"	"three-fifths"	1
@@ -3153,8 +3153,8 @@ Airports act as `heat islands , ' so temperatures can vary as much as 10 degrees
 176	"Fahrenheit"	"vary fields and"	"citrus groves"	0
 176	"vegetable fields"	"and"	"citrus groves"	0
 The Rams sorely miss departed third receiver Az Hakim .
-177	"The Rams"	"miss departed"	"third receiver"	1
-177	"The Rams"	"miss departed receiver"	"Az Hakim"	1
+177	"The Rams"	"miss departed"	"third receiver"	0
+177	"The Rams"	"miss departed receiver"	"Az Hakim"	0
 In the last four games of the losing streak , they surrendered deciding goals in the last minutes of the half or game three times and were blanked , 4-0 , by Tampa Bay .
 178	"the last four games"	"of"	"the losing streak"	0
 178	"the last four games"	"surrendered"	"they"	0
@@ -3175,7 +3175,7 @@ In the last four games of the losing streak , they surrendered deciding goals in
 178	"goals"	"surrendered Bay 4-0"	"three times"	1
 178	"the last minutes"	"of"	"the half"	0
 178	"the last minutes"	"of half or"	"game"	0
-178	"the last minutes"	"in surrendered Bay 4-0"	"three times"	1
+178	"the last minutes"	"in surrendered Bay 4-0"	"three times"	0
 178	"the last minutes"	"in surrendered Bay"	"three times and were blanked 4-0"	1
 178	"the half"	"or"	"game"	1
 178	"the half"	"of minutes in surrendered Bay 4-0"	"three times"	1
@@ -3309,7 +3309,7 @@ Organizations in the 33 states can use the grants announced today for both educa
 184	"today"	"said announced for efforts education and"	"enforcement"	0
 184	"today"	"said announced for"	"both education and enforcement efforts"	0
 184	"today"	"said announced including"	"funding"	1
-184	"today"	"said announced including funding for"	"enforcement"	1
+184	"today"	"said announced including funding for"	"enforcement"	0
 184	"today"	"said announced including funding for enforcement"	"housing counseling"	0
 184	"education"	"efforts for said announced for efforts and"	"enforcement"	0
 184	"education"	"efforts for said announced for"	"both education and enforcement efforts"	0
@@ -3326,7 +3326,7 @@ Organizations in the 33 states can use the grants announced today for both educa
 184	"both education and enforcement efforts"	"for said announced including funding for"	"enforcement"	0
 184	"both education and enforcement efforts"	"for said announced including funding for enforcement"	"housing counseling"	0
 184	"both education and enforcement efforts"	"for said announced including funding for enforcement counseling and"	"other activities"	0
-184	"funding"	"including said announced including for"	"enforcement"	1
+184	"funding"	"including said announced including for"	"enforcement"	0
 184	"funding"	"including said announced including for enforcement"	"housing counseling"	0
 184	"funding"	"including said announced including for enforcement counseling and"	"other activities"	0
 184	"funding"	"including said announced including for enforcement counseling will promote"	"fair housing"	0
@@ -3427,7 +3427,7 @@ But Aftonbladet said Chatty was interviewed by the police after Sept. 11 and sub
 She said she was looking forward to returning to Texas with her family .
 191	"She"	"said was"	"she"	0
 191	"She"	"said was looking to returning to"	"Texas"	1
-191	"She"	"said was looking to returning with"	"her family"	0
+191	"She"	"said was looking to returning with"	"her family"	1
 191	"she"	"was looking to returning with"	"her family"	0
 191	"Texas"	"returning with"	"her family"	1
 And just to get to that point , the Chiefs had to overcome a 10-0 first-half deficit and a 17-14 Seahawks advantage in the third quarter .
@@ -3480,7 +3480,7 @@ Together , the year 's two moves have raised prices 14 percent at the wholesale 
 195	"7 percent"	"according to"	"Black"	1
 195	"retail"	"percent according to"	"Black"	1
 It was Tuesday , he explained .
-196	"It"	"was explained"	"he"	1
+196	"It"	"was explained"	"he"	0
 196	"Tuesday"	"was explained"	"he"	1
 There is no escaping the fact that Arab political emotions have been shaped by the region 's encounter with French and British colonialism , by the defeat of the Arab effort to prevent the existence of Israel and by the subsequent American support for Israel and its treatment of the Palestinians , as well as by the direct injection of American power into the region .
 197	"the fact"	"that have"	"Arab political emotions"	0
@@ -3889,7 +3889,7 @@ Even though it was first diagnosed by a British pediatrician in 1902 , no one kn
 219	"1902"	"in diagnosed was knows causes"	"it"	0
 219	"no one"	"knows causes"	"what"	0
 It was an area in central Bosnia that Melnick knew well .
-220	"It"	"was area that knew"	"Melnick"	0
+220	"It"	"was area that knew"	"Melnick"	1
 220	"an area"	"in"	"central Bosnia"	1
 220	"an area"	"that knew"	"Melnick"	0
 220	"central Bosnia"	"area that knew"	"Melnick"	1
@@ -4170,7 +4170,7 @@ He now needs inhaled asthma medicine to help him breathe , even though he never 
 237	"inhaled asthma medicine"	"needs to help"	"him"	1
 237	"inhaled asthma medicine"	"needs though had"	"he"	1
 237	"inhaled asthma medicine"	"needs though had"	"asthma"	1
-237	"him"	"help needs though had"	"he"	1
+237	"him"	"help needs though had"	"he"	0
 237	"him"	"help needs though had"	"asthma"	1
 The foundations , separate from the boards of educations , are modeled on those that began appearing in California in the 1970s after the passage of Proposition 13 , which limited property taxes .
 238	"The foundations"	"separate from"	"the boards"	0
@@ -4292,7 +4292,7 @@ Meanwhile , another tropical disturbance in the western Gulf of Mexico will prom
 244	"the western Gulf of Mexico"	"in will promote to"	"the central Gulf States"	1
 244	"locally heavy showers"	"promote along"	"the coast"	0
 244	"locally heavy showers"	"promote along coast from"	"Texas"	0
-244	"locally heavy showers"	"promote to"	"the central Gulf States"	0
+244	"locally heavy showers"	"promote to"	"the central Gulf States"	1
 244	"the coast"	"from"	"Texas"	1
 244	"the coast"	"promote to"	"the central Gulf States"	1
 244	"Texas"	"from coast promote to"	"the central Gulf States"	1
@@ -4348,7 +4348,7 @@ The money losing airline offered discount prices between western Canadian destin
 249	"The money"	"offered prices between"	"western Canadian destinations"	0
 249	"airline"	"losing offered"	"discount prices"	1
 249	"airline"	"losing offered prices between"	"western Canadian destinations"	0
-249	"discount prices"	"between"	"western Canadian destinations"	0
+249	"discount prices"	"between"	"western Canadian destinations"	1
 The ailing incumbent , Lansana Conte , in office since seizing power in a coup in 1984 , was widely expected to win .
 250	"The ailing incumbent"	"was"	"Lansana Conte"	1
 250	"The ailing incumbent"	"was since in"	"office"	1
@@ -4385,11 +4385,11 @@ At times there were beautiful moments .
 E-mail her at mmccartycoxohio.com A Ply Gem Industries Inc. shareholder is suing Furman Selz Inc. for $ 100 million , claiming it was negligent in recommending Nortek Inc. 's takeover offer as fair to shareholders .
 253	"her"	". at"	"mmccartycoxohio"	0
 253	"her"	"E-mail com"	"A Ply Gem Industries"	1
-253	"her"	"E-mail is"	"Inc. shareholder"	0
+253	"her"	"E-mail is"	"Inc. shareholder"	1
 253	"her"	"E-mail is suing"	"Furman Selz"	0
 253	"her"	"E-mail is suing Selz"	"Inc."	0
 253	"mmccartycoxohio"	"at E-mail com"	"A Ply Gem Industries"	1
-253	"mmccartycoxohio"	"at E-mail is"	"Inc. shareholder"	0
+253	"mmccartycoxohio"	"at E-mail is"	"Inc. shareholder"	1
 253	"mmccartycoxohio"	"at E-mail is suing"	"Furman Selz"	0
 253	"mmccartycoxohio"	"at E-mail is suing Selz"	"Inc."	0
 253	"A Ply Gem Industries"	"E-mail is"	"Inc. shareholder"	1
@@ -4410,9 +4410,9 @@ E-mail her at mmccartycoxohio.com A Ply Gem Industries Inc. shareholder is suing
 253	"Inc."	"Selz suing E-mail claiming was in recommending offer"	"Nortek"	0
 253	"Inc."	"Selz suing E-mail claiming was in recommending offer Nortek"	"Inc."	0
 253	"million"	"$ for suing E-mail claiming was"	"it"	0
-253	"million"	"$ for suing E-mail claiming was in recommending offer"	"Nortek"	0
-253	"million"	"$ for suing E-mail claiming was in recommending offer Nortek"	"Inc."	0
-253	"million"	"$ for suing E-mail claiming was in recommending"	"Nortek Inc. 's takeover offer"	0
+253	"million"	"$ for suing E-mail claiming was in recommending offer"	"Nortek"	1
+253	"million"	"$ for suing E-mail claiming was in recommending offer Nortek"	"Inc."	1
+253	"million"	"$ for suing E-mail claiming was in recommending"	"Nortek Inc. 's takeover offer"	1
 253	"it"	"was in recommending offer"	"Nortek"	1
 253	"it"	"was in recommending offer Nortek"	"Inc."	1
 253	"it"	"was in recommending"	"Nortek Inc. 's takeover offer"	1
@@ -4513,10 +4513,10 @@ Grbac wore a quizzical look , like a guy who was given a wonderful gift by his w
 Turnout was light , according to news agency reports from the capital , Conakry .
 257	"Turnout"	"was according to"	"news agency reports"	0
 257	"Turnout"	"was according to reports from"	"the capital"	1
-257	"Turnout"	"was according to reports"	"Conakry"	0
+257	"Turnout"	"was according to reports"	"Conakry"	1
 257	"light"	"was according to"	"news agency reports"	0
 257	"light"	"was according to reports from"	"the capital"	1
-257	"light"	"was according to reports"	"Conakry"	0
+257	"light"	"was according to reports"	"Conakry"	1
 257	"news agency reports"	"from"	"the capital"	0
 257	"the capital"	"reports"	"Conakry"	1
 A Swiss Bank spokesman in Basel , Michel Willi , declined to comment on the talks , as did a spokesman in London .
@@ -4540,7 +4540,7 @@ For one thing , members of Congress and their staffs have a traditional `` defin
 259	"members"	"and"	"their staffs"	0
 259	"members"	"have program"	"` defined benefit"	1
 259	"members"	"have"	"` defined benefit ' ' program"	1
-259	"Congress"	"members and"	"their staffs"	0
+259	"Congress"	"members and"	"their staffs"	1
 259	"Congress"	"of have program"	"` defined benefit"	1
 259	"Congress"	"of have"	"` defined benefit ' ' program"	1
 259	"their staffs"	"and have program"	"` defined benefit"	1
@@ -4595,7 +4595,7 @@ In the most world-renowned episode , seven frantic photographers on motorbikes c
 262	"Princess Diana"	"and"	"her companion"	1
 262	"Princess Diana"	"chased"	"Dodi"	1
 262	"Princess Diana"	"chased . after leaving"	"the Ritz hotel"	0
-262	"Princess Diana"	"chased . after leaving hotel in"	"Paris"	0
+262	"Princess Diana"	"chased . after leaving hotel in"	"Paris"	1
 262	"her companion"	"and chased"	"Dodi"	0
 262	"her companion"	"and chased . after leaving"	"the Ritz hotel"	0
 262	"her companion"	"and chased . after leaving hotel in"	"Paris"	0
@@ -4635,14 +4635,14 @@ On Wednesday , FBI Director Louis Freeh told the Senate Judiciary Subcommittee o
 265	"the Senate Judiciary Subcommittee"	"told on Technology Terrorism and"	"Government Information"	0
 265	"the Senate Judiciary Subcommittee"	"told that are"	"the keys"	0
 265	"the Senate Judiciary Subcommittee"	"told that are keys and"	"export restrictions"	0
-265	"Technology"	"Terrorism and"	"Government Information"	1
+265	"Technology"	"Terrorism and"	"Government Information"	0
 265	"Technology"	"told that are"	"the keys"	1
 265	"Technology"	"told that are keys and"	"export restrictions"	1
-265	"Terrorism"	"and"	"Government Information"	1
+265	"Terrorism"	"and"	"Government Information"	0
 265	"Terrorism"	"Technology told that are"	"the keys"	0
 265	"Terrorism"	"Technology told that are keys and"	"export restrictions"	1
 265	"Terrorism"	"Technology told that are needed by"	"law enforcement"	1
-265	"Government Information"	"and Terrorism Technology told that are"	"the keys"	1
+265	"Government Information"	"and Terrorism Technology told that are"	"the keys"	0
 265	"Government Information"	"and Terrorism Technology told that are keys and"	"export restrictions"	1
 265	"Government Information"	"and Terrorism Technology told that are needed by"	"law enforcement"	1
 265	"Government Information"	"and Terrorism Technology told that are needed to"	"combat criminals"	1
@@ -4662,7 +4662,7 @@ Clearly , he understands the end of his career is in sight and wants to make the
 266	"the end"	"of"	"his career"	0
 266	"the end"	"understands is in"	"sight"	0
 266	"the end"	"understands is and wants to make most of"	"the time"	0
-266	"his career"	"of understands is in"	"sight"	1
+266	"his career"	"of understands is in"	"sight"	0
 266	"his career"	"of understands is and wants to make most of"	"the time"	0
 266	"sight"	"is and wants to make most of"	"the time"	1
 He took to the idea and has encouraged the couple ever since .
@@ -4690,7 +4690,7 @@ In silence , a dozen women emerged in white chadors , the final one in black , s
 269	"silence"	"emerged ."	"the final one"	0
 269	"silence"	"emerged . one in"	"black"	0
 269	"a dozen women"	"emerged ."	"the final one"	0
-269	"a dozen women"	"emerged . one in"	"black"	0
+269	"a dozen women"	"emerged . one in"	"black"	1
 269	"a dozen women"	"emerged . one standing silently and"	"gazing"	1
 269	"white chadors"	"emerged ."	"the final one"	0
 269	"white chadors"	"emerged . one in"	"black"	0
@@ -4699,8 +4699,8 @@ In silence , a dozen women emerged in white chadors , the final one in black , s
 269	"the final one"	"in"	"black"	0
 269	"the final one"	"standing silently and"	"gazing"	0
 269	"the final one"	"standing at"	"the audience"	0
-269	"black"	"one standing silently and"	"gazing"	0
-269	"black"	"one standing at"	"the audience"	0
+269	"black"	"one standing silently and"	"gazing"	1
+269	"black"	"one standing at"	"the audience"	1
 269	"gazing"	"and standing at"	"the audience"	1
 Silver inventories in Comex warehouses rose 454,000 ounces to 141.118 million ounces , the exchanges said in its daily stockpile report after trading yesterday , up from a 10-month low of 140.664 million ounces .
 270	"Silver inventories"	"said in"	"Comex warehouses"	1
@@ -4785,7 +4785,7 @@ If the other driver is amenable , the agent said he analyzes the client 's polic
 274	"he"	"analyzes policy"	"the client"	0
 274	"he"	"analyzes to determine whether paying for"	"all the damages"	1
 274	"the client"	"policy said analyzes"	"the client 's policy"	0
-274	"the client"	"analyzes to determine whether paying for"	"all the damages"	1
+274	"the client"	"analyzes to determine whether paying for"	"all the damages"	0
 274	"the client"	"policy said will cost"	"less money"	0
 274	"the client 's policy"	"analyzes to determine whether paying for"	"all the damages"	0
 274	"the client 's policy"	"said will cost"	"less money"	0
@@ -4897,7 +4897,7 @@ Hatley created a wild garden , complete with long grasses , hillocks , wildflowe
 279	"a thrilling terrarium"	"into created ."	"a reminder"	1
 279	"a thrilling terrarium"	"into created . reminder that may in"	"any production"	1
 279	"a thrilling terrarium"	"into created . reminder that may in any of"	"the myriad collaborators"	1
-279	"a reminder"	"that may in"	"any production"	0
+279	"a reminder"	"that may in"	"any production"	1
 279	"a reminder"	"that may in any of"	"the myriad collaborators"	1
 279	"a reminder"	"that may leave"	"a brilliant mark"	1
 279	"any production"	"in any of"	"the myriad collaborators"	1
@@ -4951,7 +4951,7 @@ Just weeks after the victory over United Parcel Service of America Inc. , a fede
 2. CHICKEN SOUP FOR THE TEENAGE SOUL , compiled by nn If the owner ca n't read the riot act after a game like that , when can he ?
 282	"2. CHICKEN SOUP"	"FOR"	"THE TEENAGE SOUL"	0
 282	"2. CHICKEN SOUP"	"compiled by"	"nn"	0
-282	"2. CHICKEN SOUP"	"compiled If ca"	"the owner"	0
+282	"2. CHICKEN SOUP"	"compiled If ca"	"the owner"	1
 282	"THE TEENAGE SOUL"	"SOUP compiled by"	"nn"	0
 282	"THE TEENAGE SOUL"	"SOUP compiled If ca"	"the owner"	0
 282	"THE TEENAGE SOUL"	"SOUP compiled If ca read"	"the riot act"	0
@@ -4981,7 +4981,7 @@ Bush instructed Secretary of State Colin Powell to begin intensive diplomacy aim
 284	"State"	"of instructed to begin"	"intensive diplomacy"	0
 284	"State"	"of instructed to begin diplomacy aimed at crafting"	"a U.N. Security Council resolution"	1
 284	"Colin Powell"	"instructed to begin"	"intensive diplomacy"	0
-284	"Colin Powell"	"instructed to begin diplomacy aimed at crafting"	"a U.N. Security Council resolution"	0
+284	"Colin Powell"	"instructed to begin diplomacy aimed at crafting"	"a U.N. Security Council resolution"	1
 284	"intensive diplomacy"	"aimed at crafting resolution would amount to"	"an ultimatum"	1
 284	"a U.N. Security Council resolution"	"would amount to ultimatum for"	"Iraq"	1
 284	"a U.N. Security Council resolution"	"crafting at aimed diplomacy begin instructed comply or face"	"the prospect"	1
@@ -5117,7 +5117,7 @@ When Adecco was formed , the company said it was the market leader in six of 11 
 291	"Europe 's biggest temporary employment market"	"percent make countries of six in was was ."	"Germany"	1
 291	"Europe 's biggest temporary employment market"	"percent make countries of six in was was ."	"Switzerland"	1
 291	"Europe 's biggest temporary employment market"	"percent make countries of six in was was . Switzerland"	"Britain"	1
-291	"Europe 's biggest temporary employment market"	"percent make countries of six in was was . Switzerland Britain and"	"Australia"	0
+291	"Europe 's biggest temporary employment market"	"percent make countries of six in was was . Switzerland Britain and"	"Australia"	1
 291	"Spain"	"."	"Germany"	0
 291	"Spain"	"."	"Switzerland"	0
 291	"Spain"	". Switzerland"	"Britain"	0
@@ -5148,7 +5148,7 @@ Pat Day , the winning jockey , agreed that Royal Indy had been `` a little hot a
 293	"U.S. Robotics"	"integrating at said boost sales"	"3Com"	1
 293	"the introduction"	"and Robotics integrating at said success at integrating Robotics and of"	"a large number"	0
 293	"the introduction"	"and Robotics integrating at said success at integrating Robotics and of number of"	"new networking products"	0
-293	"the introduction"	"and Robotics integrating at said boost sales"	"3Com"	0
+293	"the introduction"	"and Robotics integrating at said boost sales"	"3Com"	1
 293	"the introduction"	"and Robotics integrating at said boost"	"3Com 's sales"	1
 293	"a large number"	"of introduction and Robotics integrating at said success at integrating Robotics and introduction of of"	"new networking products"	0
 293	"a large number"	"of introduction and Robotics integrating at said boost sales"	"3Com"	0
@@ -5156,7 +5156,7 @@ Pat Day , the winning jockey , agreed that Royal Indy had been `` a little hot a
 293	"a large number"	"of introduction and Robotics integrating at said boost sales and"	"profit margins"	1
 293	"new networking products"	"of number of introduction and Robotics integrating at said boost sales"	"3Com"	0
 293	"new networking products"	"of number of introduction and Robotics integrating at said boost"	"3Com 's sales"	0
-293	"new networking products"	"of number of introduction and Robotics integrating at said boost sales and"	"profit margins"	1
+293	"new networking products"	"of number of introduction and Robotics integrating at said boost sales and"	"profit margins"	0
 293	"new networking products"	"of number of introduction and Robotics integrating at said"	"Paul Meeks"	0
 293	"new networking products"	"of number of introduction and Robotics integrating at said Meeks"	"director"	0
 293	"3Com"	"sales said boost"	"3Com 's sales"	1
@@ -5340,7 +5340,7 @@ Maybe this is what the autistic twins in Oliver Sacks ' `` The Man Who Mistook H
 303	"The Man"	"Mistook Wife for Hat saw with eyes"	"their"	1
 303	"The Man"	"Mistook Wife for Hat saw with"	"their inner eyes"	1
 303	"Who"	"Mistook"	"His Wife"	1
-303	"Who"	"Mistook Wife for"	"a Hat"	0
+303	"Who"	"Mistook Wife for"	"a Hat"	1
 303	"Who"	"Mistook Wife for Hat"	"saw"	1
 303	"Who"	"Mistook Wife for Hat saw with eyes"	"their"	1
 303	"Who"	"Mistook Wife for Hat saw with"	"their inner eyes"	1
@@ -5363,7 +5363,7 @@ Their pieces sell well in the $ 20 range , said Michael Rizzuto , a senior buyer
 304	"the $ 20 range"	"said"	"Michael Rizzuto"	1
 304	"the $ 20 range"	"said Rizzuto"	"a senior buyer"	1
 304	"the $ 20 range"	"said Rizzuto buyer at"	"Gracious Home"	1
-304	"Michael Rizzuto"	"buyer at"	"Gracious Home"	1
+304	"Michael Rizzuto"	"buyer at"	"Gracious Home"	0
 304	"Michael Rizzuto"	"buyer at Home was"	"the first store"	0
 304	"a senior buyer"	"at"	"Gracious Home"	1
 304	"a senior buyer"	"at Home was"	"the first store"	0
@@ -5378,7 +5378,7 @@ But a group of protesters showed up and burned two American flags .
 305	"two"	"flags burned showed and burned"	"two American flags"	1
 Open positions of short sales on the Nasdaq stock market rose 1 percent in the most recent month , according to figures released Wednesday .
 306	"Open positions"	"of"	"short sales"	1
-306	"Open positions"	"on"	"the Nasdaq stock market"	0
+306	"Open positions"	"on"	"the Nasdaq stock market"	1
 306	"Open positions"	"rose"	"1 percent"	1
 306	"short sales"	"positions on"	"the Nasdaq stock market"	1
 306	"short sales"	"of rose"	"1 percent"	1
@@ -5561,7 +5561,7 @@ Led by Guy Hands , managing director for Nomura International 's Principal Finan
 315	"Angel Trains"	"sold as part of program"	"its"	1
 315	"Angel Trains"	"sold as part of"	"its rail privatization program"	1
 315	"the U.K. government"	"sold as"	"part"	0
-315	"the U.K. government"	"sold as part of program"	"its"	1
+315	"the U.K. government"	"sold as part of program"	"its"	0
 315	"the U.K. government"	"sold as part of"	"its rail privatization program"	1
 315	"the U.K. government"	"sold Trains of securitization including has bought securitization"	"904 million"	0
 315	"the U.K. government"	"sold Trains of securitization including has bought securitization million"	"pound"	0
@@ -5778,8 +5778,8 @@ The company exported 2.13 million barrels a day of crude oil , and 966,000 barre
 326	"2.13 million barrels"	"exported ."	"966,000 barrels a day"	1
 326	"2.13 million barrels"	"exported . day of"	"refined products"	1
 326	"a day"	"of"	"crude oil"	1
-326	"a day"	"exported . day"	"966,000 barrels"	0
-326	"a day"	"exported ."	"966,000 barrels a day"	0
+326	"a day"	"exported . day"	"966,000 barrels"	1
+326	"a day"	"exported ."	"966,000 barrels a day"	1
 326	"a day"	"exported . day of"	"refined products"	1
 326	"crude oil"	"of day exported . day"	"966,000 barrels"	0
 326	"crude oil"	"of day exported ."	"966,000 barrels a day"	0
@@ -5792,7 +5792,7 @@ Cleveland : Federal Reserve Bank of Cleveland President Jerry Jordan speaks on m
 327	"Cleveland"	"speaks Bank of"	"Cleveland President Jerry Jordan"	0
 327	"Cleveland"	"speaks on"	"money"	0
 327	"Cleveland"	"speaks on money and"	"monetary policy"	0
-327	"Federal Reserve Bank"	"of"	"Cleveland President Jerry Jordan"	0
+327	"Federal Reserve Bank"	"of"	"Cleveland President Jerry Jordan"	1
 327	"Federal Reserve Bank"	"speaks on"	"money"	1
 327	"Federal Reserve Bank"	"speaks on money and"	"monetary policy"	1
 327	"Cleveland President Jerry Jordan"	"of speaks on"	"money"	1
@@ -5826,8 +5826,8 @@ Still there is lingering concern that further earthquakes could follow , leading
 329	"Colombia"	"in mud-slides problems according to"	"Tim Fallar"	0
 329	"Colombia"	"in mud-slides problems according to Fallar"	"president"	0
 329	"Colombia"	"in mud-slides problems according to Fallar president of"	"The Fallar"	0
-329	"Colombia"	"in mud-slides problems according to Fallar president of Fallar"	"Co."	0
-329	"Tim Fallar"	"president of"	"The Fallar"	0
+329	"Colombia"	"in mud-slides problems according to Fallar president of Fallar"	"Co."	1
+329	"Tim Fallar"	"president of"	"The Fallar"	1
 329	"Tim Fallar"	"president of Fallar"	"Co."	1
 329	"Tim Fallar"	"president of Fallar in"	"West Harrison"	1
 329	"Tim Fallar"	"president of Fallar in Harrison"	"New York"	0
@@ -5842,7 +5842,7 @@ Still there is lingering concern that further earthquakes could follow , leading
 Did not the same radiant hope accompany the transition from the 19th to the 20th century ?
 330	"the same radiant hope accompany"	"Did"	"the transition"	1
 330	"the same radiant hope accompany"	"Did to"	"the 20th century"	0
-330	"the transition"	"Did to"	"the 20th century"	0
+330	"the transition"	"Did to"	"the 20th century"	1
 Born in 1912 in Hazelhurst , Miss .
 331	"1912"	"in Miss"	"Hazelhurst"	0.5
 331	"1912"	"in"	"Hazelhurst Miss"	0.5
@@ -6034,7 +6034,7 @@ Investigators are clearly looking into whether executives misled investors about
 342	"the company"	"of well-being about misled whether into said Frankel lawyer Commission"	"former Securities"	1
 342	"the company"	"of well-being about misled whether into said Frankel lawyer Commission Securities and"	"Exchange"	1
 342	"its"	"prospects and company of well-being about misled whether into said looking into whether misled about well-being of company and"	"its future prospects"	0
-342	"its"	"prospects and company of well-being about misled whether into said"	"Jacob Frankel"	1
+342	"its"	"prospects and company of well-being about misled whether into said"	"Jacob Frankel"	0
 342	"its"	"prospects and company of well-being about misled whether into said Frankel lawyer Commission"	"former Securities"	0
 342	"its"	"prospects and company of well-being about misled whether into said Frankel lawyer Commission Securities and"	"Exchange"	0
 342	"its"	"prospects and company of well-being about misled whether into said Frankel"	"a former Securities and Exchange Commission lawyer"	0
@@ -6124,7 +6124,7 @@ Playing before a crowd of 39,294 , Army jumped to a 7-0 lead on its second posse
 347	"a 7-0 lead"	"on possession"	"its"	1
 347	"a 7-0 lead"	"on"	"its second possession"	1
 347	"a 7-0 lead"	"jumped covering"	"66 yards"	1
-347	"a 7-0 lead"	"jumped covering in"	"a 14-play drive"	1
+347	"a 7-0 lead"	"jumped covering in"	"a 14-play drive"	0
 347	"its"	"possession on lead jumped to lead on"	"its second possession"	1
 347	"its"	"possession on lead jumped covering"	"66 yards"	1
 347	"its"	"possession on lead jumped covering in"	"a 14-play drive"	0
@@ -6270,7 +6270,7 @@ Some city tests of the water have indeed found small traces of crude oil , and d
 352	"who"	"supervised summer have testified was"	"Ooze"	0
 352	"a water-pipe replacement"	"supervised in"	"the early 1990s"	0
 352	"a water-pipe replacement"	"supervised summer have testified was"	"Ooze"	0
-352	"the early 1990s"	"in supervised summer have testified was"	"Ooze"	1
+352	"the early 1990s"	"in supervised summer have testified was"	"Ooze"	0
 352	"the early 1990s"	"in supervised summer have testified was coming out of"	"the side"	1
 352	"Ooze"	"was have . to"	"the water line"	1
 352	"the side"	"of out coming was have . to"	"the water line"	1
@@ -6317,7 +6317,7 @@ He used T-bone , and then carved the steak off the bone and into slices once it 
 354	"the steak"	"like to eat"	"it"	1
 To make matters worse , they accidentally bumped into each other in the street some distance from their meeting spot .
 355	"matters"	"make bumped"	"they"	0
-355	"matters"	"make bumped in"	"the street"	0
+355	"matters"	"make bumped in"	"the street"	1
 355	"matters"	"make bumped"	"some distance"	0
 355	"they"	"bumped in"	"the street"	1
 355	"they"	"bumped from"	"their meeting spot"	1
@@ -6385,7 +6385,7 @@ A Georgia inventor has won a patent for a method of regiving items ordered onlin
 358	"a patent"	"for"	"a method"	1
 358	"a patent"	"for method of"	"regiving items"	1
 358	"a patent"	"for method of items ordered"	"online"	1
-358	"a patent"	"has turn"	"they"	1
+358	"a patent"	"has turn"	"they"	0
 358	"a method"	"of"	"regiving items"	1
 358	"a method"	"of items ordered"	"online"	0
 358	"a method"	"for patent has turn"	"they"	1
@@ -6423,7 +6423,7 @@ The latest price rise was the second by the cigarette makers this year .
 361	"The latest price rise"	"was"	"this year"	0
 361	"the cigarette makers"	"was"	"this year"	1
 It went from testing 219 in 1997 to 20,526 last year .
-362	"It"	"went from testing"	"219"	1
+362	"It"	"went from testing"	"219"	0
 362	"It"	"went from testing in"	"1997"	1
 362	"It"	"went to year"	"20,526"	0
 362	"It"	"went to"	"20,526 last year"	0
@@ -6519,11 +6519,11 @@ Hevesi said that in managing an investment portfolio , there are a wide array of
 370	"an investment portfolio"	"managing in that and that affects"	"the performance"	1
 370	"a wide array"	"of"	"stocks"	0
 370	"a wide array"	"that and that affects"	"the performance"	0
-370	"a wide array"	"that and that affects performance of"	"the broader markets"	1
+370	"a wide array"	"that and that affects performance of"	"the broader markets"	0
 370	"a wide array"	"that and that affects"	"the level"	1
 370	"a wide array"	"that and that affects level of"	"return"	1
-370	"stocks"	"of array that and that affects"	"the performance"	0
-370	"stocks"	"of array that and that affects performance of"	"the broader markets"	0
+370	"stocks"	"of array that and that affects"	"the performance"	1
+370	"stocks"	"of array that and that affects performance of"	"the broader markets"	1
 370	"stocks"	"of array that and that affects"	"the level"	1
 370	"stocks"	"of array that and that affects level of"	"return"	1
 370	"the performance"	"of"	"the broader markets"	1
@@ -6566,7 +6566,7 @@ Moreover , he said that foreign students spend an estimated $ 11 billion a year 
 372	"he"	"said that spend"	"foreign students"	1
 372	"he"	"said that spend $"	"billion"	0
 372	"he"	"said that spend"	"a year"	0
-372	"he"	"said that spend for"	"tuition"	1
+372	"he"	"said that spend for"	"tuition"	0
 372	"foreign students"	"spend $"	"billion"	1
 372	"foreign students"	"spend"	"a year"	1
 372	"foreign students"	"spend for"	"tuition"	1
@@ -6625,7 +6625,7 @@ Another survivor , David Hose , 60 , also expressed frustration over his slow re
 375	"David Hose"	"survivor"	"60"	1
 375	"David Hose"	"survivor"	"also expressed frustration"	0
 375	"David Hose"	"survivor frustration over recovery"	"his"	1
-375	"David Hose"	"survivor frustration over"	"his slow recovery"	1
+375	"David Hose"	"survivor frustration over"	"his slow recovery"	0
 375	"60"	"survivor"	"also expressed frustration"	1
 375	"60"	"survivor frustration over recovery"	"his"	1
 375	"60"	"survivor frustration over"	"his slow recovery"	1
@@ -6648,18 +6648,18 @@ TO MIDNIGHT When the results are compiled , sometime next year , the census is e
 376	"the steady decline"	"in"	"the Russian population"	1
 376	"the steady decline"	"in population due to"	"ill health"	1
 376	"the steady decline"	"in population due to health"	"migration"	1
-376	"the steady decline"	"in population due to health migration and call"	"demographers"	1
+376	"the steady decline"	"in population due to health migration and call"	"demographers"	0
 376	"the Russian population"	"due to"	"ill health"	1
 376	"the Russian population"	"due to health"	"migration"	1
 376	"the Russian population"	"due to health migration and call"	"demographers"	1
 376	"the Russian population"	"in is ."	"the echo"	0
-376	"ill health"	"migration and call"	"demographers"	1
+376	"ill health"	"migration and call"	"demographers"	0
 376	"ill health"	"to due population in is ."	"the echo"	1
 376	"ill health"	"to due population in is . echo of"	"war"	1
 376	"migration"	"and call"	"demographers"	0
 376	"migration"	"health to due population in is ."	"the echo"	1
 376	"migration"	"health to due population in is . echo of"	"war"	1
-376	"migration"	"health to due population in is . echo from"	"World War"	0
+376	"migration"	"health to due population in is . echo from"	"World War"	1
 376	"demographers"	"call and migration health to due population in is ."	"the echo"	0
 376	"demographers"	"call and migration health to due population in is . echo of"	"war"	0
 376	"demographers"	"call and migration health to due population in is . echo from"	"World War"	0
@@ -6711,10 +6711,10 @@ TO MIDNIGHT When the results are compiled , sometime next year , the census is e
 376	"people"	"of movement be may and ."	"World War"	1
 376	"people"	"of movement be may and . War"	"II"	1
 376	"Stalin"	"relocations since be may and in is . in and may be since"	"Stalin 's forced relocations"	1
-376	"Stalin"	"relocations since be may and ."	"World War"	0
+376	"Stalin"	"relocations since be may and ."	"World War"	1
 376	"Stalin"	"relocations since be may and . War"	"II"	0
 376	"Stalin 's forced relocations"	"since be may and ."	"World War"	1
-376	"Stalin 's forced relocations"	"since be may and . War"	"II"	0
+376	"Stalin 's forced relocations"	"since be may and . War"	"II"	1
 For the major airlines , including Fort Worth-based American , it was as if an artery had been cut .
 377	"the major airlines"	"was American Worth-based"	"Fort"	0
 377	"the major airlines"	"was"	"including Fort Worth-based American"	0
@@ -6725,7 +6725,7 @@ For the major airlines , including Fort Worth-based American , it was as if an a
 377	"Fort"	"Worth-based was as had"	"an artery"	0
 377	"including Fort Worth-based American"	"was"	"it"	0
 377	"including Fort Worth-based American"	"was as had"	"an artery"	0
-377	"it"	"was as had"	"an artery"	0
+377	"it"	"was as had"	"an artery"	1
 Some 75 percent said it would not .
 378	"75"	"said"	"percent"	0
 378	"75"	"said would"	"it"	1
@@ -6831,7 +6831,7 @@ They simply feel nothing .
 When Steve Forbes was running for president , he did n't talk very much about the rights of the unborn .
 388	"Steve Forbes"	"was did"	"he"	0
 388	"Steve Forbes"	"was did talk about"	"the rights"	0
-388	"president"	"for was did"	"he"	0
+388	"president"	"for was did"	"he"	1
 388	"president"	"for was did talk about"	"the rights"	1
 388	"he"	"did talk about"	"the rights"	1
 You do n't have a computer ?
@@ -6839,7 +6839,7 @@ You do n't have a computer ?
 A fitting book for the millennium , Underworld is certain to become a key text for the interpretation of American culture in the second half of the 20th century .
 390	"A fitting book"	"for"	"the millennium"	0
 390	"A fitting book"	"is"	"Underworld"	0
-390	"A fitting book"	"is certain to become"	"a key text"	1
+390	"A fitting book"	"is certain to become"	"a key text"	0
 390	"A fitting book"	"is certain to become text for"	"the interpretation"	0
 390	"the millennium"	"for is"	"Underworld"	0
 390	"the millennium"	"for is certain to become"	"a key text"	1
@@ -7166,7 +7166,7 @@ Shares of the New York-based company rose 5 1/4 , or 8.4 percent , to 67 3/4 in 
 404	"5 1"	"percent Shares ."	"5 1 / 4 or 8.4 percent"	1
 404	"5 1"	". to 4"	"67 3"	1
 404	"5 1"	". to"	"67 3 / 4"	1
-404	"5 1"	". in"	"midday trading"	1
+404	"5 1"	". in"	"midday trading"	0
 404	"/ 4"	"or"	"8.4"	0
 404	"/ 4"	"1 percent Shares ."	"5 1 / 4 or 8.4 percent"	1
 404	"/ 4"	"1 . to 4"	"67 3"	1
@@ -7174,16 +7174,16 @@ Shares of the New York-based company rose 5 1/4 , or 8.4 percent , to 67 3/4 in 
 404	"/ 4"	"1 . in"	"midday trading"	1
 404	"8.4"	"or 4 1 percent Shares ."	"5 1 / 4 or 8.4 percent"	1
 404	"8.4"	"or 4 1 . to 4"	"67 3"	0
-404	"8.4"	"or 4 1 . to"	"67 3 / 4"	1
+404	"8.4"	"or 4 1 . to"	"67 3 / 4"	0
 404	"8.4"	"or 4 1 . in"	"midday trading"	0
 404	"8.4"	"or 4 1 . in trading of"	"2.1 million"	0
-404	"5 1 / 4 or 8.4 percent"	". to 4"	"67 3"	1
-404	"5 1 / 4 or 8.4 percent"	". to"	"67 3 / 4"	1
+404	"5 1 / 4 or 8.4 percent"	". to 4"	"67 3"	0
+404	"5 1 / 4 or 8.4 percent"	". to"	"67 3 / 4"	0
 404	"5 1 / 4 or 8.4 percent"	". in"	"midday trading"	0
 404	"5 1 / 4 or 8.4 percent"	". in trading of"	"2.1 million"	0
 404	"67 3"	"4 to Shares . to"	"67 3 / 4"	1
 404	"67 3"	"4 . in"	"midday trading"	0
-404	"67 3"	"4 . in trading of"	"2.1 million"	1
+404	"67 3"	"4 . in trading of"	"2.1 million"	0
 404	"67 3"	"4 . in"	"triple the three-month daily average"	0
 404	"67 3 / 4"	". in"	"midday trading"	1
 404	"67 3 / 4"	". in trading of"	"2.1 million"	1
@@ -7425,7 +7425,7 @@ He has n't had a save opportunity in nine games , matching a season high .
 417	"He"	"has had in"	"nine games"	1
 417	"He"	"has had matching"	"a season"	0
 417	"a save opportunity"	"had in"	"nine games"	1
-417	"a save opportunity"	"had matching"	"a season"	1
+417	"a save opportunity"	"had matching"	"a season"	0
 417	"nine games"	"had matching"	"a season"	0
 She has done so with depth and confidence .
 418	"She"	"has done so with"	"depth"	1
@@ -7592,7 +7592,7 @@ Instead , he gives blow-by-blow accounts of encounters Oppenheimer had in the 19
 426	"the Atomic Energy Commission"	"bug to have"	"him"	1
 426	"the Atomic Energy Commission"	"on bug to efforts of 1930s in had encounters of gives removed from"	"power"	1
 426	"the Atomic Energy Commission"	"on bug to efforts of 1930s in had encounters of gives removed from and of"	"differences"	1
-426	"the Atomic Energy Commission"	"on bug to efforts of 1930s in had encounters of gives removed from and of differences had"	"Oppenheimer"	0
+426	"the Atomic Energy Commission"	"on bug to efforts of 1930s in had encounters of gives removed from and of differences had"	"Oppenheimer"	1
 426	"the Atomic Energy Commission"	"on bug to efforts of 1930s in had encounters of gives removed from and of differences had with"	"his colleagues"	1
 426	"him"	"have to bug to efforts of 1930s in had encounters of gives removed from"	"power"	1
 426	"him"	"have to bug to efforts of 1930s in had encounters of gives removed from and of"	"differences"	1
@@ -7613,8 +7613,8 @@ As Dr. Norman J. Silver was winding down his orthopedic surgery practice in New 
 427	"his"	"practice in N.Y."	"New Rochelle"	0
 427	"his"	"practice in"	"New Rochelle N.Y."	0
 427	"his"	"practice winding was wanted"	"he"	1
-427	"his orthopedic surgery practice"	"in N.Y."	"New Rochelle"	1
-427	"his orthopedic surgery practice"	"in"	"New Rochelle N.Y."	1
+427	"his orthopedic surgery practice"	"in N.Y."	"New Rochelle"	0
+427	"his orthopedic surgery practice"	"in"	"New Rochelle N.Y."	0
 427	"his orthopedic surgery practice"	"winding was wanted"	"he"	1
 427	"his orthopedic surgery practice"	"winding was wanted were"	"opportunities"	1
 427	"New Rochelle"	"N.Y. in practice winding was wanted As was winding practice in"	"New Rochelle N.Y."	0
@@ -7672,7 +7672,7 @@ Are the awards just an excuse to haul the stars out in finery given to them by d
 430	"the awards"	"Are excuse to haul"	"the stars"	0
 430	"the awards"	"Are excuse to haul in"	"finery"	0
 430	"the awards"	"Are excuse to haul in finery given to"	"them"	0
-430	"the awards"	"Are excuse to haul in finery given by"	"designers"	1
+430	"the awards"	"Are excuse to haul in finery given by"	"designers"	0
 430	"just an excuse"	"to haul"	"the stars"	1
 430	"just an excuse"	"to haul in"	"finery"	1
 430	"just an excuse"	"to haul in finery given to"	"them"	0
@@ -7682,7 +7682,7 @@ Are the awards just an excuse to haul the stars out in finery given to them by d
 430	"the stars"	"haul in finery given by"	"designers"	1
 430	"them"	"given by"	"designers"	1
 Some historians and the Turkish government have disputed claims of an organized genocide and the numbers of Armenians killed .
-431	"Some historians"	"and"	"the Turkish government"	1
+431	"Some historians"	"and"	"the Turkish government"	0
 431	"Some historians"	"have disputed"	"claims"	1
 431	"Some historians"	"have disputed claims of"	"an organized genocide"	1
 431	"Some historians"	"have and killed"	"the numbers"	0
@@ -7959,7 +7959,7 @@ With the patent issued to William Dodd , from Marietta , a present could become 
 443	"a present"	"with in box"	"the recipient"	0
 443	"a virtual gift"	"with"	"only ligHtli touches"	0
 443	"a virtual gift"	"with in box"	"the recipient"	1
-443	"a virtual gift"	"with in"	"the recipient 's e-mail box"	1
+443	"a virtual gift"	"with in"	"the recipient 's e-mail box"	0
 443	"only ligHtli touches"	"with in box"	"the recipient"	0
 443	"only ligHtli touches"	"with in"	"the recipient 's e-mail box"	0
 443	"only ligHtli touches"	"with being and passed on to"	"someone"	0
@@ -8059,14 +8059,14 @@ What he did n't understand was the true essence of the Raiders : You might not u
 451	"the true essence"	"did might"	"You"	1
 451	"the true essence"	"did might understand"	"it"	1
 451	"the true essence"	"did but 're"	"you"	0
-451	"the Raiders"	"of essence did might"	"You"	0
-451	"the Raiders"	"of essence did might understand"	"it"	1
+451	"the Raiders"	"of essence did might"	"You"	1
+451	"the Raiders"	"of essence did might understand"	"it"	0
 451	"the Raiders"	"of essence did but 're"	"you"	0
 451	"You"	"might understand"	"it"	1
 451	"You"	"did but 're"	"you"	0
 451	"it"	"understand did but 're"	"you"	0
 When the passengers realized that other commercial jets had been hijacked and crashed , they fulfilled `` the quintessential American desire to act '' and `` decided to take matters into their own hands to avert a catastrophe , '' he said .
-452	"the passengers"	"said that had"	"other commercial jets"	0
+452	"the passengers"	"said that had"	"other commercial jets"	1
 452	"the passengers"	"said fulfilled"	"they"	1
 452	"other commercial jets"	"had said fulfilled"	"they"	1
 452	"other commercial jets"	"had said decided"	"the quintessential American desire"	1
@@ -8081,7 +8081,7 @@ When the passengers realized that other commercial jets had been hijacked and cr
 452	"their"	"hands into take to said decided to take into"	"their own hands"	1
 452	"their"	"hands take to avert"	"a catastrophe"	0
 452	"their"	"hands into take to said"	"he"	1
-452	"their own hands"	"take to avert"	"a catastrophe"	0
+452	"their own hands"	"take to avert"	"a catastrophe"	1
 452	"their own hands"	"into take to said"	"he"	1
 452	"a catastrophe"	"avert to take to said"	"he"	0
 Officials at Volvo , long known for safe design , acknowledge that their cars are no match for a large sport utility vehicle .
@@ -8090,7 +8090,7 @@ Officials at Volvo , long known for safe design , acknowledge that their cars ar
 453	"Volvo"	"Officials known for"	"safe design"	0
 453	"Volvo"	"at acknowledge that are"	"their cars"	1
 453	"Volvo"	"at acknowledge that are"	"no match"	1
-453	"safe design"	"for known acknowledge that are"	"their cars"	0
+453	"safe design"	"for known acknowledge that are"	"their cars"	1
 453	"safe design"	"for known acknowledge that are"	"no match"	0
 453	"safe design"	"for known acknowledge that are match for"	"a large sport utility vehicle"	1
 453	"no match"	"for"	"a large sport utility vehicle"	1
@@ -8132,8 +8132,8 @@ You should probably just go online .
 One of life 's simple pleasures is guessing who 'll walk away with the VeeHee .
 457	"One"	"of pleasures"	"life"	0
 457	"One"	"of"	"life 's simple pleasures"	0
-457	"One"	"is guessing 'll"	"who"	1
-457	"One"	"is guessing 'll walk away with"	"the VeeHee"	1
+457	"One"	"is guessing 'll"	"who"	0
+457	"One"	"is guessing 'll walk away with"	"the VeeHee"	0
 457	"life"	"pleasures of is One of"	"life 's simple pleasures"	0
 457	"life"	"pleasures of is guessing 'll"	"who"	0
 457	"life"	"pleasures of is guessing 'll walk away with"	"the VeeHee"	0
@@ -8255,7 +8255,7 @@ Company after company followed suit as heightened security at major airports pos
 461	"suit"	"followed as security at"	"major airports"	1
 461	"suit"	"followed"	"posed new obstacles"	0
 461	"heightened security"	"at"	"major airports"	1
-461	"heightened security"	"followed"	"posed new obstacles"	1
+461	"heightened security"	"followed"	"posed new obstacles"	0
 461	"major airports"	"at security followed"	"posed new obstacles"	0
 When speed is your life , the race never ends .
 That carpet cleaning company was started by a 16-year old who wound up with stock worth more than $ 100 million after his company went public .
@@ -8433,7 +8433,7 @@ Lee Janzen IF PUSHED TO THE WALL , ISRAEL MIGHT FIRE NUKES That earned him the r
 478	"Lee Janzen IF PUSHED"	"NUKES earned"	"him"	0
 478	"Lee Janzen IF PUSHED"	"NUKES earned"	"the respect"	0
 478	"Lee Janzen IF PUSHED"	"NUKES earned respect of"	"analysts"	0
-478	"THE WALL"	"NUKES earned"	"him"	0
+478	"THE WALL"	"NUKES earned"	"him"	1
 478	"THE WALL"	"NUKES earned"	"the respect"	1
 478	"THE WALL"	"NUKES earned respect of"	"analysts"	1
 478	"THE WALL"	"NUKES earned respect of analysts and"	"investors"	1
@@ -8480,7 +8480,7 @@ Arnoldy logs about 30,000 miles a year aboard Intrepid , parking it on a private
 There were also searches of two warehouses owned by the firms in Schleswig-Holstein state and the office of the firms ' tax adviser in Hamburg .
 480	"searches"	"of"	"two warehouses"	0
 480	"searches"	"of warehouses owned by"	"the firms"	0
-480	"searches"	"of warehouses owned by firms in"	"Schleswig-Holstein state"	0
+480	"searches"	"of warehouses owned by firms in"	"Schleswig-Holstein state"	1
 480	"searches"	"of warehouses owned by firms and"	"the office"	0
 480	"two warehouses"	"owned by"	"the firms"	0
 480	"two warehouses"	"owned by firms in"	"Schleswig-Holstein state"	1
@@ -8513,7 +8513,7 @@ Television pictures showed police officers climbing over the roof and entering t
 483	"Television pictures"	"showed officers climbing and entering offices of"	"two related companies"	0
 483	"police officers"	"climbing and entering"	"the offices"	1
 483	"police officers"	"climbing and entering offices of companies"	"two"	1
-483	"police officers"	"climbing and entering offices of"	"two related companies"	0
+483	"police officers"	"climbing and entering offices of"	"two related companies"	1
 483	"police officers"	"climbing and entering offices of companies"	"Tatari Design"	1
 483	"the roof"	"climbing and entering"	"the offices"	0
 483	"the roof"	"climbing and entering offices of companies"	"two"	0
@@ -8650,7 +8650,7 @@ They say it cannot be done , but we beat City Hall , '' said Becky Fenger , a sp
 488	"we"	"beat said Fenger"	"a spokesperson"	1
 488	"City Hall"	"beat said"	"Becky Fenger"	1
 488	"City Hall"	"beat said Fenger"	"a spokesperson"	0
-488	"City Hall"	"beat said Fenger spokesperson for"	"NO Transit Taxes"	1
+488	"City Hall"	"beat said Fenger spokesperson for"	"NO Transit Taxes"	0
 488	"Becky Fenger"	"spokesperson for"	"NO Transit Taxes"	1
 488	"a spokesperson"	"for"	"NO Transit Taxes"	1
 When the university 's president , Richard P. Traina , retired in 2000 , he moved right into a spot on the board of the George I. Alden Trust , a $ 135 million foundation that 's run out of Fletcher , Tilton 's offices and which has been a strong Clark supporter .

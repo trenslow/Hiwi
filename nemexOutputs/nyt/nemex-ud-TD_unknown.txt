@@ -40,7 +40,7 @@ Meanwhile, the truth - that in most families where child abuse (sexual or otherw
 12	"the truth - that in most families where child abuse sexual or otherwise takes place women"	"are also victimized"	"reality"	0
 12	"child"	"where abuse"	"in most families"	0
 12	"the truth"	"where abuse"	"in most families"	0
-12	"the truth"	"otherwise takes"	"place"	0
+12	"the truth"	"otherwise takes"	"place"	1
 12	"child"	"otherwise takes"	"place"	1
 It goes against all that this country stands for.
 13	"It"	"goes"	"against all"	1
@@ -104,7 +104,7 @@ Taken for granted it sometimes may be, but this year the Defense Department soug
 37	"the Defense Department"	"secured"	"half that amount for Ankara 's huge military machine which"	0
 37	"the Defense Department"	"secured"	"half"	1
 37	"the Defense Department"	"secured"	"half which"	1
-37	"the Defense Department"	"secured"	"half that amount for Ankara 's huge military machine"	0
+37	"the Defense Department"	"secured"	"half that amount for Ankara 's huge military machine"	1
 37	"the Defense Department"	"includes"	"the biggest standing army in NATO"	0
 37	"the Defense Department"	"includes"	"the biggest standing army"	0
 An article last Sunday about the purchase of 40 Wall Street referred incorrectly to the buyer's arrangements with the owner of the land.
@@ -180,7 +180,7 @@ Yesterday, when The News led with "Friendly Fire" and "30 Marines wounded in att
 They live with Dirk, Weetzie's gay best friend, his lover, Duck, and Weetzie's daughter, Cherokee, possibly conceived during group sex with Dirk and Duck.
 67	"They"	"live possibly conceived"	"during group sex with Dirk and Duck"	0
 67	"They"	"live possibly conceived"	"with Dirk Weetzie 's gay best friend his lover Duck and Weetzie 's daughter"	1
-67	"They"	"live possibly conceived"	"with Dirk Weetzie 's gay best"	0
+67	"They"	"live possibly conceived"	"with Dirk Weetzie 's gay best"	1
 67	"They"	"live possibly conceived"	"friend his"	0
 67	"They"	"live possibly conceived"	"lover Duck and Weetzie 's daughter during group sex with Dirk and Duck"	1
 67	"They"	"live possibly conceived"	"with Dirk Weetzie 's gay best lover Duck and Weetzie 's daughter during group sex with Dirk and Duck"	1
@@ -229,8 +229,8 @@ Costello's main work since joining the Defense Department last October has been 
 82	"Costello 's main work since joining the Defense Department last October"	"joining"	"the Defense Department"	0
 Her father retired as a representative of manufacturers of railroad equipment.
 A class-action lawsuit against the N.C.A.A., contending that major college football teams violate antitrust laws by refusing to give athletic scholarships to all walk-on players, was filed yesterday in a United States District Court in Seattle.
-84	"A class-action lawsuit against the N.C.A.A."	"refusing give"	"athletic scholarships to all"	0
-84	"A class-action lawsuit against the N.C.A.A."	"refusing give"	"athletic scholarships"	0
+84	"A class-action lawsuit against the N.C.A.A."	"refusing give"	"athletic scholarships to all"	1
+84	"A class-action lawsuit against the N.C.A.A."	"refusing give"	"athletic scholarships"	1
 84	"athletic scholarships to all walk-on players was filed yesterday in a United States District Court in Seattle"	"was filed"	"yesterday"	0
 84	"athletic scholarships to all walk-on players was filed yesterday in a United States District Court in Seattle"	"was filed"	"yesterday in a United States District Court in Seattle"	0
 Following the killing of Amadou Diallo, the inexorable conclusion is that this is a Police Department out of control, with elected officials who are not interested in holding anybody accountable for its actions.
@@ -252,7 +252,7 @@ Barak also ended six weeks of total public silence on policy to reproach Preside
 90	"Barak"	"also ended making seemingly"	"six weeks of total public silence on policy to reproach President Clinton offhand remarks"	1
 90	"Barak"	"also ended making seemingly"	"six weeks offhand remarks about the rights of Palestinian refugees"	0
 90	"Barak"	"also ended making seemingly"	"six weeks of total public silence on policy to reproach President Clinton about the rights of Palestinian refugees"	1
-90	"Barak"	"also ended making seemingly"	"six weeks of total public silence on policy to reproach President Clinton offhand remarks about the rights of Palestinian refugees"	1
+90	"Barak"	"also ended making seemingly"	"six weeks of total public silence on policy to reproach President Clinton offhand remarks about the rights of Palestinian refugees"	0
 90	"Barak"	"also ended making seemingly"	"six weeks"	1
 90	"Barak"	"also ended making seemingly"	"six weeks offhand remarks"	0
 90	"Barak"	"also ended making seemingly"	"six weeks of total public silence on policy to reproach President Clinton"	1
@@ -290,7 +290,7 @@ Ashcroft said afterward, through Mr. Hilton, that the talk had been "even and bu
 100	"his fellow Missouri Democrats"	"ending hate"	"their practice politics"	1
 100	"his fellow Missouri Democrats"	"ending hate"	"their practice"	1
 But while it may surprise anyone who has been stung by them, yellow jackets actually have a reason for existing and a place in the universe.
-101	"yellow jackets"	"actually have existing"	"a reason"	1
+101	"yellow jackets"	"actually have existing"	"a reason"	0
 101	"yellow jackets"	"may surprise"	"anyone who has been stung by them"	1
 101	"yellow jackets"	"has been stung"	"by them"	1
 Beat in the eggs one at a time.
@@ -322,8 +322,8 @@ A table in Business Day on Thursday showing the New York Stock Exchange's uncove
 110	"A table in Business Day on Thursday"	"showing ended included"	"the New York Stock Exchange 's uncovered short sales June 15 an incorrect amount"	1
 110	"A table in Business Day on Thursday"	"showing ended included"	"the New York Stock Exchange 's uncovered short sales or  short interest  for the four weeks June 15 for the Tech-Sym Corporation"	1
 110	"A table in Business Day on Thursday"	"provided"	"to the exchange"	1
-110	"A table in Business Day on Thursday"	"provided"	"by the company"	1
-110	"A table in Business Day on Thursday"	"provided"	"by the company to the exchange"	1
+110	"A table in Business Day on Thursday"	"provided"	"by the company"	0
+110	"A table in Business Day on Thursday"	"provided"	"by the company to the exchange"	0
 110	"A table in Business Day on Thursday"	"misstated accordingly"	"the total"	1
 "She could easily be seen as someone who tries to help the public with a tax cut when she can, but who is also candid enough to level with folks when the state fiscal situation prevents a tax giveback.
 111	"She"	"could easily be seen"	"as someone"	1
@@ -343,7 +343,7 @@ The songs are driven by short melodic riffs, call-and-response with her backup s
 113	"The songs"	"are driven"	"combination of djembe hand drum and metal scraper and the plunk of the kamalngoni a"	0
 113	"The songs"	"are driven"	"combination of djembe hand drum and metal scraper and the plunk of the kamalngoni a harp similar to the kora played by griots"	0
 113	"The songs"	"are driven"	"by short melodic riffs call-and-response with her backup singers the combination of djembe hand drum and metal scraper and the plunk of the kamalngoni a harp similar to the kora played by griots"	1
-113	"The songs"	"are driven"	"harp similar to the kora played by griots"	1
+113	"The songs"	"are driven"	"harp similar to the kora played by griots"	0
 113	"The songs"	"are driven"	"by short melodic riffs call-and-response with her backup singers the"	1
 113	"The songs"	"played"	"by griots"	1
 Two batters later, Edgardo Alfonzo rapped a two-run double down the third-base line for a 3-0 lead, and Hundley later launched a double to the left-center warning track to make it 4-0.
@@ -434,7 +434,7 @@ A day after strong winds stirred up the Hauraki Gulf and broke the mast of Team 
 137	"A day after strong winds"	"stirred"	"the Hauraki Gulf"	1
 137	"A day after strong winds"	"broke"	"the mast of Team New Zealand"	1
 137	"A day after strong winds"	"broke"	"the mast"	1
-137	"A day after strong winds"	"caused be abandoned"	"Race 5 of the America 's Cup"	0
+137	"A day after strong winds"	"caused be abandoned"	"Race 5 of the America 's Cup"	1
 Reno's supporters said today's decision demonstrated her willingness to go outside the Justice Department to investigate a high-ranking Clinton official when the facts justified it.
 138	"today 's decision"	"demonstrated go investigate"	"her willingness a high-ranking"	1
 138	"today 's decision"	"demonstrated go investigate"	"her willingness outside the Justice Department"	1
@@ -456,7 +456,7 @@ Then he elevates himself off the ground to escape the ball that becomes a game-t
 143	"he"	"Then elevates escape"	"himself off the ground that"	0
 143	"he"	"Then elevates escape"	"himself off the ground"	0
 143	"he"	"Then elevates escape"	"himself the ball"	1
-143	"he"	"Then elevates escape"	"himself the ball that"	0
+143	"he"	"Then elevates escape"	"himself the ball that"	1
 143	"he"	"Then elevates escape"	"himself"	0
 143	"he"	"Then elevates escape"	"himself off the ground the ball that"	0
 143	"he"	"becomes"	"a game-tying wild pitch"	1
@@ -556,7 +556,7 @@ There is a mind-bending illogic behind the Bush administration's decision yester
 169	"a mind-bending illogic behind the Bush administration 's decision"	"is withhold continued there"	"$ 34 million from the United Nations Population Fund practices"	1
 169	"a mind-bending illogic behind the Bush administration 's decision"	"is withhold continued there"	"$ 34 million which"	1
 169	"a mind-bending illogic behind the Bush administration 's decision"	"is withhold continued there"	"$ 34 million from the United Nations Population Fund which practices"	1
-169	"a mind-bending illogic behind the Bush administration 's decision"	"is withhold continued there"	"$ 34 million which of coerced abortion and sterilization"	1
+169	"a mind-bending illogic behind the Bush administration 's decision"	"is withhold continued there"	"$ 34 million which of coerced abortion and sterilization"	0
 169	"a mind-bending illogic behind the Bush administration 's decision"	"is withhold continued there"	"$ 34 million which practices of coerced abortion and sterilization"	0
 169	"a mind-bending illogic behind the Bush administration 's decision"	"is withhold continued there"	"$ 34 million from the United Nations Population Fund which"	1
 169	"a mind-bending illogic behind the Bush administration 's decision"	"is withhold continued there"	"$ 34 million practices of coerced abortion and sterilization"	0
@@ -670,7 +670,7 @@ With the Jets' training camp opening next Monday, Hadley Engelhard, the agent fo
 A winner will be announced in October.
 Until the investigation is completed and the I.A.A.F. convenes in London April 15 to decide her case, the federation has instructed the British Amateur Athletic Board to withdraw Budd from all international competition.
 195	"the federation"	"has instructed withdraw"	"the British Amateur Athletic Board Budd"	0
-195	"the federation"	"has instructed withdraw"	"the British Amateur Athletic Board"	0
+195	"the federation"	"has instructed withdraw"	"the British Amateur Athletic Board"	1
 195	"the federation"	"has instructed withdraw"	"the British Amateur Athletic Board from all international competition"	0
 195	"the federation"	"has instructed withdraw"	"the British Amateur Athletic Board Budd from all international competition"	0
 The bride is the stepdaughter of Richard L. Harris.

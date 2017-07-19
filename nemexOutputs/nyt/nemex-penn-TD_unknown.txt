@@ -161,9 +161,9 @@ Taken for granted it sometimes may be, but this year the Defense Department soug
 An article last Sunday about the purchase of 40 Wall Street referred incorrectly to the buyer's arrangements with the owner of the land.
 38	"about the purchase of 40 Wall Street"	"referred"	"with the owner of the land"	0
 38	"about the purchase of 40 Wall Street"	"referred"	"to the buyer 's arrangements"	1
-38	"about the purchase of 40 Wall Street"	"referred"	"to the buyer 's arrangements with the owner of the land"	0
+38	"about the purchase of 40 Wall Street"	"referred"	"to the buyer 's arrangements with the owner of the land"	1
 But if it does happen, Senator Pell will no longer be around to receive special back-room briefings from Uri Geller, the psychic spoon-bender.
-39	"Senator Pell"	"to receive"	"special back-room briefings from Uri Geller the psychic spoon-bender"	1
+39	"Senator Pell"	"to receive"	"special back-room briefings from Uri Geller the psychic spoon-bender"	0
 39	"Senator Pell"	"to receive"	"special back-room briefings from Uri Geller"	0
 39	"Senator Pell"	"to receive"	"special back-room briefings the psychic spoon-bender"	0
 The Giants convened today to begin their first preparations for Monday night's game in Minnesota against the Vikings.
@@ -331,7 +331,7 @@ That pushed the unemployment rate to 12.5 percent, from 12.4 percent in May.
 80	"That"	"pushed"	"the unemployment rate to 12.5 percent from 12.4 percent"	1
 80	"That"	"pushed"	"the unemployment rate to 12.5 percent in May"	1
 80	"That"	"pushed"	"the unemployment rate to 12.5 percent from 12.4 percent in May"	0
-80	"That"	"pushed"	"the unemployment rate from 12.4 percent"	0
+80	"That"	"pushed"	"the unemployment rate from 12.4 percent"	1
 80	"That"	"pushed"	"the unemployment rate in May"	0
 It's not that I wouldn't drink these -- a number of them were very good.
 81	"It"	"'s not were"	"that I would n't drink these"	1
@@ -358,7 +358,7 @@ A class-action lawsuit against the N.C.A.A., contending that major college footb
 84	"A class-action lawsuit against the N.C.A.A. contending that major college football teams violate antitrust laws by refusing to give athletic scholarships to all walk-on players"	"was filed"	"in a United States District Court"	1
 84	"A class-action lawsuit against the N.C.A.A. contending that major college football teams violate antitrust laws by refusing to give athletic scholarships to all walk-on players"	"was filed"	"in Seattle"	1
 84	"A class-action lawsuit against the N.C.A.A. contending that major college football teams violate antitrust laws by refusing to give athletic scholarships to all walk-on players"	"contending"	"that major college football teams violate antitrust laws by refusing to give athletic scholarships to all walk-on players"	1
-84	"major college football teams"	"violate"	"antitrust laws by refusing to give athletic scholarships"	1
+84	"major college football teams"	"violate"	"antitrust laws by refusing to give athletic scholarships"	0
 84	"major college football teams"	"violate"	"antitrust laws to all walk-on players"	1
 84	"major college football teams"	"to give"	"athletic scholarships"	0
 84	"major college football teams"	"to give"	"athletic scholarships to all walk-on players"	0
@@ -494,7 +494,7 @@ Trust Company's quest for customers among the new rich, included erroneous figur
 106	"new"	"included"	"erroneous figures for millionaire households supplied by"	0
 In a sobering speech meant to register with opinion leaders in the international community, the Irish Foreign Minister, Dick Spring, has warned about the peril to the peace process if there is further delay.
 107	"the Irish Foreign Minister Dick Spring"	"has warned"	"In a sobering speech to the peace process"	1
-107	"the Irish Foreign Minister Dick Spring"	"has warned"	"speech about the peril to the peace process"	0
+107	"the Irish Foreign Minister Dick Spring"	"has warned"	"speech about the peril to the peace process"	1
 107	"the Irish Foreign Minister Dick Spring"	"has warned"	"In a sobering speech"	1
 107	"the Irish Foreign Minister Dick Spring"	"has warned"	"In a sobering"	1
 107	"the Irish Foreign Minister Dick Spring"	"has warned"	"about the peril to the peace process"	0
@@ -552,7 +552,7 @@ Mexican reporters staked out meetings of the board of Dow Jones & Company, where
 117	"Mr. Salinas"	"caught"	"just a brief glimpse"	0
 117	"Mr. Salinas"	"caught"	"just a brief glimpse of him"	0
 117	"Mr. Salinas"	"caught"	"just a brief glimpse of him on the 43d floor of the World Trade Center"	0
-117	"Mr. Salinas"	"caught"	"just a brief glimpse on the 43d floor of the World Trade Center"	0
+117	"Mr. Salinas"	"caught"	"just a brief glimpse on the 43d floor of the World Trade Center"	1
 In October, the university's Electronic Music Center will put the finishing touches on an ambitious surround-sound speaker installation.
 118	"the university 's Electronic Music Center"	"will put"	"In October the finishing touches"	1
 118	"the university 's Electronic Music Center"	"will put"	"the finishing touches"	0

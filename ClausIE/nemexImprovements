@@ -1,0 +1,42 @@
+-Potential Impovements-
+
+1) Possessives and their noun referents are treated as a separate token by the other systems, whereas Nemex treats nouns with possession markers as one entity.
+ex: Nemex produces Russia's or players'; the other system produces Russia_'s and players_' (underscores are used for clarity, but don't actually occur in extractions)
+
+2) Parentheses are removed in the other systems, whereas Nemex includes them in relations.
+ex: NYT sentence #58: nemex_penn produces a triple with ")" as one of the arguments
+
+3) When a money amount occurs in the sentence, the other systems treat the currency sign (such as $ or €) as a separate token, whereas Nemex doesn't.
+ex: Nemex produces $30; the other systems would produce $_30 (underscores are used for clarity, but don't actually occur in extractions)
+
+4) When a sentence begins with a PP, often the preposition is seen in the relation phrase in Nemex extractions, whereas that same preposition occurs more in the 2nd argument in the other systems' extractions.
+
+5) In the case of contractions such as "it's" or "we're", the verb used to build the contraction is found in the relation phrase of extractions in the other systems. Nemex on the other hand treats the whole contraction as the first argument of the relation phrase.
+
+6) Contractions that are constructed with "not" (as in "don't" or "wouldn't") are treated as two words in the other systems, whereas Nemex treats them as one.
+ex: "don't" and "wouldn't" should be extracted as "do_n't" "would_n't" (underscores are used for clarity, but don't actually occur in extractions)
+
+7) The way relations are extracted from a combination of adjunct phrases in the second argument of an extraction should be a little more liberal. (more concrete explanation later)
+
+8) All systems struggle with sentences containing imperative verbs, since the subject isn't explicitly defined in the sentence.  This could be an improvement to Nemex that sets it apart from other systems.
+
+9) In the case of contractions with the word "would", such as "I'd" or "he'd", Nemex is treating them as the subject, whereas the other systems are splitting the contraction and the "would" part is being placed in the relation phrase.
+
+10) Nemex could produce relation doubles in the case of sentences containing passive verb constructions or intransitive verbs, since right now it extracts nothing.
+ex: NYT sentence #20, NYT sentence #15, NYT sentence #130, NYT sentence #139, NYT sentence #142
+
+11) On the parsing level, Nemex could improve on complex noun phrases.  In the case of NYT sentence #115, it incorrectly marks off the noun phrase after seeing an infinitive verb, whereas the noun phrase goes much longer.
+ex: "Tests to detect the use of performance-enhancing drugs like EPO and human-growth hormones are unlikely to be approved for Sydney." In this sentence, "to detect" is labelled as the root verb, not "are".
+
+12) Possible changes needed to the labels determining what tokens can be a subject, since sometimes a token labeled as SBJ does not make it into the EDL layer of Nemex.
+ex: NYT sentence #27
+
+13) In the interest of an automatic evaluator, the indices of the gold standard and full outputs should line up.
+
+14) Quotations ending in "..., someone said." are rarely retrieved by any system, but given that they often appear in the data sets, it might be a certain constraint that could be added to Nemex.
+ex: NYT sentence #153
+
+15) In the case of relative clauses where something is named and then is further explained after a comma without a relative pronoun (for example: Frauke Petersen Haasemann, the assistant conductor of the Westminster Choir and...), it would be good to do the following:
+    -keep the comma so that the relative clauses stays together with the noun
+    -split the two noun phrases and use each noun phrase as an argument in an extraction
+ex: NYT sentences #67, #69, #76, #84

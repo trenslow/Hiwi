@@ -108,7 +108,7 @@ Mr. Mahdi and Mr. Chalabi say they aim to form a "national unity" government wit
 4	" national unity"	"form"	"presumably including Mr. Allawi"	1
 4	"a  national unity  government"	"form leaders"	"Iraq"	1
 4	"a  national unity  government"	"form"	"with Iraq 's main political leaders"	1
-4	"a  national unity  government"	"form"	"presumably including Mr. Allawi"	1
+4	"a  national unity  government"	"form"	"presumably including Mr. Allawi"	0
 4	"Iraq"	"leaders form say aim form"	"with Iraq 's main political leaders"	1
 4	"Iraq"	"form"	"presumably including Mr. Allawi"	0
 4	"with Iraq 's main political leaders"	"form"	"presumably including Mr. Allawi"	0
@@ -219,7 +219,7 @@ In its most recent survey, the Congress for New Urbanism, a nonprofit organizati
 11	"648"	"communities States increase"	"of 176"	0
 11	"648 neighborhood-scale New Urbanist communities"	"States"	"an increase"	0
 11	"648 neighborhood-scale New Urbanist communities"	"States increase"	"of 176"	0
-11	"648 neighborhood-scale New Urbanist communities"	"reported"	"over a 12-month period"	1
+11	"648 neighborhood-scale New Urbanist communities"	"reported"	"over a 12-month period"	0
 11	"in the United States"	"increase"	"of 176"	0
 11	"in the United States"	"reported"	"over a 12-month period"	0
 11	"an increase"	"States reported"	"over a 12-month period"	0
@@ -279,11 +279,11 @@ The Embassy said 6,700 Americans were in Pakistan.
 17	"The Embassy"	"said Pakistan"	"6,700 Americans"	0
 17	"6,700 Americans"	"said"	"6,700 Americans were in Pakistan"	1
 Along with Dow Jones and Microsoft, the companies included CNN, but not its parent, AOL Time Warner.
-18	"Along with Dow Jones"	"companies included"	"CNN"	1
+18	"Along with Dow Jones"	"companies included"	"CNN"	0
 18	"Microsoft"	"Jones"	"the companies"	0
 18	"Microsoft"	"Jones companies included"	"CNN"	1
 18	"Microsoft"	"Jones"	"not its parent"	0
-18	"Microsoft"	"Jones"	"AOL Time Warner"	1
+18	"Microsoft"	"Jones"	"AOL Time Warner"	0
 18	"the companies"	"Jones"	"not its parent"	1
 18	"the companies"	"Jones"	"AOL Time Warner"	1
 18	"CNN"	"included Jones"	"not its parent"	1
@@ -379,7 +379,7 @@ An asbestos and lead survey found "a substantial amount" of asbestos in the buil
 28	"An asbestos"	"found amount asbestos"	"in the buildings"	0
 28	"lead survey"	"found"	"a substantial amount"	0
 28	"lead survey"	"found amount"	"of asbestos"	1
-28	"lead survey"	"found amount asbestos"	"in the buildings"	0
+28	"lead survey"	"found amount asbestos"	"in the buildings"	1
 28	"a substantial amount"	"asbestos"	"in the buildings"	0
 Meanwhile, Ms. Coughlin is pursuing her case in a Federal court in Nevada against the last remaining defendant, the Las Vegas Hilton, which has denied it negligently failed to provide adequate security.
 29	"Ms. Coughlin"	"pursuing"	"her case"	1
@@ -407,10 +407,10 @@ Meanwhile, Ms. Coughlin is pursuing her case in a Federal court in Nevada agains
 To reach the museums by foot, leave from the station's 30th Street exit and walk along J.
 30	"the museums"	"reach leave 30th"	"the station"	0
 30	"the museums"	"reach leave"	"from the station 's 30th"	0
-30	"the museums"	"reach leave 30th"	"Street"	0
+30	"the museums"	"reach leave 30th"	"Street"	1
 30	"the museums"	"reach"	"exit and walk along J."	0
 30	"the museums"	"reach exit walk"	"along J."	0
-30	"by foot"	"reach leave 30th"	"the station"	0
+30	"by foot"	"reach leave 30th"	"the station"	1
 30	"by foot"	"reach leave"	"from the station 's 30th"	0
 30	"by foot"	"reach leave 30th"	"Street"	1
 30	"by foot"	"reach"	"exit and walk along J."	0
@@ -443,16 +443,16 @@ In lieu of flowers, donations in his memory can be made to the International Mye
 31	"12650 Riverside"	"Foundation"	"Suite"	1
 31	"12650 Riverside"	"Foundation Suite"	"206"	1
 31	"12650 Riverside"	"Foundation"	"North Hollywood"	1
-31	"12650 Riverside"	"Foundation"	"CA"	0
+31	"12650 Riverside"	"Foundation"	"CA"	1
 31	"Drive"	"Foundation"	"Suite"	1
 31	"Drive"	"Foundation Suite"	"206"	1
 31	"Drive"	"Foundation"	"North Hollywood"	1
-31	"Drive"	"Foundation"	"CA"	0
+31	"Drive"	"Foundation"	"CA"	1
 31	"Suite"	"Foundation"	"North Hollywood"	1
-31	"Suite"	"Foundation"	"CA"	0
+31	"Suite"	"Foundation"	"CA"	1
 31	"206"	"Foundation"	"North Hollywood"	1
-31	"206"	"Foundation"	"CA"	0
-31	"North Hollywood"	"Foundation"	"CA"	0
+31	"206"	"Foundation"	"CA"	1
+31	"North Hollywood"	"Foundation"	"CA"	1
 Julian Stark does his own hapless stunts in his takeoff on the "Hercules" movies starring Steve Reeves; Shannon Plumb contributes a Chaplinesque "Diary of a Mad Housewife."
 32	"Julian Stark"	"does own"	"his"	0
 32	"Julian Stark"	"does own"	"hapless stunts"	0
@@ -525,13 +525,13 @@ My words were as perishable as doodles on an Etch-a-Sketch, I got half the money
 34	"on an Etch-a-Sketch"	"perishable got work"	"the money"	0
 34	"on an Etch-a-Sketch"	"perishable got"	"half the money for twice the work"	0
 34	"on an Etch-a-Sketch"	"perishable had"	"I"	0
-34	"I"	"got work"	"the money"	0
+34	"I"	"got work"	"the money"	1
 34	"I"	"perishable had"	"I"	1
 34	"the money"	"work perishable got"	"half the money for twice the work"	0
 34	"the money"	"work perishable had"	"I"	0
 34	"the money"	"work perishable had share credit"	"the writer"	1
 34	"the money"	"work perishable had share"	"the writer 's credit"	1
-34	"half the money for twice the work"	"perishable had"	"I"	0
+34	"half the money for twice the work"	"perishable had"	"I"	1
 34	"half the money for twice the work"	"perishable had share credit"	"the writer"	1
 34	"half the money for twice the work"	"perishable had share"	"the writer 's credit"	1
 34	"I"	"had share credit"	"the writer"	1
@@ -596,12 +596,12 @@ Taken for granted it sometimes may be, but this year the Defense Department soug
 37	"in assistance"	"sought secured"	"half"	1
 37	"in assistance"	"sought secured"	"that amount"	1
 37	"in assistance"	"sought secured amount machine"	"Ankara"	1
-37	"in assistance"	"sought secured amount"	"for Ankara 's huge military machine"	1
-37	"in assistance"	"sought secured amount includes"	"which"	1
+37	"in assistance"	"sought secured amount"	"for Ankara 's huge military machine"	0
+37	"in assistance"	"sought secured amount includes"	"which"	0
 37	"from Congress"	"sought secured"	"half"	1
 37	"from Congress"	"sought secured"	"that amount"	1
 37	"from Congress"	"sought secured amount machine"	"Ankara"	1
-37	"from Congress"	"sought secured amount"	"for Ankara 's huge military machine"	1
+37	"from Congress"	"sought secured amount"	"for Ankara 's huge military machine"	0
 37	"from Congress"	"sought secured amount includes"	"which"	1
 37	"half"	"secured"	"that amount"	0
 37	"half"	"secured amount machine"	"Ankara"	0
@@ -612,7 +612,7 @@ Taken for granted it sometimes may be, but this year the Defense Department soug
 37	"that amount"	"includes"	"which"	0
 37	"that amount"	"includes"	"the biggest standing army"	0
 37	"that amount"	"includes army"	"in NATO"	0
-37	"Ankara"	"machine amount secured Taken sought secured amount"	"for Ankara 's huge military machine"	0
+37	"Ankara"	"machine amount secured Taken sought secured amount"	"for Ankara 's huge military machine"	1
 37	"Ankara"	"amount includes"	"which"	0
 37	"Ankara"	"amount includes"	"the biggest standing army"	0
 37	"Ankara"	"amount includes army"	"in NATO"	0
@@ -704,7 +704,7 @@ Kent was not told of the situation until the game was over.
 It has set up a robotic system that systematically tests all 2,000 existing chemical drugs in combinations of two.
 44	"It"	"set"	"a robotic system"	1
 44	"It"	"set system tests"	"that"	1
-44	"It"	"set system tests existing"	"all 2,000"	0
+44	"It"	"set system tests existing"	"all 2,000"	1
 44	"It"	"set system tests existing"	"chemical drugs"	0
 44	"a robotic system"	"tests"	"that"	1
 44	"a robotic system"	"tests existing"	"all 2,000"	1
@@ -713,13 +713,13 @@ It has set up a robotic system that systematically tests all 2,000 existing chem
 44	"a robotic system"	"tests existing combinations"	"of two"	1
 44	"that"	"tests existing"	"all 2,000"	0
 44	"that"	"tests existing"	"chemical drugs"	0
-44	"that"	"tests existing"	"in combinations"	0
+44	"that"	"tests existing"	"in combinations"	1
 44	"that"	"tests existing combinations"	"of two"	1
 44	"all 2,000"	"existing"	"chemical drugs"	0
-44	"all 2,000"	"existing"	"in combinations"	1
+44	"all 2,000"	"existing"	"in combinations"	0
 44	"all 2,000"	"existing combinations"	"of two"	1
 44	"chemical drugs"	"existing"	"in combinations"	0
-44	"chemical drugs"	"existing combinations"	"of two"	1
+44	"chemical drugs"	"existing combinations"	"of two"	0
 The state-run English-language Teheran Times reported that Parliament would begin debate on the Cabinet on Tuesday, with "two weeks to complete discussions and vote."
 45	"The state-run English-language"	"reported"	"Teheran Times"	0
 45	"The state-run English-language"	"reported begin"	"Parliament"	1
@@ -774,7 +774,7 @@ Nordstrom Inc., the retail chain based on the West Coast, said today that it had
 47	"Nordstrom Inc."	"based"	"the retail chain"	1
 47	"Nordstrom Inc."	"based"	"on the West Coast"	1
 47	"Nordstrom Inc."	"based"	"today"	0
-47	"Nordstrom Inc."	"based today created"	"it"	1
+47	"Nordstrom Inc."	"based today created"	"it"	0
 47	"the retail chain"	"based"	"on the West Coast"	1
 47	"the retail chain"	"based"	"today"	0
 47	"the retail chain"	"based today created"	"it"	0
@@ -848,7 +848,7 @@ This revelatory micro-exhibition reunites five portraits of the postal worker Jo
 53	"This revelatory micro-exhibition reunites five portraits"	"worker"	"Joseph Roulin"	1
 53	"This revelatory micro-exhibition reunites five portraits"	"met"	"whom"	1
 53	"This revelatory micro-exhibition reunites five portraits"	"met"	"van Gogh"	1
-53	"This revelatory micro-exhibition reunites five portraits"	"met"	"while in Arles"	0
+53	"This revelatory micro-exhibition reunites five portraits"	"met"	"while in Arles"	1
 53	"of the postal worker"	"portraits met"	"whom"	0
 53	"of the postal worker"	"portraits met"	"van Gogh"	0
 53	"of the postal worker"	"portraits met"	"while in Arles"	0
@@ -986,7 +986,7 @@ I readied my gear for a truly local fishing trip.
 65	"my gear"	"readied"	"for a truly local fishing trip"	1
 Yesterday, when The News led with "Friendly Fire" and "30 Marines wounded in attack near Nassiriya," The Post said, "Saddam's evil order to kids: Fight or your parents die," followed by "How low can Iraq sink.
 66	"Yesterday"	"Marines led"	"The News"	0
-66	"Yesterday"	"Marines led"	"with  Friendly Fire"	0
+66	"Yesterday"	"Marines led"	"with  Friendly Fire"	1
 66	"The News"	"led"	"with  Friendly Fire"	0
 66	"The News"	"Marines"	"Yesterday when The News led with  Friendly Fire  and  30 Marines"	1
 66	"The News"	"Marines wounded"	"in attack"	1
@@ -997,7 +997,7 @@ Yesterday, when The News led with "Friendly Fire" and "30 Marines wounded in att
 66	"with  Friendly Fire"	"Marines said"	"The Post"	1
 66	"Yesterday when The News led with  Friendly Fire  and  30 Marines"	"wounded"	"in attack"	1
 66	"Yesterday when The News led with  Friendly Fire  and  30 Marines"	"wounded attack"	"near Nassiriya"	1
-66	"Yesterday when The News led with  Friendly Fire  and  30 Marines"	"said"	"The Post"	1
+66	"Yesterday when The News led with  Friendly Fire  and  30 Marines"	"said"	"The Post"	0
 66	"Yesterday when The News led with  Friendly Fire  and  30 Marines"	"Fight order"	"Saddam"	0
 66	"in attack"	"Marines said"	"The Post"	1
 66	"in attack"	"Marines Fight order"	"Saddam"	1
@@ -1230,7 +1230,7 @@ That pushed the unemployment rate to 12.5 percent, from 12.4 percent in May.
 80	"percent"	"pushed percent"	"in May"	0
 It's not that I wouldn't drink these -- a number of them were very good.
 81	"It"	"drink"	"I"	1
-81	"It"	"drink good"	"a number"	0
+81	"It"	"drink good"	"a number"	1
 81	"It"	"drink good number"	"of them"	0
 81	"I"	"drink good"	"a number"	0
 81	"I"	"drink good number"	"of them"	0
@@ -1283,7 +1283,7 @@ A class-action lawsuit against the N.C.A.A., contending that major college footb
 84	"that"	"contending laws refusing give"	"athletic scholarships"	0
 84	"major college football teams"	"contending"	"major college football teams violate antitrust laws"	1
 84	"major college football teams"	"laws refusing give"	"athletic scholarships"	0
-84	"major college football teams"	"laws refusing give scholarships filed all"	"walk-on players"	0
+84	"major college football teams"	"laws refusing give scholarships filed all"	"walk-on players"	1
 84	"major college football teams violate antitrust laws"	"refusing give"	"athletic scholarships"	0
 84	"major college football teams violate antitrust laws"	"refusing give scholarships filed all"	"walk-on players"	1
 84	"major college football teams violate antitrust laws"	"refusing give scholarships filed"	"yesterday"	1
@@ -1361,7 +1361,7 @@ The New Jersey school, like most others, issued the flag patches that have becom
 87	"The New Jersey school"	"others issued"	"the flag patches"	1
 87	"The New Jersey school"	"others issued patches become"	"that"	1
 87	"The New Jersey school"	"others issued patches become ubiquitous uniforms"	"players"	1
-87	"like most others"	"issued"	"the flag patches"	1
+87	"like most others"	"issued"	"the flag patches"	0
 87	"like most others"	"issued patches become"	"that"	0
 87	"like most others"	"issued patches become ubiquitous uniforms"	"players"	0
 87	"like most others"	"issued patches become ubiquitous"	"on players ' uniforms"	0
@@ -1505,7 +1505,7 @@ Russia's eavesdropping station at Lourdes, Cuba, is a cold war jewel: 28 square 
 94	"miles"	"eavesdropping"	"that message Russian embassies"	1
 94	"miles"	"eavesdropping embassies"	"submarines"	0
 94	"miles"	"eavesdropping embassies"	"spies"	0
-94	"of antennae"	"eavesdropping embassies"	"message"	1
+94	"of antennae"	"eavesdropping embassies"	"message"	0
 94	"of antennae"	"eavesdropping"	"that message Russian embassies"	1
 94	"of antennae"	"eavesdropping embassies"	"submarines"	0
 94	"of antennae"	"eavesdropping embassies"	"spies"	0
@@ -1613,7 +1613,7 @@ The menu, imported from Ben's Deli in Queens, includes matzoh ball soup, corned 
 99	"The menu"	"imported includes chopped"	"ball soup"	1
 99	"from Ben"	"imported"	"'s Deli"	1
 99	"from Ben"	"imported Deli"	"in Queens"	1
-99	"from Ben"	"imported includes chopped"	"ball soup"	1
+99	"from Ben"	"imported includes chopped"	"ball soup"	0
 99	"from Ben"	"imported includes chopped soup corned"	"beef"	0
 99	"from Ben"	"imported includes chopped soup corned beef"	"pastrami sandwiches"	0
 99	"'s Deli"	"imported includes chopped"	"ball soup"	0
@@ -1944,7 +1944,7 @@ A table in Business Day on Thursday showing the New York Stock Exchange's uncove
 110	"15"	"ended included amount"	"for the Tech-Sym Corporation"	0
 110	"15"	"ended included provided"	"by the company"	0
 110	"an incorrect amount"	"included provided"	"by the company"	0
-110	"an incorrect amount"	"included provided"	"to the exchange"	1
+110	"an incorrect amount"	"included provided"	"to the exchange"	0
 110	"for the Tech-Sym Corporation"	"included provided"	"by the company"	0
 110	"for the Tech-Sym Corporation"	"included provided"	"to the exchange"	0
 110	"by the company"	"provided"	"to the exchange"	0
@@ -2039,7 +2039,7 @@ The songs are driven by short melodic riffs, call-and-response with her backup s
 113	"a harp"	"similar kora played"	"by griots"	1
 113	"to the kora"	"played"	"by griots"	1
 Two batters later, Edgardo Alfonzo rapped a two-run double down the third-base line for a 3-0 lead, and Hundley later launched a double to the left-center warning track to make it 4-0.
-114	"Two batters"	"rapped"	"Edgardo Alfonzo"	1
+114	"Two batters"	"rapped"	"Edgardo Alfonzo"	0
 114	"Two batters"	"rapped"	"a two-run"	0
 114	"Two batters"	"rapped double"	"down the third-base line"	0
 114	"Edgardo Alfonzo"	"rapped"	"a two-run"	1
@@ -2105,20 +2105,20 @@ Mexican reporters staked out meetings of the board of Dow Jones & Company, where
 117	"meetings"	"staked board Jones Company member"	"Mr. Salinas"	1
 117	"meetings"	"staked board Jones Company"	"where Mr. Salinas is a member"	0
 117	"of the board"	"Jones"	"Company"	1
-117	"of the board"	"Jones Company member"	"Mr. Salinas"	0
+117	"of the board"	"Jones Company member"	"Mr. Salinas"	1
 117	"of the board"	"Jones Company"	"where Mr. Salinas is a member"	0
-117	"of Dow Jones"	"Company member"	"Mr. Salinas"	0
+117	"of Dow Jones"	"Company member"	"Mr. Salinas"	1
 117	"of Dow Jones"	"Company"	"where Mr. Salinas is a member"	0
-117	"Company"	"member"	"Mr. Salinas"	0
+117	"Company"	"member"	"Mr. Salinas"	1
 117	"Company"	"Jones staked caught"	"just a brief glimpse"	0
-117	"Mr. Salinas"	"member Company Jones staked board Jones Company"	"where Mr. Salinas is a member"	0
+117	"Mr. Salinas"	"member Company Jones staked board Jones Company"	"where Mr. Salinas is a member"	1
 117	"Mr. Salinas"	"member Company Jones staked caught"	"just a brief glimpse"	0
 117	"Mr. Salinas"	"member Company Jones staked caught glimpse"	"of him"	0
 117	"where Mr. Salinas is a member"	"Company Jones staked caught"	"just a brief glimpse"	0
 117	"where Mr. Salinas is a member"	"Company Jones staked caught glimpse"	"of him"	0
 117	"where Mr. Salinas is a member"	"Company Jones staked caught glimpse"	"on the 43d floor"	0
 117	"just a brief glimpse"	"floor"	"of the World Trade Center"	1
-117	"of him"	"glimpse"	"on the 43d floor"	1
+117	"of him"	"glimpse"	"on the 43d floor"	0
 117	"of him"	"glimpse floor"	"of the World Trade Center"	1
 In October, the university's Electronic Music Center will put the finishing touches on an ambitious surround-sound speaker installation.
 118	"In October"	"put"	"Electronic Music Center"	1
@@ -2154,7 +2154,7 @@ The International Business Machines Corporation said it signed an agreement to p
 120	"100 million"	"$ provide said worth software"	"to what will be the world 's largest computerized travel reservation system"	0
 120	"100 million"	"$ provide said worth software what system"	"the world"	0
 120	"worth"	"software"	"to what will be the world 's largest computerized travel reservation system"	0
-120	"worth"	"software what system"	"the world"	0
+120	"worth"	"software what system"	"the world"	1
 120	"of computer hardware"	"worth software"	"to what will be the world 's largest computerized travel reservation system"	0
 120	"of computer hardware"	"worth software what system"	"the world"	1
 120	"of computer hardware"	"worth software what"	"will be the world 's largest computerized travel reservation system"	0
@@ -2174,7 +2174,7 @@ The director of the Center for Mathematical Sciences Research at Rutgers Univers
 121	"Dr. Joel Lebowitz"	"Research receive Medal"	"in Philadelphia"	0
 121	"from the Franklin Institute"	"Medal"	"in Philadelphia"	1
 121	"from the Franklin Institute"	"Medal"	"in May"	1
-121	"in Philadelphia"	"Medal"	"in May"	0
+121	"in Philadelphia"	"Medal"	"in May"	1
 Two independent journalists went on trial today accused of defaming President Franjo Tudjman in a case that has helped sour Croatia's relations with Western Europe.
 122	"Two"	"went"	"Two independent journalists"	1
 122	"Two"	"went"	"on trial"	1
@@ -2278,7 +2278,7 @@ The market wants to do better, said Gregory Bundy, head of equity trading at Mer
 133	"The market"	"wants said"	"Gregory Bundy"	0
 133	"The market"	"wants said Bundy"	"head"	1
 133	"The market"	"wants said Bundy head"	"of equity trading"	1
-133	"Gregory Bundy"	"head"	"of equity trading"	1
+133	"Gregory Bundy"	"head"	"of equity trading"	0
 133	"Gregory Bundy"	"head trading"	"at Merrill Lynch Japan Inc."	0
 133	"head"	"trading"	"at Merrill Lynch Japan Inc."	0
 Last month we saw an American patient who had been to five gynecologists before the last one said there is this procedure and referred her to us.
@@ -2299,7 +2299,7 @@ Last month we saw an American patient who had been to five gynecologists before 
 134	"an American patient"	"month said is"	"this procedure"	1
 134	"who"	"gynecologists been"	"to five"	1
 134	"who"	"gynecologists patient month saw patient"	"who had been to five gynecologists"	1
-134	"who"	"gynecologists"	"before the last one"	0
+134	"who"	"gynecologists"	"before the last one"	1
 134	"who"	"gynecologists patient month said is"	"there"	1
 134	"who"	"gynecologists patient month said is"	"this procedure"	1
 134	"to five"	"been gynecologists patient month saw patient"	"who had been to five gynecologists"	1
@@ -2470,11 +2470,11 @@ The Federal Home Loan Bank Board last week provided reassurances to securities d
 144	"reassurances"	"provided"	"to securities dealers"	0
 144	"reassurances"	"provided holding"	"certain futures"	0
 144	"reassurances"	"provided holding futures"	"options"	0
-144	"reassurances"	"provided holding futures contracts"	"with the American Savings"	1
+144	"reassurances"	"provided holding futures contracts"	"with the American Savings"	0
 144	"to securities dealers"	"provided holding"	"certain futures"	0
 144	"to securities dealers"	"provided holding futures"	"options"	0
-144	"to securities dealers"	"provided holding futures contracts"	"with the American Savings"	1
-144	"to securities dealers"	"provided holding futures contracts Savings"	"Loan Association"	1
+144	"to securities dealers"	"provided holding futures contracts"	"with the American Savings"	0
+144	"to securities dealers"	"provided holding futures contracts Savings"	"Loan Association"	0
 144	"certain futures"	"contracts"	"with the American Savings"	1
 144	"certain futures"	"contracts Savings"	"Loan Association"	1
 144	"certain futures"	"contracts Savings institution"	"the nation"	1
@@ -2554,8 +2554,8 @@ On Fridays and Saturdays (the only nights it is open), every inch of that floor 
 148	"On Fridays and Saturdays the only nights"	"open"	"it"	0
 148	"On Fridays and Saturdays the only nights"	"inch"	"of that floor"	0
 148	"On Fridays and Saturdays the only nights"	"inch Side rocking"	"with people"	1
-148	"On Fridays and Saturdays the only nights"	"inch Side rocking people uptown"	"who"	1
-148	"it"	"nights"	"every inch"	0
+148	"On Fridays and Saturdays the only nights"	"inch Side rocking people uptown"	"who"	0
+148	"it"	"nights"	"every inch"	1
 148	"it"	"nights inch"	"of that floor"	0
 148	"it"	"nights inch Side rocking"	"with people"	1
 148	"it"	"nights inch Side rocking people uptown"	"who"	1
@@ -2714,17 +2714,17 @@ The United States has talked tough on trade during eight months of negotiations,
 157	"during eight months"	"trade"	"of negotiations"	1
 157	"during eight months"	"trade talked called"	"Japan"	1
 157	"during eight months"	"trade talked called"	"its bluff"	1
-157	"during eight months"	"trade talked yielded"	"nothing"	0
+157	"during eight months"	"trade talked yielded"	"nothing"	1
 157	"of negotiations"	"trade talked called"	"Japan"	1
 157	"of negotiations"	"trade talked called"	"its bluff"	1
-157	"of negotiations"	"trade talked yielded"	"nothing"	0
+157	"of negotiations"	"trade talked yielded"	"nothing"	1
 157	"Japan"	"called"	"its bluff"	0
 157	"Japan"	"talked yielded"	"nothing"	0
 157	"its bluff"	"talked yielded"	"nothing"	0
 The day after the Bulls' Dennis Rodman suggested that they were "yellow" in Tuesday's night's loss to Chicago, the Knicks laughed it off as Rodman merely being Rodman.
 158	"The day"	"suggested"	"Dennis Rodman"	0
 158	"The day"	"suggested yellow"	"they"	1
-158	"The day"	"suggested yellow loss night"	"Tuesday"	1
+158	"The day"	"suggested yellow loss night"	"Tuesday"	0
 158	"after the Bulls"	"suggested"	"Dennis Rodman"	1
 158	"after the Bulls"	"suggested yellow"	"they"	1
 158	"after the Bulls"	"suggested yellow loss night"	"Tuesday"	1
@@ -2848,7 +2848,7 @@ Tierney Finn, an actress, and Mark Fitzmartin, a television commercial producer 
 162	"both graduates"	"School married"	"yesterday"	1
 162	"of New York University"	"graduates School"	"Tierney Finn an actress and Mark Fitzmartin a television commercial producer for Fernbach Productions in New York both graduates of New York University 's Tisch School"	0
 162	"of New York University"	"graduates School"	"of the Arts"	0
-162	"of New York University"	"graduates School married"	"yesterday"	1
+162	"of New York University"	"graduates School married"	"yesterday"	0
 162	"of New York University"	"graduates School married"	"in Holy Trinity"	1
 162	"of New York University"	"graduates School"	"Chapel"	0
 162	"Tierney Finn an actress and Mark Fitzmartin a television commercial producer for Fernbach Productions in New York both graduates of New York University 's Tisch School"	"married"	"yesterday"	0
@@ -2856,7 +2856,7 @@ Tierney Finn, an actress, and Mark Fitzmartin, a television commercial producer 
 162	"Tierney Finn an actress and Mark Fitzmartin a television commercial producer for Fernbach Productions in New York both graduates of New York University 's Tisch School"	"Chapel"	"at N.Y.U."	0
 162	"of the Arts"	"School married"	"yesterday"	1
 162	"of the Arts"	"School married"	"in Holy Trinity"	1
-162	"of the Arts"	"School"	"Chapel"	1
+162	"of the Arts"	"School"	"Chapel"	0
 162	"of the Arts"	"School Chapel"	"at N.Y.U."	1
 162	"yesterday"	"married"	"in Holy Trinity"	1
 162	"yesterday"	"School"	"Chapel"	1
@@ -2935,7 +2935,7 @@ She was a continuing source of love, kindness and generosity who never failed to
 168	"She"	"source"	"of love"	1
 168	"She"	"source"	"kindness"	1
 168	"She"	"source"	"generosity"	1
-168	"She"	"source failed"	"who"	0
+168	"She"	"source failed"	"who"	1
 168	"She was a continuing source"	"failed"	"who"	1
 168	"She was a continuing source"	"failed nurture adoring"	"her"	0
 168	"She was a continuing source"	"failed nurture adoring"	"family"	0
@@ -2978,7 +2978,7 @@ There is a mind-bending illogic behind the Bush administration's decision yester
 169	"34 million"	"withhold Fund working"	"in China despite"	0
 169	"34 million"	"withhold continued"	"practices"	0
 169	"from the United Nations Population Fund"	"working"	"which"	1
-169	"from the United Nations Population Fund"	"working"	"in China despite"	1
+169	"from the United Nations Population Fund"	"working"	"in China despite"	0
 169	"from the United Nations Population Fund"	"withhold continued"	"practices"	1
 169	"from the United Nations Population Fund"	"withhold continued"	"of coerced abortion"	1
 169	"from the United Nations Population Fund"	"withhold continued abortion"	"sterilization"	1
@@ -2993,8 +2993,8 @@ There is a mind-bending illogic behind the Bush administration's decision yester
 169	"practices"	"continued abortion"	"sterilization"	0
 In 1954, the committee presented a $100 million improvement plan and obtained legislation to set up a nondividend paying corporation to borrow the funds to create a new Aqueduct and to improve Belmont and Saratoga race tracks.
 170	"In 1954"	"presented"	"the committee"	1
-170	"In 1954"	"presented plan improvement $"	"100 million"	0
-170	"In 1954"	"presented"	"a $ 100 million improvement plan"	0
+170	"In 1954"	"presented plan improvement $"	"100 million"	1
+170	"In 1954"	"presented"	"a $ 100 million improvement plan"	1
 170	"In 1954"	"presented obtained"	"legislation"	1
 170	"the committee"	"presented plan improvement $"	"100 million"	1
 170	"the committee"	"presented obtained"	"legislation"	1
@@ -3175,7 +3175,7 @@ The Daisy Systems Corporation said today that some of its bondholders had filed 
 181	"The Daisy Systems Corporation"	"said filed"	"a petition"	0
 181	"The Daisy Systems Corporation"	"said filed petition"	"for involuntary bankruptcy"	0
 181	"today"	"said filed some"	"of its bondholders"	1
-181	"today"	"said filed"	"a petition"	1
+181	"today"	"said filed"	"a petition"	0
 181	"today"	"said filed petition"	"for involuntary bankruptcy"	1
 181	"of its bondholders"	"filed"	"a petition"	1
 181	"of its bondholders"	"filed petition"	"for involuntary bankruptcy"	1
@@ -3224,13 +3224,13 @@ The Digital Domain column last Sunday, about Craigslist, the online bulletin boa
 182	"the site"	"arrival"	"in their cities"	1
 A review on June 29, about two books on German musicians and music in the Nazi period, referred incorrectly to Fred K. Prieberg's 1982 German book on those subjects.
 183	"A review"	"June"	"29"	0
-183	"A review"	"books"	"on German musicians"	1
+183	"A review"	"books"	"on German musicians"	0
 183	"A review"	"books musicians"	"music"	0
 183	"on June"	"review"	"about two books"	0
 183	"on June"	"review books"	"on German musicians"	0
 183	"on June"	"review books musicians"	"music"	0
 183	"on June"	"review"	"in the Nazi period"	0
-183	"29"	"review"	"about two books"	0
+183	"29"	"review"	"about two books"	1
 183	"29"	"review books"	"on German musicians"	0
 183	"29"	"review books musicians"	"music"	0
 183	"29"	"review"	"in the Nazi period"	0
@@ -3284,10 +3284,10 @@ Bennett confirmed when he addressed the Township Council tonight that the United
 185	"the United States attorney"	"requested"	"from the township"	1
 185	"the United States attorney 's office"	"requested"	"information"	1
 185	"the United States attorney 's office"	"requested"	"from the township"	1
-185	"information"	"requested"	"from the township"	0
+185	"information"	"requested"	"from the township"	1
 In 1964, he joined CBS News as an associate producer of "CBS News With Walter Cronkite" in Washington, and he later became the producer for White House correspondent Dan Rather, now CBS's weekday anchor, during the Nixon Administration.
-186	"In 1964"	"joined"	"he"	0
-186	"In 1964"	"joined"	"CBS News"	0
+186	"In 1964"	"joined"	"he"	1
+186	"In 1964"	"joined"	"CBS News"	1
 186	"In 1964"	"joined"	"as an associate producer"	0
 186	"In 1964"	"joined producer"	"of  CBS News"	1
 186	"he"	"joined"	"as an associate producer"	0
@@ -3299,14 +3299,14 @@ In 1964, he joined CBS News as an associate producer of "CBS News With Walter Cr
 186	"CBS News"	"joined"	" in Washington"	0
 186	"as an associate producer"	"News"	"With Walter Cronkite"	0
 186	"as an associate producer"	"joined"	" in Washington"	0
-186	"as an associate producer"	"joined became"	"he"	0
+186	"as an associate producer"	"joined became"	"he"	1
 186	"of  CBS News"	"joined"	" in Washington"	0
 186	"of  CBS News"	"joined became"	"he"	1
 186	"of  CBS News"	"joined became"	"the producer"	1
 186	"With Walter Cronkite"	"News joined"	" in Washington"	0
 186	"With Walter Cronkite"	"News joined became"	"he"	0
 186	"With Walter Cronkite"	"News joined became"	"the producer"	0
-186	" in Washington"	"joined became"	"he"	0
+186	" in Washington"	"joined became"	"he"	1
 186	" in Washington"	"joined became"	"the producer"	0
 186	" in Washington"	"joined became producer"	"for White House correspondent Dan Rather"	0
 186	"he"	"became producer"	"for White House correspondent Dan Rather"	1
@@ -3315,14 +3315,14 @@ In 1964, he joined CBS News as an associate producer of "CBS News With Walter Cr
 186	"the producer"	"weekday"	"CBS"	1
 186	"for White House correspondent Dan Rather"	"producer weekday"	"CBS"	1
 186	"for White House correspondent Dan Rather"	"producer"	"now CBS 's weekday"	1
-186	"for White House correspondent Dan Rather"	"became"	"during the Nixon Administration"	1
+186	"for White House correspondent Dan Rather"	"became"	"during the Nixon Administration"	0
 186	"CBS"	"weekday producer joined became producer"	"now CBS 's weekday"	1
 186	"CBS"	"weekday became"	"during the Nixon Administration"	1
 186	"now CBS 's weekday"	"became"	"during the Nixon Administration"	1
 Her subjects were friends and artists who posed for her in their "Full Monty" glory.
 187	"Her subjects"	"friends"	"artists"	1
 187	"Her subjects"	"friends posed"	"who"	1
-187	"Her subjects"	"friends posed"	"for her"	0
+187	"Her subjects"	"friends posed"	"for her"	1
 187	"Her subjects"	"friends posed Monty"	"their"	1
 187	"Her subjects"	"friends posed"	"in their  Full Monty"	1
 187	"Her subjects"	"friends"	" glory"	1
@@ -3406,7 +3406,7 @@ David Johansen's latest genre excursion heads for the recorded roots of American
 189	"adultery"	"full hope redemption collected"	"for his Anthology"	0
 189	"for redemption"	"collected"	"that"	0
 189	"for redemption"	"collected"	"by Harry Smith"	0
-189	"for redemption"	"collected"	"for his Anthology"	0
+189	"for redemption"	"collected"	"for his Anthology"	1
 189	"for redemption"	"collected Anthology"	"of American Folk Music"	1
 189	"that"	"collected"	"by Harry Smith"	0
 189	"that"	"collected"	"for his Anthology"	1
@@ -3478,7 +3478,7 @@ With the Jets' training camp opening next Monday, Hadley Engelhard, the agent fo
 193	"the team"	"pick agent arrive Engelhard agent"	"for the team 's first-round draft pick"	1
 193	"the team"	"pick"	"Dewayne Robertson"	1
 193	"the team"	"pick agent arrive"	"today"	0
-193	"for the team 's first-round draft pick"	"agent arrive"	"today"	0
+193	"for the team 's first-round draft pick"	"agent arrive"	"today"	1
 193	"Dewayne Robertson"	"pick agent arrive"	"today"	0
 193	"Dewayne Robertson"	"pick agent arrive expects meet"	"with the Jets tomorrow"	0
 193	"today"	"arrive expects meet"	"with the Jets tomorrow"	0

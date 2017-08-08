@@ -3,6 +3,7 @@ import itertools
 import operator
 import os
 from parameters import *
+import nltk
 
 
 def clean_and_tokenize(sentence):
@@ -27,6 +28,18 @@ def clean_and_tokenize(sentence):
             clean = clean.replace('</e2>', '')
             tokens[i] = clean
 
+    # this block of code uses nltk to tokenize, and thus separates punctuation from certain words #
+    # currently broken, as it breaks when creating vectors in sent2vec script #
+    # dirty_tokens = nltk.word_tokenize(sentence)
+    # remove = {'>', '<', 'e1', 'e2', '/e1', '/e2'}
+    # for i, token in enumerate(dirty_tokens):
+    #     if token == '>' and dirty_tokens[i-1] == '/e1':
+    #         e1 = dirty_tokens[i-3]
+    #     if token == '>' and dirty_tokens[i-1] == '/e2':
+    #         e2 = dirty_tokens[i-3]
+    # tokens = [token for token in dirty_tokens if token not in remove]
+    # e1_idx = tokens.index(e1)
+    # e2_idx = tokens.index(e2)
     return tokens, e1_idx + 1, e2_idx + 1  # plus 1 because counting starts from 1
 
 
@@ -95,7 +108,7 @@ def learn_shapes(shp_file, sent_index):
     for sentence in sent_index.values():
         tokens = clean_and_tokenize(sentence)[0]
         for i, token in enumerate(tokens):
-            vector = [0, 0, 0, 0, 0]
+            vector = [0, 0, 0, 0, 0, 0]
             if any(char.isupper() for char in token):
                 vector[0] = 1
             if '-' in token:
@@ -106,8 +119,8 @@ def learn_shapes(shp_file, sent_index):
                 vector[3] = 1
             if token[0].islower():
                 vector[4] = 1
-            # if all(char.isupper() for char in token):
-            #     vector[5] = 1
+            if '_' in token:
+                vector[5] = 1
             tup_vec = tuple(vector)
             if tup_vec not in unique_shapes:
                 unique_shapes.append(tup_vec)
@@ -115,6 +128,12 @@ def learn_shapes(shp_file, sent_index):
     with open(shp_file, 'w+') as shapes:
         for shape in unique_shapes:
             shapes.write(str(shape) + '\n')
+
+
+def learn_tags(tag_file):
+    with open(tag_file, 'w+') as tags:
+        for tag in nltk.data.load('help/tagsets/PY3/upenn_tagset.pickle').keys():
+            tags.write(tag + '\n')
 
 
 if __name__ == '__main__':
@@ -140,6 +159,7 @@ if __name__ == '__main__':
     words_file = path_to_feat_folder + 'vocab.txt'
     suffix_file = path_to_feat_folder + 'suffixes.txt'
     shape_file = path_to_feat_folder + 'shapes.txt'
+    tags_file = path_to_feat_folder + 'tags.txt'
     train_sentence_index, train_label_index = create_indexes(path_to_train, True)
     test_sentence_index, test_label_index = create_indexes(path_to_test, False)
     print('writing training record file...')
@@ -154,3 +174,5 @@ if __name__ == '__main__':
     learn_suffixes(suffix_file, train_sentence_index)
     print('writing shape file...')
     learn_shapes(shape_file, train_sentence_index)
+    print('writing POS tags file')
+    learn_tags(tags_file)

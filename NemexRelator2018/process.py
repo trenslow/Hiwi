@@ -44,6 +44,3 @@ if __name__ == '__main__':
     path_to_data = 'SemEval2018_task7/1.1.text.xml'
     relation_index = create_relation_index(path_to_relations)
     abstract_index = collect_data(path_to_data)
-    for k,v in abstract_index.items():
-        for y,o in v.items():
-            print(y,o)

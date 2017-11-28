@@ -1,0 +1,120 @@
+{"words":["in","michigan",",","a","second","straight","night","and","into","this","morning",",","hundreds","of","people","have","been","rioting","in","benton","harbor","."]
+,"lemmas":["in","michigan",",","a","second","straight","night","and","into","this","morning",",","hundred","of","people","have","be","rioting","in","benton","harbor","."]
+,"posTags":["IN","NN",",","DT","JJ","JJ","NN","CC","IN","DT","NN",",","NNS","IN","NNS","VBP","VBN","NN","IN","NN","NN","."]
+,"chunks":["B-PP","B-NP","O","B-NP","I-NP","I-NP","I-NP","B-PP","B-PP","B-NP","I-NP","O","B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[17,0,-2,6,6,6,1,0,0,10,8,-2,17,12,13,17,17,-1,17,20,18,-2]
+,"deprels":["prep","pobj",null,"det","amod","amod","appos","cc","conj","det","pobj",null,"nsubj","prep","pobj","aux","cop","root","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (PP (PP (IN in) (NP (NP (NN michigan)) (, ,) (NP (DT a) (JJ second) (JJ straight) (NN night)))) (CC and) (PP (IN into) (NP (DT this) (NN morning)))) (, ,) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NNS people)))) (VP (VBP have) (VP (VBN been) (NP (NP (NN rioting)) (PP (IN in) (NP (NN benton) (NN harbor)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64bc\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64ca\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["in","michigan",",","a","second","straight","night","and","into","this","morning",",","hundreds","of","people","have","been","rioting","in","benton","harbor","."]
+,"lemmas":["in","michigan",",","a","second","straight","night","and","into","this","morning",",","hundred","of","people","have","be","rioting","in","benton","harbor","."]
+,"posTags":["IN","NN",",","DT","JJ","JJ","NN","CC","IN","DT","NN",",","NNS","IN","NNS","VBP","VBN","NN","IN","NN","NN","."]
+,"chunks":["B-PP","B-NP","O","B-NP","I-NP","I-NP","I-NP","B-PP","B-PP","B-NP","I-NP","O","B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[17,0,-2,6,6,6,1,0,0,10,8,-2,17,12,13,17,17,-1,17,20,18,-2]
+,"deprels":["prep","pobj",null,"det","amod","amod","appos","cc","conj","det","pobj",null,"nsubj","prep","pobj","aux","cop","root","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (PP (PP (IN in) (NP (NP (NN michigan)) (, ,) (NP (DT a) (JJ second) (JJ straight) (NN night)))) (CC and) (PP (IN into) (NP (DT this) (NN morning)))) (, ,) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NNS people)))) (VP (VBP have) (VP (VBN been) (NP (NP (NN rioting)) (PP (IN in) (NP (NN benton) (NN harbor)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64ba\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64ca\"}}]"
+,"relLabels":["PART-WHOLE(Arg-2,Arg-1)"]}
+
+{"words":["in","michigan",",","a","second","straight","night","and","into","this","morning",",","hundreds","of","people","have","been","rioting","in","benton","harbor","."]
+,"lemmas":["in","michigan",",","a","second","straight","night","and","into","this","morning",",","hundred","of","people","have","be","rioting","in","benton","harbor","."]
+,"posTags":["IN","NN",",","DT","JJ","JJ","NN","CC","IN","DT","NN",",","NNS","IN","NNS","VBP","VBN","NN","IN","NN","NN","."]
+,"chunks":["B-PP","B-NP","O","B-NP","I-NP","I-NP","I-NP","B-PP","B-PP","B-NP","I-NP","O","B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[17,0,-2,6,6,6,1,0,0,10,8,-2,17,12,13,17,17,-1,17,20,18,-2]
+,"deprels":["prep","pobj",null,"det","amod","amod","appos","cc","conj","det","pobj",null,"nsubj","prep","pobj","aux","cop","root","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (PP (PP (IN in) (NP (NP (NN michigan)) (, ,) (NP (DT a) (JJ second) (JJ straight) (NN night)))) (CC and) (PP (IN into) (NP (DT this) (NN morning)))) (, ,) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NNS people)))) (VP (VBP have) (VP (VBN been) (NP (NP (NN rioting)) (PP (IN in) (NP (NN benton) (NN harbor)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64ba\"},\"m2\":{\"start\":12,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64bc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["a","man","on","a","motorcycle","was","killed","while","being","chased","about","i","police",",","the","violence","broke","out","."]
+,"lemmas":["a","man","on","a","motorcycle","be","kill","while","be","chase","about","i","police",",","the","violence","break","out","."]
+,"posTags":["DT","NN","IN","DT","NN","VBD","VBN","IN","VBG","VBN","IN","FW","NN",",","DT","NN","VBD","RP","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-SBAR","B-VP","I-VP","B-PP","B-NP","B-NP","O","B-NP","I-NP","B-VP","B-PRT","O"]
+,"parents":[1,6,1,4,2,6,-1,16,9,16,9,10,9,-2,15,12,6,16,-2]
+,"deprels":["det","nsubjpass","prep","det","pobj","auxpass","root","mark","auxpass","csubj","prep","pobj","tmod",null,"det","appos","advcl","prt",null]
+,"naryTree":"((ROOT (S (NP (NP (DT a) (NN man)) (PP (IN on) (NP (DT a) (NN motorcycle)))) (VP (VBD was) (VP (VBN killed) (SBAR (IN while) (S (S (VP (VBG being) (VP (VBN chased) (PP (IN about) (NP (FW i))) (NP-TMP (NP (NN police)) (, ,) (NP (DT the) (NN violence)))))) (VP (VBD broke) (PRT (RP out))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64cd\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"VEH\",\"subtype\":\"Land\",\"phraseType\":\"NOM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64c6\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["a","man","on","a","motorcycle","was","killed","while","being","chased","about","i","police",",","the","violence","broke","out","."]
+,"lemmas":["a","man","on","a","motorcycle","be","kill","while","be","chase","about","i","police",",","the","violence","break","out","."]
+,"posTags":["DT","NN","IN","DT","NN","VBD","VBN","IN","VBG","VBN","IN","FW","NN",",","DT","NN","VBD","RP","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-SBAR","B-VP","I-VP","B-PP","B-NP","B-NP","O","B-NP","I-NP","B-VP","B-PRT","O"]
+,"parents":[1,6,1,4,2,6,-1,16,9,16,9,10,9,-2,15,12,6,16,-2]
+,"deprels":["det","nsubjpass","prep","det","pobj","auxpass","root","mark","auxpass","csubj","prep","pobj","tmod",null,"det","appos","advcl","prt",null]
+,"naryTree":"((ROOT (S (NP (NP (DT a) (NN man)) (PP (IN on) (NP (DT a) (NN motorcycle)))) (VP (VBD was) (VP (VBN killed) (SBAR (IN while) (S (S (VP (VBG being) (VP (VBN chased) (PP (IN about) (NP (FW i))) (NP-TMP (NP (NN police)) (, ,) (NP (DT the) (NN violence)))))) (VP (VBD broke) (PRT (RP out))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64cd\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64c8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["a","man","on","a","motorcycle","was","killed","while","being","chased","about","i","police",",","the","violence","broke","out","."]
+,"lemmas":["a","man","on","a","motorcycle","be","kill","while","be","chase","about","i","police",",","the","violence","break","out","."]
+,"posTags":["DT","NN","IN","DT","NN","VBD","VBN","IN","VBG","VBN","IN","FW","NN",",","DT","NN","VBD","RP","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-SBAR","B-VP","I-VP","B-PP","B-NP","B-NP","O","B-NP","I-NP","B-VP","B-PRT","O"]
+,"parents":[1,6,1,4,2,6,-1,16,9,16,9,10,9,-2,15,12,6,16,-2]
+,"deprels":["det","nsubjpass","prep","det","pobj","auxpass","root","mark","auxpass","csubj","prep","pobj","tmod",null,"det","appos","advcl","prt",null]
+,"naryTree":"((ROOT (S (NP (NP (DT a) (NN man)) (PP (IN on) (NP (DT a) (NN motorcycle)))) (VP (VBD was) (VP (VBN killed) (SBAR (IN while) (S (S (VP (VBG being) (VP (VBN chased) (PP (IN about) (NP (FW i))) (NP-TMP (NP (NN police)) (, ,) (NP (DT the) (NN violence)))))) (VP (VBD broke) (PRT (RP out))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"VEH\",\"subtype\":\"Land\",\"phraseType\":\"NOM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64c6\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64c8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["mark","alberts","from","our","affiliate","has","more","from","benton","harbor","."]
+,"lemmas":["mark","albert","from","we","affiliate","have","more","from","benton","harbor","."]
+,"posTags":["NN","NNS","IN","PRP$","NN","VBZ","RBR","IN","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,5,1,4,2,-1,5,6,9,7,-2]
+,"deprels":["nn","nsubj","prep","poss","pobj","root","dobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN mark) (NNS alberts)) (PP (IN from) (NP (PRP$ our) (NN affiliate)))) (VP (VBZ has) (NP (NP (RBR more)) (PP (IN from) (NP (NN benton) (NN harbor))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64c4\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NOM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64be\"}}]"
+,"relLabels":["ORG-AFF(Arg-1,Arg-2)"]}
+
+{"words":["mark","alberts","from","our","affiliate","has","more","from","benton","harbor","."]
+,"lemmas":["mark","albert","from","we","affiliate","have","more","from","benton","harbor","."]
+,"posTags":["NN","NNS","IN","PRP$","NN","VBZ","RBR","IN","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,5,1,4,2,-1,5,6,9,7,-2]
+,"deprels":["nn","nsubj","prep","poss","pobj","root","dobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN mark) (NNS alberts)) (PP (IN from) (NP (PRP$ our) (NN affiliate)))) (VP (VBZ has) (NP (NP (RBR more)) (PP (IN from) (NP (NN benton) (NN harbor))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64c4\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64cb\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["mark","alberts","from","our","affiliate","has","more","from","benton","harbor","."]
+,"lemmas":["mark","albert","from","we","affiliate","have","more","from","benton","harbor","."]
+,"posTags":["NN","NNS","IN","PRP$","NN","VBZ","RBR","IN","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,5,1,4,2,-1,5,6,9,7,-2]
+,"deprels":["nn","nsubj","prep","poss","pobj","root","dobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN mark) (NNS alberts)) (PP (IN from) (NP (PRP$ our) (NN affiliate)))) (VP (VBZ has) (NP (NP (RBR more)) (PP (IN from) (NP (NN benton) (NN harbor))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64c4\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64c0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["mark","alberts","from","our","affiliate","has","more","from","benton","harbor","."]
+,"lemmas":["mark","albert","from","we","affiliate","have","more","from","benton","harbor","."]
+,"posTags":["NN","NNS","IN","PRP$","NN","VBZ","RBR","IN","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,5,1,4,2,-1,5,6,9,7,-2]
+,"deprels":["nn","nsubj","prep","poss","pobj","root","dobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN mark) (NNS alberts)) (PP (IN from) (NP (PRP$ our) (NN affiliate)))) (VP (VBZ has) (NP (NP (RBR more)) (PP (IN from) (NP (NN benton) (NN harbor))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64c0\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NOM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64be\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["mark","alberts","from","our","affiliate","has","more","from","benton","harbor","."]
+,"lemmas":["mark","albert","from","we","affiliate","have","more","from","benton","harbor","."]
+,"posTags":["NN","NNS","IN","PRP$","NN","VBZ","RBR","IN","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,5,1,4,2,-1,5,6,9,7,-2]
+,"deprels":["nn","nsubj","prep","poss","pobj","root","dobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN mark) (NNS alberts)) (PP (IN from) (NP (PRP$ our) (NN affiliate)))) (VP (VBZ has) (NP (NP (RBR more)) (PP (IN from) (NP (NN benton) (NN harbor))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64c0\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64cb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["mark","alberts","from","our","affiliate","has","more","from","benton","harbor","."]
+,"lemmas":["mark","albert","from","we","affiliate","have","more","from","benton","harbor","."]
+,"posTags":["NN","NNS","IN","PRP$","NN","VBZ","RBR","IN","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,5,1,4,2,-1,5,6,9,7,-2]
+,"deprels":["nn","nsubj","prep","poss","pobj","root","dobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN mark) (NNS alberts)) (PP (IN from) (NP (PRP$ our) (NN affiliate)))) (VP (VBZ has) (NP (NP (RBR more)) (PP (IN from) (NP (NN benton) (NN harbor))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NOM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64be\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"e22b92b9-7310-044e-ec84-00004cfc64cb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

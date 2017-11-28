@@ -37,15 +37,6 @@ def read_feat_file(file, unkwn):
     return feats
 
 
-def read_param_file(file):
-    params = {}
-    with open(file) as f:
-        for line in f:
-            split = line.strip().split()
-            params[split[0]] = int(split[1])
-    return params
-
-
 def read_clusters(file):
     clusts = {}
     with open(file) as f:

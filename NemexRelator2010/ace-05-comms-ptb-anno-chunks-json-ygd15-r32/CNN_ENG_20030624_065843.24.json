@@ -1,0 +1,400 @@
+{"words":["he","spoke","with","paul","paula","zahn","."]
+,"lemmas":["he","speak","with","paul","paulum","zahn","."]
+,"posTags":["PRP","VBD","IN","NN","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,5,5,2,-2]
+,"deprels":["nsubj","root","prep","nn","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD spoke) (PP (IN with) (NP (NN paul) (NN paula) (NN zahn)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839db\"},\"m2\":{\"start\":3,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839ef\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["he","had","to","say","to","her","."]
+,"lemmas":["he","have","to","say","to","she","."]
+,"posTags":["PRP","VBD","TO","VB","TO","PRP","."]
+,"chunks":["B-NP","B-VP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,3,4,-2]
+,"deprels":["nsubj","root","aux","xcomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD had) (S (VP (TO to) (VP (VB say) (PP (TO to) (NP (PRP her))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839dc\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839f2\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839dd\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d0\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839dd\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d2\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839dd\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d4\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839dd\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839cd\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839dd\"},\"m2\":{\"start\":21,\"end\":23,\"head\":22,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839cc\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839dd\"},\"m2\":{\"start\":24,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839ce\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d0\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d2\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d0\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d4\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d0\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839cd\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d0\"},\"m2\":{\"start\":21,\"end\":23,\"head\":22,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839cc\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d0\"},\"m2\":{\"start\":24,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839ce\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d2\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d4\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d2\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839cd\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d2\"},\"m2\":{\"start\":21,\"end\":23,\"head\":22,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839cc\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d2\"},\"m2\":{\"start\":24,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839ce\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d4\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839cd\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d4\"},\"m2\":{\"start\":21,\"end\":23,\"head\":22,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839cc\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d4\"},\"m2\":{\"start\":24,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839ce\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":19,\"end\":20,\"head\":19,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839cd\"},\"m2\":{\"start\":21,\"end\":23,\"head\":22,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839cc\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":19,\"end\":20,\"head\":19,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839cd\"},\"m2\":{\"start\":24,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839ce\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["my","focus","is","on","re-electing","president","bush","and","dick","cheney","next","year",",","the","convention","is","going","to","be","here","in","the","city","of","new","york","."]
+,"lemmas":["my","focus","be","on","re-elect","president","bush","and","dick","cheney","next","year",",","the","convention","be","go","to","be","here","in","the","city","of","new","york","."]
+,"posTags":["PRP$","NN","VBZ","IN","VBG","NN","NN","CC","NN","NN","JJ","NN",",","DT","NN","VBZ","VBG","TO","VB","RB","IN","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-VP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,16,2,3,6,4,6,9,6,11,4,-2,14,16,16,-1,18,16,18,18,22,20,22,25,23,-2]
+,"deprels":["poss","nsubj","ccomp","prep","pcomp","nn","dobj","cc","nn","conj","amod","tmod",null,"det","nsubj","aux","root","aux","xcomp","advmod","prep","det","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP$ my) (NN focus)) (VP (VBZ is) (PP (IN on) (S (VP (VBG re-electing) (NP (NP (NN president) (NN bush)) (CC and) (NP (NN dick) (NN cheney))) (NP-TMP (JJ next) (NN year))))))) (, ,) (NP (DT the) (NN convention)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADVP (RB here)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (JJ new) (NN york)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":21,\"end\":23,\"head\":22,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839cc\"},\"m2\":{\"start\":24,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839ce\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","not","the","question","i","asked","you","."]
+,"lemmas":["that","be","not","the","question","i","ask","you","."]
+,"posTags":["DT","VBZ","RB","DT","NN","FW","VBD","PRP","."]
+,"chunks":["B-NP","B-VP","O","B-NP","I-NP","B-NP","B-VP","B-NP","O"]
+,"parents":[4,4,4,4,-1,6,4,6,-2]
+,"deprels":["nsubj","cop","neg","det","root","nsubj","rcmod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (RB not) (NP (NP (DT the) (NN question)) (SBAR (S (NP (FW i)) (VP (VBD asked) (NP (PRP you))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839ee\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839de\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["would","you","consider","a","run","for","governor","."]
+,"lemmas":["would","you","consider","a","run","for","governor","."]
+,"posTags":["MD","PRP","VB","DT","NN","IN","NN","."]
+,"chunks":["O","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,4,2,4,5,-2]
+,"deprels":["aux","nsubj","root","det","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (SQ (MD would) (NP (PRP you)) (VP (VB consider) (NP (NP (DT a) (NN run)) (PP (IN for) (NP (NN governor))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e0\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839ec\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["sure",",","i","would","consider","running","for","public","office","again","in","a","couple","of","years","because",",","first","of","all",",","i","enjoy","public","service","and","i","enjoy","campaigning","."]
+,"lemmas":["sure",",","i","would","consider","run","for","public","office","again","in","a","couple","of","year","because",",","first","of","all",",","i","enjoy","public","service","and","i","enjoy","campaigning","."]
+,"posTags":["RB",",","FW","MD","VB","VBG","IN","JJ","NN","RB","IN","DT","NN","IN","NNS","IN",",","RB","IN","DT",",","FW","VB","JJ","NN","CC","FW","VB","NN","."]
+,"chunks":["B-ADVP","O","B-NP","B-VP","I-VP","B-VP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","B-SBAR","O","B-ADVP","B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","B-VP","B-NP","O"]
+,"parents":[4,-2,4,4,-1,4,5,8,6,10,5,12,10,12,13,22,-2,18,22,18,-2,22,4,24,22,22,27,22,27,-2]
+,"deprels":["advmod",null,"nsubj","aux","root","xcomp","prep","amod","pobj","advmod","prep","det","pobj","prep","pobj","mark",null,"advmod","prep","pobj",null,"nsubj","advcl","amod","dobj","cc","nsubj","conj","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB sure)) (, ,) (NP (FW i)) (VP (MD would) (VP (VB consider) (S (VP (VBG running) (PP (IN for) (NP (JJ public) (NN office))) (PP (ADVP (RB again)) (IN in) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years))))))) (SBAR (IN because) (, ,) (S (S (PP (ADVP (RB first)) (IN of) (NP (DT all))) (, ,) (NP (FW i)) (VP (VB enjoy) (NP (JJ public) (NN service)))) (CC and) (S (NP (FW i)) (VP (VB enjoy) (NP (NN campaigning)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e1\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e2\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["sure",",","i","would","consider","running","for","public","office","again","in","a","couple","of","years","because",",","first","of","all",",","i","enjoy","public","service","and","i","enjoy","campaigning","."]
+,"lemmas":["sure",",","i","would","consider","run","for","public","office","again","in","a","couple","of","year","because",",","first","of","all",",","i","enjoy","public","service","and","i","enjoy","campaigning","."]
+,"posTags":["RB",",","FW","MD","VB","VBG","IN","JJ","NN","RB","IN","DT","NN","IN","NNS","IN",",","RB","IN","DT",",","FW","VB","JJ","NN","CC","FW","VB","NN","."]
+,"chunks":["B-ADVP","O","B-NP","B-VP","I-VP","B-VP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","B-SBAR","O","B-ADVP","B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","B-VP","B-NP","O"]
+,"parents":[4,-2,4,4,-1,4,5,8,6,10,5,12,10,12,13,22,-2,18,22,18,-2,22,4,24,22,22,27,22,27,-2]
+,"deprels":["advmod",null,"nsubj","aux","root","xcomp","prep","amod","pobj","advmod","prep","det","pobj","prep","pobj","mark",null,"advmod","prep","pobj",null,"nsubj","advcl","amod","dobj","cc","nsubj","conj","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB sure)) (, ,) (NP (FW i)) (VP (MD would) (VP (VB consider) (S (VP (VBG running) (PP (IN for) (NP (JJ public) (NN office))) (PP (ADVP (RB again)) (IN in) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years))))))) (SBAR (IN because) (, ,) (S (S (PP (ADVP (RB first)) (IN of) (NP (DT all))) (, ,) (NP (FW i)) (VP (VB enjoy) (NP (JJ public) (NN service)))) (CC and) (S (NP (FW i)) (VP (VB enjoy) (NP (NN campaigning)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e1\"},\"m2\":{\"start\":26,\"end\":27,\"head\":26,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["sure",",","i","would","consider","running","for","public","office","again","in","a","couple","of","years","because",",","first","of","all",",","i","enjoy","public","service","and","i","enjoy","campaigning","."]
+,"lemmas":["sure",",","i","would","consider","run","for","public","office","again","in","a","couple","of","year","because",",","first","of","all",",","i","enjoy","public","service","and","i","enjoy","campaigning","."]
+,"posTags":["RB",",","FW","MD","VB","VBG","IN","JJ","NN","RB","IN","DT","NN","IN","NNS","IN",",","RB","IN","DT",",","FW","VB","JJ","NN","CC","FW","VB","NN","."]
+,"chunks":["B-ADVP","O","B-NP","B-VP","I-VP","B-VP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","B-SBAR","O","B-ADVP","B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","B-VP","B-NP","O"]
+,"parents":[4,-2,4,4,-1,4,5,8,6,10,5,12,10,12,13,22,-2,18,22,18,-2,22,4,24,22,22,27,22,27,-2]
+,"deprels":["advmod",null,"nsubj","aux","root","xcomp","prep","amod","pobj","advmod","prep","det","pobj","prep","pobj","mark",null,"advmod","prep","pobj",null,"nsubj","advcl","amod","dobj","cc","nsubj","conj","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB sure)) (, ,) (NP (FW i)) (VP (MD would) (VP (VB consider) (S (VP (VBG running) (PP (IN for) (NP (JJ public) (NN office))) (PP (ADVP (RB again)) (IN in) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years))))))) (SBAR (IN because) (, ,) (S (S (PP (ADVP (RB first)) (IN of) (NP (DT all))) (, ,) (NP (FW i)) (VP (VB enjoy) (NP (JJ public) (NN service)))) (CC and) (S (NP (FW i)) (VP (VB enjoy) (NP (NN campaigning)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":21,\"end\":22,\"head\":21,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e2\"},\"m2\":{\"start\":26,\"end\":27,\"head\":26,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["i","was","in","30","states","i","think","last","year","."]
+,"lemmas":["i","be","in","30","state","i","think","last","year","."]
+,"posTags":["LS","VBD","IN","CD","NNS","FW","VBP","JJ","NN","."]
+,"chunks":["O","B-VP","B-PP","B-NP","I-NP","B-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,6,4,8,6,-2]
+,"deprels":["nsubj","root","prep","num","pobj","nsubj","rcmod","amod","tmod",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VBD was) (PP (IN in) (NP (NP (CD 30) (NNS states)) (SBAR (S (NP (FW i)) (VP (VBP think) (NP-TMP (JJ last) (NN year)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e5\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839c8\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["i","was","in","30","states","i","think","last","year","."]
+,"lemmas":["i","be","in","30","state","i","think","last","year","."]
+,"posTags":["LS","VBD","IN","CD","NNS","FW","VBP","JJ","NN","."]
+,"chunks":["O","B-VP","B-PP","B-NP","I-NP","B-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,6,4,8,6,-2]
+,"deprels":["nsubj","root","prep","num","pobj","nsubj","rcmod","amod","tmod",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VBD was) (PP (IN in) (NP (NP (CD 30) (NNS states)) (SBAR (S (NP (FW i)) (VP (VBP think) (NP-TMP (JJ last) (NN year)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e5\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e4\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["i","was","in","30","states","i","think","last","year","."]
+,"lemmas":["i","be","in","30","state","i","think","last","year","."]
+,"posTags":["LS","VBD","IN","CD","NNS","FW","VBP","JJ","NN","."]
+,"chunks":["O","B-VP","B-PP","B-NP","I-NP","B-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,6,4,8,6,-2]
+,"deprels":["nsubj","root","prep","num","pobj","nsubj","rcmod","amod","tmod",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VBD was) (PP (IN in) (NP (NP (CD 30) (NNS states)) (SBAR (S (NP (FW i)) (VP (VBP think) (NP-TMP (JJ last) (NN year)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839c8\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e4\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["on","behal","of","republican","candidates","and","i","tend","to","do","a","lot","of","campaigning","in","the","next","year","for","the","president","."]
+,"lemmas":["on","behal","of","republican","candidate","and","i","tend","to","do","a","lot","of","campaigning","in","the","next","year","for","the","president","."]
+,"posTags":["IN","NN","IN","JJ","NNS","CC","FW","VB","TO","VB","DT","NN","IN","NN","IN","DT","JJ","NN","IN","DT","NN","."]
+,"chunks":["B-PP","B-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[7,0,0,4,2,0,0,-1,9,7,11,9,11,12,9,17,17,14,17,20,18,-2]
+,"deprels":["nsubj","pobj","prep","amod","pobj","cc","conj","root","aux","xcomp","det","dobj","prep","pobj","prep","det","amod","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (PP (IN on) (NP (NN behal))) (PP (IN of) (NP (JJ republican) (NNS candidates)))) (CC and) (NP (FW i))) (VP (VB tend) (S (VP (TO to) (VP (VB do) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN campaigning)))) (PP (IN in) (NP (NP (DT the) (JJ next) (NN year)) (PP (IN for) (NP (DT the) (NN president))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839c6\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839ca\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["on","behal","of","republican","candidates","and","i","tend","to","do","a","lot","of","campaigning","in","the","next","year","for","the","president","."]
+,"lemmas":["on","behal","of","republican","candidate","and","i","tend","to","do","a","lot","of","campaigning","in","the","next","year","for","the","president","."]
+,"posTags":["IN","NN","IN","JJ","NNS","CC","FW","VB","TO","VB","DT","NN","IN","NN","IN","DT","JJ","NN","IN","DT","NN","."]
+,"chunks":["B-PP","B-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[7,0,0,4,2,0,0,-1,9,7,11,9,11,12,9,17,17,14,17,20,18,-2]
+,"deprels":["nsubj","pobj","prep","amod","pobj","cc","conj","root","aux","xcomp","det","dobj","prep","pobj","prep","det","amod","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (PP (IN on) (NP (NN behal))) (PP (IN of) (NP (JJ republican) (NNS candidates)))) (CC and) (NP (FW i))) (VP (VB tend) (S (VP (TO to) (VP (VB do) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN campaigning)))) (PP (IN in) (NP (NP (DT the) (JJ next) (NN year)) (PP (IN for) (NP (DT the) (NN president))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839c6\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e6\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["on","behal","of","republican","candidates","and","i","tend","to","do","a","lot","of","campaigning","in","the","next","year","for","the","president","."]
+,"lemmas":["on","behal","of","republican","candidate","and","i","tend","to","do","a","lot","of","campaigning","in","the","next","year","for","the","president","."]
+,"posTags":["IN","NN","IN","JJ","NNS","CC","FW","VB","TO","VB","DT","NN","IN","NN","IN","DT","JJ","NN","IN","DT","NN","."]
+,"chunks":["B-PP","B-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[7,0,0,4,2,0,0,-1,9,7,11,9,11,12,9,17,17,14,17,20,18,-2]
+,"deprels":["nsubj","pobj","prep","amod","pobj","cc","conj","root","aux","xcomp","det","dobj","prep","pobj","prep","det","amod","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (PP (IN on) (NP (NN behal))) (PP (IN of) (NP (JJ republican) (NNS candidates)))) (CC and) (NP (FW i))) (VP (VB tend) (S (VP (TO to) (VP (VB do) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN campaigning)))) (PP (IN in) (NP (NP (DT the) (JJ next) (NN year)) (PP (IN for) (NP (DT the) (NN president))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839c6\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d1\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["on","behal","of","republican","candidates","and","i","tend","to","do","a","lot","of","campaigning","in","the","next","year","for","the","president","."]
+,"lemmas":["on","behal","of","republican","candidate","and","i","tend","to","do","a","lot","of","campaigning","in","the","next","year","for","the","president","."]
+,"posTags":["IN","NN","IN","JJ","NNS","CC","FW","VB","TO","VB","DT","NN","IN","NN","IN","DT","JJ","NN","IN","DT","NN","."]
+,"chunks":["B-PP","B-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[7,0,0,4,2,0,0,-1,9,7,11,9,11,12,9,17,17,14,17,20,18,-2]
+,"deprels":["nsubj","pobj","prep","amod","pobj","cc","conj","root","aux","xcomp","det","dobj","prep","pobj","prep","det","amod","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (PP (IN on) (NP (NN behal))) (PP (IN of) (NP (JJ republican) (NNS candidates)))) (CC and) (NP (FW i))) (VP (VB tend) (S (VP (TO to) (VP (VB do) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN campaigning)))) (PP (IN in) (NP (NP (DT the) (JJ next) (NN year)) (PP (IN for) (NP (DT the) (NN president))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839ca\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e6\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["on","behal","of","republican","candidates","and","i","tend","to","do","a","lot","of","campaigning","in","the","next","year","for","the","president","."]
+,"lemmas":["on","behal","of","republican","candidate","and","i","tend","to","do","a","lot","of","campaigning","in","the","next","year","for","the","president","."]
+,"posTags":["IN","NN","IN","JJ","NNS","CC","FW","VB","TO","VB","DT","NN","IN","NN","IN","DT","JJ","NN","IN","DT","NN","."]
+,"chunks":["B-PP","B-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[7,0,0,4,2,0,0,-1,9,7,11,9,11,12,9,17,17,14,17,20,18,-2]
+,"deprels":["nsubj","pobj","prep","amod","pobj","cc","conj","root","aux","xcomp","det","dobj","prep","pobj","prep","det","amod","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (PP (IN on) (NP (NN behal))) (PP (IN of) (NP (JJ republican) (NNS candidates)))) (CC and) (NP (FW i))) (VP (VB tend) (S (VP (TO to) (VP (VB do) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN campaigning)))) (PP (IN in) (NP (NP (DT the) (JJ next) (NN year)) (PP (IN for) (NP (DT the) (NN president))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839ca\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d1\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["on","behal","of","republican","candidates","and","i","tend","to","do","a","lot","of","campaigning","in","the","next","year","for","the","president","."]
+,"lemmas":["on","behal","of","republican","candidate","and","i","tend","to","do","a","lot","of","campaigning","in","the","next","year","for","the","president","."]
+,"posTags":["IN","NN","IN","JJ","NNS","CC","FW","VB","TO","VB","DT","NN","IN","NN","IN","DT","JJ","NN","IN","DT","NN","."]
+,"chunks":["B-PP","B-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[7,0,0,4,2,0,0,-1,9,7,11,9,11,12,9,17,17,14,17,20,18,-2]
+,"deprels":["nsubj","pobj","prep","amod","pobj","cc","conj","root","aux","xcomp","det","dobj","prep","pobj","prep","det","amod","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (PP (IN on) (NP (NN behal))) (PP (IN of) (NP (JJ republican) (NNS candidates)))) (CC and) (NP (FW i))) (VP (VB tend) (S (VP (TO to) (VP (VB do) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN campaigning)))) (PP (IN in) (NP (NP (DT the) (JJ next) (NN year)) (PP (IN for) (NP (DT the) (NN president))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e6\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d1\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["at","some","point",",","i","'m","going","to","want","to","do","it","myself","."]
+,"lemmas":["at","some","point",",","i","be","go","to","want","to","do","it","myself","."]
+,"posTags":["IN","DT","NN",",","FW","VBP","VBG","TO","VB","TO","VB","PRP","PRP","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-NP","O"]
+,"parents":[6,2,0,-2,6,6,-1,8,6,10,8,10,10,-2]
+,"deprels":["prep","det","pobj",null,"nsubj","aux","root","aux","xcomp","aux","xcomp","iobj","dobj",null]
+,"naryTree":"((ROOT (S (PP (IN at) (NP (DT some) (NN point))) (, ,) (NP (FW i)) (VP (VBP 'm) (VP (VBG going) (S (VP (TO to) (VP (VB want) (S (VP (TO to) (VP (VB do) (NP (PRP it)) (NP (PRP myself)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839e7\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d8\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["i","do","n't","think","you","do","unless","it","'s","realistic","."]
+,"lemmas":["i","do","not","think","you","do","unless","it","be","realistic","."]
+,"posTags":["LS","VBP","RB","VB","PRP","VBP","IN","PRP","VBZ","JJ","."]
+,"chunks":["O","B-VP","I-VP","I-VP","B-NP","B-VP","B-SBAR","B-NP","B-VP","B-ADJP","O"]
+,"parents":[3,3,3,-1,5,3,9,9,9,5,-2]
+,"deprels":["nsubj","aux","neg","root","nsubj","ccomp","mark","nsubj","cop","advcl",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VBP do) (RB n't) (VP (VB think) (SBAR (S (NP (PRP you)) (VP (VBP do) (SBAR (IN unless) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ realistic)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839ea\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839f6\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["at","this","point",",","my","candidate"]
+,"lemmas":["at","this","point",",","my","candidate"]
+,"posTags":["IN","DT","NN",",","PRP$","NN"]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP"]
+,"parents":[-1,2,0,-2,5,2]
+,"deprels":["root","det","pobj",null,"poss","appos"]
+,"naryTree":"((ROOT (PP (IN at) (NP (NP (DT this) (NN point)) (, ,) (NP (PRP$ my) (NN candidate))))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839d7\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"91cd9686-00e2-3f75-117d-00005e6839f4\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+

@@ -1,0 +1,1070 @@
+{"words":["Former","Illinois","Senator","Carol","Moseley-Braun","recently","decided","to","run","for","president","."]
+,"lemmas":["former","Illinois","Senator","Carol","Moseley-Braun","recently","decide","to","run","for","president","."]
+,"posTags":["JJ","NNP","NNP","NNP","NNP","RB","VBD","TO","VB","IN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[4,4,4,4,6,6,-1,8,6,8,9,-2]
+,"deprels":["amod","nn","nn","nn","nsubj","advmod","root","aux","xcomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ Former) (NNP Illinois) (NNP Senator) (NNP Carol) (NNP Moseley-Braun)) (ADVP (RB recently)) (VP (VBD decided) (S (VP (TO to) (VP (VB run) (PP (IN for) (NP (NN president))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9d9\"},\"m2\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb987\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["Former","Illinois","Senator","Carol","Moseley-Braun","recently","decided","to","run","for","president","."]
+,"lemmas":["former","Illinois","Senator","Carol","Moseley-Braun","recently","decide","to","run","for","president","."]
+,"posTags":["JJ","NNP","NNP","NNP","NNP","RB","VBD","TO","VB","IN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[4,4,4,4,6,6,-1,8,6,8,9,-2]
+,"deprels":["amod","nn","nn","nn","nsubj","advmod","root","aux","xcomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ Former) (NNP Illinois) (NNP Senator) (NNP Carol) (NNP Moseley-Braun)) (ADVP (RB recently)) (VP (VBD decided) (S (VP (TO to) (VP (VB run) (PP (IN for) (NP (NN president))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9d9\"},\"m2\":{\"start\":0,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb984\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Former","Illinois","Senator","Carol","Moseley-Braun","recently","decided","to","run","for","president","."]
+,"lemmas":["former","Illinois","Senator","Carol","Moseley-Braun","recently","decide","to","run","for","president","."]
+,"posTags":["JJ","NNP","NNP","NNP","NNP","RB","VBD","TO","VB","IN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[4,4,4,4,6,6,-1,8,6,8,9,-2]
+,"deprels":["amod","nn","nn","nn","nsubj","advmod","root","aux","xcomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ Former) (NNP Illinois) (NNP Senator) (NNP Carol) (NNP Moseley-Braun)) (ADVP (RB recently)) (VP (VBD decided) (S (VP (TO to) (VP (VB run) (PP (IN for) (NP (NN president))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb987\"},\"m2\":{\"start\":0,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb984\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Early","reviews","have","not","been","good",",","so","yesterday","she","announced","she","'ll","be","making","some","changes","."]
+,"lemmas":["early","review","have","not","be","good",",","so","yesterday","she","announce","she","'ll","be","make","some","change","."]
+,"posTags":["RB","NNS","VBP","RB","VBN","JJ",",","RB","NN","PRP","VBD","PRP","MD","VB","VBG","DT","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-ADJP","O","O","B-NP","B-NP","B-VP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,5,5,5,5,-1,-2,5,10,10,5,14,14,14,10,16,14,-2]
+,"deprels":["advmod","nsubj","aux","neg","cop","root",null,"advmod","tmod","nsubj","parataxis","nsubj","aux","aux","ccomp","det","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (RB Early) (NNS reviews)) (VP (VBP have) (RB not) (VP (VBN been) (ADJP (JJ good))))) (, ,) (RB so) (S (NP-TMP (NN yesterday)) (NP (PRP she)) (VP (VBD announced) (SBAR (S (NP (PRP she)) (VP (MD 'll) (VP (VB be) (VP (VBG making) (NP (DT some) (NNS changes))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb988\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb989\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Not","even","to","her","staff",",","which","is",",","of","course",",","tiny","."]
+,"lemmas":["not","even","to","she","staff",",","which","be",",","of","course",",","tiny","."]
+,"posTags":["RB","RB","TO","PRP$","NN",",","WDT","VBZ",",","IN","NN",",","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","O","B-PP","B-NP","O","B-ADJP","O"]
+,"parents":[1,-1,1,4,2,-2,12,12,-2,12,9,-2,4,-2]
+,"deprels":["neg","root","prep","poss","pobj",null,"nsubj","cop",null,"dep","pobj",null,"rcmod",null]
+,"naryTree":"((ROOT (NP (NP (RB Not) (RB even)) (PP (TO to) (NP (NP (PRP$ her) (NN staff)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (PRN (, ,) (PP (IN of) (NP (NN course))) (, ,)) (JJ tiny))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb98c\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb99a\"}}]"
+,"relLabels":["PER-SOC(Arg-1,Arg-1)"]}
+
+{"words":["Not","even","to","her","staff",",","which","is",",","of","course",",","tiny","."]
+,"lemmas":["not","even","to","she","staff",",","which","be",",","of","course",",","tiny","."]
+,"posTags":["RB","RB","TO","PRP$","NN",",","WDT","VBZ",",","IN","NN",",","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","O","B-PP","B-NP","O","B-ADJP","O"]
+,"parents":[1,-1,1,4,2,-2,12,12,-2,12,9,-2,4,-2]
+,"deprels":["neg","root","prep","poss","pobj",null,"nsubj","cop",null,"dep","pobj",null,"rcmod",null]
+,"naryTree":"((ROOT (NP (NP (RB Not) (RB even)) (PP (TO to) (NP (NP (PRP$ her) (NN staff)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (PRN (, ,) (PP (IN of) (NP (NN course))) (, ,)) (JJ tiny))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb98c\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb99b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Not","even","to","her","staff",",","which","is",",","of","course",",","tiny","."]
+,"lemmas":["not","even","to","she","staff",",","which","be",",","of","course",",","tiny","."]
+,"posTags":["RB","RB","TO","PRP$","NN",",","WDT","VBZ",",","IN","NN",",","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","O","B-PP","B-NP","O","B-ADJP","O"]
+,"parents":[1,-1,1,4,2,-2,12,12,-2,12,9,-2,4,-2]
+,"deprels":["neg","root","prep","poss","pobj",null,"nsubj","cop",null,"dep","pobj",null,"rcmod",null]
+,"naryTree":"((ROOT (NP (NP (RB Not) (RB even)) (PP (TO to) (NP (NP (PRP$ her) (NN staff)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (PRN (, ,) (PP (IN of) (NP (NN course))) (, ,)) (JJ tiny))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb99a\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb99b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["From","here","on","out",",","Carol","Moseley-Braun","as","Carol","Moseley","Braun","."]
+,"lemmas":["from","here","on","out",",","Carol","Moseley-Braun","as","Carol","Moseley","Braun","."]
+,"posTags":["IN","RB","IN","RB",",","NNP","NNP","IN","NNP","NNP","NNP","."]
+,"chunks":["B-PP","B-NP","B-PP","B-ADVP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[6,0,1,2,-2,6,-1,6,10,10,7,-2]
+,"deprels":["prep","pobj","prep","pcomp",null,"nn","root","prep","nn","nn","pobj",null]
+,"naryTree":"((ROOT (FRAG (PP (IN From) (NP (NP (RB here)) (PP (IN on) (ADVP (RB out))))) (, ,) (NP (NP (NNP Carol) (NNP Moseley-Braun)) (PP (IN as) (NP (NNP Carol) (NNP Moseley) (NNP Braun)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb98e\"},\"m2\":{\"start\":8,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb98f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Moseley","Braun","expects","that","primary","voters","in","Iowa","and","New","Hampshire","will","react","enthusiastically","to","this","radical",",","grammatical","transformation","."]
+,"lemmas":["Moseley","Braun","expect","that","primary","voter","in","Iowa","and","New","Hampshire","will","react","enthusiastically","to","this","radical",",","grammatical","transformation","."]
+,"posTags":["NNP","NNP","VBZ","IN","JJ","NNS","IN","NNP","CC","NNP","NNP","MD","VB","RB","TO","DT","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-SBAR","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,2,-1,12,5,12,5,10,7,7,6,12,2,12,12,16,14,-2,19,16,-2]
+,"deprels":["nn","nsubj","root","mark","amod","nsubj","prep","nn","cc","conj","pobj","aux","ccomp","advmod","prep","det","pobj",null,"amod","appos",null]
+,"naryTree":"((ROOT (S (NP (NNP Moseley) (NNP Braun)) (VP (VBZ expects) (SBAR (IN that) (S (NP (NP (JJ primary) (NNS voters)) (PP (IN in) (NP (NNP Iowa) (CC and) (NNP New) (NNP Hampshire)))) (VP (MD will) (VP (VB react) (ADVP (RB enthusiastically)) (PP (TO to) (NP (NP (DT this) (NN radical)) (, ,) (NP (JJ grammatical) (NN transformation))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a2\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb99d\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["Moseley","Braun","expects","that","primary","voters","in","Iowa","and","New","Hampshire","will","react","enthusiastically","to","this","radical",",","grammatical","transformation","."]
+,"lemmas":["Moseley","Braun","expect","that","primary","voter","in","Iowa","and","New","Hampshire","will","react","enthusiastically","to","this","radical",",","grammatical","transformation","."]
+,"posTags":["NNP","NNP","VBZ","IN","JJ","NNS","IN","NNP","CC","NNP","NNP","MD","VB","RB","TO","DT","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-SBAR","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,2,-1,12,5,12,5,10,7,7,6,12,2,12,12,16,14,-2,19,16,-2]
+,"deprels":["nn","nsubj","root","mark","amod","nsubj","prep","nn","cc","conj","pobj","aux","ccomp","advmod","prep","det","pobj",null,"amod","appos",null]
+,"naryTree":"((ROOT (S (NP (NNP Moseley) (NNP Braun)) (VP (VBZ expects) (SBAR (IN that) (S (NP (NP (JJ primary) (NNS voters)) (PP (IN in) (NP (NNP Iowa) (CC and) (NNP New) (NNP Hampshire)))) (VP (MD will) (VP (VB react) (ADVP (RB enthusiastically)) (PP (TO to) (NP (NP (DT this) (NN radical)) (, ,) (NP (JJ grammatical) (NN transformation))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a2\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a6\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["Moseley","Braun","expects","that","primary","voters","in","Iowa","and","New","Hampshire","will","react","enthusiastically","to","this","radical",",","grammatical","transformation","."]
+,"lemmas":["Moseley","Braun","expect","that","primary","voter","in","Iowa","and","New","Hampshire","will","react","enthusiastically","to","this","radical",",","grammatical","transformation","."]
+,"posTags":["NNP","NNP","VBZ","IN","JJ","NNS","IN","NNP","CC","NNP","NNP","MD","VB","RB","TO","DT","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-SBAR","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,2,-1,12,5,12,5,10,7,7,6,12,2,12,12,16,14,-2,19,16,-2]
+,"deprels":["nn","nsubj","root","mark","amod","nsubj","prep","nn","cc","conj","pobj","aux","ccomp","advmod","prep","det","pobj",null,"amod","appos",null]
+,"naryTree":"((ROOT (S (NP (NNP Moseley) (NNP Braun)) (VP (VBZ expects) (SBAR (IN that) (S (NP (NP (JJ primary) (NNS voters)) (PP (IN in) (NP (NNP Iowa) (CC and) (NNP New) (NNP Hampshire)))) (VP (MD will) (VP (VB react) (ADVP (RB enthusiastically)) (PP (TO to) (NP (NP (DT this) (NN radical)) (, ,) (NP (JJ grammatical) (NN transformation))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb991\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Moseley","Braun","expects","that","primary","voters","in","Iowa","and","New","Hampshire","will","react","enthusiastically","to","this","radical",",","grammatical","transformation","."]
+,"lemmas":["Moseley","Braun","expect","that","primary","voter","in","Iowa","and","New","Hampshire","will","react","enthusiastically","to","this","radical",",","grammatical","transformation","."]
+,"posTags":["NNP","NNP","VBZ","IN","JJ","NNS","IN","NNP","CC","NNP","NNP","MD","VB","RB","TO","DT","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-SBAR","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,2,-1,12,5,12,5,10,7,7,6,12,2,12,12,16,14,-2,19,16,-2]
+,"deprels":["nn","nsubj","root","mark","amod","nsubj","prep","nn","cc","conj","pobj","aux","ccomp","advmod","prep","det","pobj",null,"amod","appos",null]
+,"naryTree":"((ROOT (S (NP (NNP Moseley) (NNP Braun)) (VP (VBZ expects) (SBAR (IN that) (S (NP (NP (JJ primary) (NNS voters)) (PP (IN in) (NP (NNP Iowa) (CC and) (NNP New) (NNP Hampshire)))) (VP (MD will) (VP (VB react) (ADVP (RB enthusiastically)) (PP (TO to) (NP (NP (DT this) (NN radical)) (, ,) (NP (JJ grammatical) (NN transformation))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb991\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb99d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Moseley","Braun","expects","that","primary","voters","in","Iowa","and","New","Hampshire","will","react","enthusiastically","to","this","radical",",","grammatical","transformation","."]
+,"lemmas":["Moseley","Braun","expect","that","primary","voter","in","Iowa","and","New","Hampshire","will","react","enthusiastically","to","this","radical",",","grammatical","transformation","."]
+,"posTags":["NNP","NNP","VBZ","IN","JJ","NNS","IN","NNP","CC","NNP","NNP","MD","VB","RB","TO","DT","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-SBAR","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,2,-1,12,5,12,5,10,7,7,6,12,2,12,12,16,14,-2,19,16,-2]
+,"deprels":["nn","nsubj","root","mark","amod","nsubj","prep","nn","cc","conj","pobj","aux","ccomp","advmod","prep","det","pobj",null,"amod","appos",null]
+,"naryTree":"((ROOT (S (NP (NNP Moseley) (NNP Braun)) (VP (VBZ expects) (SBAR (IN that) (S (NP (NP (JJ primary) (NNS voters)) (PP (IN in) (NP (NNP Iowa) (CC and) (NNP New) (NNP Hampshire)))) (VP (MD will) (VP (VB react) (ADVP (RB enthusiastically)) (PP (TO to) (NP (NP (DT this) (NN radical)) (, ,) (NP (JJ grammatical) (NN transformation))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb991\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Moseley","Braun","expects","that","primary","voters","in","Iowa","and","New","Hampshire","will","react","enthusiastically","to","this","radical",",","grammatical","transformation","."]
+,"lemmas":["Moseley","Braun","expect","that","primary","voter","in","Iowa","and","New","Hampshire","will","react","enthusiastically","to","this","radical",",","grammatical","transformation","."]
+,"posTags":["NNP","NNP","VBZ","IN","JJ","NNS","IN","NNP","CC","NNP","NNP","MD","VB","RB","TO","DT","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-SBAR","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,2,-1,12,5,12,5,10,7,7,6,12,2,12,12,16,14,-2,19,16,-2]
+,"deprels":["nn","nsubj","root","mark","amod","nsubj","prep","nn","cc","conj","pobj","aux","ccomp","advmod","prep","det","pobj",null,"amod","appos",null]
+,"naryTree":"((ROOT (S (NP (NNP Moseley) (NNP Braun)) (VP (VBZ expects) (SBAR (IN that) (S (NP (NP (JJ primary) (NNS voters)) (PP (IN in) (NP (NNP Iowa) (CC and) (NNP New) (NNP Hampshire)))) (VP (MD will) (VP (VB react) (ADVP (RB enthusiastically)) (PP (TO to) (NP (NP (DT this) (NN radical)) (, ,) (NP (JJ grammatical) (NN transformation))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb99d\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["They","'ll","have","to",",","because","the","latest","CNN","poll","shows","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"lemmas":["they","'ll","have","to",",","because","the","latest","CNN","poll","show","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"posTags":["PRP","MD","VB","TO",",","IN","DT","JJS","NNP","NN","VBZ","NNP","NNP","RB","IN","DT","NN","PRP","VBD","RP","TO","VB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-VP","O","B-SBAR","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-NP","B-VP","B-PRT","B-VP","I-VP","O"]
+,"parents":[2,2,-1,10,-2,10,9,9,9,10,2,12,10,12,13,16,14,18,12,18,21,18,-2]
+,"deprels":["nsubj","aux","root","aux",null,"mark","det","amod","nn","nsubj","xcomp","nn","dobj","advmod","prep","det","pobj","nsubj","rcmod","prt","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP They)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (, ,) (SBAR (IN because) (S (NP (DT the) (JJS latest) (NNP CNN) (NN poll)) (VP (VBZ shows) (NP (NP (NNP Moseley) (NNP Braun)) (ADVP (RB far) (PP (IN behind) (NP (DT the) (NN candidate)))) (SBAR (S (NP (PRP she)) (VP (VBD set) (PRT (RP out)) (S (VP (TO to) (VP (VB discredit)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a1\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["They","'ll","have","to",",","because","the","latest","CNN","poll","shows","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"lemmas":["they","'ll","have","to",",","because","the","latest","CNN","poll","show","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"posTags":["PRP","MD","VB","TO",",","IN","DT","JJS","NNP","NN","VBZ","NNP","NNP","RB","IN","DT","NN","PRP","VBD","RP","TO","VB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-VP","O","B-SBAR","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-NP","B-VP","B-PRT","B-VP","I-VP","O"]
+,"parents":[2,2,-1,10,-2,10,9,9,9,10,2,12,10,12,13,16,14,18,12,18,21,18,-2]
+,"deprels":["nsubj","aux","root","aux",null,"mark","det","amod","nn","nsubj","xcomp","nn","dobj","advmod","prep","det","pobj","nsubj","rcmod","prt","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP They)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (, ,) (SBAR (IN because) (S (NP (DT the) (JJS latest) (NNP CNN) (NN poll)) (VP (VBZ shows) (NP (NP (NNP Moseley) (NNP Braun)) (ADVP (RB far) (PP (IN behind) (NP (DT the) (NN candidate)))) (SBAR (S (NP (PRP she)) (VP (VBD set) (PRT (RP out)) (S (VP (TO to) (VP (VB discredit)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a1\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb985\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["They","'ll","have","to",",","because","the","latest","CNN","poll","shows","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"lemmas":["they","'ll","have","to",",","because","the","latest","CNN","poll","show","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"posTags":["PRP","MD","VB","TO",",","IN","DT","JJS","NNP","NN","VBZ","NNP","NNP","RB","IN","DT","NN","PRP","VBD","RP","TO","VB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-VP","O","B-SBAR","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-NP","B-VP","B-PRT","B-VP","I-VP","O"]
+,"parents":[2,2,-1,10,-2,10,9,9,9,10,2,12,10,12,13,16,14,18,12,18,21,18,-2]
+,"deprels":["nsubj","aux","root","aux",null,"mark","det","amod","nn","nsubj","xcomp","nn","dobj","advmod","prep","det","pobj","nsubj","rcmod","prt","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP They)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (, ,) (SBAR (IN because) (S (NP (DT the) (JJS latest) (NNP CNN) (NN poll)) (VP (VBZ shows) (NP (NP (NNP Moseley) (NNP Braun)) (ADVP (RB far) (PP (IN behind) (NP (DT the) (NN candidate)))) (SBAR (S (NP (PRP she)) (VP (VBD set) (PRT (RP out)) (S (VP (TO to) (VP (VB discredit)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a1\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ab\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["They","'ll","have","to",",","because","the","latest","CNN","poll","shows","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"lemmas":["they","'ll","have","to",",","because","the","latest","CNN","poll","show","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"posTags":["PRP","MD","VB","TO",",","IN","DT","JJS","NNP","NN","VBZ","NNP","NNP","RB","IN","DT","NN","PRP","VBD","RP","TO","VB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-VP","O","B-SBAR","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-NP","B-VP","B-PRT","B-VP","I-VP","O"]
+,"parents":[2,2,-1,10,-2,10,9,9,9,10,2,12,10,12,13,16,14,18,12,18,21,18,-2]
+,"deprels":["nsubj","aux","root","aux",null,"mark","det","amod","nn","nsubj","xcomp","nn","dobj","advmod","prep","det","pobj","nsubj","rcmod","prt","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP They)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (, ,) (SBAR (IN because) (S (NP (DT the) (JJS latest) (NNP CNN) (NN poll)) (VP (VBZ shows) (NP (NP (NNP Moseley) (NNP Braun)) (ADVP (RB far) (PP (IN behind) (NP (DT the) (NN candidate)))) (SBAR (S (NP (PRP she)) (VP (VBD set) (PRT (RP out)) (S (VP (TO to) (VP (VB discredit)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a1\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb986\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["They","'ll","have","to",",","because","the","latest","CNN","poll","shows","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"lemmas":["they","'ll","have","to",",","because","the","latest","CNN","poll","show","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"posTags":["PRP","MD","VB","TO",",","IN","DT","JJS","NNP","NN","VBZ","NNP","NNP","RB","IN","DT","NN","PRP","VBD","RP","TO","VB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-VP","O","B-SBAR","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-NP","B-VP","B-PRT","B-VP","I-VP","O"]
+,"parents":[2,2,-1,10,-2,10,9,9,9,10,2,12,10,12,13,16,14,18,12,18,21,18,-2]
+,"deprels":["nsubj","aux","root","aux",null,"mark","det","amod","nn","nsubj","xcomp","nn","dobj","advmod","prep","det","pobj","nsubj","rcmod","prt","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP They)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (, ,) (SBAR (IN because) (S (NP (DT the) (JJS latest) (NNP CNN) (NN poll)) (VP (VBZ shows) (NP (NP (NNP Moseley) (NNP Braun)) (ADVP (RB far) (PP (IN behind) (NP (DT the) (NN candidate)))) (SBAR (S (NP (PRP she)) (VP (VBD set) (PRT (RP out)) (S (VP (TO to) (VP (VB discredit)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a4\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb985\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["They","'ll","have","to",",","because","the","latest","CNN","poll","shows","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"lemmas":["they","'ll","have","to",",","because","the","latest","CNN","poll","show","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"posTags":["PRP","MD","VB","TO",",","IN","DT","JJS","NNP","NN","VBZ","NNP","NNP","RB","IN","DT","NN","PRP","VBD","RP","TO","VB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-VP","O","B-SBAR","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-NP","B-VP","B-PRT","B-VP","I-VP","O"]
+,"parents":[2,2,-1,10,-2,10,9,9,9,10,2,12,10,12,13,16,14,18,12,18,21,18,-2]
+,"deprels":["nsubj","aux","root","aux",null,"mark","det","amod","nn","nsubj","xcomp","nn","dobj","advmod","prep","det","pobj","nsubj","rcmod","prt","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP They)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (, ,) (SBAR (IN because) (S (NP (DT the) (JJS latest) (NNP CNN) (NN poll)) (VP (VBZ shows) (NP (NP (NNP Moseley) (NNP Braun)) (ADVP (RB far) (PP (IN behind) (NP (DT the) (NN candidate)))) (SBAR (S (NP (PRP she)) (VP (VBD set) (PRT (RP out)) (S (VP (TO to) (VP (VB discredit)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a4\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ab\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["They","'ll","have","to",",","because","the","latest","CNN","poll","shows","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"lemmas":["they","'ll","have","to",",","because","the","latest","CNN","poll","show","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"posTags":["PRP","MD","VB","TO",",","IN","DT","JJS","NNP","NN","VBZ","NNP","NNP","RB","IN","DT","NN","PRP","VBD","RP","TO","VB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-VP","O","B-SBAR","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-NP","B-VP","B-PRT","B-VP","I-VP","O"]
+,"parents":[2,2,-1,10,-2,10,9,9,9,10,2,12,10,12,13,16,14,18,12,18,21,18,-2]
+,"deprels":["nsubj","aux","root","aux",null,"mark","det","amod","nn","nsubj","xcomp","nn","dobj","advmod","prep","det","pobj","nsubj","rcmod","prt","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP They)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (, ,) (SBAR (IN because) (S (NP (DT the) (JJS latest) (NNP CNN) (NN poll)) (VP (VBZ shows) (NP (NP (NNP Moseley) (NNP Braun)) (ADVP (RB far) (PP (IN behind) (NP (DT the) (NN candidate)))) (SBAR (S (NP (PRP she)) (VP (VBD set) (PRT (RP out)) (S (VP (TO to) (VP (VB discredit)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a4\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb986\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["They","'ll","have","to",",","because","the","latest","CNN","poll","shows","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"lemmas":["they","'ll","have","to",",","because","the","latest","CNN","poll","show","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"posTags":["PRP","MD","VB","TO",",","IN","DT","JJS","NNP","NN","VBZ","NNP","NNP","RB","IN","DT","NN","PRP","VBD","RP","TO","VB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-VP","O","B-SBAR","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-NP","B-VP","B-PRT","B-VP","I-VP","O"]
+,"parents":[2,2,-1,10,-2,10,9,9,9,10,2,12,10,12,13,16,14,18,12,18,21,18,-2]
+,"deprels":["nsubj","aux","root","aux",null,"mark","det","amod","nn","nsubj","xcomp","nn","dobj","advmod","prep","det","pobj","nsubj","rcmod","prt","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP They)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (, ,) (SBAR (IN because) (S (NP (DT the) (JJS latest) (NNP CNN) (NN poll)) (VP (VBZ shows) (NP (NP (NNP Moseley) (NNP Braun)) (ADVP (RB far) (PP (IN behind) (NP (DT the) (NN candidate)))) (SBAR (S (NP (PRP she)) (VP (VBD set) (PRT (RP out)) (S (VP (TO to) (VP (VB discredit)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb985\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ab\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["They","'ll","have","to",",","because","the","latest","CNN","poll","shows","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"lemmas":["they","'ll","have","to",",","because","the","latest","CNN","poll","show","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"posTags":["PRP","MD","VB","TO",",","IN","DT","JJS","NNP","NN","VBZ","NNP","NNP","RB","IN","DT","NN","PRP","VBD","RP","TO","VB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-VP","O","B-SBAR","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-NP","B-VP","B-PRT","B-VP","I-VP","O"]
+,"parents":[2,2,-1,10,-2,10,9,9,9,10,2,12,10,12,13,16,14,18,12,18,21,18,-2]
+,"deprels":["nsubj","aux","root","aux",null,"mark","det","amod","nn","nsubj","xcomp","nn","dobj","advmod","prep","det","pobj","nsubj","rcmod","prt","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP They)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (, ,) (SBAR (IN because) (S (NP (DT the) (JJS latest) (NNP CNN) (NN poll)) (VP (VBZ shows) (NP (NP (NNP Moseley) (NNP Braun)) (ADVP (RB far) (PP (IN behind) (NP (DT the) (NN candidate)))) (SBAR (S (NP (PRP she)) (VP (VBD set) (PRT (RP out)) (S (VP (TO to) (VP (VB discredit)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb985\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb986\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["They","'ll","have","to",",","because","the","latest","CNN","poll","shows","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"lemmas":["they","'ll","have","to",",","because","the","latest","CNN","poll","show","Moseley","Braun","far","behind","the","candidate","she","set","out","to","discredit","."]
+,"posTags":["PRP","MD","VB","TO",",","IN","DT","JJS","NNP","NN","VBZ","NNP","NNP","RB","IN","DT","NN","PRP","VBD","RP","TO","VB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-VP","O","B-SBAR","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-NP","B-VP","B-PRT","B-VP","I-VP","O"]
+,"parents":[2,2,-1,10,-2,10,9,9,9,10,2,12,10,12,13,16,14,18,12,18,21,18,-2]
+,"deprels":["nsubj","aux","root","aux",null,"mark","det","amod","nn","nsubj","xcomp","nn","dobj","advmod","prep","det","pobj","nsubj","rcmod","prt","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP They)) (VP (MD 'll) (VP (VB have) (S (VP (TO to) (VP (, ,) (SBAR (IN because) (S (NP (DT the) (JJS latest) (NNP CNN) (NN poll)) (VP (VBZ shows) (NP (NP (NNP Moseley) (NNP Braun)) (ADVP (RB far) (PP (IN behind) (NP (DT the) (NN candidate)))) (SBAR (S (NP (PRP she)) (VP (VBD set) (PRT (RP out)) (S (VP (TO to) (VP (VB discredit)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ab\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb986\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["That","would","be",",","of","course",",","the","honorable","Al","Sharpton","."]
+,"lemmas":["that","would","be",",","of","course",",","the","honorable","Al","Sharpton","."]
+,"posTags":["DT","MD","VB",",","IN","NN",",","DT","JJ","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","I-VP","O","B-PP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[10,10,10,-2,10,4,-2,10,10,10,-1,-2]
+,"deprels":["nsubj","aux","cop",null,"prep","pobj",null,"det","amod","nn","root",null]
+,"naryTree":"((ROOT (S (NP (DT That)) (VP (MD would) (VP (VB be) (, ,) (PP (IN of) (NP (NN course))) (, ,) (NP (DT the) (JJ honorable) (NNP Al) (NNP Sharpton)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ac\"},\"m2\":{\"start\":7,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ad\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ae\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9af\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ae\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ae\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ae\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ce\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9af\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9af\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9af\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ce\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9af\"},\"m2\":{\"start\":18,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9cd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a8\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a8\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ce\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a8\"},\"m2\":{\"start\":18,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9cd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a8\"},\"m2\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b0\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ce\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b0\"},\"m2\":{\"start\":18,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9cd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b0\"},\"m2\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b0\"},\"m2\":{\"start\":26,\"end\":27,\"head\":26,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb975\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ce\"},\"m2\":{\"start\":18,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9cd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ce\"},\"m2\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ce\"},\"m2\":{\"start\":26,\"end\":27,\"head\":26,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb975\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ce\"},\"m2\":{\"start\":26,\"end\":29,\"head\":28,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb974\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9cd\"},\"m2\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9cd\"},\"m2\":{\"start\":26,\"end\":27,\"head\":26,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb975\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9cd\"},\"m2\":{\"start\":26,\"end\":29,\"head\":28,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb974\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9cd\"},\"m2\":{\"start\":30,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c4\"},\"m2\":{\"start\":26,\"end\":27,\"head\":26,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb975\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c4\"},\"m2\":{\"start\":26,\"end\":29,\"head\":28,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb974\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c4\"},\"m2\":{\"start\":30,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c4\"},\"m2\":{\"start\":30,\"end\":33,\"head\":32,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":26,\"end\":27,\"head\":26,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb975\"},\"m2\":{\"start\":26,\"end\":29,\"head\":28,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb974\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":26,\"end\":27,\"head\":26,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb975\"},\"m2\":{\"start\":30,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":26,\"end\":27,\"head\":26,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb975\"},\"m2\":{\"start\":30,\"end\":33,\"head\":32,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":26,\"end\":27,\"head\":26,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb975\"},\"m2\":{\"start\":34,\"end\":35,\"head\":34,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":26,\"end\":29,\"head\":28,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb974\"},\"m2\":{\"start\":30,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":26,\"end\":29,\"head\":28,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb974\"},\"m2\":{\"start\":30,\"end\":33,\"head\":32,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":26,\"end\":29,\"head\":28,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb974\"},\"m2\":{\"start\":34,\"end\":35,\"head\":34,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":26,\"end\":29,\"head\":28,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb974\"},\"m2\":{\"start\":34,\"end\":37,\"head\":36,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9bf\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":30,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c7\"},\"m2\":{\"start\":30,\"end\":33,\"head\":32,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":30,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c7\"},\"m2\":{\"start\":34,\"end\":35,\"head\":34,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":30,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c7\"},\"m2\":{\"start\":34,\"end\":37,\"head\":36,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9bf\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":30,\"end\":33,\"head\":32,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c6\"},\"m2\":{\"start\":34,\"end\":35,\"head\":34,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":30,\"end\":33,\"head\":32,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c6\"},\"m2\":{\"start\":34,\"end\":37,\"head\":36,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9bf\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Sharpton","is","not","only","by","far","the","first","choice","of","black","voters","nationally",",","he","is","tied","with","Senator","John","Edwards","among","all","voters","and","beating","Governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"lemmas":["Sharpton","be","not","only","by","far","the","first","choice","of","black","voter","nationally",",","he","be","tie","with","Senator","John","Edwards","among","all","voter","and","beat","governor","Howard","Dean",",","Representative","Dennis","Kucinich","and","Senator","Bob","Graham","."]
+,"posTags":["NNP","VBZ","RB","RB","IN","RB","DT","JJ","NN","IN","JJ","NNS","RB",",","PRP","VBZ","VBN","IN","NNP","NNP","NNP","IN","DT","NNS","CC","VBG","NN","NNP","NNP",",","NNP","NNP","NNP","CC","NNP","NNP","NNP","."]
+,"chunks":["B-NP","B-VP","O","B-ADVP","B-PP","B-ADVP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[8,8,8,8,3,4,8,8,16,8,11,9,8,-2,8,16,-1,16,20,20,17,20,23,21,23,26,23,28,16,-2,32,32,28,32,36,36,32,-2]
+,"deprels":["nsubj","cop","neg","advmod","prep","pcomp","det","amod","dep","prep","amod","pobj","advmod",null,"dep","auxpass","root","prep","nn","nn","pobj","prep","det","pobj","cc","amod","conj","nn","nsubjpass",null,"nn","nn","appos","cc","nn","nn","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NNP Sharpton)) (VP (VBZ is) (RB not) (ADVP (RB only) (PP (IN by) (ADVP (RB far)))) (NP (NP (DT the) (JJ first) (NN choice)) (PP (IN of) (NP (JJ black) (NNS voters)))) (ADVP (RB nationally)) (, ,) (NP (PRP he)))) (VP (VBZ is) (VP (VBN tied) (PP (IN with) (NP (NP (NNP Senator) (NNP John) (NNP Edwards)) (PP (IN among) (NP (NP (DT all) (NNS voters)) (CC and) (NP (VBG beating) (NN Governor)))))))) (NP (NP (NNP Howard) (NNP Dean)) (, ,) (NP (NP (NNP Representative) (NNP Dennis) (NNP Kucinich)) (CC and) (NP (NNP Senator) (NNP Bob) (NNP Graham)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":34,\"end\":35,\"head\":34,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c0\"},\"m2\":{\"start\":34,\"end\":37,\"head\":36,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9bf\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["And","Al","Sharpton","did","n't","even","have","to","change","his","name","."]
+,"lemmas":["and","Al","Sharpton","do","not","even","have","to","change","he","name","."]
+,"posTags":["CC","NNP","NNP","VBD","RB","RB","VB","TO","VB","PRP$","NN","."]
+,"chunks":["O","B-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[6,2,6,6,6,6,-1,8,6,10,8,-2]
+,"deprels":["cc","nn","nsubj","aux","neg","advmod","root","aux","xcomp","poss","dobj",null]
+,"naryTree":"((ROOT (S (CC And) (NP (NNP Al) (NNP Sharpton)) (VP (VBD did) (RB n't) (ADVP (RB even)) (VP (VB have) (S (VP (TO to) (VP (VB change) (NP (PRP$ his) (NN name))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b1\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["You","become","honorable","by","winning","an","election","of","some","sort","or","having","a","high","post",",","being","an","ambassador","or","a","governor","or","some","thing","."]
+,"lemmas":["you","become","honorable","by","win","a","election","of","some","sort","or","have","a","high","post",",","be","a","ambassador","or","a","governor","or","some","thing","."]
+,"posTags":["PRP","VBP","JJ","IN","VBG","DT","NN","IN","DT","NN","CC","VBG","DT","JJ","NN",",","VBG","DT","NN","CC","DT","NN","CC","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-ADJP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,-1,1,2,3,6,4,6,9,7,4,4,14,14,11,-2,18,18,1,18,21,18,21,24,21,-2]
+,"deprels":["nsubj","root","acomp","prep","pcomp","det","dobj","prep","det","pobj","cc","conj","det","amod","dobj",null,"cop","det","xcomp","cc","det","conj","cc","det","conj",null]
+,"naryTree":"((ROOT (S (NP (PRP You)) (VP (VBP become) (ADJP (JJ honorable) (PP (IN by) (S (VP (VP (VBG winning) (NP (NP (DT an) (NN election)) (PP (IN of) (NP (DT some) (NN sort))))) (CC or) (VP (VBG having) (NP (DT a) (JJ high) (NN post))))))) (, ,) (S (VP (VBG being) (NP (NP (DT an) (NN ambassador)) (CC or) (NP (NP (DT a) (NN governor)) (CC or) (NP (DT some) (NN thing))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9db\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9d2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["You","become","honorable","by","winning","an","election","of","some","sort","or","having","a","high","post",",","being","an","ambassador","or","a","governor","or","some","thing","."]
+,"lemmas":["you","become","honorable","by","win","a","election","of","some","sort","or","have","a","high","post",",","be","a","ambassador","or","a","governor","or","some","thing","."]
+,"posTags":["PRP","VBP","JJ","IN","VBG","DT","NN","IN","DT","NN","CC","VBG","DT","JJ","NN",",","VBG","DT","NN","CC","DT","NN","CC","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-ADJP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,-1,1,2,3,6,4,6,9,7,4,4,14,14,11,-2,18,18,1,18,21,18,21,24,21,-2]
+,"deprels":["nsubj","root","acomp","prep","pcomp","det","dobj","prep","det","pobj","cc","conj","det","amod","dobj",null,"cop","det","xcomp","cc","det","conj","cc","det","conj",null]
+,"naryTree":"((ROOT (S (NP (PRP You)) (VP (VBP become) (ADJP (JJ honorable) (PP (IN by) (S (VP (VP (VBG winning) (NP (NP (DT an) (NN election)) (PP (IN of) (NP (DT some) (NN sort))))) (CC or) (VP (VBG having) (NP (DT a) (JJ high) (NN post))))))) (, ,) (S (VP (VBG being) (NP (NP (DT an) (NN ambassador)) (CC or) (NP (NP (DT a) (NN governor)) (CC or) (NP (DT some) (NN thing))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9db\"},\"m2\":{\"start\":20,\"end\":22,\"head\":21,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9d4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["You","become","honorable","by","winning","an","election","of","some","sort","or","having","a","high","post",",","being","an","ambassador","or","a","governor","or","some","thing","."]
+,"lemmas":["you","become","honorable","by","win","a","election","of","some","sort","or","have","a","high","post",",","be","a","ambassador","or","a","governor","or","some","thing","."]
+,"posTags":["PRP","VBP","JJ","IN","VBG","DT","NN","IN","DT","NN","CC","VBG","DT","JJ","NN",",","VBG","DT","NN","CC","DT","NN","CC","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-ADJP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,-1,1,2,3,6,4,6,9,7,4,4,14,14,11,-2,18,18,1,18,21,18,21,24,21,-2]
+,"deprels":["nsubj","root","acomp","prep","pcomp","det","dobj","prep","det","pobj","cc","conj","det","amod","dobj",null,"cop","det","xcomp","cc","det","conj","cc","det","conj",null]
+,"naryTree":"((ROOT (S (NP (PRP You)) (VP (VBP become) (ADJP (JJ honorable) (PP (IN by) (S (VP (VP (VBG winning) (NP (NP (DT an) (NN election)) (PP (IN of) (NP (DT some) (NN sort))))) (CC or) (VP (VBG having) (NP (DT a) (JJ high) (NN post))))))) (, ,) (S (VP (VBG being) (NP (NP (DT an) (NN ambassador)) (CC or) (NP (NP (DT a) (NN governor)) (CC or) (NP (DT some) (NN thing))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9d2\"},\"m2\":{\"start\":20,\"end\":22,\"head\":21,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9d4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["By","embodying","the","values","of","your","party","."]
+,"lemmas":["by","embody","the","value","of","you","party","."]
+,"posTags":["IN","VBG","DT","NNS","IN","PRP$","NN","."]
+,"chunks":["B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[-1,0,3,1,3,6,4,-2]
+,"deprels":["root","pcomp","det","dobj","prep","poss","pobj",null]
+,"naryTree":"((ROOT (FRAG (PP (IN By) (S (VP (VBG embodying) (NP (NP (DT the) (NNS values)) (PP (IN of) (NP (PRP$ your) (NN party))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9dc\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9e3\"}}]"
+,"relLabels":["ORG-AFF(Arg-1,Arg-2)"]}
+
+{"words":["Your","values",",","not","mine","."]
+,"lemmas":["you","value",",","not","mine","."]
+,"posTags":["PRP$","NNS",",","RB","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,-1,-2,4,1,-2]
+,"deprels":["poss","root",null,"neg","appos",null]
+,"naryTree":"((ROOT (NP (NP (PRP$ Your) (NNS values)) (, ,) (NP (RB not) (NN mine)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9dd\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb99f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["He","'s","the","No.","1","pick",",","the","most","popular",",","among","all","candidates",",","among","black","primary","voters","."]
+,"lemmas":["he","be","the","no.","1","pick",",","the","most","popular",",","among","all","candidate",",","among","black","primary","voter","."]
+,"posTags":["PRP","VBZ","DT","NN","CD","NN",",","DT","RBS","JJ",",","IN","DT","NNS",",","IN","JJ","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,5,5,5,5,-1,-2,9,9,5,-2,5,13,11,-2,5,18,18,15,-2]
+,"deprels":["nsubj","cop","det","nn","num","root",null,"det","advmod","appos",null,"prep","det","pobj",null,"prep","amod","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (NP (NP (DT the) (NN No.) (CD 1) (NN pick)) (, ,) (NP (DT the) (RBS most) (JJ popular)) (, ,)) (PP (IN among) (NP (DT all) (NNS candidates))) (, ,) (PP (IN among) (NP (JJ black) (JJ primary) (NNS voters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b4\"},\"m2\":{\"start\":2,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["He","'s","the","No.","1","pick",",","the","most","popular",",","among","all","candidates",",","among","black","primary","voters","."]
+,"lemmas":["he","be","the","no.","1","pick",",","the","most","popular",",","among","all","candidate",",","among","black","primary","voter","."]
+,"posTags":["PRP","VBZ","DT","NN","CD","NN",",","DT","RBS","JJ",",","IN","DT","NNS",",","IN","JJ","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,5,5,5,5,-1,-2,9,9,5,-2,5,13,11,-2,5,18,18,15,-2]
+,"deprels":["nsubj","cop","det","nn","num","root",null,"det","advmod","appos",null,"prep","det","pobj",null,"prep","amod","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (NP (NP (DT the) (NN No.) (CD 1) (NN pick)) (, ,) (NP (DT the) (RBS most) (JJ popular)) (, ,)) (PP (IN among) (NP (DT all) (NNS candidates))) (, ,) (PP (IN among) (NP (JJ black) (JJ primary) (NNS voters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b4\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9bd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["He","'s","the","No.","1","pick",",","the","most","popular",",","among","all","candidates",",","among","black","primary","voters","."]
+,"lemmas":["he","be","the","no.","1","pick",",","the","most","popular",",","among","all","candidate",",","among","black","primary","voter","."]
+,"posTags":["PRP","VBZ","DT","NN","CD","NN",",","DT","RBS","JJ",",","IN","DT","NNS",",","IN","JJ","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,5,5,5,5,-1,-2,9,9,5,-2,5,13,11,-2,5,18,18,15,-2]
+,"deprels":["nsubj","cop","det","nn","num","root",null,"det","advmod","appos",null,"prep","det","pobj",null,"prep","amod","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (NP (NP (DT the) (NN No.) (CD 1) (NN pick)) (, ,) (NP (DT the) (RBS most) (JJ popular)) (, ,)) (PP (IN among) (NP (DT all) (NNS candidates))) (, ,) (PP (IN among) (NP (JJ black) (JJ primary) (NNS voters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b4\"},\"m2\":{\"start\":12,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9d7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["He","'s","the","No.","1","pick",",","the","most","popular",",","among","all","candidates",",","among","black","primary","voters","."]
+,"lemmas":["he","be","the","no.","1","pick",",","the","most","popular",",","among","all","candidate",",","among","black","primary","voter","."]
+,"posTags":["PRP","VBZ","DT","NN","CD","NN",",","DT","RBS","JJ",",","IN","DT","NNS",",","IN","JJ","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,5,5,5,5,-1,-2,9,9,5,-2,5,13,11,-2,5,18,18,15,-2]
+,"deprels":["nsubj","cop","det","nn","num","root",null,"det","advmod","appos",null,"prep","det","pobj",null,"prep","amod","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (NP (NP (DT the) (NN No.) (CD 1) (NN pick)) (, ,) (NP (DT the) (RBS most) (JJ popular)) (, ,)) (PP (IN among) (NP (DT all) (NNS candidates))) (, ,) (PP (IN among) (NP (JJ black) (JJ primary) (NNS voters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b4\"},\"m2\":{\"start\":16,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["He","'s","the","No.","1","pick",",","the","most","popular",",","among","all","candidates",",","among","black","primary","voters","."]
+,"lemmas":["he","be","the","no.","1","pick",",","the","most","popular",",","among","all","candidate",",","among","black","primary","voter","."]
+,"posTags":["PRP","VBZ","DT","NN","CD","NN",",","DT","RBS","JJ",",","IN","DT","NNS",",","IN","JJ","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,5,5,5,5,-1,-2,9,9,5,-2,5,13,11,-2,5,18,18,15,-2]
+,"deprels":["nsubj","cop","det","nn","num","root",null,"det","advmod","appos",null,"prep","det","pobj",null,"prep","amod","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (NP (NP (DT the) (NN No.) (CD 1) (NN pick)) (, ,) (NP (DT the) (RBS most) (JJ popular)) (, ,)) (PP (IN among) (NP (DT all) (NNS candidates))) (, ,) (PP (IN among) (NP (JJ black) (JJ primary) (NNS voters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b5\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9bd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["He","'s","the","No.","1","pick",",","the","most","popular",",","among","all","candidates",",","among","black","primary","voters","."]
+,"lemmas":["he","be","the","no.","1","pick",",","the","most","popular",",","among","all","candidate",",","among","black","primary","voter","."]
+,"posTags":["PRP","VBZ","DT","NN","CD","NN",",","DT","RBS","JJ",",","IN","DT","NNS",",","IN","JJ","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,5,5,5,5,-1,-2,9,9,5,-2,5,13,11,-2,5,18,18,15,-2]
+,"deprels":["nsubj","cop","det","nn","num","root",null,"det","advmod","appos",null,"prep","det","pobj",null,"prep","amod","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (NP (NP (DT the) (NN No.) (CD 1) (NN pick)) (, ,) (NP (DT the) (RBS most) (JJ popular)) (, ,)) (PP (IN among) (NP (DT all) (NNS candidates))) (, ,) (PP (IN among) (NP (JJ black) (JJ primary) (NNS voters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b5\"},\"m2\":{\"start\":12,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9d7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["He","'s","the","No.","1","pick",",","the","most","popular",",","among","all","candidates",",","among","black","primary","voters","."]
+,"lemmas":["he","be","the","no.","1","pick",",","the","most","popular",",","among","all","candidate",",","among","black","primary","voter","."]
+,"posTags":["PRP","VBZ","DT","NN","CD","NN",",","DT","RBS","JJ",",","IN","DT","NNS",",","IN","JJ","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,5,5,5,5,-1,-2,9,9,5,-2,5,13,11,-2,5,18,18,15,-2]
+,"deprels":["nsubj","cop","det","nn","num","root",null,"det","advmod","appos",null,"prep","det","pobj",null,"prep","amod","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (NP (NP (DT the) (NN No.) (CD 1) (NN pick)) (, ,) (NP (DT the) (RBS most) (JJ popular)) (, ,)) (PP (IN among) (NP (DT all) (NNS candidates))) (, ,) (PP (IN among) (NP (JJ black) (JJ primary) (NNS voters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b5\"},\"m2\":{\"start\":16,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["He","'s","the","No.","1","pick",",","the","most","popular",",","among","all","candidates",",","among","black","primary","voters","."]
+,"lemmas":["he","be","the","no.","1","pick",",","the","most","popular",",","among","all","candidate",",","among","black","primary","voter","."]
+,"posTags":["PRP","VBZ","DT","NN","CD","NN",",","DT","RBS","JJ",",","IN","DT","NNS",",","IN","JJ","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,5,5,5,5,-1,-2,9,9,5,-2,5,13,11,-2,5,18,18,15,-2]
+,"deprels":["nsubj","cop","det","nn","num","root",null,"det","advmod","appos",null,"prep","det","pobj",null,"prep","amod","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (NP (NP (DT the) (NN No.) (CD 1) (NN pick)) (, ,) (NP (DT the) (RBS most) (JJ popular)) (, ,)) (PP (IN among) (NP (DT all) (NNS candidates))) (, ,) (PP (IN among) (NP (JJ black) (JJ primary) (NNS voters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9bd\"},\"m2\":{\"start\":12,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9d7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["He","'s","the","No.","1","pick",",","the","most","popular",",","among","all","candidates",",","among","black","primary","voters","."]
+,"lemmas":["he","be","the","no.","1","pick",",","the","most","popular",",","among","all","candidate",",","among","black","primary","voter","."]
+,"posTags":["PRP","VBZ","DT","NN","CD","NN",",","DT","RBS","JJ",",","IN","DT","NNS",",","IN","JJ","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,5,5,5,5,-1,-2,9,9,5,-2,5,13,11,-2,5,18,18,15,-2]
+,"deprels":["nsubj","cop","det","nn","num","root",null,"det","advmod","appos",null,"prep","det","pobj",null,"prep","amod","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (NP (NP (DT the) (NN No.) (CD 1) (NN pick)) (, ,) (NP (DT the) (RBS most) (JJ popular)) (, ,)) (PP (IN among) (NP (DT all) (NNS candidates))) (, ,) (PP (IN among) (NP (JJ black) (JJ primary) (NNS voters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9bd\"},\"m2\":{\"start\":16,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["He","'s","the","No.","1","pick",",","the","most","popular",",","among","all","candidates",",","among","black","primary","voters","."]
+,"lemmas":["he","be","the","no.","1","pick",",","the","most","popular",",","among","all","candidate",",","among","black","primary","voter","."]
+,"posTags":["PRP","VBZ","DT","NN","CD","NN",",","DT","RBS","JJ",",","IN","DT","NNS",",","IN","JJ","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,5,5,5,5,-1,-2,9,9,5,-2,5,13,11,-2,5,18,18,15,-2]
+,"deprels":["nsubj","cop","det","nn","num","root",null,"det","advmod","appos",null,"prep","det","pobj",null,"prep","amod","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (NP (NP (DT the) (NN No.) (CD 1) (NN pick)) (, ,) (NP (DT the) (RBS most) (JJ popular)) (, ,)) (PP (IN among) (NP (DT all) (NNS candidates))) (, ,) (PP (IN among) (NP (JJ black) (JJ primary) (NNS voters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9d7\"},\"m2\":{\"start\":16,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9a9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["I","mean",",","you","ca","n't","dismiss","him","."]
+,"lemmas":["I","mean",",","you","can","not","dismiss","he","."]
+,"posTags":["PRP","VBP",",","PRP","MD","RB","VB","PRP","."]
+,"chunks":["B-NP","B-VP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[1,6,-2,6,6,6,-1,6,-2]
+,"deprels":["nsubj","ccomp",null,"nsubj","aux","neg","root","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP I)) (VP (VBP mean))) (, ,) (NP (PRP you)) (VP (MD ca) (RB n't) (VP (VB dismiss) (NP (PRP him)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb982\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9df\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["I","mean",",","you","ca","n't","dismiss","him","."]
+,"lemmas":["I","mean",",","you","can","not","dismiss","he","."]
+,"posTags":["PRP","VBP",",","PRP","MD","RB","VB","PRP","."]
+,"chunks":["B-NP","B-VP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[1,6,-2,6,6,6,-1,6,-2]
+,"deprels":["nsubj","ccomp",null,"nsubj","aux","neg","root","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP I)) (VP (VBP mean))) (, ,) (NP (PRP you)) (VP (MD ca) (RB n't) (VP (VB dismiss) (NP (PRP him)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb982\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["I","mean",",","you","ca","n't","dismiss","him","."]
+,"lemmas":["I","mean",",","you","can","not","dismiss","he","."]
+,"posTags":["PRP","VBP",",","PRP","MD","RB","VB","PRP","."]
+,"chunks":["B-NP","B-VP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[1,6,-2,6,6,6,-1,6,-2]
+,"deprels":["nsubj","ccomp",null,"nsubj","aux","neg","root","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP I)) (VP (VBP mean))) (, ,) (NP (PRP you)) (VP (MD ca) (RB n't) (VP (VB dismiss) (NP (PRP him)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9df\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["He","'s","a","serious","candidate","."]
+,"lemmas":["he","be","a","serious","candidate","."]
+,"posTags":["PRP","VBZ","DT","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,-2]
+,"deprels":["nsubj","cop","det","amod","root",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VBZ 's) (NP (DT a) (JJ serious) (NN candidate))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b7\"},\"m2\":{\"start\":2,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["He","'s","not","a","serious","candidate","."]
+,"lemmas":["he","be","not","a","serious","candidate","."]
+,"posTags":["PRP","VBZ","RB","DT","JJ","NN","."]
+,"chunks":["B-NP","B-VP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[5,5,5,5,5,-1,-2]
+,"deprels":["nsubj","cop","neg","det","amod","root",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VBZ 's) (RB not) (NP (DT a) (JJ serious) (NN candidate))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9b9\"},\"m2\":{\"start\":3,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb998\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["He","'s","right","wing","fantasy","and","it","'s","never","going","to","happen","."]
+,"lemmas":["he","be","right","wing","fantasy","and","it","be","never","go","to","happen","."]
+,"posTags":["PRP","VBZ","JJ","NN","NN","CC","PRP","VBZ","RB","VBG","TO","VB","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[4,4,4,4,-1,4,9,9,9,4,11,9,-2]
+,"deprels":["nsubj","cop","amod","nn","root","cc","nsubj","aux","neg","conj","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (NP (PRP He)) (VP (VBZ 's) (NP (JJ right) (NN wing) (NN fantasy)))) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADVP (RB never)) (VP (VBG going) (S (VP (TO to) (VP (VB happen))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ba\"},\"m2\":{\"start\":2,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9bb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Take","Al","Sharpton","seriously",",","that","'s","our","message","tonight","."]
+,"lemmas":["take","Al","Sharpton","seriously",",","that","be","we","message","tonight","."]
+,"posTags":["VB","NNP","NNP","RB",",","DT","VBZ","PRP$","NN","NN","."]
+,"chunks":["B-VP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[9,2,0,0,-2,9,9,9,9,-1,-2]
+,"deprels":["ccomp","nn","dobj","advmod",null,"nsubj","cop","poss","nn","root",null]
+,"naryTree":"((ROOT (S (S (VP (VB Take) (NP (NNP Al) (NNP Sharpton)) (ADVP (RB seriously)))) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (PRP$ our) (NN message) (NN tonight))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9bc\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb993\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["In","a","moment",",","we","'ll","ask","two","members","of","Congress","if","they","'re","convinced","that","war","is","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"lemmas":["in","a","moment",",","we","'ll","ask","two","member","of","Congress","if","they","be","convince","that","war","be","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"posTags":["IN","DT","NN",",","PRP","MD","VB","CD","NNS","IN","NNP","IN","PRP","VBP","VBN","IN","NN","VBZ","DT","JJ","NN","TO","VB","NNP","NNP","VBP","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADJP","B-SBAR","B-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-VP","O"]
+,"parents":[6,2,0,-2,6,6,-1,8,6,8,9,14,14,14,6,20,20,20,20,20,14,22,20,24,25,22,-2]
+,"deprels":["prep","det","pobj",null,"nsubj","aux","root","num","dobj","prep","pobj","mark","nsubjpass","auxpass","advcl","mark","nsubj","cop","det","amod","ccomp","aux","vmod","nn","nsubj","ccomp",null]
+,"naryTree":"((ROOT (S (PP (IN In) (NP (DT a) (NN moment))) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB ask) (NP (NP (CD two) (NNS members)) (PP (IN of) (NP (NNP Congress)))) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 're) (ADJP (VBN convinced) (SBAR (IN that) (S (NP (NN war)) (VP (VBZ is) (NP (DT the) (JJ only) (NN way) (S (VP (TO to) (VP (VB make) (SBAR (S (NP (NNP Saddam) (NNP Hussein)) (VP (VBP disarm))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb97b\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb97e\"}}]"
+,"relLabels":["ORG-AFF(Arg-1,Arg-2)"]}
+
+{"words":["In","a","moment",",","we","'ll","ask","two","members","of","Congress","if","they","'re","convinced","that","war","is","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"lemmas":["in","a","moment",",","we","'ll","ask","two","member","of","Congress","if","they","be","convince","that","war","be","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"posTags":["IN","DT","NN",",","PRP","MD","VB","CD","NNS","IN","NNP","IN","PRP","VBP","VBN","IN","NN","VBZ","DT","JJ","NN","TO","VB","NNP","NNP","VBP","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADJP","B-SBAR","B-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-VP","O"]
+,"parents":[6,2,0,-2,6,6,-1,8,6,8,9,14,14,14,6,20,20,20,20,20,14,22,20,24,25,22,-2]
+,"deprels":["prep","det","pobj",null,"nsubj","aux","root","num","dobj","prep","pobj","mark","nsubjpass","auxpass","advcl","mark","nsubj","cop","det","amod","ccomp","aux","vmod","nn","nsubj","ccomp",null]
+,"naryTree":"((ROOT (S (PP (IN In) (NP (DT a) (NN moment))) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB ask) (NP (NP (CD two) (NNS members)) (PP (IN of) (NP (NNP Congress)))) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 're) (ADJP (VBN convinced) (SBAR (IN that) (S (NP (NN war)) (VP (VBZ is) (NP (DT the) (JJ only) (NN way) (S (VP (TO to) (VP (VB make) (SBAR (S (NP (NNP Saddam) (NNP Hussein)) (VP (VBP disarm))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb994\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb97b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["In","a","moment",",","we","'ll","ask","two","members","of","Congress","if","they","'re","convinced","that","war","is","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"lemmas":["in","a","moment",",","we","'ll","ask","two","member","of","Congress","if","they","be","convince","that","war","be","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"posTags":["IN","DT","NN",",","PRP","MD","VB","CD","NNS","IN","NNP","IN","PRP","VBP","VBN","IN","NN","VBZ","DT","JJ","NN","TO","VB","NNP","NNP","VBP","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADJP","B-SBAR","B-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-VP","O"]
+,"parents":[6,2,0,-2,6,6,-1,8,6,8,9,14,14,14,6,20,20,20,20,20,14,22,20,24,25,22,-2]
+,"deprels":["prep","det","pobj",null,"nsubj","aux","root","num","dobj","prep","pobj","mark","nsubjpass","auxpass","advcl","mark","nsubj","cop","det","amod","ccomp","aux","vmod","nn","nsubj","ccomp",null]
+,"naryTree":"((ROOT (S (PP (IN In) (NP (DT a) (NN moment))) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB ask) (NP (NP (CD two) (NNS members)) (PP (IN of) (NP (NNP Congress)))) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 're) (ADJP (VBN convinced) (SBAR (IN that) (S (NP (NN war)) (VP (VBZ is) (NP (DT the) (JJ only) (NN way) (S (VP (TO to) (VP (VB make) (SBAR (S (NP (NNP Saddam) (NNP Hussein)) (VP (VBP disarm))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb994\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb97e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["In","a","moment",",","we","'ll","ask","two","members","of","Congress","if","they","'re","convinced","that","war","is","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"lemmas":["in","a","moment",",","we","'ll","ask","two","member","of","Congress","if","they","be","convince","that","war","be","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"posTags":["IN","DT","NN",",","PRP","MD","VB","CD","NNS","IN","NNP","IN","PRP","VBP","VBN","IN","NN","VBZ","DT","JJ","NN","TO","VB","NNP","NNP","VBP","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADJP","B-SBAR","B-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-VP","O"]
+,"parents":[6,2,0,-2,6,6,-1,8,6,8,9,14,14,14,6,20,20,20,20,20,14,22,20,24,25,22,-2]
+,"deprels":["prep","det","pobj",null,"nsubj","aux","root","num","dobj","prep","pobj","mark","nsubjpass","auxpass","advcl","mark","nsubj","cop","det","amod","ccomp","aux","vmod","nn","nsubj","ccomp",null]
+,"naryTree":"((ROOT (S (PP (IN In) (NP (DT a) (NN moment))) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB ask) (NP (NP (CD two) (NNS members)) (PP (IN of) (NP (NNP Congress)))) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 're) (ADJP (VBN convinced) (SBAR (IN that) (S (NP (NN war)) (VP (VBZ is) (NP (DT the) (JJ only) (NN way) (S (VP (TO to) (VP (VB make) (SBAR (S (NP (NNP Saddam) (NNP Hussein)) (VP (VBP disarm))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb994\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb97c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["In","a","moment",",","we","'ll","ask","two","members","of","Congress","if","they","'re","convinced","that","war","is","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"lemmas":["in","a","moment",",","we","'ll","ask","two","member","of","Congress","if","they","be","convince","that","war","be","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"posTags":["IN","DT","NN",",","PRP","MD","VB","CD","NNS","IN","NNP","IN","PRP","VBP","VBN","IN","NN","VBZ","DT","JJ","NN","TO","VB","NNP","NNP","VBP","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADJP","B-SBAR","B-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-VP","O"]
+,"parents":[6,2,0,-2,6,6,-1,8,6,8,9,14,14,14,6,20,20,20,20,20,14,22,20,24,25,22,-2]
+,"deprels":["prep","det","pobj",null,"nsubj","aux","root","num","dobj","prep","pobj","mark","nsubjpass","auxpass","advcl","mark","nsubj","cop","det","amod","ccomp","aux","vmod","nn","nsubj","ccomp",null]
+,"naryTree":"((ROOT (S (PP (IN In) (NP (DT a) (NN moment))) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB ask) (NP (NP (CD two) (NNS members)) (PP (IN of) (NP (NNP Congress)))) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 're) (ADJP (VBN convinced) (SBAR (IN that) (S (NP (NN war)) (VP (VBZ is) (NP (DT the) (JJ only) (NN way) (S (VP (TO to) (VP (VB make) (SBAR (S (NP (NNP Saddam) (NNP Hussein)) (VP (VBP disarm))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb994\"},\"m2\":{\"start\":23,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb977\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["In","a","moment",",","we","'ll","ask","two","members","of","Congress","if","they","'re","convinced","that","war","is","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"lemmas":["in","a","moment",",","we","'ll","ask","two","member","of","Congress","if","they","be","convince","that","war","be","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"posTags":["IN","DT","NN",",","PRP","MD","VB","CD","NNS","IN","NNP","IN","PRP","VBP","VBN","IN","NN","VBZ","DT","JJ","NN","TO","VB","NNP","NNP","VBP","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADJP","B-SBAR","B-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-VP","O"]
+,"parents":[6,2,0,-2,6,6,-1,8,6,8,9,14,14,14,6,20,20,20,20,20,14,22,20,24,25,22,-2]
+,"deprels":["prep","det","pobj",null,"nsubj","aux","root","num","dobj","prep","pobj","mark","nsubjpass","auxpass","advcl","mark","nsubj","cop","det","amod","ccomp","aux","vmod","nn","nsubj","ccomp",null]
+,"naryTree":"((ROOT (S (PP (IN In) (NP (DT a) (NN moment))) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB ask) (NP (NP (CD two) (NNS members)) (PP (IN of) (NP (NNP Congress)))) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 're) (ADJP (VBN convinced) (SBAR (IN that) (S (NP (NN war)) (VP (VBZ is) (NP (DT the) (JJ only) (NN way) (S (VP (TO to) (VP (VB make) (SBAR (S (NP (NNP Saddam) (NNP Hussein)) (VP (VBP disarm))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb97b\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb97c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["In","a","moment",",","we","'ll","ask","two","members","of","Congress","if","they","'re","convinced","that","war","is","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"lemmas":["in","a","moment",",","we","'ll","ask","two","member","of","Congress","if","they","be","convince","that","war","be","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"posTags":["IN","DT","NN",",","PRP","MD","VB","CD","NNS","IN","NNP","IN","PRP","VBP","VBN","IN","NN","VBZ","DT","JJ","NN","TO","VB","NNP","NNP","VBP","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADJP","B-SBAR","B-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-VP","O"]
+,"parents":[6,2,0,-2,6,6,-1,8,6,8,9,14,14,14,6,20,20,20,20,20,14,22,20,24,25,22,-2]
+,"deprels":["prep","det","pobj",null,"nsubj","aux","root","num","dobj","prep","pobj","mark","nsubjpass","auxpass","advcl","mark","nsubj","cop","det","amod","ccomp","aux","vmod","nn","nsubj","ccomp",null]
+,"naryTree":"((ROOT (S (PP (IN In) (NP (DT a) (NN moment))) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB ask) (NP (NP (CD two) (NNS members)) (PP (IN of) (NP (NNP Congress)))) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 're) (ADJP (VBN convinced) (SBAR (IN that) (S (NP (NN war)) (VP (VBZ is) (NP (DT the) (JJ only) (NN way) (S (VP (TO to) (VP (VB make) (SBAR (S (NP (NNP Saddam) (NNP Hussein)) (VP (VBP disarm))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb97b\"},\"m2\":{\"start\":23,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb977\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["In","a","moment",",","we","'ll","ask","two","members","of","Congress","if","they","'re","convinced","that","war","is","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"lemmas":["in","a","moment",",","we","'ll","ask","two","member","of","Congress","if","they","be","convince","that","war","be","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"posTags":["IN","DT","NN",",","PRP","MD","VB","CD","NNS","IN","NNP","IN","PRP","VBP","VBN","IN","NN","VBZ","DT","JJ","NN","TO","VB","NNP","NNP","VBP","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADJP","B-SBAR","B-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-VP","O"]
+,"parents":[6,2,0,-2,6,6,-1,8,6,8,9,14,14,14,6,20,20,20,20,20,14,22,20,24,25,22,-2]
+,"deprels":["prep","det","pobj",null,"nsubj","aux","root","num","dobj","prep","pobj","mark","nsubjpass","auxpass","advcl","mark","nsubj","cop","det","amod","ccomp","aux","vmod","nn","nsubj","ccomp",null]
+,"naryTree":"((ROOT (S (PP (IN In) (NP (DT a) (NN moment))) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB ask) (NP (NP (CD two) (NNS members)) (PP (IN of) (NP (NNP Congress)))) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 're) (ADJP (VBN convinced) (SBAR (IN that) (S (NP (NN war)) (VP (VBZ is) (NP (DT the) (JJ only) (NN way) (S (VP (TO to) (VP (VB make) (SBAR (S (NP (NNP Saddam) (NNP Hussein)) (VP (VBP disarm))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb97e\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb97c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["In","a","moment",",","we","'ll","ask","two","members","of","Congress","if","they","'re","convinced","that","war","is","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"lemmas":["in","a","moment",",","we","'ll","ask","two","member","of","Congress","if","they","be","convince","that","war","be","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"posTags":["IN","DT","NN",",","PRP","MD","VB","CD","NNS","IN","NNP","IN","PRP","VBP","VBN","IN","NN","VBZ","DT","JJ","NN","TO","VB","NNP","NNP","VBP","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADJP","B-SBAR","B-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-VP","O"]
+,"parents":[6,2,0,-2,6,6,-1,8,6,8,9,14,14,14,6,20,20,20,20,20,14,22,20,24,25,22,-2]
+,"deprels":["prep","det","pobj",null,"nsubj","aux","root","num","dobj","prep","pobj","mark","nsubjpass","auxpass","advcl","mark","nsubj","cop","det","amod","ccomp","aux","vmod","nn","nsubj","ccomp",null]
+,"naryTree":"((ROOT (S (PP (IN In) (NP (DT a) (NN moment))) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB ask) (NP (NP (CD two) (NNS members)) (PP (IN of) (NP (NNP Congress)))) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 're) (ADJP (VBN convinced) (SBAR (IN that) (S (NP (NN war)) (VP (VBZ is) (NP (DT the) (JJ only) (NN way) (S (VP (TO to) (VP (VB make) (SBAR (S (NP (NNP Saddam) (NNP Hussein)) (VP (VBP disarm))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb97e\"},\"m2\":{\"start\":23,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb977\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["In","a","moment",",","we","'ll","ask","two","members","of","Congress","if","they","'re","convinced","that","war","is","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"lemmas":["in","a","moment",",","we","'ll","ask","two","member","of","Congress","if","they","be","convince","that","war","be","the","only","way","to","make","Saddam","Hussein","disarm","."]
+,"posTags":["IN","DT","NN",",","PRP","MD","VB","CD","NNS","IN","NNP","IN","PRP","VBP","VBN","IN","NN","VBZ","DT","JJ","NN","TO","VB","NNP","NNP","VBP","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADJP","B-SBAR","B-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-VP","O"]
+,"parents":[6,2,0,-2,6,6,-1,8,6,8,9,14,14,14,6,20,20,20,20,20,14,22,20,24,25,22,-2]
+,"deprels":["prep","det","pobj",null,"nsubj","aux","root","num","dobj","prep","pobj","mark","nsubjpass","auxpass","advcl","mark","nsubj","cop","det","amod","ccomp","aux","vmod","nn","nsubj","ccomp",null]
+,"naryTree":"((ROOT (S (PP (IN In) (NP (DT a) (NN moment))) (, ,) (NP (PRP we)) (VP (MD 'll) (VP (VB ask) (NP (NP (CD two) (NNS members)) (PP (IN of) (NP (NNP Congress)))) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 're) (ADJP (VBN convinced) (SBAR (IN that) (S (NP (NN war)) (VP (VBZ is) (NP (DT the) (JJ only) (NN way) (S (VP (TO to) (VP (VB make) (SBAR (S (NP (NNP Saddam) (NNP Hussein)) (VP (VBP disarm))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb97c\"},\"m2\":{\"start\":23,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb977\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Maureen","Orth","can",",","and","she","does","in","a","new","``","Vanity","Fair","''","profile","of","Michael","Jackson","."]
+,"lemmas":["Maureen","Orth","can",",","and","she","do","in","a","new","``","Vanity","Fair","''","profile","of","Michael","Jackson","."]
+,"posTags":["NNP","NNP","MD",",","CC","PRP","VBZ","IN","DT","JJ","``","NNP","NNP","''","NN","IN","NNP","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","O","O","B-NP","B-VP","B-PP","O","O","O","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,-2,2,6,2,6,14,14,-2,12,14,-2,7,14,17,15,-2]
+,"deprels":["nn","nsubj","root",null,"cc","nsubj","conj","prep","det","amod",null,"nn","nn",null,"pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NNP Maureen) (NNP Orth)) (VP (MD can))) (, ,) (CC and) (S (NP (PRP she)) (VP (VBZ does) (PP (IN in) (NP (NP (DT a) (JJ new) (`` ``) (NP (NNP Vanity) (NNP Fair)) ('' '') (NN profile)) (PP (IN of) (NP (NNP Michael) (NNP Jackson))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c9\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ca\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Maureen","Orth","can",",","and","she","does","in","a","new","``","Vanity","Fair","''","profile","of","Michael","Jackson","."]
+,"lemmas":["Maureen","Orth","can",",","and","she","do","in","a","new","``","Vanity","Fair","''","profile","of","Michael","Jackson","."]
+,"posTags":["NNP","NNP","MD",",","CC","PRP","VBZ","IN","DT","JJ","``","NNP","NNP","''","NN","IN","NNP","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","O","O","B-NP","B-VP","B-PP","O","O","O","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,-2,2,6,2,6,14,14,-2,12,14,-2,7,14,17,15,-2]
+,"deprels":["nn","nsubj","root",null,"cc","nsubj","conj","prep","det","amod",null,"nn","nn",null,"pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NNP Maureen) (NNP Orth)) (VP (MD can))) (, ,) (CC and) (S (NP (PRP she)) (VP (VBZ does) (PP (IN in) (NP (NP (DT a) (JJ new) (`` ``) (NP (NNP Vanity) (NNP Fair)) ('' '') (NN profile)) (PP (IN of) (NP (NNP Michael) (NNP Jackson))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c9\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9d0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Maureen","Orth","can",",","and","she","does","in","a","new","``","Vanity","Fair","''","profile","of","Michael","Jackson","."]
+,"lemmas":["Maureen","Orth","can",",","and","she","do","in","a","new","``","Vanity","Fair","''","profile","of","Michael","Jackson","."]
+,"posTags":["NNP","NNP","MD",",","CC","PRP","VBZ","IN","DT","JJ","``","NNP","NNP","''","NN","IN","NNP","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","O","O","B-NP","B-VP","B-PP","O","O","O","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,-2,2,6,2,6,14,14,-2,12,14,-2,7,14,17,15,-2]
+,"deprels":["nn","nsubj","root",null,"cc","nsubj","conj","prep","det","amod",null,"nn","nn",null,"pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NNP Maureen) (NNP Orth)) (VP (MD can))) (, ,) (CC and) (S (NP (PRP she)) (VP (VBZ does) (PP (IN in) (NP (NP (DT a) (JJ new) (`` ``) (NP (NNP Vanity) (NNP Fair)) ('' '') (NN profile)) (PP (IN of) (NP (NNP Michael) (NNP Jackson))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c9\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Maureen","Orth","can",",","and","she","does","in","a","new","``","Vanity","Fair","''","profile","of","Michael","Jackson","."]
+,"lemmas":["Maureen","Orth","can",",","and","she","do","in","a","new","``","Vanity","Fair","''","profile","of","Michael","Jackson","."]
+,"posTags":["NNP","NNP","MD",",","CC","PRP","VBZ","IN","DT","JJ","``","NNP","NNP","''","NN","IN","NNP","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","O","O","B-NP","B-VP","B-PP","O","O","O","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,-2,2,6,2,6,14,14,-2,12,14,-2,7,14,17,15,-2]
+,"deprels":["nn","nsubj","root",null,"cc","nsubj","conj","prep","det","amod",null,"nn","nn",null,"pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NNP Maureen) (NNP Orth)) (VP (MD can))) (, ,) (CC and) (S (NP (PRP she)) (VP (VBZ does) (PP (IN in) (NP (NP (DT a) (JJ new) (`` ``) (NP (NNP Vanity) (NNP Fair)) ('' '') (NN profile)) (PP (IN of) (NP (NNP Michael) (NNP Jackson))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ca\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9d0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Maureen","Orth","can",",","and","she","does","in","a","new","``","Vanity","Fair","''","profile","of","Michael","Jackson","."]
+,"lemmas":["Maureen","Orth","can",",","and","she","do","in","a","new","``","Vanity","Fair","''","profile","of","Michael","Jackson","."]
+,"posTags":["NNP","NNP","MD",",","CC","PRP","VBZ","IN","DT","JJ","``","NNP","NNP","''","NN","IN","NNP","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","O","O","B-NP","B-VP","B-PP","O","O","O","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,-2,2,6,2,6,14,14,-2,12,14,-2,7,14,17,15,-2]
+,"deprels":["nn","nsubj","root",null,"cc","nsubj","conj","prep","det","amod",null,"nn","nn",null,"pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NNP Maureen) (NNP Orth)) (VP (MD can))) (, ,) (CC and) (S (NP (PRP she)) (VP (VBZ does) (PP (IN in) (NP (NP (DT a) (JJ new) (`` ``) (NP (NNP Vanity) (NNP Fair)) ('' '') (NN profile)) (PP (IN of) (NP (NNP Michael) (NNP Jackson))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9ca\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Maureen","Orth","can",",","and","she","does","in","a","new","``","Vanity","Fair","''","profile","of","Michael","Jackson","."]
+,"lemmas":["Maureen","Orth","can",",","and","she","do","in","a","new","``","Vanity","Fair","''","profile","of","Michael","Jackson","."]
+,"posTags":["NNP","NNP","MD",",","CC","PRP","VBZ","IN","DT","JJ","``","NNP","NNP","''","NN","IN","NNP","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","O","O","B-NP","B-VP","B-PP","O","O","O","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,-2,2,6,2,6,14,14,-2,12,14,-2,7,14,17,15,-2]
+,"deprels":["nn","nsubj","root",null,"cc","nsubj","conj","prep","det","amod",null,"nn","nn",null,"pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NNP Maureen) (NNP Orth)) (VP (MD can))) (, ,) (CC and) (S (NP (PRP she)) (VP (VBZ does) (PP (IN in) (NP (NP (DT a) (JJ new) (`` ``) (NP (NNP Vanity) (NNP Fair)) ('' '') (NN profile)) (PP (IN of) (NP (NNP Michael) (NNP Jackson))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9d0\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9c2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ll","talk","to","her","."]
+,"lemmas":["we","'ll","talk","to","she","."]
+,"posTags":["PRP","MD","VB","TO","PRP","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,-2]
+,"deprels":["nsubj","aux","root","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP We)) (VP (MD 'll) (VP (VB talk) (PP (TO to) (NP (PRP her))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb995\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"05fdc43d-1c98-e4f8-2e24-000035bbb9cb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

@@ -1,0 +1,310 @@
+{"words":["the","story","of","one","boy","who","'s","lucky","enough","to","be","alive","."]
+,"lemmas":["the","story","of","one","boy","who","be","lucky","enough","to","be","alive","."]
+,"posTags":["DT","NN","IN","CD","NN","WP","VBZ","JJ","RB","TO","VB","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","B-VP","I-VP","B-ADJP","O"]
+,"parents":[1,-1,1,4,2,7,7,4,7,11,11,7,-2]
+,"deprels":["det","root","prep","num","pobj","nsubj","cop","rcmod","advmod","aux","cop","xcomp",null]
+,"naryTree":"((ROOT (NP (NP (DT the) (NN story)) (PP (IN of) (NP (NP (CD one) (NN boy)) (SBAR (WHNP (WP who)) (S (VP (VBZ 's) (ADJP (JJ lucky) (RB enough) (S (VP (TO to) (VP (VB be) (ADJP (JJ alive))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3aa\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3ab\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","'m","mary","snow","with","this","check","of","head","lines","."]
+,"lemmas":["i","be","mary","snow","with","this","check","of","head","line","."]
+,"posTags":["LS","VBP","JJ","NN","IN","DT","NN","IN","NN","NNS","."]
+,"chunks":["O","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,6,4,6,9,7,-2]
+,"deprels":["nsubj","cop","amod","root","prep","det","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VBP 'm) (NP (NP (JJ mary) (NN snow)) (PP (IN with) (NP (NP (DT this) (NN check)) (PP (IN of) (NP (NN head) (NNS lines))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a5\"},\"m2\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["american","airlines","'","fate","is","hanging","on","its","flight","attend","attendant","'s","union","."]
+,"lemmas":["american","airline","'","fate","be","hang","on","its","flight","attend","attendant","'s","union","."]
+,"posTags":["JJ","NNS","POS","NN","VBZ","VBG","IN","PRP$","NN","VB","NN","POS","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[1,3,-2,5,5,-1,5,8,6,5,12,10,9,-2]
+,"deprels":["amod","poss",null,"nsubj","aux","root","prep","poss","pobj","ccomp","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (JJ american) (NNS airlines) (POS ')) (NN fate)) (VP (VBZ is) (VP (VBG hanging) (PP (IN on) (NP (PRP$ its) (NN flight))) (S (VP (VB attend) (NP (NP (NN attendant) (POS 's)) (NN union)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b4\"},\"m2\":{\"start\":7,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a8\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["american","airlines","'","fate","is","hanging","on","its","flight","attend","attendant","'s","union","."]
+,"lemmas":["american","airline","'","fate","be","hang","on","its","flight","attend","attendant","'s","union","."]
+,"posTags":["JJ","NNS","POS","NN","VBZ","VBG","IN","PRP$","NN","VB","NN","POS","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[1,3,-2,5,5,-1,5,8,6,5,12,10,9,-2]
+,"deprels":["amod","poss",null,"nsubj","aux","root","prep","poss","pobj","ccomp","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (JJ american) (NNS airlines) (POS ')) (NN fate)) (VP (VBZ is) (VP (VBG hanging) (PP (IN on) (NP (PRP$ its) (NN flight))) (S (VP (VB attend) (NP (NP (NN attendant) (POS 's)) (NN union)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a8\"},\"m2\":{\"start\":7,\"end\":13,\"head\":12,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3ad\"}}]"
+,"relLabels":["ORG-AFF(Arg-1,Arg-2)"]}
+
+{"words":["american","airlines","'","fate","is","hanging","on","its","flight","attend","attendant","'s","union","."]
+,"lemmas":["american","airline","'","fate","be","hang","on","its","flight","attend","attendant","'s","union","."]
+,"posTags":["JJ","NNS","POS","NN","VBZ","VBG","IN","PRP$","NN","VB","NN","POS","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[1,3,-2,5,5,-1,5,8,6,5,12,10,9,-2]
+,"deprels":["amod","poss",null,"nsubj","aux","root","prep","poss","pobj","ccomp","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (JJ american) (NNS airlines) (POS ')) (NN fate)) (VP (VBZ is) (VP (VBG hanging) (PP (IN on) (NP (PRP$ its) (NN flight))) (S (VP (VB attend) (NP (NP (NN attendant) (POS 's)) (NN union)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b3\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["american","airlines","'","fate","is","hanging","on","its","flight","attend","attendant","'s","union","."]
+,"lemmas":["american","airline","'","fate","be","hang","on","its","flight","attend","attendant","'s","union","."]
+,"posTags":["JJ","NNS","POS","NN","VBZ","VBG","IN","PRP$","NN","VB","NN","POS","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[1,3,-2,5,5,-1,5,8,6,5,12,10,9,-2]
+,"deprels":["amod","poss",null,"nsubj","aux","root","prep","poss","pobj","ccomp","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (JJ american) (NNS airlines) (POS ')) (NN fate)) (VP (VBZ is) (VP (VBG hanging) (PP (IN on) (NP (PRP$ its) (NN flight))) (S (VP (VB attend) (NP (NP (NN attendant) (POS 's)) (NN union)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b3\"},\"m2\":{\"start\":7,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["american","airlines","'","fate","is","hanging","on","its","flight","attend","attendant","'s","union","."]
+,"lemmas":["american","airline","'","fate","be","hang","on","its","flight","attend","attendant","'s","union","."]
+,"posTags":["JJ","NNS","POS","NN","VBZ","VBG","IN","PRP$","NN","VB","NN","POS","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[1,3,-2,5,5,-1,5,8,6,5,12,10,9,-2]
+,"deprels":["amod","poss",null,"nsubj","aux","root","prep","poss","pobj","ccomp","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (JJ american) (NNS airlines) (POS ')) (NN fate)) (VP (VBZ is) (VP (VBG hanging) (PP (IN on) (NP (PRP$ its) (NN flight))) (S (VP (VB attend) (NP (NP (NN attendant) (POS 's)) (NN union)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b3\"},\"m2\":{\"start\":7,\"end\":13,\"head\":12,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3ad\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["american","airlines","'","fate","is","hanging","on","its","flight","attend","attendant","'s","union","."]
+,"lemmas":["american","airline","'","fate","be","hang","on","its","flight","attend","attendant","'s","union","."]
+,"posTags":["JJ","NNS","POS","NN","VBZ","VBG","IN","PRP$","NN","VB","NN","POS","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[1,3,-2,5,5,-1,5,8,6,5,12,10,9,-2]
+,"deprels":["amod","poss",null,"nsubj","aux","root","prep","poss","pobj","ccomp","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (JJ american) (NNS airlines) (POS ')) (NN fate)) (VP (VBZ is) (VP (VBG hanging) (PP (IN on) (NP (PRP$ its) (NN flight))) (S (VP (VB attend) (NP (NP (NN attendant) (POS 's)) (NN union)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b4\"},\"m2\":{\"start\":7,\"end\":13,\"head\":12,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3ad\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["if","the","workers","do","n't","approve","the","steep","cut","backs","american","says","it","will","file","for","bankruptcy","."]
+,"lemmas":["if","the","worker","do","not","approve","the","steep","cut","back","american","say","it","will","file","for","bankruptcy","."]
+,"posTags":["IN","DT","NNS","VBP","RB","VB","DT","JJ","NN","NNS","NN","VBZ","PRP","MD","VB","IN","NN","."]
+,"chunks":["B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[5,2,5,5,5,11,10,10,10,10,5,-1,14,14,11,14,15,-2]
+,"deprels":["mark","det","nsubj","aux","neg","csubj","det","amod","nn","nn","dobj","root","nsubj","aux","ccomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (IN if) (S (NP (DT the) (NNS workers)) (VP (VBP do) (RB n't) (VP (VB approve) (NP (DT the) (JJ steep) (NN cut) (NNS backs) (NN american)))))) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB file) (PP (IN for) (NP (NN bankruptcy)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3c5\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["if","the","workers","do","n't","approve","the","steep","cut","backs","american","says","it","will","file","for","bankruptcy","."]
+,"lemmas":["if","the","worker","do","not","approve","the","steep","cut","back","american","say","it","will","file","for","bankruptcy","."]
+,"posTags":["IN","DT","NNS","VBP","RB","VB","DT","JJ","NN","NNS","NN","VBZ","PRP","MD","VB","IN","NN","."]
+,"chunks":["B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[5,2,5,5,5,11,10,10,10,10,5,-1,14,14,11,14,15,-2]
+,"deprels":["mark","det","nsubj","aux","neg","csubj","det","amod","nn","nn","dobj","root","nsubj","aux","ccomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (IN if) (S (NP (DT the) (NNS workers)) (VP (VBP do) (RB n't) (VP (VB approve) (NP (DT the) (JJ steep) (NN cut) (NNS backs) (NN american)))))) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB file) (PP (IN for) (NP (NN bankruptcy)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3c5\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["if","the","workers","do","n't","approve","the","steep","cut","backs","american","says","it","will","file","for","bankruptcy","."]
+,"lemmas":["if","the","worker","do","not","approve","the","steep","cut","back","american","say","it","will","file","for","bankruptcy","."]
+,"posTags":["IN","DT","NNS","VBP","RB","VB","DT","JJ","NN","NNS","NN","VBZ","PRP","MD","VB","IN","NN","."]
+,"chunks":["B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[5,2,5,5,5,11,10,10,10,10,5,-1,14,14,11,14,15,-2]
+,"deprels":["mark","det","nsubj","aux","neg","csubj","det","amod","nn","nn","dobj","root","nsubj","aux","ccomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (IN if) (S (NP (DT the) (NNS workers)) (VP (VBP do) (RB n't) (VP (VB approve) (NP (DT the) (JJ steep) (NN cut) (NNS backs) (NN american)))))) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB file) (PP (IN for) (NP (NN bankruptcy)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b5\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["yesterday","american","pilots","mechanics","approved","their","share","$","1.8","billion","in","labor","concession","."]
+,"lemmas":["yesterday","american","pilot","mechanic","approve","they","share","$","1.8","billion","in","labor","concession","."]
+,"posTags":["NN","NN","NNS","NNS","VBD","PRP$","NN","$","CD","CD","IN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,3,3,4,-1,6,4,10,9,7,4,12,10,-2]
+,"deprels":["tmod","nn","nn","nsubj","root","poss","dobj","npadvmod","number","num","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP-TMP (NN yesterday)) (NP (NN american) (NNS pilots) (NNS mechanics)) (VP (VBD approved) (NP (PRP$ their) (NN share)) (PP (NP (QP ($ $) (CD 1.8) (CD billion))) (IN in) (NP (NN labor) (NN concession)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b7\"},\"m2\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b9\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["yesterday","american","pilots","mechanics","approved","their","share","$","1.8","billion","in","labor","concession","."]
+,"lemmas":["yesterday","american","pilot","mechanic","approve","they","share","$","1.8","billion","in","labor","concession","."]
+,"posTags":["NN","NN","NNS","NNS","VBD","PRP$","NN","$","CD","CD","IN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,3,3,4,-1,6,4,10,9,7,4,12,10,-2]
+,"deprels":["tmod","nn","nn","nsubj","root","poss","dobj","npadvmod","number","num","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP-TMP (NN yesterday)) (NP (NN american) (NNS pilots) (NNS mechanics)) (VP (VBD approved) (NP (PRP$ their) (NN share)) (PP (NP (QP ($ $) (CD 1.8) (CD billion))) (IN in) (NP (NN labor) (NN concession)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b7\"},\"m2\":{\"start\":1,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a2\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["yesterday","american","pilots","mechanics","approved","their","share","$","1.8","billion","in","labor","concession","."]
+,"lemmas":["yesterday","american","pilot","mechanic","approve","they","share","$","1.8","billion","in","labor","concession","."]
+,"posTags":["NN","NN","NNS","NNS","VBD","PRP$","NN","$","CD","CD","IN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,3,3,4,-1,6,4,10,9,7,4,12,10,-2]
+,"deprels":["tmod","nn","nn","nsubj","root","poss","dobj","npadvmod","number","num","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP-TMP (NN yesterday)) (NP (NN american) (NNS pilots) (NNS mechanics)) (VP (VBD approved) (NP (PRP$ their) (NN share)) (PP (NP (QP ($ $) (CD 1.8) (CD billion))) (IN in) (NP (NN labor) (NN concession)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b7\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["yesterday","american","pilots","mechanics","approved","their","share","$","1.8","billion","in","labor","concession","."]
+,"lemmas":["yesterday","american","pilot","mechanic","approve","they","share","$","1.8","billion","in","labor","concession","."]
+,"posTags":["NN","NN","NNS","NNS","VBD","PRP$","NN","$","CD","CD","IN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,3,3,4,-1,6,4,10,9,7,4,12,10,-2]
+,"deprels":["tmod","nn","nn","nsubj","root","poss","dobj","npadvmod","number","num","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP-TMP (NN yesterday)) (NP (NN american) (NNS pilots) (NNS mechanics)) (VP (VBD approved) (NP (PRP$ their) (NN share)) (PP (NP (QP ($ $) (CD 1.8) (CD billion))) (IN in) (NP (NN labor) (NN concession)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b9\"},\"m2\":{\"start\":1,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["yesterday","american","pilots","mechanics","approved","their","share","$","1.8","billion","in","labor","concession","."]
+,"lemmas":["yesterday","american","pilot","mechanic","approve","they","share","$","1.8","billion","in","labor","concession","."]
+,"posTags":["NN","NN","NNS","NNS","VBD","PRP$","NN","$","CD","CD","IN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,3,3,4,-1,6,4,10,9,7,4,12,10,-2]
+,"deprels":["tmod","nn","nn","nsubj","root","poss","dobj","npadvmod","number","num","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP-TMP (NN yesterday)) (NP (NN american) (NNS pilots) (NNS mechanics)) (VP (VBD approved) (NP (PRP$ their) (NN share)) (PP (NP (QP ($ $) (CD 1.8) (CD billion))) (IN in) (NP (NN labor) (NN concession)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b9\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["yesterday","american","pilots","mechanics","approved","their","share","$","1.8","billion","in","labor","concession","."]
+,"lemmas":["yesterday","american","pilot","mechanic","approve","they","share","$","1.8","billion","in","labor","concession","."]
+,"posTags":["NN","NN","NNS","NNS","VBD","PRP$","NN","$","CD","CD","IN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,3,3,4,-1,6,4,10,9,7,4,12,10,-2]
+,"deprels":["tmod","nn","nn","nsubj","root","poss","dobj","npadvmod","number","num","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP-TMP (NN yesterday)) (NP (NN american) (NNS pilots) (NNS mechanics)) (VP (VBD approved) (NP (PRP$ their) (NN share)) (PP (NP (QP ($ $) (CD 1.8) (CD billion))) (IN in) (NP (NN labor) (NN concession)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a2\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["america","warns","it","will","seek","more","layoffs","if","it","does","file","for","chapter","11","."]
+,"lemmas":["america","warn","it","will","seek","more","layoff","if","it","do","file","for","chapter","11","."]
+,"posTags":["NN","VBZ","PRP","MD","VB","JJR","NNS","IN","PRP","VBZ","VB","IN","NN","CD","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","B-SBAR","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,4,4,1,6,4,10,10,10,4,10,11,12,-2]
+,"deprels":["nsubj","root","nsubj","aux","ccomp","amod","dobj","mark","nsubj","aux","advcl","prep","pobj","num",null]
+,"naryTree":"((ROOT (S (NP (NN america)) (VP (VBZ warns) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB seek) (NP (JJR more) (NNS layoffs)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (VP (VB file) (PP (IN for) (NP (NN chapter) (CD 11)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b0\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["america","warns","it","will","seek","more","layoffs","if","it","does","file","for","chapter","11","."]
+,"lemmas":["america","warn","it","will","seek","more","layoff","if","it","do","file","for","chapter","11","."]
+,"posTags":["NN","VBZ","PRP","MD","VB","JJR","NNS","IN","PRP","VBZ","VB","IN","NN","CD","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","B-SBAR","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,4,4,1,6,4,10,10,10,4,10,11,12,-2]
+,"deprels":["nsubj","root","nsubj","aux","ccomp","amod","dobj","mark","nsubj","aux","advcl","prep","pobj","num",null]
+,"naryTree":"((ROOT (S (NP (NN america)) (VP (VBZ warns) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB seek) (NP (JJR more) (NNS layoffs)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (VP (VB file) (PP (IN for) (NP (NN chapter) (CD 11)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b0\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["america","warns","it","will","seek","more","layoffs","if","it","does","file","for","chapter","11","."]
+,"lemmas":["america","warn","it","will","seek","more","layoff","if","it","do","file","for","chapter","11","."]
+,"posTags":["NN","VBZ","PRP","MD","VB","JJR","NNS","IN","PRP","VBZ","VB","IN","NN","CD","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","B-SBAR","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,4,4,1,6,4,10,10,10,4,10,11,12,-2]
+,"deprels":["nsubj","root","nsubj","aux","ccomp","amod","dobj","mark","nsubj","aux","advcl","prep","pobj","num",null]
+,"naryTree":"((ROOT (S (NP (NN america)) (VP (VBZ warns) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB seek) (NP (JJR more) (NNS layoffs)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ does) (VP (VB file) (PP (IN for) (NP (NN chapter) (CD 11)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b1\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3b2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["number","of","companies","are","planning","to","cut","their","payrolls","."]
+,"lemmas":["number","of","company","be","plan","to","cut","they","payroll","."]
+,"posTags":["NN","IN","NNS","VBP","VBG","TO","VB","PRP$","NNS","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[4,0,1,4,-1,6,4,8,6,-2]
+,"deprels":["nsubj","prep","pobj","aux","root","aux","xcomp","poss","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN number)) (PP (IN of) (NP (NNS companies)))) (VP (VBP are) (VP (VBG planning) (S (VP (TO to) (VP (VB cut) (NP (PRP$ their) (NNS payrolls))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e39e\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e39d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["motorola","saying","it","will","eliminate","another","3,000","jobs",",","3","%","of","its","work","force","."]
+,"lemmas":["motorolum","say","it","will","eliminate","another","3,000","job",",","3","%","of","its","work","force","."]
+,"posTags":["NN","VBG","PRP","MD","VB","DT","CD","NNS",",","CD","NN","IN","PRP$","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,0,1,4,-1,7,7,4,-2,10,7,10,14,14,11,-2]
+,"deprels":["nsubj","vmod","dobj","aux","root","det","num","dobj",null,"num","appos","prep","poss","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN motorola)) (VP (VBG saying) (NP (PRP it)))) (VP (MD will) (VP (VB eliminate) (NP (NP (DT another) (CD 3,000) (NNS jobs)) (, ,) (NP (NP (CD 3) (NN %)) (PP (IN of) (NP (PRP$ its) (NN work) (NN force))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3bf\"},\"m2\":{\"start\":12,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a0\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["motorola","saying","it","will","eliminate","another","3,000","jobs",",","3","%","of","its","work","force","."]
+,"lemmas":["motorolum","say","it","will","eliminate","another","3,000","job",",","3","%","of","its","work","force","."]
+,"posTags":["NN","VBG","PRP","MD","VB","DT","CD","NNS",",","CD","NN","IN","PRP$","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,0,1,4,-1,7,7,4,-2,10,7,10,14,14,11,-2]
+,"deprels":["nsubj","vmod","dobj","aux","root","det","num","dobj",null,"num","appos","prep","poss","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN motorola)) (VP (VBG saying) (NP (PRP it)))) (VP (MD will) (VP (VB eliminate) (NP (NP (DT another) (CD 3,000) (NNS jobs)) (, ,) (NP (NP (CD 3) (NN %)) (PP (IN of) (NP (PRP$ its) (NN work) (NN force))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3bd\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3be\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["motorola","saying","it","will","eliminate","another","3,000","jobs",",","3","%","of","its","work","force","."]
+,"lemmas":["motorolum","say","it","will","eliminate","another","3,000","job",",","3","%","of","its","work","force","."]
+,"posTags":["NN","VBG","PRP","MD","VB","DT","CD","NNS",",","CD","NN","IN","PRP$","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,0,1,4,-1,7,7,4,-2,10,7,10,14,14,11,-2]
+,"deprels":["nsubj","vmod","dobj","aux","root","det","num","dobj",null,"num","appos","prep","poss","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN motorola)) (VP (VBG saying) (NP (PRP it)))) (VP (MD will) (VP (VB eliminate) (NP (NP (DT another) (CD 3,000) (NNS jobs)) (, ,) (NP (NP (CD 3) (NN %)) (PP (IN of) (NP (PRP$ its) (NN work) (NN force))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3bd\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3c3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["motorola","saying","it","will","eliminate","another","3,000","jobs",",","3","%","of","its","work","force","."]
+,"lemmas":["motorolum","say","it","will","eliminate","another","3,000","job",",","3","%","of","its","work","force","."]
+,"posTags":["NN","VBG","PRP","MD","VB","DT","CD","NNS",",","CD","NN","IN","PRP$","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,0,1,4,-1,7,7,4,-2,10,7,10,14,14,11,-2]
+,"deprels":["nsubj","vmod","dobj","aux","root","det","num","dobj",null,"num","appos","prep","poss","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN motorola)) (VP (VBG saying) (NP (PRP it)))) (VP (MD will) (VP (VB eliminate) (NP (NP (DT another) (CD 3,000) (NNS jobs)) (, ,) (NP (NP (CD 3) (NN %)) (PP (IN of) (NP (PRP$ its) (NN work) (NN force))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3bd\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3bf\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["motorola","saying","it","will","eliminate","another","3,000","jobs",",","3","%","of","its","work","force","."]
+,"lemmas":["motorolum","say","it","will","eliminate","another","3,000","job",",","3","%","of","its","work","force","."]
+,"posTags":["NN","VBG","PRP","MD","VB","DT","CD","NNS",",","CD","NN","IN","PRP$","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,0,1,4,-1,7,7,4,-2,10,7,10,14,14,11,-2]
+,"deprels":["nsubj","vmod","dobj","aux","root","det","num","dobj",null,"num","appos","prep","poss","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN motorola)) (VP (VBG saying) (NP (PRP it)))) (VP (MD will) (VP (VB eliminate) (NP (NP (DT another) (CD 3,000) (NNS jobs)) (, ,) (NP (NP (CD 3) (NN %)) (PP (IN of) (NP (PRP$ its) (NN work) (NN force))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3bd\"},\"m2\":{\"start\":12,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["motorola","saying","it","will","eliminate","another","3,000","jobs",",","3","%","of","its","work","force","."]
+,"lemmas":["motorolum","say","it","will","eliminate","another","3,000","job",",","3","%","of","its","work","force","."]
+,"posTags":["NN","VBG","PRP","MD","VB","DT","CD","NNS",",","CD","NN","IN","PRP$","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,0,1,4,-1,7,7,4,-2,10,7,10,14,14,11,-2]
+,"deprels":["nsubj","vmod","dobj","aux","root","det","num","dobj",null,"num","appos","prep","poss","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN motorola)) (VP (VBG saying) (NP (PRP it)))) (VP (MD will) (VP (VB eliminate) (NP (NP (DT another) (CD 3,000) (NNS jobs)) (, ,) (NP (NP (CD 3) (NN %)) (PP (IN of) (NP (PRP$ its) (NN work) (NN force))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3be\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3c3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["motorola","saying","it","will","eliminate","another","3,000","jobs",",","3","%","of","its","work","force","."]
+,"lemmas":["motorolum","say","it","will","eliminate","another","3,000","job",",","3","%","of","its","work","force","."]
+,"posTags":["NN","VBG","PRP","MD","VB","DT","CD","NNS",",","CD","NN","IN","PRP$","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,0,1,4,-1,7,7,4,-2,10,7,10,14,14,11,-2]
+,"deprels":["nsubj","vmod","dobj","aux","root","det","num","dobj",null,"num","appos","prep","poss","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN motorola)) (VP (VBG saying) (NP (PRP it)))) (VP (MD will) (VP (VB eliminate) (NP (NP (DT another) (CD 3,000) (NNS jobs)) (, ,) (NP (NP (CD 3) (NN %)) (PP (IN of) (NP (PRP$ its) (NN work) (NN force))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3be\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3bf\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["motorola","saying","it","will","eliminate","another","3,000","jobs",",","3","%","of","its","work","force","."]
+,"lemmas":["motorolum","say","it","will","eliminate","another","3,000","job",",","3","%","of","its","work","force","."]
+,"posTags":["NN","VBG","PRP","MD","VB","DT","CD","NNS",",","CD","NN","IN","PRP$","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,0,1,4,-1,7,7,4,-2,10,7,10,14,14,11,-2]
+,"deprels":["nsubj","vmod","dobj","aux","root","det","num","dobj",null,"num","appos","prep","poss","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN motorola)) (VP (VBG saying) (NP (PRP it)))) (VP (MD will) (VP (VB eliminate) (NP (NP (DT another) (CD 3,000) (NNS jobs)) (, ,) (NP (NP (CD 3) (NN %)) (PP (IN of) (NP (PRP$ its) (NN work) (NN force))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3be\"},\"m2\":{\"start\":12,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["motorola","saying","it","will","eliminate","another","3,000","jobs",",","3","%","of","its","work","force","."]
+,"lemmas":["motorolum","say","it","will","eliminate","another","3,000","job",",","3","%","of","its","work","force","."]
+,"posTags":["NN","VBG","PRP","MD","VB","DT","CD","NNS",",","CD","NN","IN","PRP$","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,0,1,4,-1,7,7,4,-2,10,7,10,14,14,11,-2]
+,"deprels":["nsubj","vmod","dobj","aux","root","det","num","dobj",null,"num","appos","prep","poss","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN motorola)) (VP (VBG saying) (NP (PRP it)))) (VP (MD will) (VP (VB eliminate) (NP (NP (DT another) (CD 3,000) (NNS jobs)) (, ,) (NP (NP (CD 3) (NN %)) (PP (IN of) (NP (PRP$ its) (NN work) (NN force))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3c3\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3bf\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["motorola","saying","it","will","eliminate","another","3,000","jobs",",","3","%","of","its","work","force","."]
+,"lemmas":["motorolum","say","it","will","eliminate","another","3,000","job",",","3","%","of","its","work","force","."]
+,"posTags":["NN","VBG","PRP","MD","VB","DT","CD","NNS",",","CD","NN","IN","PRP$","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,0,1,4,-1,7,7,4,-2,10,7,10,14,14,11,-2]
+,"deprels":["nsubj","vmod","dobj","aux","root","det","num","dobj",null,"num","appos","prep","poss","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN motorola)) (VP (VBG saying) (NP (PRP it)))) (VP (MD will) (VP (VB eliminate) (NP (NP (DT another) (CD 3,000) (NNS jobs)) (, ,) (NP (NP (CD 3) (NN %)) (PP (IN of) (NP (PRP$ its) (NN work) (NN force))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3c3\"},\"m2\":{\"start\":12,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"7ac94271-0751-c846-0fe5-00003a90e3a0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

@@ -1,0 +1,170 @@
+{"words":["I","was","hoping","for","another","incredibly","drawn-out","story",",","full","of","antitrust","drama",",","lurking","potential","bidders",",","and","contentious","confrontations","between","executives","."]
+,"lemmas":["I","be","hope","for","another","incredibly","drawn-out","story",",","full","of","antitrust","drama",",","lurk","potential","bidder",",","and","contentious","confrontation","between","executive","."]
+,"posTags":["PRP","VBD","VBG","IN","DT","RB","JJ","NN",",","JJ","IN","JJ","NN",",","VBG","JJ","NNS",",","CC","JJ","NNS","IN","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","I-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","O","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,7,6,7,3,-2,10,7,12,10,-2,16,16,12,-2,12,20,12,20,21,-2]
+,"deprels":["nsubj","aux","root","prep","det","advmod","amod","pobj",null,"dep","prep","amod","pobj",null,"amod","amod","appos",null,"cc","amod","conj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG hoping) (PP (IN for) (NP (NP (DT another) (ADJP (RB incredibly) (JJ drawn-out)) (NN story)) (, ,) (PP (JJ full) (IN of) (NP (NP (NP (JJ antitrust) (NN drama)) (, ,) (NP (VBG lurking) (JJ potential) (NNS bidders)) (, ,)) (CC and) (NP (NP (JJ contentious) (NNS confrontations)) (PP (IN between) (NP (NNS executives)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911613\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911616\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["I","was","hoping","for","another","incredibly","drawn-out","story",",","full","of","antitrust","drama",",","lurking","potential","bidders",",","and","contentious","confrontations","between","executives","."]
+,"lemmas":["I","be","hope","for","another","incredibly","drawn-out","story",",","full","of","antitrust","drama",",","lurk","potential","bidder",",","and","contentious","confrontation","between","executive","."]
+,"posTags":["PRP","VBD","VBG","IN","DT","RB","JJ","NN",",","JJ","IN","JJ","NN",",","VBG","JJ","NNS",",","CC","JJ","NNS","IN","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","I-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","O","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,7,6,7,3,-2,10,7,12,10,-2,16,16,12,-2,12,20,12,20,21,-2]
+,"deprels":["nsubj","aux","root","prep","det","advmod","amod","pobj",null,"dep","prep","amod","pobj",null,"amod","amod","appos",null,"cc","amod","conj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG hoping) (PP (IN for) (NP (NP (DT another) (ADJP (RB incredibly) (JJ drawn-out)) (NN story)) (, ,) (PP (JJ full) (IN of) (NP (NP (NP (JJ antitrust) (NN drama)) (, ,) (NP (VBG lurking) (JJ potential) (NNS bidders)) (, ,)) (CC and) (NP (NP (JJ contentious) (NNS confrontations)) (PP (IN between) (NP (NNS executives)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911613\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e91161c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["I","was","hoping","for","another","incredibly","drawn-out","story",",","full","of","antitrust","drama",",","lurking","potential","bidders",",","and","contentious","confrontations","between","executives","."]
+,"lemmas":["I","be","hope","for","another","incredibly","drawn-out","story",",","full","of","antitrust","drama",",","lurk","potential","bidder",",","and","contentious","confrontation","between","executive","."]
+,"posTags":["PRP","VBD","VBG","IN","DT","RB","JJ","NN",",","JJ","IN","JJ","NN",",","VBG","JJ","NNS",",","CC","JJ","NNS","IN","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","I-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","O","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,7,6,7,3,-2,10,7,12,10,-2,16,16,12,-2,12,20,12,20,21,-2]
+,"deprels":["nsubj","aux","root","prep","det","advmod","amod","pobj",null,"dep","prep","amod","pobj",null,"amod","amod","appos",null,"cc","amod","conj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBG hoping) (PP (IN for) (NP (NP (DT another) (ADJP (RB incredibly) (JJ drawn-out)) (NN story)) (, ,) (PP (JJ full) (IN of) (NP (NP (NP (JJ antitrust) (NN drama)) (, ,) (NP (VBG lurking) (JJ potential) (NNS bidders)) (, ,)) (CC and) (NP (NP (JJ contentious) (NNS confrontations)) (PP (IN between) (NP (NNS executives)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911616\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e91161c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["And","then","MCI","just","sort","of","accepted","a","Verizon","deal","without","really","bothering","anybody","."]
+,"lemmas":["and","then","MCI","just","sort","of","accept","a","Verizon","deal","without","really","bother","anybody","."]
+,"posTags":["CC","RB","NNP","RB","NN","IN","VBN","DT","NNP","NN","IN","RB","VBG","NN","."]
+,"chunks":["O","O","B-NP","B-VP","I-VP","I-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-ADVP","B-VP","B-NP","O"]
+,"parents":[1,-1,1,6,5,6,2,9,9,6,6,12,10,12,-2]
+,"deprels":["cc","root","dep","advmod","dep","advmod","vmod","det","nn","dobj","prep","advmod","pcomp","dobj",null]
+,"naryTree":"((ROOT (FRAG (CC And) (RB then) (NP (NP (NNP MCI)) (VP (ADVP (RB just)) (ADVP (NN sort) (IN of)) (VBN accepted) (NP (DT a) (NNP Verizon) (NN deal)) (PP (IN without) (S (ADVP (RB really)) (VP (VBG bothering) (NP (NN anybody))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e91161e\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911625\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["And","then","MCI","just","sort","of","accepted","a","Verizon","deal","without","really","bothering","anybody","."]
+,"lemmas":["and","then","MCI","just","sort","of","accept","a","Verizon","deal","without","really","bother","anybody","."]
+,"posTags":["CC","RB","NNP","RB","NN","IN","VBN","DT","NNP","NN","IN","RB","VBG","NN","."]
+,"chunks":["O","O","B-NP","B-VP","I-VP","I-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-ADVP","B-VP","B-NP","O"]
+,"parents":[1,-1,1,6,5,6,2,9,9,6,6,12,10,12,-2]
+,"deprels":["cc","root","dep","advmod","dep","advmod","vmod","det","nn","dobj","prep","advmod","pcomp","dobj",null]
+,"naryTree":"((ROOT (FRAG (CC And) (RB then) (NP (NP (NNP MCI)) (VP (ADVP (RB just)) (ADVP (NN sort) (IN of)) (VBN accepted) (NP (DT a) (NNP Verizon) (NN deal)) (PP (IN without) (S (ADVP (RB really)) (VP (VBG bothering) (NP (NN anybody))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e91161e\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911618\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["And","then","MCI","just","sort","of","accepted","a","Verizon","deal","without","really","bothering","anybody","."]
+,"lemmas":["and","then","MCI","just","sort","of","accept","a","Verizon","deal","without","really","bother","anybody","."]
+,"posTags":["CC","RB","NNP","RB","NN","IN","VBN","DT","NNP","NN","IN","RB","VBG","NN","."]
+,"chunks":["O","O","B-NP","B-VP","I-VP","I-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-ADVP","B-VP","B-NP","O"]
+,"parents":[1,-1,1,6,5,6,2,9,9,6,6,12,10,12,-2]
+,"deprels":["cc","root","dep","advmod","dep","advmod","vmod","det","nn","dobj","prep","advmod","pcomp","dobj",null]
+,"naryTree":"((ROOT (FRAG (CC And) (RB then) (NP (NP (NNP MCI)) (VP (ADVP (RB just)) (ADVP (NN sort) (IN of)) (VBN accepted) (NP (DT a) (NNP Verizon) (NN deal)) (PP (IN without) (S (ADVP (RB really)) (VP (VBG bothering) (NP (NN anybody))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911625\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911618\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Clearly",",","their","corporate","culture","has","suffered","--","25","years","ago",",","MCI","was","the","brawling","upstart","in","the","telecom","industry",",","constantly","challenging","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"lemmas":["clearly",",","they","corporate","culture","have","suffer","--","25","year","ago",",","MCI","be","the","brawl","upstart","in","the","telecom","industry",",","constantly","challenge","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"posTags":["RB",",","PRP$","JJ","NN","VBZ","VBN",":","CD","NNS","RB",",","NNP","VBD","DT","VBG","NN","IN","DT","NN","NN",",","RB","VBG","NNP","POS","NN","TO","VB",",","RB","JJR","TO","VB","DT","NN","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADVP","B-VP","B-NP","B-NP","I-NP","B-VP","I-VP","O","B-ADJP","I-ADJP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[6,-2,4,4,6,6,-1,-2,9,10,16,-2,16,16,16,16,6,16,20,20,17,-2,23,16,26,24,23,28,26,-2,31,26,33,6,36,36,33,-2]
+,"deprels":["advmod",null,"poss","amod","nsubj","aux","root",null,"num","npadvmod","advmod",null,"nsubj","cop","det","amod","parataxis","prep","det","nn","pobj",null,"advmod","parataxis","poss","possessive","dobj","aux","vmod",null,"advmod","amod","aux","xcomp","det","nn","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB Clearly)) (, ,) (NP (PRP$ their) (JJ corporate) (NN culture)) (VP (VBZ has) (VP (VBN suffered) (PRN (: --) (S (S (ADVP (NP (CD 25) (NNS years)) (RB ago)) (, ,) (NP (NNP MCI)) (VP (VBD was) (NP (NP (DT the) (VBG brawling) (NN upstart)) (PP (IN in) (NP (DT the) (NN telecom) (NN industry)))))) (, ,) (ADVP (RB constantly)) (S (VP (VBG challenging) (NP (NP (NP (NNP AT&T) (POS 's)) (NN right) (S (VP (TO to) (VP (VB exist))))) (, ,) (ADJP (RB much) (JJR less))))))) (S (VP (TO to) (VP (VB monopolize) (NP (DT the) (NN phone) (NN system))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911620\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911621\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Clearly",",","their","corporate","culture","has","suffered","--","25","years","ago",",","MCI","was","the","brawling","upstart","in","the","telecom","industry",",","constantly","challenging","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"lemmas":["clearly",",","they","corporate","culture","have","suffer","--","25","year","ago",",","MCI","be","the","brawl","upstart","in","the","telecom","industry",",","constantly","challenge","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"posTags":["RB",",","PRP$","JJ","NN","VBZ","VBN",":","CD","NNS","RB",",","NNP","VBD","DT","VBG","NN","IN","DT","NN","NN",",","RB","VBG","NNP","POS","NN","TO","VB",",","RB","JJR","TO","VB","DT","NN","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADVP","B-VP","B-NP","B-NP","I-NP","B-VP","I-VP","O","B-ADJP","I-ADJP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[6,-2,4,4,6,6,-1,-2,9,10,16,-2,16,16,16,16,6,16,20,20,17,-2,23,16,26,24,23,28,26,-2,31,26,33,6,36,36,33,-2]
+,"deprels":["advmod",null,"poss","amod","nsubj","aux","root",null,"num","npadvmod","advmod",null,"nsubj","cop","det","amod","parataxis","prep","det","nn","pobj",null,"advmod","parataxis","poss","possessive","dobj","aux","vmod",null,"advmod","amod","aux","xcomp","det","nn","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB Clearly)) (, ,) (NP (PRP$ their) (JJ corporate) (NN culture)) (VP (VBZ has) (VP (VBN suffered) (PRN (: --) (S (S (ADVP (NP (CD 25) (NNS years)) (RB ago)) (, ,) (NP (NNP MCI)) (VP (VBD was) (NP (NP (DT the) (VBG brawling) (NN upstart)) (PP (IN in) (NP (DT the) (NN telecom) (NN industry)))))) (, ,) (ADVP (RB constantly)) (S (VP (VBG challenging) (NP (NP (NP (NNP AT&T) (POS 's)) (NN right) (S (VP (TO to) (VP (VB exist))))) (, ,) (ADJP (RB much) (JJR less))))))) (S (VP (TO to) (VP (VB monopolize) (NP (DT the) (NN phone) (NN system))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911620\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e91161f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Clearly",",","their","corporate","culture","has","suffered","--","25","years","ago",",","MCI","was","the","brawling","upstart","in","the","telecom","industry",",","constantly","challenging","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"lemmas":["clearly",",","they","corporate","culture","have","suffer","--","25","year","ago",",","MCI","be","the","brawl","upstart","in","the","telecom","industry",",","constantly","challenge","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"posTags":["RB",",","PRP$","JJ","NN","VBZ","VBN",":","CD","NNS","RB",",","NNP","VBD","DT","VBG","NN","IN","DT","NN","NN",",","RB","VBG","NNP","POS","NN","TO","VB",",","RB","JJR","TO","VB","DT","NN","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADVP","B-VP","B-NP","B-NP","I-NP","B-VP","I-VP","O","B-ADJP","I-ADJP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[6,-2,4,4,6,6,-1,-2,9,10,16,-2,16,16,16,16,6,16,20,20,17,-2,23,16,26,24,23,28,26,-2,31,26,33,6,36,36,33,-2]
+,"deprels":["advmod",null,"poss","amod","nsubj","aux","root",null,"num","npadvmod","advmod",null,"nsubj","cop","det","amod","parataxis","prep","det","nn","pobj",null,"advmod","parataxis","poss","possessive","dobj","aux","vmod",null,"advmod","amod","aux","xcomp","det","nn","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB Clearly)) (, ,) (NP (PRP$ their) (JJ corporate) (NN culture)) (VP (VBZ has) (VP (VBN suffered) (PRN (: --) (S (S (ADVP (NP (CD 25) (NNS years)) (RB ago)) (, ,) (NP (NNP MCI)) (VP (VBD was) (NP (NP (DT the) (VBG brawling) (NN upstart)) (PP (IN in) (NP (DT the) (NN telecom) (NN industry)))))) (, ,) (ADVP (RB constantly)) (S (VP (VBG challenging) (NP (NP (NP (NNP AT&T) (POS 's)) (NN right) (S (VP (TO to) (VP (VB exist))))) (, ,) (ADJP (RB much) (JJR less))))))) (S (VP (TO to) (VP (VB monopolize) (NP (DT the) (NN phone) (NN system))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911620\"},\"m2\":{\"start\":18,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e91161a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Clearly",",","their","corporate","culture","has","suffered","--","25","years","ago",",","MCI","was","the","brawling","upstart","in","the","telecom","industry",",","constantly","challenging","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"lemmas":["clearly",",","they","corporate","culture","have","suffer","--","25","year","ago",",","MCI","be","the","brawl","upstart","in","the","telecom","industry",",","constantly","challenge","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"posTags":["RB",",","PRP$","JJ","NN","VBZ","VBN",":","CD","NNS","RB",",","NNP","VBD","DT","VBG","NN","IN","DT","NN","NN",",","RB","VBG","NNP","POS","NN","TO","VB",",","RB","JJR","TO","VB","DT","NN","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADVP","B-VP","B-NP","B-NP","I-NP","B-VP","I-VP","O","B-ADJP","I-ADJP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[6,-2,4,4,6,6,-1,-2,9,10,16,-2,16,16,16,16,6,16,20,20,17,-2,23,16,26,24,23,28,26,-2,31,26,33,6,36,36,33,-2]
+,"deprels":["advmod",null,"poss","amod","nsubj","aux","root",null,"num","npadvmod","advmod",null,"nsubj","cop","det","amod","parataxis","prep","det","nn","pobj",null,"advmod","parataxis","poss","possessive","dobj","aux","vmod",null,"advmod","amod","aux","xcomp","det","nn","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB Clearly)) (, ,) (NP (PRP$ their) (JJ corporate) (NN culture)) (VP (VBZ has) (VP (VBN suffered) (PRN (: --) (S (S (ADVP (NP (CD 25) (NNS years)) (RB ago)) (, ,) (NP (NNP MCI)) (VP (VBD was) (NP (NP (DT the) (VBG brawling) (NN upstart)) (PP (IN in) (NP (DT the) (NN telecom) (NN industry)))))) (, ,) (ADVP (RB constantly)) (S (VP (VBG challenging) (NP (NP (NP (NNP AT&T) (POS 's)) (NN right) (S (VP (TO to) (VP (VB exist))))) (, ,) (ADJP (RB much) (JJR less))))))) (S (VP (TO to) (VP (VB monopolize) (NP (DT the) (NN phone) (NN system))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911620\"},\"m2\":{\"start\":24,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911627\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Clearly",",","their","corporate","culture","has","suffered","--","25","years","ago",",","MCI","was","the","brawling","upstart","in","the","telecom","industry",",","constantly","challenging","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"lemmas":["clearly",",","they","corporate","culture","have","suffer","--","25","year","ago",",","MCI","be","the","brawl","upstart","in","the","telecom","industry",",","constantly","challenge","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"posTags":["RB",",","PRP$","JJ","NN","VBZ","VBN",":","CD","NNS","RB",",","NNP","VBD","DT","VBG","NN","IN","DT","NN","NN",",","RB","VBG","NNP","POS","NN","TO","VB",",","RB","JJR","TO","VB","DT","NN","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADVP","B-VP","B-NP","B-NP","I-NP","B-VP","I-VP","O","B-ADJP","I-ADJP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[6,-2,4,4,6,6,-1,-2,9,10,16,-2,16,16,16,16,6,16,20,20,17,-2,23,16,26,24,23,28,26,-2,31,26,33,6,36,36,33,-2]
+,"deprels":["advmod",null,"poss","amod","nsubj","aux","root",null,"num","npadvmod","advmod",null,"nsubj","cop","det","amod","parataxis","prep","det","nn","pobj",null,"advmod","parataxis","poss","possessive","dobj","aux","vmod",null,"advmod","amod","aux","xcomp","det","nn","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB Clearly)) (, ,) (NP (PRP$ their) (JJ corporate) (NN culture)) (VP (VBZ has) (VP (VBN suffered) (PRN (: --) (S (S (ADVP (NP (CD 25) (NNS years)) (RB ago)) (, ,) (NP (NNP MCI)) (VP (VBD was) (NP (NP (DT the) (VBG brawling) (NN upstart)) (PP (IN in) (NP (DT the) (NN telecom) (NN industry)))))) (, ,) (ADVP (RB constantly)) (S (VP (VBG challenging) (NP (NP (NP (NNP AT&T) (POS 's)) (NN right) (S (VP (TO to) (VP (VB exist))))) (, ,) (ADJP (RB much) (JJR less))))))) (S (VP (TO to) (VP (VB monopolize) (NP (DT the) (NN phone) (NN system))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911621\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e91161f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Clearly",",","their","corporate","culture","has","suffered","--","25","years","ago",",","MCI","was","the","brawling","upstart","in","the","telecom","industry",",","constantly","challenging","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"lemmas":["clearly",",","they","corporate","culture","have","suffer","--","25","year","ago",",","MCI","be","the","brawl","upstart","in","the","telecom","industry",",","constantly","challenge","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"posTags":["RB",",","PRP$","JJ","NN","VBZ","VBN",":","CD","NNS","RB",",","NNP","VBD","DT","VBG","NN","IN","DT","NN","NN",",","RB","VBG","NNP","POS","NN","TO","VB",",","RB","JJR","TO","VB","DT","NN","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADVP","B-VP","B-NP","B-NP","I-NP","B-VP","I-VP","O","B-ADJP","I-ADJP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[6,-2,4,4,6,6,-1,-2,9,10,16,-2,16,16,16,16,6,16,20,20,17,-2,23,16,26,24,23,28,26,-2,31,26,33,6,36,36,33,-2]
+,"deprels":["advmod",null,"poss","amod","nsubj","aux","root",null,"num","npadvmod","advmod",null,"nsubj","cop","det","amod","parataxis","prep","det","nn","pobj",null,"advmod","parataxis","poss","possessive","dobj","aux","vmod",null,"advmod","amod","aux","xcomp","det","nn","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB Clearly)) (, ,) (NP (PRP$ their) (JJ corporate) (NN culture)) (VP (VBZ has) (VP (VBN suffered) (PRN (: --) (S (S (ADVP (NP (CD 25) (NNS years)) (RB ago)) (, ,) (NP (NNP MCI)) (VP (VBD was) (NP (NP (DT the) (VBG brawling) (NN upstart)) (PP (IN in) (NP (DT the) (NN telecom) (NN industry)))))) (, ,) (ADVP (RB constantly)) (S (VP (VBG challenging) (NP (NP (NP (NNP AT&T) (POS 's)) (NN right) (S (VP (TO to) (VP (VB exist))))) (, ,) (ADJP (RB much) (JJR less))))))) (S (VP (TO to) (VP (VB monopolize) (NP (DT the) (NN phone) (NN system))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911621\"},\"m2\":{\"start\":18,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e91161a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Clearly",",","their","corporate","culture","has","suffered","--","25","years","ago",",","MCI","was","the","brawling","upstart","in","the","telecom","industry",",","constantly","challenging","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"lemmas":["clearly",",","they","corporate","culture","have","suffer","--","25","year","ago",",","MCI","be","the","brawl","upstart","in","the","telecom","industry",",","constantly","challenge","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"posTags":["RB",",","PRP$","JJ","NN","VBZ","VBN",":","CD","NNS","RB",",","NNP","VBD","DT","VBG","NN","IN","DT","NN","NN",",","RB","VBG","NNP","POS","NN","TO","VB",",","RB","JJR","TO","VB","DT","NN","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADVP","B-VP","B-NP","B-NP","I-NP","B-VP","I-VP","O","B-ADJP","I-ADJP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[6,-2,4,4,6,6,-1,-2,9,10,16,-2,16,16,16,16,6,16,20,20,17,-2,23,16,26,24,23,28,26,-2,31,26,33,6,36,36,33,-2]
+,"deprels":["advmod",null,"poss","amod","nsubj","aux","root",null,"num","npadvmod","advmod",null,"nsubj","cop","det","amod","parataxis","prep","det","nn","pobj",null,"advmod","parataxis","poss","possessive","dobj","aux","vmod",null,"advmod","amod","aux","xcomp","det","nn","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB Clearly)) (, ,) (NP (PRP$ their) (JJ corporate) (NN culture)) (VP (VBZ has) (VP (VBN suffered) (PRN (: --) (S (S (ADVP (NP (CD 25) (NNS years)) (RB ago)) (, ,) (NP (NNP MCI)) (VP (VBD was) (NP (NP (DT the) (VBG brawling) (NN upstart)) (PP (IN in) (NP (DT the) (NN telecom) (NN industry)))))) (, ,) (ADVP (RB constantly)) (S (VP (VBG challenging) (NP (NP (NP (NNP AT&T) (POS 's)) (NN right) (S (VP (TO to) (VP (VB exist))))) (, ,) (ADJP (RB much) (JJR less))))))) (S (VP (TO to) (VP (VB monopolize) (NP (DT the) (NN phone) (NN system))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911621\"},\"m2\":{\"start\":24,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911627\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Clearly",",","their","corporate","culture","has","suffered","--","25","years","ago",",","MCI","was","the","brawling","upstart","in","the","telecom","industry",",","constantly","challenging","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"lemmas":["clearly",",","they","corporate","culture","have","suffer","--","25","year","ago",",","MCI","be","the","brawl","upstart","in","the","telecom","industry",",","constantly","challenge","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"posTags":["RB",",","PRP$","JJ","NN","VBZ","VBN",":","CD","NNS","RB",",","NNP","VBD","DT","VBG","NN","IN","DT","NN","NN",",","RB","VBG","NNP","POS","NN","TO","VB",",","RB","JJR","TO","VB","DT","NN","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADVP","B-VP","B-NP","B-NP","I-NP","B-VP","I-VP","O","B-ADJP","I-ADJP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[6,-2,4,4,6,6,-1,-2,9,10,16,-2,16,16,16,16,6,16,20,20,17,-2,23,16,26,24,23,28,26,-2,31,26,33,6,36,36,33,-2]
+,"deprels":["advmod",null,"poss","amod","nsubj","aux","root",null,"num","npadvmod","advmod",null,"nsubj","cop","det","amod","parataxis","prep","det","nn","pobj",null,"advmod","parataxis","poss","possessive","dobj","aux","vmod",null,"advmod","amod","aux","xcomp","det","nn","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB Clearly)) (, ,) (NP (PRP$ their) (JJ corporate) (NN culture)) (VP (VBZ has) (VP (VBN suffered) (PRN (: --) (S (S (ADVP (NP (CD 25) (NNS years)) (RB ago)) (, ,) (NP (NNP MCI)) (VP (VBD was) (NP (NP (DT the) (VBG brawling) (NN upstart)) (PP (IN in) (NP (DT the) (NN telecom) (NN industry)))))) (, ,) (ADVP (RB constantly)) (S (VP (VBG challenging) (NP (NP (NP (NNP AT&T) (POS 's)) (NN right) (S (VP (TO to) (VP (VB exist))))) (, ,) (ADJP (RB much) (JJR less))))))) (S (VP (TO to) (VP (VB monopolize) (NP (DT the) (NN phone) (NN system))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e91161f\"},\"m2\":{\"start\":18,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e91161a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Clearly",",","their","corporate","culture","has","suffered","--","25","years","ago",",","MCI","was","the","brawling","upstart","in","the","telecom","industry",",","constantly","challenging","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"lemmas":["clearly",",","they","corporate","culture","have","suffer","--","25","year","ago",",","MCI","be","the","brawl","upstart","in","the","telecom","industry",",","constantly","challenge","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"posTags":["RB",",","PRP$","JJ","NN","VBZ","VBN",":","CD","NNS","RB",",","NNP","VBD","DT","VBG","NN","IN","DT","NN","NN",",","RB","VBG","NNP","POS","NN","TO","VB",",","RB","JJR","TO","VB","DT","NN","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADVP","B-VP","B-NP","B-NP","I-NP","B-VP","I-VP","O","B-ADJP","I-ADJP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[6,-2,4,4,6,6,-1,-2,9,10,16,-2,16,16,16,16,6,16,20,20,17,-2,23,16,26,24,23,28,26,-2,31,26,33,6,36,36,33,-2]
+,"deprels":["advmod",null,"poss","amod","nsubj","aux","root",null,"num","npadvmod","advmod",null,"nsubj","cop","det","amod","parataxis","prep","det","nn","pobj",null,"advmod","parataxis","poss","possessive","dobj","aux","vmod",null,"advmod","amod","aux","xcomp","det","nn","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB Clearly)) (, ,) (NP (PRP$ their) (JJ corporate) (NN culture)) (VP (VBZ has) (VP (VBN suffered) (PRN (: --) (S (S (ADVP (NP (CD 25) (NNS years)) (RB ago)) (, ,) (NP (NNP MCI)) (VP (VBD was) (NP (NP (DT the) (VBG brawling) (NN upstart)) (PP (IN in) (NP (DT the) (NN telecom) (NN industry)))))) (, ,) (ADVP (RB constantly)) (S (VP (VBG challenging) (NP (NP (NP (NNP AT&T) (POS 's)) (NN right) (S (VP (TO to) (VP (VB exist))))) (, ,) (ADJP (RB much) (JJR less))))))) (S (VP (TO to) (VP (VB monopolize) (NP (DT the) (NN phone) (NN system))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e91161f\"},\"m2\":{\"start\":24,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911627\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Clearly",",","their","corporate","culture","has","suffered","--","25","years","ago",",","MCI","was","the","brawling","upstart","in","the","telecom","industry",",","constantly","challenging","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"lemmas":["clearly",",","they","corporate","culture","have","suffer","--","25","year","ago",",","MCI","be","the","brawl","upstart","in","the","telecom","industry",",","constantly","challenge","AT&T","'s","right","to","exist",",","much","less","to","monopolize","the","phone","system","."]
+,"posTags":["RB",",","PRP$","JJ","NN","VBZ","VBN",":","CD","NNS","RB",",","NNP","VBD","DT","VBG","NN","IN","DT","NN","NN",",","RB","VBG","NNP","POS","NN","TO","VB",",","RB","JJR","TO","VB","DT","NN","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADVP","B-VP","B-NP","B-NP","I-NP","B-VP","I-VP","O","B-ADJP","I-ADJP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[6,-2,4,4,6,6,-1,-2,9,10,16,-2,16,16,16,16,6,16,20,20,17,-2,23,16,26,24,23,28,26,-2,31,26,33,6,36,36,33,-2]
+,"deprels":["advmod",null,"poss","amod","nsubj","aux","root",null,"num","npadvmod","advmod",null,"nsubj","cop","det","amod","parataxis","prep","det","nn","pobj",null,"advmod","parataxis","poss","possessive","dobj","aux","vmod",null,"advmod","amod","aux","xcomp","det","nn","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB Clearly)) (, ,) (NP (PRP$ their) (JJ corporate) (NN culture)) (VP (VBZ has) (VP (VBN suffered) (PRN (: --) (S (S (ADVP (NP (CD 25) (NNS years)) (RB ago)) (, ,) (NP (NNP MCI)) (VP (VBD was) (NP (NP (DT the) (VBG brawling) (NN upstart)) (PP (IN in) (NP (DT the) (NN telecom) (NN industry)))))) (, ,) (ADVP (RB constantly)) (S (VP (VBG challenging) (NP (NP (NP (NNP AT&T) (POS 's)) (NN right) (S (VP (TO to) (VP (VB exist))))) (, ,) (ADJP (RB much) (JJR less))))))) (S (VP (TO to) (VP (VB monopolize) (NP (DT the) (NN phone) (NN system))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e91161a\"},\"m2\":{\"start\":24,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911627\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["And","now",",","they","'re","swallowed","by","Just","Another","Monolith","."]
+,"lemmas":["and","now",",","they","be","swallow","by","just","another","monolith","."]
+,"posTags":["CC","RB",",","PRP","VBP","VBN","IN","RB","DT","NN","."]
+,"chunks":["O","B-ADVP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,5,-2,5,5,-1,5,9,9,6,-2]
+,"deprels":["cc","advmod",null,"nsubjpass","auxpass","root","prep","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (CC And) (ADVP (RB now)) (, ,) (NP (PRP they)) (VP (VBP 're) (VP (VBN swallowed) (PP (IN by) (NP (RB Just) (DT Another) (NN Monolith))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911622\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2b1d67c2-85c3-2fef-73f3-00002e911624\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

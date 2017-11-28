@@ -1,0 +1,520 @@
+{"words":["80,000","people","with","a","shared","love","of","music","converge","on","a","tennessee","pasture","for","three","days","of","good","vibes","and","who","knows","what","else","."]
+,"lemmas":["80,000","people","with","a","shared","love","of","music","converge","on","a","tennessee","pasture","for","three","day","of","good","vibes","and","who","know","what","else","."]
+,"posTags":["CD","NNS","IN","DT","JJ","NN","IN","NN","VBP","IN","DT","NN","NN","IN","CD","NNS","IN","JJ","NNS","CC","WP","VBZ","WP","RB","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[1,8,1,5,5,2,5,6,-1,8,12,12,9,12,15,13,15,18,16,12,21,12,21,22,-2]
+,"deprels":["num","nsubj","prep","det","amod","pobj","prep","pobj","root","prep","det","nn","pobj","prep","num","pobj","prep","amod","pobj","cc","nsubj","conj","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 80,000) (NNS people)) (PP (IN with) (NP (NP (DT a) (JJ shared) (NN love)) (PP (IN of) (NP (NN music)))))) (VP (VBP converge) (PP (IN on) (NP (NP (NP (DT a) (NN tennessee) (NN pasture)) (PP (IN for) (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (JJ good) (NNS vibes)))))) (CC and) (SBAR (WHNP (WP who)) (S (VP (VBZ knows) (WHNP (WP what) (RB else)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380de\"},\"m2\":{\"start\":10,\"end\":13,\"head\":12,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380dc\"}}]"
+,"relLabels":["PART-WHOLE-Geographical(Arg-2,Arg-1)"]}
+
+{"words":["80,000","people","with","a","shared","love","of","music","converge","on","a","tennessee","pasture","for","three","days","of","good","vibes","and","who","knows","what","else","."]
+,"lemmas":["80,000","people","with","a","shared","love","of","music","converge","on","a","tennessee","pasture","for","three","day","of","good","vibes","and","who","know","what","else","."]
+,"posTags":["CD","NNS","IN","DT","JJ","NN","IN","NN","VBP","IN","DT","NN","NN","IN","CD","NNS","IN","JJ","NNS","CC","WP","VBZ","WP","RB","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[1,8,1,5,5,2,5,6,-1,8,12,12,9,12,15,13,15,18,16,12,21,12,21,22,-2]
+,"deprels":["num","nsubj","prep","det","amod","pobj","prep","pobj","root","prep","det","nn","pobj","prep","num","pobj","prep","amod","pobj","cc","nsubj","conj","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 80,000) (NNS people)) (PP (IN with) (NP (NP (DT a) (JJ shared) (NN love)) (PP (IN of) (NP (NN music)))))) (VP (VBP converge) (PP (IN on) (NP (NP (NP (DT a) (NN tennessee) (NN pasture)) (PP (IN for) (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (JJ good) (NNS vibes)))))) (CC and) (SBAR (WHNP (WP who)) (S (VP (VBZ knows) (WHNP (WP what) (RB else)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380da\"},\"m2\":{\"start\":10,\"end\":13,\"head\":12,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380dc\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["80,000","people","with","a","shared","love","of","music","converge","on","a","tennessee","pasture","for","three","days","of","good","vibes","and","who","knows","what","else","."]
+,"lemmas":["80,000","people","with","a","shared","love","of","music","converge","on","a","tennessee","pasture","for","three","day","of","good","vibes","and","who","know","what","else","."]
+,"posTags":["CD","NNS","IN","DT","JJ","NN","IN","NN","VBP","IN","DT","NN","NN","IN","CD","NNS","IN","JJ","NNS","CC","WP","VBZ","WP","RB","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[1,8,1,5,5,2,5,6,-1,8,12,12,9,12,15,13,15,18,16,12,21,12,21,22,-2]
+,"deprels":["num","nsubj","prep","det","amod","pobj","prep","pobj","root","prep","det","nn","pobj","prep","num","pobj","prep","amod","pobj","cc","nsubj","conj","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 80,000) (NNS people)) (PP (IN with) (NP (NP (DT a) (JJ shared) (NN love)) (PP (IN of) (NP (NN music)))))) (VP (VBP converge) (PP (IN on) (NP (NP (NP (DT a) (NN tennessee) (NN pasture)) (PP (IN for) (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (JJ good) (NNS vibes)))))) (CC and) (SBAR (WHNP (WP who)) (S (VP (VBZ knows) (WHNP (WP what) (RB else)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380da\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380de\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["80,000","people","with","a","shared","love","of","music","converge","on","a","tennessee","pasture","for","three","days","of","good","vibes","and","who","knows","what","else","."]
+,"lemmas":["80,000","people","with","a","shared","love","of","music","converge","on","a","tennessee","pasture","for","three","day","of","good","vibes","and","who","know","what","else","."]
+,"posTags":["CD","NNS","IN","DT","JJ","NN","IN","NN","VBP","IN","DT","NN","NN","IN","CD","NNS","IN","JJ","NNS","CC","WP","VBZ","WP","RB","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[1,8,1,5,5,2,5,6,-1,8,12,12,9,12,15,13,15,18,16,12,21,12,21,22,-2]
+,"deprels":["num","nsubj","prep","det","amod","pobj","prep","pobj","root","prep","det","nn","pobj","prep","num","pobj","prep","amod","pobj","cc","nsubj","conj","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 80,000) (NNS people)) (PP (IN with) (NP (NP (DT a) (JJ shared) (NN love)) (PP (IN of) (NP (NN music)))))) (VP (VBP converge) (PP (IN on) (NP (NP (NP (DT a) (NN tennessee) (NN pasture)) (PP (IN for) (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (JJ good) (NNS vibes)))))) (CC and) (SBAR (WHNP (WP who)) (S (VP (VBZ knows) (WHNP (WP what) (RB else)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380da\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380e0\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["80,000","people","with","a","shared","love","of","music","converge","on","a","tennessee","pasture","for","three","days","of","good","vibes","and","who","knows","what","else","."]
+,"lemmas":["80,000","people","with","a","shared","love","of","music","converge","on","a","tennessee","pasture","for","three","day","of","good","vibes","and","who","know","what","else","."]
+,"posTags":["CD","NNS","IN","DT","JJ","NN","IN","NN","VBP","IN","DT","NN","NN","IN","CD","NNS","IN","JJ","NNS","CC","WP","VBZ","WP","RB","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[1,8,1,5,5,2,5,6,-1,8,12,12,9,12,15,13,15,18,16,12,21,12,21,22,-2]
+,"deprels":["num","nsubj","prep","det","amod","pobj","prep","pobj","root","prep","det","nn","pobj","prep","num","pobj","prep","amod","pobj","cc","nsubj","conj","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 80,000) (NNS people)) (PP (IN with) (NP (NP (DT a) (JJ shared) (NN love)) (PP (IN of) (NP (NN music)))))) (VP (VBP converge) (PP (IN on) (NP (NP (NP (DT a) (NN tennessee) (NN pasture)) (PP (IN for) (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (JJ good) (NNS vibes)))))) (CC and) (SBAR (WHNP (WP who)) (S (VP (VBZ knows) (WHNP (WP what) (RB else)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380de\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380e0\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["80,000","people","with","a","shared","love","of","music","converge","on","a","tennessee","pasture","for","three","days","of","good","vibes","and","who","knows","what","else","."]
+,"lemmas":["80,000","people","with","a","shared","love","of","music","converge","on","a","tennessee","pasture","for","three","day","of","good","vibes","and","who","know","what","else","."]
+,"posTags":["CD","NNS","IN","DT","JJ","NN","IN","NN","VBP","IN","DT","NN","NN","IN","CD","NNS","IN","JJ","NNS","CC","WP","VBZ","WP","RB","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[1,8,1,5,5,2,5,6,-1,8,12,12,9,12,15,13,15,18,16,12,21,12,21,22,-2]
+,"deprels":["num","nsubj","prep","det","amod","pobj","prep","pobj","root","prep","det","nn","pobj","prep","num","pobj","prep","amod","pobj","cc","nsubj","conj","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 80,000) (NNS people)) (PP (IN with) (NP (NP (DT a) (JJ shared) (NN love)) (PP (IN of) (NP (NN music)))))) (VP (VBP converge) (PP (IN on) (NP (NP (NP (DT a) (NN tennessee) (NN pasture)) (PP (IN for) (NP (NP (CD three) (NNS days)) (PP (IN of) (NP (JJ good) (NNS vibes)))))) (CC and) (SBAR (WHNP (WP who)) (S (VP (VBZ knows) (WHNP (WP what) (RB else)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":13,\"head\":12,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380dc\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380e0\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["bonnaroo","is","kind","of","this","going","example","of","what","the","whole","jam","band","community","is","turned","in","."]
+,"lemmas":["bonnaroo","be","kind","of","this","go","example","of","what","the","whole","jam","band","community","be","turn","in","."]
+,"posTags":["NN","VBZ","NN","IN","DT","VBG","NN","IN","WP","DT","JJ","NN","NN","NN","VBZ","VBN","RP","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PRT","O"]
+,"parents":[2,2,-1,2,6,6,3,6,15,13,13,13,13,15,15,7,15,-2]
+,"deprels":["nsubj","cop","root","prep","det","amod","pobj","prep","dobj","det","amod","nn","nn","nsubjpass","auxpass","pcomp","prt",null]
+,"naryTree":"((ROOT (S (NP (NN bonnaroo)) (VP (VBZ is) (NP (NP (NN kind)) (PP (IN of) (NP (NP (DT this) (VBG going) (NN example)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (DT the) (JJ whole) (NN jam) (NN band) (NN community)) (VP (VBZ is) (VP (VBN turned) (PRT (RP in))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"ORG\",\"subtype\":\"Entertainment\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-00007403810f\"},\"m2\":{\"start\":9,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380e4\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","what","i","really","like","about","the","jam","community","."]
+,"lemmas":["that","be","what","i","really","like","about","the","jam","community","."]
+,"posTags":["DT","VBZ","WP","FW","RB","IN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-NP","B-ADVP","B-PP","I-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,2,6,6,3,9,9,6,-2]
+,"deprels":["nsubj","cop","root","dep","advmod","dep","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (WP what)) (VP (NP (FW i)) (PP (ADVP (RB really)) (IN like) (IN about) (NP (DT the) (NN jam) (NN community)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038107\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380e5\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["well",",","we","sold","all","80,000","tickets","through","our","web","site","."]
+,"lemmas":["well",",","we","sell","all","80,000","ticket","through","we","web","site","."]
+,"posTags":["RB",",","PRP","VBD","DT","CD","NNS","IN","PRP$","NN","NN","."]
+,"chunks":["B-ADVP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[3,-2,3,-1,6,6,3,3,10,10,7,-2]
+,"deprels":["advmod",null,"nsubj","root","det","num","dobj","prep","poss","nn","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB well)) (, ,) (NP (PRP we)) (VP (VBD sold) (NP (DT all) (CD 80,000) (NNS tickets)) (PP (IN through) (NP (PRP$ our) (NN web) (NN site)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380ee\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380ef\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["i","mean",",","the","amazing","thing","is",",","we","used","no","traditional","advertising","."]
+,"lemmas":["i","mean",",","the","amazing","thing","be",",","we","use","no","traditional","advertising","."]
+,"posTags":["FW","VB",",","DT","JJ","NN","VBZ",",","PRP","VBD","DT","JJ","NN","."]
+,"chunks":["B-NP","B-VP","O","B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,-2,5,5,6,-1,-2,9,6,12,12,9,-2]
+,"deprels":["nsubj","ccomp",null,"det","amod","nsubj","root",null,"nsubj","ccomp","neg","amod","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (FW i)) (VP (VB mean))) (, ,) (NP (DT the) (JJ amazing) (NN thing)) (VP (VBZ is) (, ,) (SBAR (S (NP (PRP we)) (VP (VBD used) (NP (DT no) (JJ traditional) (NN advertising)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038109\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380f1\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["we","put","all","these","bands","together","."]
+,"lemmas":["we","put","all","these","band","together","."]
+,"posTags":["PRP","VBD","PDT","DT","NNS","RB","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-ADVP","O"]
+,"parents":[1,-1,4,4,1,1,-2]
+,"deprels":["nsubj","root","predet","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBD put) (NP (PDT all) (DT these) (NNS bands)) (ADVP (RB together))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380f2\"},\"m2\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Entertainment\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380f4\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["so","the","record","companies","and","the","music","business","has","to","take","all","of","these","forms","of","music","more","seriously","."]
+,"lemmas":["so","the","record","company","and","the","music","business","have","to","take","all","of","these","form","of","music","more","seriously","."]
+,"posTags":["IN","DT","NN","NNS","CC","DT","NN","NN","VBZ","TO","VB","DT","IN","DT","NNS","IN","NN","RBR","RB","."]
+,"chunks":["O","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[8,3,3,8,3,7,7,3,-1,10,8,10,11,14,12,14,15,18,10,-2]
+,"deprels":["dep","det","nn","nsubj","cc","det","nn","conj","root","aux","xcomp","dobj","prep","det","pobj","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (IN so) (NP (NP (DT the) (NN record) (NNS companies)) (CC and) (NP (DT the) (NN music) (NN business))) (VP (VBZ has) (S (VP (TO to) (VP (VB take) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT these) (NNS forms)) (PP (IN of) (NP (NN music)))))) (ADVP (RBR more) (RB seriously)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380e7\"},\"m2\":{\"start\":5,\"end\":8,\"head\":7,\"type\":\"ORG\",\"subtype\":\"Entertainment\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380fd\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["i","hope","this","kind","of","thing","can","happen","in","america",",","instead","of","it","just","being","these","isolated","festivals","like","bonnaroo",",","it","really","can","happen","in","100","cities","every","summer",",","like","the","festivals","do","in","europe","."]
+,"lemmas":["i","hope","this","kind","of","thing","can","happen","in","america",",","instead","of","it","just","be","these","isolate","festival","like","bonnaroo",",","it","really","can","happen","in","100","city","every","summer",",","like","the","festival","do","in","europe","."]
+,"posTags":["LS","NN","DT","NN","IN","NN","MD","VB","IN","NN",",","RB","IN","PRP","RB","VBG","DT","VBN","NNS","IN","NN",",","PRP","RB","MD","VB","IN","CD","NNS","DT","NN",",","IN","DT","NNS","VBP","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","B-PP","I-PP","B-PP","B-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","I-VP","B-PP","B-NP","I-NP","B-NP","I-NP","O","B-SBAR","B-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[1,7,3,7,3,4,7,25,7,8,-2,8,8,18,18,18,18,18,12,18,19,-2,25,25,25,-1,25,28,26,30,25,-2,35,34,35,25,35,36,-2]
+,"deprels":["dep","dobj","det","nsubj","prep","pobj","aux","advcl","prep","pobj",null,"dep","prep","nsubj","advmod","cop","det","amod","pcomp","prep","pobj",null,"nsubj","advmod","aux","root","prep","num","pobj","det","tmod",null,"mark","det","nsubj","advcl","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (WHNP (LS i) (NN hope)) (S (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NN thing)))) (VP (MD can) (VP (VB happen) (PP (PP (IN in) (NP (NN america))) (, ,) (RB instead) (PP (IN of) (S (NP (PRP it)) (ADVP (RB just)) (VP (VBG being) (NP (NP (DT these) (VBN isolated) (NNS festivals)) (PP (IN like) (NP (NN bonnaroo)))))))))))) (, ,) (NP (PRP it)) (ADVP (RB really)) (VP (MD can) (VP (VB happen) (PP (IN in) (NP (CD 100) (NNS cities))) (NP-TMP (DT every) (NN summer)) (, ,) (SBAR (IN like) (S (NP (DT the) (NNS festivals)) (VP (VBP do) (PP (IN in) (NP (NN europe)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038106\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380fa\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["i","hope","this","kind","of","thing","can","happen","in","america",",","instead","of","it","just","being","these","isolated","festivals","like","bonnaroo",",","it","really","can","happen","in","100","cities","every","summer",",","like","the","festivals","do","in","europe","."]
+,"lemmas":["i","hope","this","kind","of","thing","can","happen","in","america",",","instead","of","it","just","be","these","isolate","festival","like","bonnaroo",",","it","really","can","happen","in","100","city","every","summer",",","like","the","festival","do","in","europe","."]
+,"posTags":["LS","NN","DT","NN","IN","NN","MD","VB","IN","NN",",","RB","IN","PRP","RB","VBG","DT","VBN","NNS","IN","NN",",","PRP","RB","MD","VB","IN","CD","NNS","DT","NN",",","IN","DT","NNS","VBP","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","B-PP","I-PP","B-PP","B-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","I-VP","B-PP","B-NP","I-NP","B-NP","I-NP","O","B-SBAR","B-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[1,7,3,7,3,4,7,25,7,8,-2,8,8,18,18,18,18,18,12,18,19,-2,25,25,25,-1,25,28,26,30,25,-2,35,34,35,25,35,36,-2]
+,"deprels":["dep","dobj","det","nsubj","prep","pobj","aux","advcl","prep","pobj",null,"dep","prep","nsubj","advmod","cop","det","amod","pcomp","prep","pobj",null,"nsubj","advmod","aux","root","prep","num","pobj","det","tmod",null,"mark","det","nsubj","advcl","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (WHNP (LS i) (NN hope)) (S (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NN thing)))) (VP (MD can) (VP (VB happen) (PP (PP (IN in) (NP (NN america))) (, ,) (RB instead) (PP (IN of) (S (NP (PRP it)) (ADVP (RB just)) (VP (VBG being) (NP (NP (DT these) (VBN isolated) (NNS festivals)) (PP (IN like) (NP (NN bonnaroo)))))))))))) (, ,) (NP (PRP it)) (ADVP (RB really)) (VP (MD can) (VP (VB happen) (PP (IN in) (NP (CD 100) (NNS cities))) (NP-TMP (DT every) (NN summer)) (, ,) (SBAR (IN like) (S (NP (DT the) (NNS festivals)) (VP (VBP do) (PP (IN in) (NP (NN europe)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038106\"},\"m2\":{\"start\":27,\"end\":29,\"head\":28,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380f8\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["i","hope","this","kind","of","thing","can","happen","in","america",",","instead","of","it","just","being","these","isolated","festivals","like","bonnaroo",",","it","really","can","happen","in","100","cities","every","summer",",","like","the","festivals","do","in","europe","."]
+,"lemmas":["i","hope","this","kind","of","thing","can","happen","in","america",",","instead","of","it","just","be","these","isolate","festival","like","bonnaroo",",","it","really","can","happen","in","100","city","every","summer",",","like","the","festival","do","in","europe","."]
+,"posTags":["LS","NN","DT","NN","IN","NN","MD","VB","IN","NN",",","RB","IN","PRP","RB","VBG","DT","VBN","NNS","IN","NN",",","PRP","RB","MD","VB","IN","CD","NNS","DT","NN",",","IN","DT","NNS","VBP","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","B-PP","I-PP","B-PP","B-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","I-VP","B-PP","B-NP","I-NP","B-NP","I-NP","O","B-SBAR","B-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[1,7,3,7,3,4,7,25,7,8,-2,8,8,18,18,18,18,18,12,18,19,-2,25,25,25,-1,25,28,26,30,25,-2,35,34,35,25,35,36,-2]
+,"deprels":["dep","dobj","det","nsubj","prep","pobj","aux","advcl","prep","pobj",null,"dep","prep","nsubj","advmod","cop","det","amod","pcomp","prep","pobj",null,"nsubj","advmod","aux","root","prep","num","pobj","det","tmod",null,"mark","det","nsubj","advcl","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (WHNP (LS i) (NN hope)) (S (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NN thing)))) (VP (MD can) (VP (VB happen) (PP (PP (IN in) (NP (NN america))) (, ,) (RB instead) (PP (IN of) (S (NP (PRP it)) (ADVP (RB just)) (VP (VBG being) (NP (NP (DT these) (VBN isolated) (NNS festivals)) (PP (IN like) (NP (NN bonnaroo)))))))))))) (, ,) (NP (PRP it)) (ADVP (RB really)) (VP (MD can) (VP (VB happen) (PP (IN in) (NP (CD 100) (NNS cities))) (NP-TMP (DT every) (NN summer)) (, ,) (SBAR (IN like) (S (NP (DT the) (NNS festivals)) (VP (VBP do) (PP (IN in) (NP (NN europe)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038106\"},\"m2\":{\"start\":37,\"end\":38,\"head\":37,\"type\":\"GPE\",\"subtype\":\"Continent\",\"phraseType\":\"NAM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380f6\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["i","hope","this","kind","of","thing","can","happen","in","america",",","instead","of","it","just","being","these","isolated","festivals","like","bonnaroo",",","it","really","can","happen","in","100","cities","every","summer",",","like","the","festivals","do","in","europe","."]
+,"lemmas":["i","hope","this","kind","of","thing","can","happen","in","america",",","instead","of","it","just","be","these","isolate","festival","like","bonnaroo",",","it","really","can","happen","in","100","city","every","summer",",","like","the","festival","do","in","europe","."]
+,"posTags":["LS","NN","DT","NN","IN","NN","MD","VB","IN","NN",",","RB","IN","PRP","RB","VBG","DT","VBN","NNS","IN","NN",",","PRP","RB","MD","VB","IN","CD","NNS","DT","NN",",","IN","DT","NNS","VBP","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","B-PP","I-PP","B-PP","B-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","I-VP","B-PP","B-NP","I-NP","B-NP","I-NP","O","B-SBAR","B-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[1,7,3,7,3,4,7,25,7,8,-2,8,8,18,18,18,18,18,12,18,19,-2,25,25,25,-1,25,28,26,30,25,-2,35,34,35,25,35,36,-2]
+,"deprels":["dep","dobj","det","nsubj","prep","pobj","aux","advcl","prep","pobj",null,"dep","prep","nsubj","advmod","cop","det","amod","pcomp","prep","pobj",null,"nsubj","advmod","aux","root","prep","num","pobj","det","tmod",null,"mark","det","nsubj","advcl","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (WHNP (LS i) (NN hope)) (S (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NN thing)))) (VP (MD can) (VP (VB happen) (PP (PP (IN in) (NP (NN america))) (, ,) (RB instead) (PP (IN of) (S (NP (PRP it)) (ADVP (RB just)) (VP (VBG being) (NP (NP (DT these) (VBN isolated) (NNS festivals)) (PP (IN like) (NP (NN bonnaroo)))))))))))) (, ,) (NP (PRP it)) (ADVP (RB really)) (VP (MD can) (VP (VB happen) (PP (IN in) (NP (CD 100) (NNS cities))) (NP-TMP (DT every) (NN summer)) (, ,) (SBAR (IN like) (S (NP (DT the) (NNS festivals)) (VP (VBP do) (PP (IN in) (NP (NN europe)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380fa\"},\"m2\":{\"start\":27,\"end\":29,\"head\":28,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380f8\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["i","hope","this","kind","of","thing","can","happen","in","america",",","instead","of","it","just","being","these","isolated","festivals","like","bonnaroo",",","it","really","can","happen","in","100","cities","every","summer",",","like","the","festivals","do","in","europe","."]
+,"lemmas":["i","hope","this","kind","of","thing","can","happen","in","america",",","instead","of","it","just","be","these","isolate","festival","like","bonnaroo",",","it","really","can","happen","in","100","city","every","summer",",","like","the","festival","do","in","europe","."]
+,"posTags":["LS","NN","DT","NN","IN","NN","MD","VB","IN","NN",",","RB","IN","PRP","RB","VBG","DT","VBN","NNS","IN","NN",",","PRP","RB","MD","VB","IN","CD","NNS","DT","NN",",","IN","DT","NNS","VBP","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","B-PP","I-PP","B-PP","B-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","I-VP","B-PP","B-NP","I-NP","B-NP","I-NP","O","B-SBAR","B-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[1,7,3,7,3,4,7,25,7,8,-2,8,8,18,18,18,18,18,12,18,19,-2,25,25,25,-1,25,28,26,30,25,-2,35,34,35,25,35,36,-2]
+,"deprels":["dep","dobj","det","nsubj","prep","pobj","aux","advcl","prep","pobj",null,"dep","prep","nsubj","advmod","cop","det","amod","pcomp","prep","pobj",null,"nsubj","advmod","aux","root","prep","num","pobj","det","tmod",null,"mark","det","nsubj","advcl","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (WHNP (LS i) (NN hope)) (S (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NN thing)))) (VP (MD can) (VP (VB happen) (PP (PP (IN in) (NP (NN america))) (, ,) (RB instead) (PP (IN of) (S (NP (PRP it)) (ADVP (RB just)) (VP (VBG being) (NP (NP (DT these) (VBN isolated) (NNS festivals)) (PP (IN like) (NP (NN bonnaroo)))))))))))) (, ,) (NP (PRP it)) (ADVP (RB really)) (VP (MD can) (VP (VB happen) (PP (IN in) (NP (CD 100) (NNS cities))) (NP-TMP (DT every) (NN summer)) (, ,) (SBAR (IN like) (S (NP (DT the) (NNS festivals)) (VP (VBP do) (PP (IN in) (NP (NN europe)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380fa\"},\"m2\":{\"start\":37,\"end\":38,\"head\":37,\"type\":\"GPE\",\"subtype\":\"Continent\",\"phraseType\":\"NAM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380f6\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["i","hope","this","kind","of","thing","can","happen","in","america",",","instead","of","it","just","being","these","isolated","festivals","like","bonnaroo",",","it","really","can","happen","in","100","cities","every","summer",",","like","the","festivals","do","in","europe","."]
+,"lemmas":["i","hope","this","kind","of","thing","can","happen","in","america",",","instead","of","it","just","be","these","isolate","festival","like","bonnaroo",",","it","really","can","happen","in","100","city","every","summer",",","like","the","festival","do","in","europe","."]
+,"posTags":["LS","NN","DT","NN","IN","NN","MD","VB","IN","NN",",","RB","IN","PRP","RB","VBG","DT","VBN","NNS","IN","NN",",","PRP","RB","MD","VB","IN","CD","NNS","DT","NN",",","IN","DT","NNS","VBP","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","B-PP","I-PP","B-PP","B-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","I-VP","B-PP","B-NP","I-NP","B-NP","I-NP","O","B-SBAR","B-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[1,7,3,7,3,4,7,25,7,8,-2,8,8,18,18,18,18,18,12,18,19,-2,25,25,25,-1,25,28,26,30,25,-2,35,34,35,25,35,36,-2]
+,"deprels":["dep","dobj","det","nsubj","prep","pobj","aux","advcl","prep","pobj",null,"dep","prep","nsubj","advmod","cop","det","amod","pcomp","prep","pobj",null,"nsubj","advmod","aux","root","prep","num","pobj","det","tmod",null,"mark","det","nsubj","advcl","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (WHNP (LS i) (NN hope)) (S (NP (NP (DT this) (NN kind)) (PP (IN of) (NP (NN thing)))) (VP (MD can) (VP (VB happen) (PP (PP (IN in) (NP (NN america))) (, ,) (RB instead) (PP (IN of) (S (NP (PRP it)) (ADVP (RB just)) (VP (VBG being) (NP (NP (DT these) (VBN isolated) (NNS festivals)) (PP (IN like) (NP (NN bonnaroo)))))))))))) (, ,) (NP (PRP it)) (ADVP (RB really)) (VP (MD can) (VP (VB happen) (PP (IN in) (NP (CD 100) (NNS cities))) (NP-TMP (DT every) (NN summer)) (, ,) (SBAR (IN like) (S (NP (DT the) (NNS festivals)) (VP (VBP do) (PP (IN in) (NP (NN europe)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":27,\"end\":29,\"head\":28,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380f8\"},\"m2\":{\"start\":37,\"end\":38,\"head\":37,\"type\":\"GPE\",\"subtype\":\"Continent\",\"phraseType\":\"NAM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380f6\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380ff\"},\"m2\":{\"start\":22,\"end\":25,\"head\":24,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c3\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-00007403810c\"},\"m2\":{\"start\":4,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038102\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-00007403810c\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038104\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-00007403810c\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380ff\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-00007403810c\"},\"m2\":{\"start\":22,\"end\":25,\"head\":24,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-00007403810c\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038100\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-00007403810c\"},\"m2\":{\"start\":26,\"end\":27,\"head\":26,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038105\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038102\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038104\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038102\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380ff\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038102\"},\"m2\":{\"start\":22,\"end\":25,\"head\":24,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038102\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038100\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038102\"},\"m2\":{\"start\":26,\"end\":27,\"head\":26,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038105\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038104\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380ff\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038104\"},\"m2\":{\"start\":22,\"end\":25,\"head\":24,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038104\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038100\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038104\"},\"m2\":{\"start\":26,\"end\":27,\"head\":26,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038105\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380ff\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038100\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380ff\"},\"m2\":{\"start\":26,\"end\":27,\"head\":26,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038105\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":22,\"end\":25,\"head\":24,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c3\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038100\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":22,\"end\":25,\"head\":24,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c3\"},\"m2\":{\"start\":26,\"end\":27,\"head\":26,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038105\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","know",",","as","a","music","lover","that","i","am",",","there","'s","five","acts","all","playing","at","the","same","time","on","five","different","stages","that","i","want","to","see","."]
+,"lemmas":["you","know",",","as","a","music","lover","that","i","am",",","there","be","five","act","all","play","at","the","same","time","on","five","different","stage","that","i","want","to","see","."]
+,"posTags":["PRP","VBP",",","IN","DT","NN","NN","WDT","FW","RB",",","EX","VBZ","CD","VBZ","DT","VBG","IN","DT","JJ","NN","IN","CD","JJ","NNS","WDT","FW","VBP","TO","VB","."]
+,"chunks":["B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-VP","I-VP","O"]
+,"parents":[1,-1,-2,1,6,6,3,12,12,12,-2,12,1,12,13,14,15,16,20,20,17,20,24,24,21,27,27,24,29,27,-2]
+,"deprels":["nsubj","root",null,"prep","det","nn","pobj","dobj","nsubj","advmod",null,"expl","ccomp","nsubj","rcmod","dobj","vmod","prep","det","amod","pobj","prep","num","amod","pobj","dobj","nsubj","rcmod","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP know) (, ,) (PP (IN as) (NP (DT a) (NN music) (NN lover))) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (ADVP (RB am)) (, ,) (NP (EX there)) (VP (VBZ 's) (NP (NP (CD five)) (SBAR (S (VP (VBZ acts) (NP (NP (DT all)) (VP (VBG playing) (PP (IN at) (NP (NP (DT the) (JJ same) (NN time)) (PP (IN on) (NP (NP (CD five) (JJ different) (NNS stages)) (SBAR (WHNP (WDT that)) (S (NP (FW i)) (VP (VBP want) (S (VP (TO to) (VP (VB see))))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038100\"},\"m2\":{\"start\":26,\"end\":27,\"head\":26,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-000074038105\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["it","really","comes","from","the","actual","bands","and","the","fact","that","there","'s","this","grassroots","following","that","'s","been","there",",","you","know",",","for","a","long","time","."]
+,"lemmas":["it","really","come","from","the","actual","band","and","the","fact","that","there","be","this","grassroot","follow","that","be","be","there",",","you","know",",","for","a","long","time","."]
+,"posTags":["PRP","RB","VBZ","IN","DT","JJ","NNS","CC","DT","NN","IN","EX","VBZ","DT","NNS","VBG","DT","VBZ","VBN","RB",",","PRP","VBP",",","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-ADVP","O","B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,2,6,6,3,6,9,6,12,12,2,14,12,14,15,18,16,18,-2,22,12,-2,12,27,27,24,-2]
+,"deprels":["nsubj","advmod","root","prep","det","amod","pobj","cc","det","conj","mark","expl","ccomp","det","nsubj","prep","pobj","auxpass","rcmod","advmod",null,"nsubj","parataxis",null,"prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (ADVP (RB really)) (VP (VBZ comes) (PP (IN from) (NP (NP (DT the) (JJ actual) (NNS bands)) (CC and) (NP (DT the) (NN fact)))) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT this) (NNS grassroots)) (PP (VBG following) (NP (NP (DT that)) (SBAR (S (VP (VBZ 's) (VP (VBN been) (ADVP (RB there))))))))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP know))) (, ,)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":7,\"head\":6,\"type\":\"ORG\",\"subtype\":\"Entertainment\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c5\"},\"m2\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c7\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["it","really","comes","from","the","actual","bands","and","the","fact","that","there","'s","this","grassroots","following","that","'s","been","there",",","you","know",",","for","a","long","time","."]
+,"lemmas":["it","really","come","from","the","actual","band","and","the","fact","that","there","be","this","grassroot","follow","that","be","be","there",",","you","know",",","for","a","long","time","."]
+,"posTags":["PRP","RB","VBZ","IN","DT","JJ","NNS","CC","DT","NN","IN","EX","VBZ","DT","NNS","VBG","DT","VBZ","VBN","RB",",","PRP","VBP",",","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-ADVP","O","B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,2,6,6,3,6,9,6,12,12,2,14,12,14,15,18,16,18,-2,22,12,-2,12,27,27,24,-2]
+,"deprels":["nsubj","advmod","root","prep","det","amod","pobj","cc","det","conj","mark","expl","ccomp","det","nsubj","prep","pobj","auxpass","rcmod","advmod",null,"nsubj","parataxis",null,"prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (ADVP (RB really)) (VP (VBZ comes) (PP (IN from) (NP (NP (DT the) (JJ actual) (NNS bands)) (CC and) (NP (DT the) (NN fact)))) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT this) (NNS grassroots)) (PP (VBG following) (NP (NP (DT that)) (SBAR (S (VP (VBZ 's) (VP (VBN been) (ADVP (RB there))))))))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP know))) (, ,)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":7,\"head\":6,\"type\":\"ORG\",\"subtype\":\"Entertainment\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c5\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c8\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["it","really","comes","from","the","actual","bands","and","the","fact","that","there","'s","this","grassroots","following","that","'s","been","there",",","you","know",",","for","a","long","time","."]
+,"lemmas":["it","really","come","from","the","actual","band","and","the","fact","that","there","be","this","grassroot","follow","that","be","be","there",",","you","know",",","for","a","long","time","."]
+,"posTags":["PRP","RB","VBZ","IN","DT","JJ","NNS","CC","DT","NN","IN","EX","VBZ","DT","NNS","VBG","DT","VBZ","VBN","RB",",","PRP","VBP",",","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-ADVP","O","B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,2,6,6,3,6,9,6,12,12,2,14,12,14,15,18,16,18,-2,22,12,-2,12,27,27,24,-2]
+,"deprels":["nsubj","advmod","root","prep","det","amod","pobj","cc","det","conj","mark","expl","ccomp","det","nsubj","prep","pobj","auxpass","rcmod","advmod",null,"nsubj","parataxis",null,"prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (ADVP (RB really)) (VP (VBZ comes) (PP (IN from) (NP (NP (DT the) (JJ actual) (NNS bands)) (CC and) (NP (DT the) (NN fact)))) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT this) (NNS grassroots)) (PP (VBG following) (NP (NP (DT that)) (SBAR (S (VP (VBZ 's) (VP (VBN been) (ADVP (RB there))))))))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP know))) (, ,)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":7,\"head\":6,\"type\":\"ORG\",\"subtype\":\"Entertainment\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c5\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-00007403810d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["it","really","comes","from","the","actual","bands","and","the","fact","that","there","'s","this","grassroots","following","that","'s","been","there",",","you","know",",","for","a","long","time","."]
+,"lemmas":["it","really","come","from","the","actual","band","and","the","fact","that","there","be","this","grassroot","follow","that","be","be","there",",","you","know",",","for","a","long","time","."]
+,"posTags":["PRP","RB","VBZ","IN","DT","JJ","NNS","CC","DT","NN","IN","EX","VBZ","DT","NNS","VBG","DT","VBZ","VBN","RB",",","PRP","VBP",",","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-ADVP","O","B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,2,6,6,3,6,9,6,12,12,2,14,12,14,15,18,16,18,-2,22,12,-2,12,27,27,24,-2]
+,"deprels":["nsubj","advmod","root","prep","det","amod","pobj","cc","det","conj","mark","expl","ccomp","det","nsubj","prep","pobj","auxpass","rcmod","advmod",null,"nsubj","parataxis",null,"prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (ADVP (RB really)) (VP (VBZ comes) (PP (IN from) (NP (NP (DT the) (JJ actual) (NNS bands)) (CC and) (NP (DT the) (NN fact)))) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT this) (NNS grassroots)) (PP (VBG following) (NP (NP (DT that)) (SBAR (S (VP (VBZ 's) (VP (VBN been) (ADVP (RB there))))))))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP know))) (, ,)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c7\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c8\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["it","really","comes","from","the","actual","bands","and","the","fact","that","there","'s","this","grassroots","following","that","'s","been","there",",","you","know",",","for","a","long","time","."]
+,"lemmas":["it","really","come","from","the","actual","band","and","the","fact","that","there","be","this","grassroot","follow","that","be","be","there",",","you","know",",","for","a","long","time","."]
+,"posTags":["PRP","RB","VBZ","IN","DT","JJ","NNS","CC","DT","NN","IN","EX","VBZ","DT","NNS","VBG","DT","VBZ","VBN","RB",",","PRP","VBP",",","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-ADVP","O","B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,2,6,6,3,6,9,6,12,12,2,14,12,14,15,18,16,18,-2,22,12,-2,12,27,27,24,-2]
+,"deprels":["nsubj","advmod","root","prep","det","amod","pobj","cc","det","conj","mark","expl","ccomp","det","nsubj","prep","pobj","auxpass","rcmod","advmod",null,"nsubj","parataxis",null,"prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (ADVP (RB really)) (VP (VBZ comes) (PP (IN from) (NP (NP (DT the) (JJ actual) (NNS bands)) (CC and) (NP (DT the) (NN fact)))) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT this) (NNS grassroots)) (PP (VBG following) (NP (NP (DT that)) (SBAR (S (VP (VBZ 's) (VP (VBN been) (ADVP (RB there))))))))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP know))) (, ,)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c7\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-00007403810d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["it","really","comes","from","the","actual","bands","and","the","fact","that","there","'s","this","grassroots","following","that","'s","been","there",",","you","know",",","for","a","long","time","."]
+,"lemmas":["it","really","come","from","the","actual","band","and","the","fact","that","there","be","this","grassroot","follow","that","be","be","there",",","you","know",",","for","a","long","time","."]
+,"posTags":["PRP","RB","VBZ","IN","DT","JJ","NNS","CC","DT","NN","IN","EX","VBZ","DT","NNS","VBG","DT","VBZ","VBN","RB",",","PRP","VBP",",","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-ADVP","O","B-NP","B-VP","O","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,2,6,6,3,6,9,6,12,12,2,14,12,14,15,18,16,18,-2,22,12,-2,12,27,27,24,-2]
+,"deprels":["nsubj","advmod","root","prep","det","amod","pobj","cc","det","conj","mark","expl","ccomp","det","nsubj","prep","pobj","auxpass","rcmod","advmod",null,"nsubj","parataxis",null,"prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (ADVP (RB really)) (VP (VBZ comes) (PP (IN from) (NP (NP (DT the) (JJ actual) (NNS bands)) (CC and) (NP (DT the) (NN fact)))) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT this) (NNS grassroots)) (PP (VBG following) (NP (NP (DT that)) (SBAR (S (VP (VBZ 's) (VP (VBN been) (ADVP (RB there))))))))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP know))) (, ,)) (PP (IN for) (NP (DT a) (JJ long) (NN time))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380c8\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-00007403810d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["primarily","started","by","the","grateful","dead",",","at","least","the","future","by","the","grateful","dead","."]
+,"lemmas":["primarily","start","by","the","grateful","dead",",","at","least","the","future","by","the","grateful","dead","."]
+,"posTags":["RB","VBN","IN","DT","JJ","JJ",",","IN","JJS","DT","NN","IN","DT","JJ","JJ","."]
+,"chunks":["B-ADVP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-ADVP","I-ADVP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,5,5,2,-2,5,7,10,1,10,14,14,11,-2]
+,"deprels":["advmod","root","prep","det","amod","pobj",null,"advmod","pobj","det","nsubj","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (SINV (ADVP (RB primarily)) (VP (VBN started) (PP (IN by) (NP (NP (DT the) (ADJP (JJ grateful) (JJ dead))) (, ,) (ADVP (IN at) (JJS least))))) (NP (NP (DT the) (NN future)) (PP (IN by) (NP (DT the) (ADJP (JJ grateful) (JJ dead))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":6,\"head\":5,\"type\":\"ORG\",\"subtype\":\"Entertainment\",\"phraseType\":\"NAM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380ca\"},\"m2\":{\"start\":12,\"end\":15,\"head\":14,\"type\":\"ORG\",\"subtype\":\"Entertainment\",\"phraseType\":\"NAM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380cb\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["we","will","get0","by","we","will","survive"]
+,"lemmas":["we","will","get0","by","we","will","survive"]
+,"posTags":["PRP","MD","VB","IN","PRP","MD","VB"]
+,"chunks":["B-NP","B-VP","I-VP","B-SBAR","B-NP","B-VP","I-VP"]
+,"parents":[2,2,-1,6,6,6,2]
+,"deprels":["nsubj","aux","root","mark","nsubj","aux","advcl"]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (MD will) (VP (VB get0) (SBAR (IN by) (S (NP (PRP we)) (VP (MD will) (VP (VB survive))))))))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380e2\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380e3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["it","makes","you","feel","a","certain","kind","of","love",",","and","hopefully",",","that","translates","in","the","community","."]
+,"lemmas":["it","make","you","feel","a","certain","kind","of","love",",","and","hopefully",",","that","translate","in","the","community","."]
+,"posTags":["PRP","VBZ","PRP","VBP","DT","JJ","NN","IN","NN",",","CC","RB",",","IN","VBZ","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","O","B-ADVP","O","B-NP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,6,6,3,6,7,-2,8,8,-2,14,6,14,17,15,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","amod","dobj","prep","pobj",null,"cc","conj",null,"nsubj","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBZ makes) (SBAR (S (NP (PRP you)) (VP (VBP feel) (NP (NP (DT a) (JJ certain) (NN kind)) (PP (IN of) (NP (NP (NN love)) (, ,) (CC and) (ADVP (RB hopefully)) (, ,))) (SBAR (WHNP (IN that)) (S (VP (VBZ translates) (PP (IN in) (NP (DT the) (NN community))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380cd\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380d3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","go","out",",","you","hug","someone","."]
+,"lemmas":["you","go","out",",","you","hug","someone","."]
+,"posTags":["PRP","VBP","RP",",","PRP","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-PRT","O","B-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,-2,6,6,1,-2]
+,"deprels":["nsubj","root","prt",null,"dep","nn","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP you)) (VP (VBP go) (PRT (RP out)))) (, ,) (S (NP (PRP you)) (NP (NN hug) (NN someone))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380ce\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380cf\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","go","out",",","you","hug","someone","."]
+,"lemmas":["you","go","out",",","you","hug","someone","."]
+,"posTags":["PRP","VBP","RP",",","PRP","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-PRT","O","B-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,-2,6,6,1,-2]
+,"deprels":["nsubj","root","prt",null,"dep","nn","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP you)) (VP (VBP go) (PRT (RP out)))) (, ,) (S (NP (PRP you)) (NP (NN hug) (NN someone))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380ce\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380d5\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["you","go","out",",","you","hug","someone","."]
+,"lemmas":["you","go","out",",","you","hug","someone","."]
+,"posTags":["PRP","VBP","RP",",","PRP","NN","NN","."]
+,"chunks":["B-NP","B-VP","B-PRT","O","B-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,-2,6,6,1,-2]
+,"deprels":["nsubj","root","prt",null,"dep","nn","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP you)) (VP (VBP go) (PRT (RP out)))) (, ,) (S (NP (PRP you)) (NP (NN hug) (NN someone))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380cf\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380d5\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["we","love","you","."]
+,"lemmas":["we","love","you","."]
+,"posTags":["PRP","VBP","PRP","."]
+,"chunks":["B-NP","B-VP","B-NP","O"]
+,"parents":[1,-1,1,-2]
+,"deprels":["nsubj","root","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP love) (NP (PRP you))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-0000740380d7\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ef308124-e39f-6a3e-cd2f-00007403810a\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+

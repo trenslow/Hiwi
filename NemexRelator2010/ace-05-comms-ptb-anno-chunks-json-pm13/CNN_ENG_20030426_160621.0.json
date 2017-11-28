@@ -1,0 +1,770 @@
+{"words":["''","it","'s","a","guided","missile","destroyer","."]
+,"lemmas":["''","it","be","a","guide","missile","destroyer","."]
+,"posTags":["''","PRP","VBZ","DT","VBN","NN","NN","."]
+,"chunks":["O","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-2,6,6,6,6,6,-1,-2]
+,"deprels":[null,"nsubj","cop","det","amod","nn","root",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (VBN guided) (NN missile) (NN destroyer))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f09\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f1b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","it","'s","a","guided","missile","destroyer","."]
+,"lemmas":["''","it","be","a","guide","missile","destroyer","."]
+,"posTags":["''","PRP","VBZ","DT","VBN","NN","NN","."]
+,"chunks":["O","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-2,6,6,6,6,6,-1,-2]
+,"deprels":[null,"nsubj","cop","det","amod","nn","root",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (VBN guided) (NN missile) (NN destroyer))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f09\"},\"m2\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f0a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","it","'s","a","guided","missile","destroyer","."]
+,"lemmas":["''","it","be","a","guide","missile","destroyer","."]
+,"posTags":["''","PRP","VBZ","DT","VBN","NN","NN","."]
+,"chunks":["O","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-2,6,6,6,6,6,-1,-2]
+,"deprels":[null,"nsubj","cop","det","amod","nn","root",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP it)) (VP (VBZ 's) (NP (DT a) (VBN guided) (NN missile) (NN destroyer))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f1b\"},\"m2\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f0a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","fired","off","50","tomahawk","missiles","during","``","operation","iraqi","freedom","."]
+,"lemmas":["they","fire","off","50","tomahawk","missile","during","``","operation","iraqi","freedom","."]
+,"posTags":["PRP","VBD","RP","CD","NN","NNS","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-PRT","B-NP","I-NP","I-NP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,5,5,1,1,-2,10,10,6,-2]
+,"deprels":["nsubj","root","prt","num","nn","dobj","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBD fired) (PRT (RP off)) (NP (CD 50) (NN tomahawk) (NNS missiles)) (PP (IN during) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f12\"},\"m2\":{\"start\":3,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f2b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","fired","off","50","tomahawk","missiles","during","``","operation","iraqi","freedom","."]
+,"lemmas":["they","fire","off","50","tomahawk","missile","during","``","operation","iraqi","freedom","."]
+,"posTags":["PRP","VBD","RP","CD","NN","NNS","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-PRT","B-NP","I-NP","I-NP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,5,5,1,1,-2,10,10,6,-2]
+,"deprels":["nsubj","root","prt","num","nn","dobj","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBD fired) (PRT (RP off)) (NP (CD 50) (NN tomahawk) (NNS missiles)) (PP (IN during) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f12\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f20\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","fired","off","50","tomahawk","missiles","during","``","operation","iraqi","freedom","."]
+,"lemmas":["they","fire","off","50","tomahawk","missile","during","``","operation","iraqi","freedom","."]
+,"posTags":["PRP","VBD","RP","CD","NN","NNS","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-PRT","B-NP","I-NP","I-NP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,5,5,1,1,-2,10,10,6,-2]
+,"deprels":["nsubj","root","prt","num","nn","dobj","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBD fired) (PRT (RP off)) (NP (CD 50) (NN tomahawk) (NNS missiles)) (PP (IN during) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f2b\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f20\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","you","talk","about","the","capability","of","this","ship","."]
+,"lemmas":["''","you","talk","about","the","capability","of","this","ship","."]
+,"posTags":["''","PRP","VBP","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["O","B-NP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[-2,2,-1,2,5,3,5,8,6,-2]
+,"deprels":[null,"nsubj","root","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP you)) (VP (VBP talk) (PP (IN about) (NP (NP (DT the) (NN capability)) (PP (IN of) (NP (DT this) (NN ship)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f3a\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f0b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","other","mission","that","it","took","part","in","was","the","operations","before","t","fall","of","the","saddam","hussein","and","his","regime","."]
+,"lemmas":["the","other","mission","that","it","take","part","in","be","the","operation","before","t","fall","of","the","saddam","hussein","and","he","regime","."]
+,"posTags":["DT","JJ","NN","IN","PRP","VBD","NN","IN","VBD","DT","NNS","IN","NN","NN","IN","DT","NN","NN","CC","PRP$","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,10,5,5,2,5,5,10,10,-1,10,13,11,13,17,17,14,17,20,17,-2]
+,"deprels":["det","amod","nsubj","mark","nsubj","dep","dobj","prep","cop","det","root","prep","nn","pobj","prep","det","nn","pobj","cc","poss","conj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT the) (JJ other) (NN mission)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD took) (NP (NN part)) (PP (IN in)))))) (VP (VBD was) (NP (DT the) (NNS operations)) (PP (IN before) (NP (NP (NN t) (NN fall)) (PP (IN of) (NP (NP (DT the) (NN saddam) (NN hussein)) (CC and) (NP (PRP$ his) (NN regime))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f0c\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f4d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","other","mission","that","it","took","part","in","was","the","operations","before","t","fall","of","the","saddam","hussein","and","his","regime","."]
+,"lemmas":["the","other","mission","that","it","take","part","in","be","the","operation","before","t","fall","of","the","saddam","hussein","and","he","regime","."]
+,"posTags":["DT","JJ","NN","IN","PRP","VBD","NN","IN","VBD","DT","NNS","IN","NN","NN","IN","DT","NN","NN","CC","PRP$","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,10,5,5,2,5,5,10,10,-1,10,13,11,13,17,17,14,17,20,17,-2]
+,"deprels":["det","amod","nsubj","mark","nsubj","dep","dobj","prep","cop","det","root","prep","nn","pobj","prep","det","nn","pobj","cc","poss","conj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT the) (JJ other) (NN mission)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD took) (NP (NN part)) (PP (IN in)))))) (VP (VBD was) (NP (DT the) (NNS operations)) (PP (IN before) (NP (NP (NN t) (NN fall)) (PP (IN of) (NP (NP (DT the) (NN saddam) (NN hussein)) (CC and) (NP (PRP$ his) (NN regime))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f0c\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f4e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","other","mission","that","it","took","part","in","was","the","operations","before","t","fall","of","the","saddam","hussein","and","his","regime","."]
+,"lemmas":["the","other","mission","that","it","take","part","in","be","the","operation","before","t","fall","of","the","saddam","hussein","and","he","regime","."]
+,"posTags":["DT","JJ","NN","IN","PRP","VBD","NN","IN","VBD","DT","NNS","IN","NN","NN","IN","DT","NN","NN","CC","PRP$","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,10,5,5,2,5,5,10,10,-1,10,13,11,13,17,17,14,17,20,17,-2]
+,"deprels":["det","amod","nsubj","mark","nsubj","dep","dobj","prep","cop","det","root","prep","nn","pobj","prep","det","nn","pobj","cc","poss","conj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT the) (JJ other) (NN mission)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD took) (NP (NN part)) (PP (IN in)))))) (VP (VBD was) (NP (DT the) (NNS operations)) (PP (IN before) (NP (NP (NN t) (NN fall)) (PP (IN of) (NP (NP (DT the) (NN saddam) (NN hussein)) (CC and) (NP (PRP$ his) (NN regime))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f0c\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f46\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","other","mission","that","it","took","part","in","was","the","operations","before","t","fall","of","the","saddam","hussein","and","his","regime","."]
+,"lemmas":["the","other","mission","that","it","take","part","in","be","the","operation","before","t","fall","of","the","saddam","hussein","and","he","regime","."]
+,"posTags":["DT","JJ","NN","IN","PRP","VBD","NN","IN","VBD","DT","NNS","IN","NN","NN","IN","DT","NN","NN","CC","PRP$","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,10,5,5,2,5,5,10,10,-1,10,13,11,13,17,17,14,17,20,17,-2]
+,"deprels":["det","amod","nsubj","mark","nsubj","dep","dobj","prep","cop","det","root","prep","nn","pobj","prep","det","nn","pobj","cc","poss","conj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT the) (JJ other) (NN mission)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD took) (NP (NN part)) (PP (IN in)))))) (VP (VBD was) (NP (DT the) (NNS operations)) (PP (IN before) (NP (NP (NN t) (NN fall)) (PP (IN of) (NP (NP (DT the) (NN saddam) (NN hussein)) (CC and) (NP (PRP$ his) (NN regime))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f4d\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f4e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","other","mission","that","it","took","part","in","was","the","operations","before","t","fall","of","the","saddam","hussein","and","his","regime","."]
+,"lemmas":["the","other","mission","that","it","take","part","in","be","the","operation","before","t","fall","of","the","saddam","hussein","and","he","regime","."]
+,"posTags":["DT","JJ","NN","IN","PRP","VBD","NN","IN","VBD","DT","NNS","IN","NN","NN","IN","DT","NN","NN","CC","PRP$","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,10,5,5,2,5,5,10,10,-1,10,13,11,13,17,17,14,17,20,17,-2]
+,"deprels":["det","amod","nsubj","mark","nsubj","dep","dobj","prep","cop","det","root","prep","nn","pobj","prep","det","nn","pobj","cc","poss","conj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT the) (JJ other) (NN mission)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD took) (NP (NN part)) (PP (IN in)))))) (VP (VBD was) (NP (DT the) (NNS operations)) (PP (IN before) (NP (NP (NN t) (NN fall)) (PP (IN of) (NP (NP (DT the) (NN saddam) (NN hussein)) (CC and) (NP (PRP$ his) (NN regime))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f4d\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f46\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","other","mission","that","it","took","part","in","was","the","operations","before","t","fall","of","the","saddam","hussein","and","his","regime","."]
+,"lemmas":["the","other","mission","that","it","take","part","in","be","the","operation","before","t","fall","of","the","saddam","hussein","and","he","regime","."]
+,"posTags":["DT","JJ","NN","IN","PRP","VBD","NN","IN","VBD","DT","NNS","IN","NN","NN","IN","DT","NN","NN","CC","PRP$","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,10,5,5,2,5,5,10,10,-1,10,13,11,13,17,17,14,17,20,17,-2]
+,"deprels":["det","amod","nsubj","mark","nsubj","dep","dobj","prep","cop","det","root","prep","nn","pobj","prep","det","nn","pobj","cc","poss","conj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT the) (JJ other) (NN mission)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD took) (NP (NN part)) (PP (IN in)))))) (VP (VBD was) (NP (DT the) (NNS operations)) (PP (IN before) (NP (NP (NN t) (NN fall)) (PP (IN of) (NP (NP (DT the) (NN saddam) (NN hussein)) (CC and) (NP (PRP$ his) (NN regime))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":19,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f4e\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f46\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","were","out","there","taking","down","illegal","smugglers","and","going","out","and","boarding","the","ships","."]
+,"lemmas":["they","be","out","there","take","down","illegal","smuggler","and","go","out","and","board","the","ship","."]
+,"posTags":["PRP","VBD","IN","RB","VBG","RP","JJ","NNS","CC","VBG","RP","CC","VBG","DT","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PRT","B-NP","I-NP","O","B-VP","B-PRT","O","B-VP","B-NP","I-NP","O"]
+,"parents":[4,4,4,2,-1,4,7,4,4,4,9,4,4,14,12,-2]
+,"deprels":["nsubj","aux","advmod","advmod","root","prt","amod","dobj","cc","conj","prt","cc","conj","det","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBD were) (ADVP (IN out) (RB there)) (VP (VP (VBG taking) (PRT (RP down)) (NP (JJ illegal) (NNS smugglers))) (CC and) (VP (VBG going) (PRT (RP out))) (CC and) (VP (VBG boarding) (NP (DT the) (NNS ships))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f13\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","were","out","there","taking","down","illegal","smugglers","and","going","out","and","boarding","the","ships","."]
+,"lemmas":["they","be","out","there","take","down","illegal","smuggler","and","go","out","and","board","the","ship","."]
+,"posTags":["PRP","VBD","IN","RB","VBG","RP","JJ","NNS","CC","VBG","RP","CC","VBG","DT","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PRT","B-NP","I-NP","O","B-VP","B-PRT","O","B-VP","B-NP","I-NP","O"]
+,"parents":[4,4,4,2,-1,4,7,4,4,4,9,4,4,14,12,-2]
+,"deprels":["nsubj","aux","advmod","advmod","root","prt","amod","dobj","cc","conj","prt","cc","conj","det","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBD were) (ADVP (IN out) (RB there)) (VP (VP (VBG taking) (PRT (RP down)) (NP (JJ illegal) (NNS smugglers))) (CC and) (VP (VBG going) (PRT (RP out))) (CC and) (VP (VBG boarding) (NP (DT the) (NNS ships))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f13\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f2d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","were","out","there","taking","down","illegal","smugglers","and","going","out","and","boarding","the","ships","."]
+,"lemmas":["they","be","out","there","take","down","illegal","smuggler","and","go","out","and","board","the","ship","."]
+,"posTags":["PRP","VBD","IN","RB","VBG","RP","JJ","NNS","CC","VBG","RP","CC","VBG","DT","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PRT","B-NP","I-NP","O","B-VP","B-PRT","O","B-VP","B-NP","I-NP","O"]
+,"parents":[4,4,4,2,-1,4,7,4,4,4,9,4,4,14,12,-2]
+,"deprels":["nsubj","aux","advmod","advmod","root","prt","amod","dobj","cc","conj","prt","cc","conj","det","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBD were) (ADVP (IN out) (RB there)) (VP (VP (VBG taking) (PRT (RP down)) (NP (JJ illegal) (NNS smugglers))) (CC and) (VP (VBG going) (PRT (RP out))) (CC and) (VP (VBG boarding) (NP (DT the) (NNS ships))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef9\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f2d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","can","detect","enemy","radar","or","missiles","and","destroy","them","instantly","."]
+,"lemmas":["it","can","detect","enemy","radar","or","missile","and","destroy","they","instantly","."]
+,"posTags":["PRP","MD","VB","NN","NN","CC","NNS","CC","VB","PRP","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","O","B-NP","O","B-VP","B-NP","B-ADVP","O"]
+,"parents":[2,2,-1,4,2,4,4,2,2,8,8,-2]
+,"deprels":["nsubj","aux","root","nn","dobj","cc","conj","cc","conj","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (MD can) (VP (VP (VB detect) (NP (NP (NN enemy) (NN radar)) (CC or) (NP (NNS missiles)))) (CC and) (VP (VB destroy) (NP (PRP them)) (ADVP (RB instantly))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f24\"},\"m2\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f26\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["it","can","detect","enemy","radar","or","missiles","and","destroy","them","instantly","."]
+,"lemmas":["it","can","detect","enemy","radar","or","missile","and","destroy","they","instantly","."]
+,"posTags":["PRP","MD","VB","NN","NN","CC","NNS","CC","VB","PRP","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","O","B-NP","O","B-VP","B-NP","B-ADVP","O"]
+,"parents":[2,2,-1,4,2,4,4,2,2,8,8,-2]
+,"deprels":["nsubj","aux","root","nn","dobj","cc","conj","cc","conj","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (MD can) (VP (VP (VB detect) (NP (NP (NN enemy) (NN radar)) (CC or) (NP (NNS missiles)))) (CC and) (VP (VB destroy) (NP (PRP them)) (ADVP (RB instantly))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f08\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f24\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","can","detect","enemy","radar","or","missiles","and","destroy","them","instantly","."]
+,"lemmas":["it","can","detect","enemy","radar","or","missile","and","destroy","they","instantly","."]
+,"posTags":["PRP","MD","VB","NN","NN","CC","NNS","CC","VB","PRP","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","O","B-NP","O","B-VP","B-NP","B-ADVP","O"]
+,"parents":[2,2,-1,4,2,4,4,2,2,8,8,-2]
+,"deprels":["nsubj","aux","root","nn","dobj","cc","conj","cc","conj","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (MD can) (VP (VP (VB detect) (NP (NP (NN enemy) (NN radar)) (CC or) (NP (NNS missiles)))) (CC and) (VP (VB destroy) (NP (PRP them)) (ADVP (RB instantly))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f08\"},\"m2\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f26\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","can","detect","enemy","radar","or","missiles","and","destroy","them","instantly","."]
+,"lemmas":["it","can","detect","enemy","radar","or","missile","and","destroy","they","instantly","."]
+,"posTags":["PRP","MD","VB","NN","NN","CC","NNS","CC","VB","PRP","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","O","B-NP","O","B-VP","B-NP","B-ADVP","O"]
+,"parents":[2,2,-1,4,2,4,4,2,2,8,8,-2]
+,"deprels":["nsubj","aux","root","nn","dobj","cc","conj","cc","conj","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (MD can) (VP (VP (VB detect) (NP (NP (NN enemy) (NN radar)) (CC or) (NP (NNS missiles)))) (CC and) (VP (VB destroy) (NP (PRP them)) (ADVP (RB instantly))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f08\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f27\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","can","detect","enemy","radar","or","missiles","and","destroy","them","instantly","."]
+,"lemmas":["it","can","detect","enemy","radar","or","missile","and","destroy","they","instantly","."]
+,"posTags":["PRP","MD","VB","NN","NN","CC","NNS","CC","VB","PRP","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","O","B-NP","O","B-VP","B-NP","B-ADVP","O"]
+,"parents":[2,2,-1,4,2,4,4,2,2,8,8,-2]
+,"deprels":["nsubj","aux","root","nn","dobj","cc","conj","cc","conj","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (MD can) (VP (VP (VB detect) (NP (NP (NN enemy) (NN radar)) (CC or) (NP (NNS missiles)))) (CC and) (VP (VB destroy) (NP (PRP them)) (ADVP (RB instantly))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f24\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f27\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","can","detect","enemy","radar","or","missiles","and","destroy","them","instantly","."]
+,"lemmas":["it","can","detect","enemy","radar","or","missile","and","destroy","they","instantly","."]
+,"posTags":["PRP","MD","VB","NN","NN","CC","NNS","CC","VB","PRP","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","O","B-NP","O","B-VP","B-NP","B-ADVP","O"]
+,"parents":[2,2,-1,4,2,4,4,2,2,8,8,-2]
+,"deprels":["nsubj","aux","root","nn","dobj","cc","conj","cc","conj","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (MD can) (VP (VP (VB detect) (NP (NP (NN enemy) (NN radar)) (CC or) (NP (NNS missiles)))) (CC and) (VP (VB destroy) (NP (PRP them)) (ADVP (RB instantly))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f26\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f27\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","were","a","big","part","in","``","operation","iraqi","freedom","."]
+,"lemmas":["they","be","a","big","part","in","``","operation","iraqi","freedom","."]
+,"posTags":["PRP","VBD","DT","JJ","NN","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,-2,9,9,5,-2]
+,"deprels":["nsubj","cop","det","amod","root","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBD were) (NP (NP (DT a) (JJ big) (NN part)) (PP (IN in) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f14\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f1d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","you","are","seeing","the","pictures",",","everybody","is","home","."]
+,"lemmas":["''","you","be","see","the","picture",",","everybody","be","home","."]
+,"posTags":["''","PRP","VBP","VBG","DT","NNS",",","NN","VBZ","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-NP","I-NP","O","B-NP","B-VP","B-NP","O"]
+,"parents":[-2,3,3,9,5,3,-2,9,9,-1,-2]
+,"deprels":[null,"nsubj","aux","ccomp","det","dobj",null,"nsubj","cop","root",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (PRP you)) (VP (VBP are) (VP (VBG seeing) (NP (DT the) (NNS pictures))))) (, ,) (NP (NN everybody)) (VP (VBZ is) (NP (NN home))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f19\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f4a\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["''","you","are","seeing","the","pictures",",","everybody","is","home","."]
+,"lemmas":["''","you","be","see","the","picture",",","everybody","be","home","."]
+,"posTags":["''","PRP","VBP","VBG","DT","NNS",",","NN","VBZ","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-NP","I-NP","O","B-NP","B-VP","B-NP","O"]
+,"parents":[-2,3,3,9,5,3,-2,9,9,-1,-2]
+,"deprels":[null,"nsubj","aux","ccomp","det","dobj",null,"nsubj","cop","root",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (PRP you)) (VP (VBP are) (VP (VBG seeing) (NP (DT the) (NNS pictures))))) (, ,) (NP (NN everybody)) (VP (VBZ is) (NP (NN home))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f38\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f19\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","you","are","seeing","the","pictures",",","everybody","is","home","."]
+,"lemmas":["''","you","be","see","the","picture",",","everybody","be","home","."]
+,"posTags":["''","PRP","VBP","VBG","DT","NNS",",","NN","VBZ","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-NP","I-NP","O","B-NP","B-VP","B-NP","O"]
+,"parents":[-2,3,3,9,5,3,-2,9,9,-1,-2]
+,"deprels":[null,"nsubj","aux","ccomp","det","dobj",null,"nsubj","cop","root",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (PRP you)) (VP (VBP are) (VP (VBG seeing) (NP (DT the) (NNS pictures))))) (, ,) (NP (NN everybody)) (VP (VBZ is) (NP (NN home))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f38\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f4a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["friends","and","family","connecting","."]
+,"lemmas":["friend","and","family","connect","."]
+,"posTags":["NNS","CC","NN","VBG","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O"]
+,"parents":[-1,0,0,0,-2]
+,"deprels":["root","cc","conj","vmod",null]
+,"naryTree":"((ROOT (NP (NP (NNS friends) (CC and) (NN family)) (VP (VBG connecting)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f44\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f48\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","fathers","have","not","seen","their","babies","."]
+,"lemmas":["14","father","have","not","see","they","baby","."]
+,"posTags":["CD","NNS","VBP","RB","VBN","PRP$","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,6,4,-2]
+,"deprels":["num","nsubj","aux","neg","root","poss","dobj",null]
+,"naryTree":"((ROOT (S (NP (CD 14) (NNS fathers)) (VP (VBP have) (RB not) (VP (VBN seen) (NP (PRP$ their) (NNS babies)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f30\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f3c\"}}]"
+,"relLabels":["PER-SOC(Arg-1,Arg-1)"]}
+
+{"words":["14","fathers","have","not","seen","their","babies","."]
+,"lemmas":["14","father","have","not","see","they","baby","."]
+,"posTags":["CD","NNS","VBP","RB","VBN","PRP$","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,6,4,-2]
+,"deprels":["num","nsubj","aux","neg","root","poss","dobj",null]
+,"naryTree":"((ROOT (S (NP (CD 14) (NNS fathers)) (VP (VBP have) (RB not) (VP (VBN seen) (NP (PRP$ their) (NNS babies)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f2f\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f30\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","fathers","have","not","seen","their","babies","."]
+,"lemmas":["14","father","have","not","see","they","baby","."]
+,"posTags":["CD","NNS","VBP","RB","VBN","PRP$","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,6,4,-2]
+,"deprels":["num","nsubj","aux","neg","root","poss","dobj",null]
+,"naryTree":"((ROOT (S (NP (CD 14) (NNS fathers)) (VP (VBP have) (RB not) (VP (VBN seen) (NP (PRP$ their) (NNS babies)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f2f\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f3c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","all","reunited","with","their","families","."]
+,"lemmas":["they","all","reunite","with","they","family","."]
+,"posTags":["PRP","DT","VBN","IN","PRP$","NNS","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,-2]
+,"deprels":["nsubj","advmod","root","prep","poss","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (ADVP (DT all)) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f32\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f29\"}}]"
+,"relLabels":["PER-SOC(Arg-1,Arg-1)"]}
+
+{"words":["they","all","reunited","with","their","families","."]
+,"lemmas":["they","all","reunite","with","they","family","."]
+,"posTags":["PRP","DT","VBN","IN","PRP$","NNS","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,-2]
+,"deprels":["nsubj","advmod","root","prep","poss","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (ADVP (DT all)) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f31\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f32\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","all","reunited","with","their","families","."]
+,"lemmas":["they","all","reunite","with","they","family","."]
+,"posTags":["PRP","DT","VBN","IN","PRP$","NNS","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,-2]
+,"deprels":["nsubj","advmod","root","prep","poss","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (ADVP (DT all)) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f31\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f29\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","got","to","meet","up","with","one","such","family","."]
+,"lemmas":["we","get","to","meet","up","with","one","such","family","."]
+,"posTags":["PRP","VBD","TO","VB","RP","IN","CD","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,3,3,8,8,5,-2]
+,"deprels":["nsubj","root","aux","xcomp","prt","prep","num","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBD got) (S (VP (TO to) (VP (VB meet) (PRT (RP up)) (PP (IN with) (NP (CD one) (JJ such) (NN family))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f3e\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f34\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","'ll","show","you","pictures","of","the","galetta","family","."]
+,"lemmas":["we","'ll","show","you","picture","of","the","galetta","family","."]
+,"posTags":["PRP","MD","VB","PRP","NNS","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,4,8,8,5,-2]
+,"deprels":["nsubj","aux","root","nsubj","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (MD 'll) (VP (VB show) (S (NP (PRP you)) (NP (NP (NNS pictures)) (PP (IN of) (NP (DT the) (NN galetta) (NN family))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f3f\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f39\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","'ll","show","you","pictures","of","the","galetta","family","."]
+,"lemmas":["we","'ll","show","you","picture","of","the","galetta","family","."]
+,"posTags":["PRP","MD","VB","PRP","NNS","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,4,8,8,5,-2]
+,"deprels":["nsubj","aux","root","nsubj","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (MD 'll) (VP (VB show) (S (NP (PRP you)) (NP (NP (NNS pictures)) (PP (IN of) (NP (DT the) (NN galetta) (NN family))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f3f\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f36\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","'ll","show","you","pictures","of","the","galetta","family","."]
+,"lemmas":["we","'ll","show","you","picture","of","the","galetta","family","."]
+,"posTags":["PRP","MD","VB","PRP","NNS","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,4,8,8,5,-2]
+,"deprels":["nsubj","aux","root","nsubj","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (MD 'll) (VP (VB show) (S (NP (PRP you)) (NP (NP (NNS pictures)) (PP (IN of) (NP (DT the) (NN galetta) (NN family))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f3f\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f35\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","'ll","show","you","pictures","of","the","galetta","family","."]
+,"lemmas":["we","'ll","show","you","picture","of","the","galetta","family","."]
+,"posTags":["PRP","MD","VB","PRP","NNS","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,4,8,8,5,-2]
+,"deprels":["nsubj","aux","root","nsubj","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (MD 'll) (VP (VB show) (S (NP (PRP you)) (NP (NP (NNS pictures)) (PP (IN of) (NP (DT the) (NN galetta) (NN family))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f39\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f36\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","'ll","show","you","pictures","of","the","galetta","family","."]
+,"lemmas":["we","'ll","show","you","picture","of","the","galetta","family","."]
+,"posTags":["PRP","MD","VB","PRP","NNS","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,4,8,8,5,-2]
+,"deprels":["nsubj","aux","root","nsubj","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (MD 'll) (VP (VB show) (S (NP (PRP you)) (NP (NP (NNS pictures)) (PP (IN of) (NP (DT the) (NN galetta) (NN family))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f39\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f35\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","'ll","show","you","pictures","of","the","galetta","family","."]
+,"lemmas":["we","'ll","show","you","picture","of","the","galetta","family","."]
+,"posTags":["PRP","MD","VB","PRP","NNS","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,4,8,8,5,-2]
+,"deprels":["nsubj","aux","root","nsubj","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (MD 'll) (VP (VB show) (S (NP (PRP you)) (NP (NP (NNS pictures)) (PP (IN of) (NP (DT the) (NN galetta) (NN family))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f36\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f35\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["katie","was","born","on","christmas","day",",","anderson","."]
+,"lemmas":["katie","be","bear","on","christmas","day",",","anderson","."]
+,"posTags":["NN","VBD","VBN","IN","NNS","NN",",","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","O"]
+,"parents":[2,2,-1,2,5,3,-2,5,-2]
+,"deprels":["nsubjpass","auxpass","root","prep","nn","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S (NP (NN katie)) (VP (VBD was) (VP (VBN born) (PP (IN on) (NP (NP (NNS christmas) (NN day)) (, ,) (NP (NN anderson)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef4\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef5\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efb\"}}]"
+,"relLabels":["PER-SOC(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef5\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef5\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef5\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efb\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efb\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efb\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efb\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f1e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef6\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef6\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef6\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f1e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef7\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274ef7\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f1e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","is","the","first","time","her","father","got","to","hold","her","and","look","in","her","eyes","since","he","came","back","from","``","operation","iraqi","freedom","."]
+,"lemmas":["this","be","the","first","time","she","father","get","to","hold","she","and","look","in","she","eye","since","he","come","back","from","``","operation","iraqi","freedom","."]
+,"posTags":["DT","VBZ","DT","JJ","NN","PRP$","NN","VBD","TO","VB","PRP","CC","VB","IN","PRP$","NNS","IN","PRP","VBD","RB","IN","``","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-VP","I-VP","B-NP","O","B-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,6,7,4,9,7,9,9,9,12,15,13,18,18,12,18,18,-2,24,24,20,-2]
+,"deprels":["nsubj","cop","det","amod","root","poss","nsubj","rcmod","aux","xcomp","dobj","cc","conj","prep","poss","pobj","mark","nsubj","advcl","advmod","prep",null,"nn","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP$ her) (NN father)) (VP (VBD got) (S (VP (TO to) (VP (VP (VB hold) (NP (PRP her))) (CC and) (VP (VB look) (PP (IN in) (NP (PRP$ her) (NNS eyes))) (SBAR (IN since) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back)) (PP (IN from) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efc\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f1e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","130","sailors","really","excited","to","be","home","back","on","land","after","being","at","sea","for","nearly","10","months","carrying","out","``","operation","iraqi","freedom","."]
+,"lemmas":["''","130","sailor","really","excite","to","be","home","back","on","land","after","be","at","sea","for","nearly","10","month","carry","out","``","operation","iraqi","freedom","."]
+,"posTags":["''","CD","NNS","RB","VBN","TO","VB","RB","RB","IN","NN","IN","VBG","IN","NN","IN","RB","CD","NNS","VBG","RP","``","NN","JJ","NN","."]
+,"chunks":["O","B-NP","I-NP","B-ADVP","B-VP","B-VP","I-VP","B-ADVP","B-ADVP","B-PP","B-NP","B-PP","B-VP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-PRT","O","B-NP","I-NP","I-NP","O"]
+,"parents":[-2,2,4,4,-1,6,4,6,9,6,9,6,11,12,13,4,17,18,19,4,19,-2,24,24,19,-2]
+,"deprels":[null,"num","nsubj","advmod","root","aux","xcomp","advmod","advmod","prep","pobj","prep","pcomp","prep","pobj","dep","quantmod","num","nsubj","parataxis","prt",null,"nn","amod","dobj",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (CD 130) (NNS sailors)) (ADVP (RB really)) (VP (VBN excited) (S (VP (TO to) (VP (VB be) (ADVP (RB home)) (PP (ADVP (RB back)) (IN on) (NP (NN land))) (PP (IN after) (S (VP (VBG being) (PP (IN at) (NP (NN sea))))))))))) (IN for) (S (NP (QP (RB nearly) (CD 10)) (NNS months)) (VP (VBG carrying) (PRT (RP out)) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f00\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efe\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["''","130","sailors","really","excited","to","be","home","back","on","land","after","being","at","sea","for","nearly","10","months","carrying","out","``","operation","iraqi","freedom","."]
+,"lemmas":["''","130","sailor","really","excite","to","be","home","back","on","land","after","be","at","sea","for","nearly","10","month","carry","out","``","operation","iraqi","freedom","."]
+,"posTags":["''","CD","NNS","RB","VBN","TO","VB","RB","RB","IN","NN","IN","VBG","IN","NN","IN","RB","CD","NNS","VBG","RP","``","NN","JJ","NN","."]
+,"chunks":["O","B-NP","I-NP","B-ADVP","B-VP","B-VP","I-VP","B-ADVP","B-ADVP","B-PP","B-NP","B-PP","B-VP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-PRT","O","B-NP","I-NP","I-NP","O"]
+,"parents":[-2,2,4,4,-1,6,4,6,9,6,9,6,11,12,13,4,17,18,19,4,19,-2,24,24,19,-2]
+,"deprels":[null,"num","nsubj","advmod","root","aux","xcomp","advmod","advmod","prep","pobj","prep","pcomp","prep","pobj","dep","quantmod","num","nsubj","parataxis","prt",null,"nn","amod","dobj",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (CD 130) (NNS sailors)) (ADVP (RB really)) (VP (VBN excited) (S (VP (TO to) (VP (VB be) (ADVP (RB home)) (PP (ADVP (RB back)) (IN on) (NP (NN land))) (PP (IN after) (S (VP (VBG being) (PP (IN at) (NP (NN sea))))))))))) (IN for) (S (NP (QP (RB nearly) (CD 10)) (NNS months)) (VP (VBG carrying) (PRT (RP out)) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f00\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f02\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["''","130","sailors","really","excited","to","be","home","back","on","land","after","being","at","sea","for","nearly","10","months","carrying","out","``","operation","iraqi","freedom","."]
+,"lemmas":["''","130","sailor","really","excite","to","be","home","back","on","land","after","be","at","sea","for","nearly","10","month","carry","out","``","operation","iraqi","freedom","."]
+,"posTags":["''","CD","NNS","RB","VBN","TO","VB","RB","RB","IN","NN","IN","VBG","IN","NN","IN","RB","CD","NNS","VBG","RP","``","NN","JJ","NN","."]
+,"chunks":["O","B-NP","I-NP","B-ADVP","B-VP","B-VP","I-VP","B-ADVP","B-ADVP","B-PP","B-NP","B-PP","B-VP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-PRT","O","B-NP","I-NP","I-NP","O"]
+,"parents":[-2,2,4,4,-1,6,4,6,9,6,9,6,11,12,13,4,17,18,19,4,19,-2,24,24,19,-2]
+,"deprels":[null,"num","nsubj","advmod","root","aux","xcomp","advmod","advmod","prep","pobj","prep","pcomp","prep","pobj","dep","quantmod","num","nsubj","parataxis","prt",null,"nn","amod","dobj",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (CD 130) (NNS sailors)) (ADVP (RB really)) (VP (VBN excited) (S (VP (TO to) (VP (VB be) (ADVP (RB home)) (PP (ADVP (RB back)) (IN on) (NP (NN land))) (PP (IN after) (S (VP (VBG being) (PP (IN at) (NP (NN sea))))))))))) (IN for) (S (NP (QP (RB nearly) (CD 10)) (NNS months)) (VP (VBG carrying) (PRT (RP out)) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f00\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f4b\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["''","130","sailors","really","excited","to","be","home","back","on","land","after","being","at","sea","for","nearly","10","months","carrying","out","``","operation","iraqi","freedom","."]
+,"lemmas":["''","130","sailor","really","excite","to","be","home","back","on","land","after","be","at","sea","for","nearly","10","month","carry","out","``","operation","iraqi","freedom","."]
+,"posTags":["''","CD","NNS","RB","VBN","TO","VB","RB","RB","IN","NN","IN","VBG","IN","NN","IN","RB","CD","NNS","VBG","RP","``","NN","JJ","NN","."]
+,"chunks":["O","B-NP","I-NP","B-ADVP","B-VP","B-VP","I-VP","B-ADVP","B-ADVP","B-PP","B-NP","B-PP","B-VP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-PRT","O","B-NP","I-NP","I-NP","O"]
+,"parents":[-2,2,4,4,-1,6,4,6,9,6,9,6,11,12,13,4,17,18,19,4,19,-2,24,24,19,-2]
+,"deprels":[null,"num","nsubj","advmod","root","aux","xcomp","advmod","advmod","prep","pobj","prep","pcomp","prep","pobj","dep","quantmod","num","nsubj","parataxis","prt",null,"nn","amod","dobj",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (CD 130) (NNS sailors)) (ADVP (RB really)) (VP (VBN excited) (S (VP (TO to) (VP (VB be) (ADVP (RB home)) (PP (ADVP (RB back)) (IN on) (NP (NN land))) (PP (IN after) (S (VP (VBG being) (PP (IN at) (NP (NN sea))))))))))) (IN for) (S (NP (QP (RB nearly) (CD 10)) (NNS months)) (VP (VBG carrying) (PRT (RP out)) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f00\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f1f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","130","sailors","really","excited","to","be","home","back","on","land","after","being","at","sea","for","nearly","10","months","carrying","out","``","operation","iraqi","freedom","."]
+,"lemmas":["''","130","sailor","really","excite","to","be","home","back","on","land","after","be","at","sea","for","nearly","10","month","carry","out","``","operation","iraqi","freedom","."]
+,"posTags":["''","CD","NNS","RB","VBN","TO","VB","RB","RB","IN","NN","IN","VBG","IN","NN","IN","RB","CD","NNS","VBG","RP","``","NN","JJ","NN","."]
+,"chunks":["O","B-NP","I-NP","B-ADVP","B-VP","B-VP","I-VP","B-ADVP","B-ADVP","B-PP","B-NP","B-PP","B-VP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-PRT","O","B-NP","I-NP","I-NP","O"]
+,"parents":[-2,2,4,4,-1,6,4,6,9,6,9,6,11,12,13,4,17,18,19,4,19,-2,24,24,19,-2]
+,"deprels":[null,"num","nsubj","advmod","root","aux","xcomp","advmod","advmod","prep","pobj","prep","pcomp","prep","pobj","dep","quantmod","num","nsubj","parataxis","prt",null,"nn","amod","dobj",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (CD 130) (NNS sailors)) (ADVP (RB really)) (VP (VBN excited) (S (VP (TO to) (VP (VB be) (ADVP (RB home)) (PP (ADVP (RB back)) (IN on) (NP (NN land))) (PP (IN after) (S (VP (VBG being) (PP (IN at) (NP (NN sea))))))))))) (IN for) (S (NP (QP (RB nearly) (CD 10)) (NNS months)) (VP (VBG carrying) (PRT (RP out)) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f4b\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efe\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","130","sailors","really","excited","to","be","home","back","on","land","after","being","at","sea","for","nearly","10","months","carrying","out","``","operation","iraqi","freedom","."]
+,"lemmas":["''","130","sailor","really","excite","to","be","home","back","on","land","after","be","at","sea","for","nearly","10","month","carry","out","``","operation","iraqi","freedom","."]
+,"posTags":["''","CD","NNS","RB","VBN","TO","VB","RB","RB","IN","NN","IN","VBG","IN","NN","IN","RB","CD","NNS","VBG","RP","``","NN","JJ","NN","."]
+,"chunks":["O","B-NP","I-NP","B-ADVP","B-VP","B-VP","I-VP","B-ADVP","B-ADVP","B-PP","B-NP","B-PP","B-VP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-PRT","O","B-NP","I-NP","I-NP","O"]
+,"parents":[-2,2,4,4,-1,6,4,6,9,6,9,6,11,12,13,4,17,18,19,4,19,-2,24,24,19,-2]
+,"deprels":[null,"num","nsubj","advmod","root","aux","xcomp","advmod","advmod","prep","pobj","prep","pcomp","prep","pobj","dep","quantmod","num","nsubj","parataxis","prt",null,"nn","amod","dobj",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (CD 130) (NNS sailors)) (ADVP (RB really)) (VP (VBN excited) (S (VP (TO to) (VP (VB be) (ADVP (RB home)) (PP (ADVP (RB back)) (IN on) (NP (NN land))) (PP (IN after) (S (VP (VBG being) (PP (IN at) (NP (NN sea))))))))))) (IN for) (S (NP (QP (RB nearly) (CD 10)) (NNS months)) (VP (VBG carrying) (PRT (RP out)) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f4b\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f02\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","130","sailors","really","excited","to","be","home","back","on","land","after","being","at","sea","for","nearly","10","months","carrying","out","``","operation","iraqi","freedom","."]
+,"lemmas":["''","130","sailor","really","excite","to","be","home","back","on","land","after","be","at","sea","for","nearly","10","month","carry","out","``","operation","iraqi","freedom","."]
+,"posTags":["''","CD","NNS","RB","VBN","TO","VB","RB","RB","IN","NN","IN","VBG","IN","NN","IN","RB","CD","NNS","VBG","RP","``","NN","JJ","NN","."]
+,"chunks":["O","B-NP","I-NP","B-ADVP","B-VP","B-VP","I-VP","B-ADVP","B-ADVP","B-PP","B-NP","B-PP","B-VP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-PRT","O","B-NP","I-NP","I-NP","O"]
+,"parents":[-2,2,4,4,-1,6,4,6,9,6,9,6,11,12,13,4,17,18,19,4,19,-2,24,24,19,-2]
+,"deprels":[null,"num","nsubj","advmod","root","aux","xcomp","advmod","advmod","prep","pobj","prep","pcomp","prep","pobj","dep","quantmod","num","nsubj","parataxis","prt",null,"nn","amod","dobj",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (CD 130) (NNS sailors)) (ADVP (RB really)) (VP (VBN excited) (S (VP (TO to) (VP (VB be) (ADVP (RB home)) (PP (ADVP (RB back)) (IN on) (NP (NN land))) (PP (IN after) (S (VP (VBG being) (PP (IN at) (NP (NN sea))))))))))) (IN for) (S (NP (QP (RB nearly) (CD 10)) (NNS months)) (VP (VBG carrying) (PRT (RP out)) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f4b\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f1f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","130","sailors","really","excited","to","be","home","back","on","land","after","being","at","sea","for","nearly","10","months","carrying","out","``","operation","iraqi","freedom","."]
+,"lemmas":["''","130","sailor","really","excite","to","be","home","back","on","land","after","be","at","sea","for","nearly","10","month","carry","out","``","operation","iraqi","freedom","."]
+,"posTags":["''","CD","NNS","RB","VBN","TO","VB","RB","RB","IN","NN","IN","VBG","IN","NN","IN","RB","CD","NNS","VBG","RP","``","NN","JJ","NN","."]
+,"chunks":["O","B-NP","I-NP","B-ADVP","B-VP","B-VP","I-VP","B-ADVP","B-ADVP","B-PP","B-NP","B-PP","B-VP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-PRT","O","B-NP","I-NP","I-NP","O"]
+,"parents":[-2,2,4,4,-1,6,4,6,9,6,9,6,11,12,13,4,17,18,19,4,19,-2,24,24,19,-2]
+,"deprels":[null,"num","nsubj","advmod","root","aux","xcomp","advmod","advmod","prep","pobj","prep","pcomp","prep","pobj","dep","quantmod","num","nsubj","parataxis","prt",null,"nn","amod","dobj",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (CD 130) (NNS sailors)) (ADVP (RB really)) (VP (VBN excited) (S (VP (TO to) (VP (VB be) (ADVP (RB home)) (PP (ADVP (RB back)) (IN on) (NP (NN land))) (PP (IN after) (S (VP (VBG being) (PP (IN at) (NP (NN sea))))))))))) (IN for) (S (NP (QP (RB nearly) (CD 10)) (NNS months)) (VP (VBG carrying) (PRT (RP out)) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efe\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f02\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","130","sailors","really","excited","to","be","home","back","on","land","after","being","at","sea","for","nearly","10","months","carrying","out","``","operation","iraqi","freedom","."]
+,"lemmas":["''","130","sailor","really","excite","to","be","home","back","on","land","after","be","at","sea","for","nearly","10","month","carry","out","``","operation","iraqi","freedom","."]
+,"posTags":["''","CD","NNS","RB","VBN","TO","VB","RB","RB","IN","NN","IN","VBG","IN","NN","IN","RB","CD","NNS","VBG","RP","``","NN","JJ","NN","."]
+,"chunks":["O","B-NP","I-NP","B-ADVP","B-VP","B-VP","I-VP","B-ADVP","B-ADVP","B-PP","B-NP","B-PP","B-VP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-PRT","O","B-NP","I-NP","I-NP","O"]
+,"parents":[-2,2,4,4,-1,6,4,6,9,6,9,6,11,12,13,4,17,18,19,4,19,-2,24,24,19,-2]
+,"deprels":[null,"num","nsubj","advmod","root","aux","xcomp","advmod","advmod","prep","pobj","prep","pcomp","prep","pobj","dep","quantmod","num","nsubj","parataxis","prt",null,"nn","amod","dobj",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (CD 130) (NNS sailors)) (ADVP (RB really)) (VP (VBN excited) (S (VP (TO to) (VP (VB be) (ADVP (RB home)) (PP (ADVP (RB back)) (IN on) (NP (NN land))) (PP (IN after) (S (VP (VBG being) (PP (IN at) (NP (NN sea))))))))))) (IN for) (S (NP (QP (RB nearly) (CD 10)) (NNS months)) (VP (VBG carrying) (PRT (RP out)) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274efe\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f1f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","130","sailors","really","excited","to","be","home","back","on","land","after","being","at","sea","for","nearly","10","months","carrying","out","``","operation","iraqi","freedom","."]
+,"lemmas":["''","130","sailor","really","excite","to","be","home","back","on","land","after","be","at","sea","for","nearly","10","month","carry","out","``","operation","iraqi","freedom","."]
+,"posTags":["''","CD","NNS","RB","VBN","TO","VB","RB","RB","IN","NN","IN","VBG","IN","NN","IN","RB","CD","NNS","VBG","RP","``","NN","JJ","NN","."]
+,"chunks":["O","B-NP","I-NP","B-ADVP","B-VP","B-VP","I-VP","B-ADVP","B-ADVP","B-PP","B-NP","B-PP","B-VP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-PRT","O","B-NP","I-NP","I-NP","O"]
+,"parents":[-2,2,4,4,-1,6,4,6,9,6,9,6,11,12,13,4,17,18,19,4,19,-2,24,24,19,-2]
+,"deprels":[null,"num","nsubj","advmod","root","aux","xcomp","advmod","advmod","prep","pobj","prep","pcomp","prep","pobj","dep","quantmod","num","nsubj","parataxis","prt",null,"nn","amod","dobj",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (CD 130) (NNS sailors)) (ADVP (RB really)) (VP (VBN excited) (S (VP (TO to) (VP (VB be) (ADVP (RB home)) (PP (ADVP (RB back)) (IN on) (NP (NN land))) (PP (IN after) (S (VP (VBG being) (PP (IN at) (NP (NN sea))))))))))) (IN for) (S (NP (QP (RB nearly) (CD 10)) (NNS months)) (VP (VBG carrying) (PRT (RP out)) (`` ``) (NP (NN operation) (JJ iraqi) (NN freedom)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f02\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f1f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","'re","looking","at","now",",","a","sailor","seeing","his","baby","for","the","first","time",",","just","remarkable","."]
+,"lemmas":["we","be","look","at","now",",","a","sailor","see","he","baby","for","the","first","time",",","just","remarkable","."]
+,"posTags":["PRP","VBP","VBG","IN","RB",",","DT","NN","VBG","PRP$","NN","IN","DT","JJ","NN",",","RB","JJ","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADJP","I-ADJP","O"]
+,"parents":[2,2,-1,2,3,-2,7,4,7,10,8,8,14,14,11,-2,17,8,-2]
+,"deprels":["nsubj","aux","root","prep","pobj",null,"det","appos","vmod","poss","dobj","prep","det","amod","pobj",null,"advmod","acomp",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP 're) (VP (VBG looking) (PP (IN at) (NP (NP (RB now)) (, ,) (NP (NP (DT a) (NN sailor)) (VP (VBG seeing) (NP (PRP$ his) (NN baby)) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (, ,) (ADJP (RB just) (JJ remarkable)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f05\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f10\"}}]"
+,"relLabels":["PER-SOC(Arg-1,Arg-1)"]}
+
+{"words":["we","'re","looking","at","now",",","a","sailor","seeing","his","baby","for","the","first","time",",","just","remarkable","."]
+,"lemmas":["we","be","look","at","now",",","a","sailor","see","he","baby","for","the","first","time",",","just","remarkable","."]
+,"posTags":["PRP","VBP","VBG","IN","RB",",","DT","NN","VBG","PRP$","NN","IN","DT","JJ","NN",",","RB","JJ","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADJP","I-ADJP","O"]
+,"parents":[2,2,-1,2,3,-2,7,4,7,10,8,8,14,14,11,-2,17,8,-2]
+,"deprels":["nsubj","aux","root","prep","pobj",null,"det","appos","vmod","poss","dobj","prep","det","amod","pobj",null,"advmod","acomp",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP 're) (VP (VBG looking) (PP (IN at) (NP (NP (RB now)) (, ,) (NP (NP (DT a) (NN sailor)) (VP (VBG seeing) (NP (PRP$ his) (NN baby)) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (, ,) (ADJP (RB just) (JJ remarkable)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f40\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f04\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","'re","looking","at","now",",","a","sailor","seeing","his","baby","for","the","first","time",",","just","remarkable","."]
+,"lemmas":["we","be","look","at","now",",","a","sailor","see","he","baby","for","the","first","time",",","just","remarkable","."]
+,"posTags":["PRP","VBP","VBG","IN","RB",",","DT","NN","VBG","PRP$","NN","IN","DT","JJ","NN",",","RB","JJ","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADJP","I-ADJP","O"]
+,"parents":[2,2,-1,2,3,-2,7,4,7,10,8,8,14,14,11,-2,17,8,-2]
+,"deprels":["nsubj","aux","root","prep","pobj",null,"det","appos","vmod","poss","dobj","prep","det","amod","pobj",null,"advmod","acomp",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP 're) (VP (VBG looking) (PP (IN at) (NP (NP (RB now)) (, ,) (NP (NP (DT a) (NN sailor)) (VP (VBG seeing) (NP (PRP$ his) (NN baby)) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (, ,) (ADJP (RB just) (JJ remarkable)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f40\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f05\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","'re","looking","at","now",",","a","sailor","seeing","his","baby","for","the","first","time",",","just","remarkable","."]
+,"lemmas":["we","be","look","at","now",",","a","sailor","see","he","baby","for","the","first","time",",","just","remarkable","."]
+,"posTags":["PRP","VBP","VBG","IN","RB",",","DT","NN","VBG","PRP$","NN","IN","DT","JJ","NN",",","RB","JJ","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADJP","I-ADJP","O"]
+,"parents":[2,2,-1,2,3,-2,7,4,7,10,8,8,14,14,11,-2,17,8,-2]
+,"deprels":["nsubj","aux","root","prep","pobj",null,"det","appos","vmod","poss","dobj","prep","det","amod","pobj",null,"advmod","acomp",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP 're) (VP (VBG looking) (PP (IN at) (NP (NP (RB now)) (, ,) (NP (NP (DT a) (NN sailor)) (VP (VBG seeing) (NP (PRP$ his) (NN baby)) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (, ,) (ADJP (RB just) (JJ remarkable)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f40\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f10\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","'re","looking","at","now",",","a","sailor","seeing","his","baby","for","the","first","time",",","just","remarkable","."]
+,"lemmas":["we","be","look","at","now",",","a","sailor","see","he","baby","for","the","first","time",",","just","remarkable","."]
+,"posTags":["PRP","VBP","VBG","IN","RB",",","DT","NN","VBG","PRP$","NN","IN","DT","JJ","NN",",","RB","JJ","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADJP","I-ADJP","O"]
+,"parents":[2,2,-1,2,3,-2,7,4,7,10,8,8,14,14,11,-2,17,8,-2]
+,"deprels":["nsubj","aux","root","prep","pobj",null,"det","appos","vmod","poss","dobj","prep","det","amod","pobj",null,"advmod","acomp",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP 're) (VP (VBG looking) (PP (IN at) (NP (NP (RB now)) (, ,) (NP (NP (DT a) (NN sailor)) (VP (VBG seeing) (NP (PRP$ his) (NN baby)) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (, ,) (ADJP (RB just) (JJ remarkable)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f04\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f05\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","'re","looking","at","now",",","a","sailor","seeing","his","baby","for","the","first","time",",","just","remarkable","."]
+,"lemmas":["we","be","look","at","now",",","a","sailor","see","he","baby","for","the","first","time",",","just","remarkable","."]
+,"posTags":["PRP","VBP","VBG","IN","RB",",","DT","NN","VBG","PRP$","NN","IN","DT","JJ","NN",",","RB","JJ","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-ADJP","I-ADJP","O"]
+,"parents":[2,2,-1,2,3,-2,7,4,7,10,8,8,14,14,11,-2,17,8,-2]
+,"deprels":["nsubj","aux","root","prep","pobj",null,"det","appos","vmod","poss","dobj","prep","det","amod","pobj",null,"advmod","acomp",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP 're) (VP (VBG looking) (PP (IN at) (NP (NP (RB now)) (, ,) (NP (NP (DT a) (NN sailor)) (VP (VBG seeing) (NP (PRP$ his) (NN baby)) (PP (IN for) (NP (DT the) (JJ first) (NN time))) (, ,) (ADJP (RB just) (JJ remarkable)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f04\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f10\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["kyra","phillips",",","we","appreciate","you","bringing","it","to","us","today","."]
+,"lemmas":["kyra","phillip",",","we","appreciate","you","bring","it","to","we","today","."]
+,"posTags":["NN","NNS",",","PRP","VBP","PRP","VBG","PRP","TO","PRP","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-PP","B-NP","B-NP","O"]
+,"parents":[1,4,-2,4,-1,6,4,6,6,8,6,-2]
+,"deprels":["nn","nsubj",null,"nsubj","root","nsubj","dep","dobj","prep","pobj","tmod",null]
+,"naryTree":"((ROOT (S (NP (NN kyra) (NNS phillips)) (, ,) (NP (PRP we)) (VP (VBP appreciate) (S (NP (PRP you)) (VP (VBG bringing) (NP (PRP it)) (PP (TO to) (NP (PRP us))) (NP-TMP (NN today))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f16\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f41\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["kyra","phillips",",","we","appreciate","you","bringing","it","to","us","today","."]
+,"lemmas":["kyra","phillip",",","we","appreciate","you","bring","it","to","we","today","."]
+,"posTags":["NN","NNS",",","PRP","VBP","PRP","VBG","PRP","TO","PRP","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-PP","B-NP","B-NP","O"]
+,"parents":[1,4,-2,4,-1,6,4,6,6,8,6,-2]
+,"deprels":["nn","nsubj",null,"nsubj","root","nsubj","dep","dobj","prep","pobj","tmod",null]
+,"naryTree":"((ROOT (S (NP (NN kyra) (NNS phillips)) (, ,) (NP (PRP we)) (VP (VBP appreciate) (S (NP (PRP you)) (VP (VBG bringing) (NP (PRP it)) (PP (TO to) (NP (PRP us))) (NP-TMP (NN today))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f16\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["kyra","phillips",",","we","appreciate","you","bringing","it","to","us","today","."]
+,"lemmas":["kyra","phillip",",","we","appreciate","you","bring","it","to","we","today","."]
+,"posTags":["NN","NNS",",","PRP","VBP","PRP","VBG","PRP","TO","PRP","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-PP","B-NP","B-NP","O"]
+,"parents":[1,4,-2,4,-1,6,4,6,6,8,6,-2]
+,"deprels":["nn","nsubj",null,"nsubj","root","nsubj","dep","dobj","prep","pobj","tmod",null]
+,"naryTree":"((ROOT (S (NP (NN kyra) (NNS phillips)) (, ,) (NP (PRP we)) (VP (VBP appreciate) (S (NP (PRP you)) (VP (VBG bringing) (NP (PRP it)) (PP (TO to) (NP (PRP us))) (NP-TMP (NN today))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f16\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f42\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["kyra","phillips",",","we","appreciate","you","bringing","it","to","us","today","."]
+,"lemmas":["kyra","phillip",",","we","appreciate","you","bring","it","to","we","today","."]
+,"posTags":["NN","NNS",",","PRP","VBP","PRP","VBG","PRP","TO","PRP","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-PP","B-NP","B-NP","O"]
+,"parents":[1,4,-2,4,-1,6,4,6,6,8,6,-2]
+,"deprels":["nn","nsubj",null,"nsubj","root","nsubj","dep","dobj","prep","pobj","tmod",null]
+,"naryTree":"((ROOT (S (NP (NN kyra) (NNS phillips)) (, ,) (NP (PRP we)) (VP (VBP appreciate) (S (NP (PRP you)) (VP (VBG bringing) (NP (PRP it)) (PP (TO to) (NP (PRP us))) (NP-TMP (NN today))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f41\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["kyra","phillips",",","we","appreciate","you","bringing","it","to","us","today","."]
+,"lemmas":["kyra","phillip",",","we","appreciate","you","bring","it","to","we","today","."]
+,"posTags":["NN","NNS",",","PRP","VBP","PRP","VBG","PRP","TO","PRP","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-PP","B-NP","B-NP","O"]
+,"parents":[1,4,-2,4,-1,6,4,6,6,8,6,-2]
+,"deprels":["nn","nsubj",null,"nsubj","root","nsubj","dep","dobj","prep","pobj","tmod",null]
+,"naryTree":"((ROOT (S (NP (NN kyra) (NNS phillips)) (, ,) (NP (PRP we)) (VP (VBP appreciate) (S (NP (PRP you)) (VP (VBG bringing) (NP (PRP it)) (PP (TO to) (NP (PRP us))) (NP-TMP (NN today))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f41\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f42\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["kyra","phillips",",","we","appreciate","you","bringing","it","to","us","today","."]
+,"lemmas":["kyra","phillip",",","we","appreciate","you","bring","it","to","we","today","."]
+,"posTags":["NN","NNS",",","PRP","VBP","PRP","VBG","PRP","TO","PRP","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-PP","B-NP","B-NP","O"]
+,"parents":[1,4,-2,4,-1,6,4,6,6,8,6,-2]
+,"deprels":["nn","nsubj",null,"nsubj","root","nsubj","dep","dobj","prep","pobj","tmod",null]
+,"naryTree":"((ROOT (S (NP (NN kyra) (NNS phillips)) (, ,) (NP (PRP we)) (VP (VBP appreciate) (S (NP (PRP you)) (VP (VBG bringing) (NP (PRP it)) (PP (TO to) (NP (PRP us))) (NP-TMP (NN today))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f17\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"e234ebd2-ccb2-1e62-bafb-000021274f42\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

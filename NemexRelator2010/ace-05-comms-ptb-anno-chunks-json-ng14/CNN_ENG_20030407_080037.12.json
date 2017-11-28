@@ -1,0 +1,370 @@
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1fd\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f9\"}}]"
+,"relLabels":["ART"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e7\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ec\"}}]"
+,"relLabels":["PART-WHOLE"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f5\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f0\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f5\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1fd\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f5\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f5\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e7\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f0\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1fd\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f0\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f0\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e7\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f0\"},\"m2\":{\"start\":12,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1fd\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e7\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1fd\"},\"m2\":{\"start\":12,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1fd\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ec\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f9\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e7\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f9\"},\"m2\":{\"start\":12,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f9\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ec\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f9\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ee\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e7\"},\"m2\":{\"start\":12,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e7\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ee\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e7\"},\"m2\":{\"start\":25,\"end\":27,\"head\":26,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e5\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e9\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ec\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e9\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ee\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e9\"},\"m2\":{\"start\":25,\"end\":27,\"head\":26,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e5\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e9\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f7\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ec\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ee\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ec\"},\"m2\":{\"start\":25,\"end\":27,\"head\":26,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e5\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ec\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f7\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":20,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ee\"},\"m2\":{\"start\":25,\"end\":27,\"head\":26,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e5\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":20,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ee\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f7\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["walt","rodgers",",","3-7th","cavalry","says","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrigs","south","baghdad",",","at","least","four","dead",",","two","soldiers","and","two","journalists","."]
+,"lemmas":["walt","rodger",",","3-7th","cavalry","say","iraqi","missile","hit","operation","center","for","2nd","brigade","3rd","infantry","zrig","south","baghdad",",","at","least","four","dead",",","two","soldier","and","two","journalist","."]
+,"posTags":["NN","NNS",",","JJ","NN","VBZ","JJ","NN","VBD","NN","NN","IN","JJ","NN","JJ","NN","NNS","RB","NNP",",","IN","JJS","CD","JJ",",","CD","NNS","CC","CD","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,5,-2,4,1,8,7,5,-1,10,8,8,13,11,16,16,17,11,8,-2,22,20,23,18,-2,26,23,26,29,26,-2]
+,"deprels":["nn","nsubj",null,"amod","appos","dep","amod","dobj","root","nn","dobj","prep","amod","pobj","amod","nn","npadvmod","advmod","nsubj",null,"quantmod","mwe","num","appos",null,"num","appos","cc","num","conj",null]
+,"naryTree":"((ROOT (SINV (S (NP (NP (NN walt) (NNS rodgers)) (, ,) (NP (JJ 3-7th) (NN cavalry))) (VP (VBZ says) (NP (JJ iraqi) (NN missile)))) (VP (VBD hit) (NP (NN operation) (NN center)) (PP (IN for) (NP (JJ 2nd) (NN brigade)) (ADVP (NP (JJ 3rd) (NN infantry) (NNS zrigs)) (RB south)))) (NP (NP (NNP baghdad)) (, ,) (NP (NP (QP (IN at) (JJS least) (CD four)) (JJ dead)) (, ,) (NP (NP (CD two) (NNS soldiers)) (CC and) (NP (CD two) (NNS journalists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":25,\"end\":27,\"head\":26,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1e5\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f7\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["other","report","at","least","15","are","wounded","."]
+,"lemmas":["other","report","at","least","15","be","wound","."]
+,"posTags":["JJ","NN","IN","JJS","CD","VBP","VBN","."]
+,"chunks":["B-NP","I-NP","B-ADVP","I-ADVP","B-NP","B-VP","I-VP","O"]
+,"parents":[1,6,6,2,2,6,-1,-2]
+,"deprels":["amod","nsubjpass","advmod","pobj","dep","auxpass","root",null]
+,"naryTree":"((ROOT (S (NP (JJ other) (NN report)) (ADVP (ADVP (IN at) (JJS least)) (NP (CD 15))) (VP (VBP are) (VP (VBN wounded))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f2\"},\"m2\":{\"start\":2,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1ff\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["some","of","them","critically",",","hope","to","get","walt","up","in","a","couple","minutes","to","get","more","information","on","what","is","happening","there","."]
+,"lemmas":["some","of","they","critically",",","hope","to","get","walt","up","in","a","couple","minute","to","get","more","information","on","what","be","happen","there","."]
+,"posTags":["DT","IN","PRP","RB",",","VBP","TO","VB","VB","RP","IN","DT","NN","NNS","TO","VB","JJR","NN","IN","WP","VBZ","VBG","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-ADVP","O","B-VP","B-VP","I-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-ADVP","O"]
+,"parents":[5,5,1,5,-2,-1,8,8,5,8,8,13,13,10,15,8,17,15,15,21,21,18,21,-2]
+,"deprels":["nsubj","prep","pobj","advmod",null,"root","aux","aux","xcomp","prt","prep","det","nn","pobj","aux","xcomp","amod","dobj","prep","nsubj","aux","pcomp","advmod",null]
+,"naryTree":"((ROOT (S (NP (DT some)) (PP (IN of) (NP (PRP them))) (ADVP (RB critically)) (, ,) (VP (VBP hope) (S (VP (TO to) (VP (VB get) (VP (VB walt) (PRT (RP up)) (PP (IN in) (NP (DT a) (NN couple) (NNS minutes))) (S (VP (TO to) (VP (VB get) (NP (JJR more) (NN information)) (PP (IN on) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (VP (VBG happening) (ADVP (RB there))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1fb\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd200\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["some","of","them","critically",",","hope","to","get","walt","up","in","a","couple","minutes","to","get","more","information","on","what","is","happening","there","."]
+,"lemmas":["some","of","they","critically",",","hope","to","get","walt","up","in","a","couple","minute","to","get","more","information","on","what","be","happen","there","."]
+,"posTags":["DT","IN","PRP","RB",",","VBP","TO","VB","VB","RP","IN","DT","NN","NNS","TO","VB","JJR","NN","IN","WP","VBZ","VBG","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-ADVP","O","B-VP","B-VP","I-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-ADVP","O"]
+,"parents":[5,5,1,5,-2,-1,8,8,5,8,8,13,13,10,15,8,17,15,15,21,21,18,21,-2]
+,"deprels":["nsubj","prep","pobj","advmod",null,"root","aux","aux","xcomp","prt","prep","det","nn","pobj","aux","xcomp","amod","dobj","prep","nsubj","aux","pcomp","advmod",null]
+,"naryTree":"((ROOT (S (NP (DT some)) (PP (IN of) (NP (PRP them))) (ADVP (RB critically)) (, ,) (VP (VBP hope) (S (VP (TO to) (VP (VB get) (VP (VB walt) (PRT (RP up)) (PP (IN in) (NP (DT a) (NN couple) (NNS minutes))) (S (VP (TO to) (VP (VB get) (NP (JJR more) (NN information)) (PP (IN on) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (VP (VBG happening) (ADVP (RB there))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1fb\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f4\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["some","of","them","critically",",","hope","to","get","walt","up","in","a","couple","minutes","to","get","more","information","on","what","is","happening","there","."]
+,"lemmas":["some","of","they","critically",",","hope","to","get","walt","up","in","a","couple","minute","to","get","more","information","on","what","be","happen","there","."]
+,"posTags":["DT","IN","PRP","RB",",","VBP","TO","VB","VB","RP","IN","DT","NN","NNS","TO","VB","JJR","NN","IN","WP","VBZ","VBG","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-ADVP","O","B-VP","B-VP","I-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-ADVP","O"]
+,"parents":[5,5,1,5,-2,-1,8,8,5,8,8,13,13,10,15,8,17,15,15,21,21,18,21,-2]
+,"deprels":["nsubj","prep","pobj","advmod",null,"root","aux","aux","xcomp","prt","prep","det","nn","pobj","aux","xcomp","amod","dobj","prep","nsubj","aux","pcomp","advmod",null]
+,"naryTree":"((ROOT (S (NP (DT some)) (PP (IN of) (NP (PRP them))) (ADVP (RB critically)) (, ,) (VP (VBP hope) (S (VP (TO to) (VP (VB get) (VP (VB walt) (PRT (RP up)) (PP (IN in) (NP (DT a) (NN couple) (NNS minutes))) (S (VP (TO to) (VP (VB get) (NP (JJR more) (NN information)) (PP (IN on) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (VP (VBG happening) (ADVP (RB there))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1fb\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1eb\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["some","of","them","critically",",","hope","to","get","walt","up","in","a","couple","minutes","to","get","more","information","on","what","is","happening","there","."]
+,"lemmas":["some","of","they","critically",",","hope","to","get","walt","up","in","a","couple","minute","to","get","more","information","on","what","be","happen","there","."]
+,"posTags":["DT","IN","PRP","RB",",","VBP","TO","VB","VB","RP","IN","DT","NN","NNS","TO","VB","JJR","NN","IN","WP","VBZ","VBG","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-ADVP","O","B-VP","B-VP","I-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-ADVP","O"]
+,"parents":[5,5,1,5,-2,-1,8,8,5,8,8,13,13,10,15,8,17,15,15,21,21,18,21,-2]
+,"deprels":["nsubj","prep","pobj","advmod",null,"root","aux","aux","xcomp","prt","prep","det","nn","pobj","aux","xcomp","amod","dobj","prep","nsubj","aux","pcomp","advmod",null]
+,"naryTree":"((ROOT (S (NP (DT some)) (PP (IN of) (NP (PRP them))) (ADVP (RB critically)) (, ,) (VP (VBP hope) (S (VP (TO to) (VP (VB get) (VP (VB walt) (PRT (RP up)) (PP (IN in) (NP (DT a) (NN couple) (NNS minutes))) (S (VP (TO to) (VP (VB get) (NP (JJR more) (NN information)) (PP (IN on) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (VP (VBG happening) (ADVP (RB there))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd200\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f4\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["some","of","them","critically",",","hope","to","get","walt","up","in","a","couple","minutes","to","get","more","information","on","what","is","happening","there","."]
+,"lemmas":["some","of","they","critically",",","hope","to","get","walt","up","in","a","couple","minute","to","get","more","information","on","what","be","happen","there","."]
+,"posTags":["DT","IN","PRP","RB",",","VBP","TO","VB","VB","RP","IN","DT","NN","NNS","TO","VB","JJR","NN","IN","WP","VBZ","VBG","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-ADVP","O","B-VP","B-VP","I-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-ADVP","O"]
+,"parents":[5,5,1,5,-2,-1,8,8,5,8,8,13,13,10,15,8,17,15,15,21,21,18,21,-2]
+,"deprels":["nsubj","prep","pobj","advmod",null,"root","aux","aux","xcomp","prt","prep","det","nn","pobj","aux","xcomp","amod","dobj","prep","nsubj","aux","pcomp","advmod",null]
+,"naryTree":"((ROOT (S (NP (DT some)) (PP (IN of) (NP (PRP them))) (ADVP (RB critically)) (, ,) (VP (VBP hope) (S (VP (TO to) (VP (VB get) (VP (VB walt) (PRT (RP up)) (PP (IN in) (NP (DT a) (NN couple) (NNS minutes))) (S (VP (TO to) (VP (VB get) (NP (JJR more) (NN information)) (PP (IN on) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (VP (VBG happening) (ADVP (RB there))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd200\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1eb\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["some","of","them","critically",",","hope","to","get","walt","up","in","a","couple","minutes","to","get","more","information","on","what","is","happening","there","."]
+,"lemmas":["some","of","they","critically",",","hope","to","get","walt","up","in","a","couple","minute","to","get","more","information","on","what","be","happen","there","."]
+,"posTags":["DT","IN","PRP","RB",",","VBP","TO","VB","VB","RP","IN","DT","NN","NNS","TO","VB","JJR","NN","IN","WP","VBZ","VBG","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-ADVP","O","B-VP","B-VP","I-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-ADVP","O"]
+,"parents":[5,5,1,5,-2,-1,8,8,5,8,8,13,13,10,15,8,17,15,15,21,21,18,21,-2]
+,"deprels":["nsubj","prep","pobj","advmod",null,"root","aux","aux","xcomp","prt","prep","det","nn","pobj","aux","xcomp","amod","dobj","prep","nsubj","aux","pcomp","advmod",null]
+,"naryTree":"((ROOT (S (NP (DT some)) (PP (IN of) (NP (PRP them))) (ADVP (RB critically)) (, ,) (VP (VBP hope) (S (VP (TO to) (VP (VB get) (VP (VB walt) (PRT (RP up)) (PP (IN in) (NP (DT a) (NN couple) (NNS minutes))) (S (VP (TO to) (VP (VB get) (NP (JJR more) (NN information)) (PP (IN on) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (VP (VBG happening) (ADVP (RB there))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1f4\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"06a6b1cb-9d5e-5507-4e41-0000464cd1eb\"}}]"
+,"relLabels":["NO_RELATION"]}
+

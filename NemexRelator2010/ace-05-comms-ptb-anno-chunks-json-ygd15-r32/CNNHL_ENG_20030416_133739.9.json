@@ -1,0 +1,450 @@
+{"words":["seven","former","p.o.w.s","are","getting","one","step","closer","to","home","."]
+,"lemmas":["seven","former","p.o.w.s","be","get","one","step","closer","to","home","."]
+,"posTags":["CD","JJ","NNS","VBP","VBG","CD","NN","RBR","TO","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[2,2,4,4,-1,6,7,8,4,8,-2]
+,"deprels":["num","amod","nsubj","aux","root","num","npadvmod","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (JJ former) (NNS p.o.w.s)) (VP (VBP are) (VP (VBG getting) (PP (ADVP (NP (CD one) (NN step)) (RBR closer)) (TO to) (NP (NN home))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a86\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a7f\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["they","'ll","be","arriving","at","ramstein","air","base","in","germany","a","few","hours","from","now","."]
+,"lemmas":["they","'ll","be","arrive","at","ramstein","air","base","in","germany","a","few","hour","from","now","."]
+,"posTags":["PRP","MD","VB","VBG","IN","NN","NN","NN","IN","NN","DT","JJ","NNS","IN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[3,3,3,-1,3,7,7,4,7,8,12,12,3,3,13,-2]
+,"deprels":["nsubj","aux","aux","root","prep","nn","nn","pobj","prep","pobj","det","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD 'll) (VP (VB be) (VP (VBG arriving) (PP (IN at) (NP (NP (NN ramstein) (NN air) (NN base)) (PP (IN in) (NP (NN germany))))) (NP-TMP (DT a) (JJ few) (NNS hours)) (PP (IN from) (NP (RB now)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8c\"},\"m2\":{\"start\":5,\"end\":8,\"head\":7,\"type\":\"FAC\",\"subtype\":\"Airport\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a81\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["they","'ll","be","arriving","at","ramstein","air","base","in","germany","a","few","hours","from","now","."]
+,"lemmas":["they","'ll","be","arrive","at","ramstein","air","base","in","germany","a","few","hour","from","now","."]
+,"posTags":["PRP","MD","VB","VBG","IN","NN","NN","NN","IN","NN","DT","JJ","NNS","IN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[3,3,3,-1,3,7,7,4,7,8,12,12,3,3,13,-2]
+,"deprels":["nsubj","aux","aux","root","prep","nn","nn","pobj","prep","pobj","det","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD 'll) (VP (VB be) (VP (VBG arriving) (PP (IN at) (NP (NP (NN ramstein) (NN air) (NN base)) (PP (IN in) (NP (NN germany))))) (NP-TMP (DT a) (JJ few) (NNS hours)) (PP (IN from) (NP (RB now)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":8,\"head\":7,\"type\":\"FAC\",\"subtype\":\"Airport\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a81\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a7b\"}}]"
+,"relLabels":["PART-WHOLE-Geographical(Arg-1,Arg-2)"]}
+
+{"words":["they","'ll","be","arriving","at","ramstein","air","base","in","germany","a","few","hours","from","now","."]
+,"lemmas":["they","'ll","be","arrive","at","ramstein","air","base","in","germany","a","few","hour","from","now","."]
+,"posTags":["PRP","MD","VB","VBG","IN","NN","NN","NN","IN","NN","DT","JJ","NNS","IN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[3,3,3,-1,3,7,7,4,7,8,12,12,3,3,13,-2]
+,"deprels":["nsubj","aux","aux","root","prep","nn","nn","pobj","prep","pobj","det","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD 'll) (VP (VB be) (VP (VBG arriving) (PP (IN at) (NP (NP (NN ramstein) (NN air) (NN base)) (PP (IN in) (NP (NN germany))))) (NP-TMP (DT a) (JJ few) (NNS hours)) (PP (IN from) (NP (RB now)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8c\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a7b\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["once","doctors","there","say","they","are","good","to","go",",","the","seven","will","head","stateside","."]
+,"lemmas":["once","doctor","there","say","they","be","good","to","go",",","the","seven","will","head","stateside","."]
+,"posTags":["RB","NNS","RB","VBP","PRP","VBP","JJ","TO","VB",",","DT","CD","MD","VB","NN","."]
+,"chunks":["O","B-NP","B-ADVP","B-VP","B-NP","B-VP","B-ADJP","B-VP","I-VP","O","B-NP","I-NP","B-VP","I-VP","B-NP","O"]
+,"parents":[3,3,3,13,6,6,3,8,6,-2,11,13,13,-1,13,-2]
+,"deprels":["advmod","nsubj","advmod","advcl","nsubj","cop","ccomp","aux","xcomp",null,"det","nsubj","aux","root","dobj",null]
+,"naryTree":"((ROOT (S (SBAR (RB once) (S (NP (NNS doctors)) (ADVP (RB there)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ good) (S (VP (TO to) (VP (VB go))))))))))) (, ,) (NP (DT the) (CD seven)) (VP (MD will) (VP (VB head) (NP (NN stateside)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8e\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a7e\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["once","doctors","there","say","they","are","good","to","go",",","the","seven","will","head","stateside","."]
+,"lemmas":["once","doctor","there","say","they","be","good","to","go",",","the","seven","will","head","stateside","."]
+,"posTags":["RB","NNS","RB","VBP","PRP","VBP","JJ","TO","VB",",","DT","CD","MD","VB","NN","."]
+,"chunks":["O","B-NP","B-ADVP","B-VP","B-NP","B-VP","B-ADJP","B-VP","I-VP","O","B-NP","I-NP","B-VP","I-VP","B-NP","O"]
+,"parents":[3,3,3,13,6,6,3,8,6,-2,11,13,13,-1,13,-2]
+,"deprels":["advmod","nsubj","advmod","advcl","nsubj","cop","ccomp","aux","xcomp",null,"det","nsubj","aux","root","dobj",null]
+,"naryTree":"((ROOT (S (SBAR (RB once) (S (NP (NNS doctors)) (ADVP (RB there)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ good) (S (VP (TO to) (VP (VB go))))))))))) (, ,) (NP (DT the) (CD seven)) (VP (MD will) (VP (VB head) (NP (NN stateside)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a6f\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"FAC\",\"subtype\":\"Airport\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a82\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["once","doctors","there","say","they","are","good","to","go",",","the","seven","will","head","stateside","."]
+,"lemmas":["once","doctor","there","say","they","be","good","to","go",",","the","seven","will","head","stateside","."]
+,"posTags":["RB","NNS","RB","VBP","PRP","VBP","JJ","TO","VB",",","DT","CD","MD","VB","NN","."]
+,"chunks":["O","B-NP","B-ADVP","B-VP","B-NP","B-VP","B-ADJP","B-VP","I-VP","O","B-NP","I-NP","B-VP","I-VP","B-NP","O"]
+,"parents":[3,3,3,13,6,6,3,8,6,-2,11,13,13,-1,13,-2]
+,"deprels":["advmod","nsubj","advmod","advcl","nsubj","cop","ccomp","aux","xcomp",null,"det","nsubj","aux","root","dobj",null]
+,"naryTree":"((ROOT (S (SBAR (RB once) (S (NP (NNS doctors)) (ADVP (RB there)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ good) (S (VP (TO to) (VP (VB go))))))))))) (, ,) (NP (DT the) (CD seven)) (VP (MD will) (VP (VB head) (NP (NN stateside)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a6f\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["once","doctors","there","say","they","are","good","to","go",",","the","seven","will","head","stateside","."]
+,"lemmas":["once","doctor","there","say","they","be","good","to","go",",","the","seven","will","head","stateside","."]
+,"posTags":["RB","NNS","RB","VBP","PRP","VBP","JJ","TO","VB",",","DT","CD","MD","VB","NN","."]
+,"chunks":["O","B-NP","B-ADVP","B-VP","B-NP","B-VP","B-ADJP","B-VP","I-VP","O","B-NP","I-NP","B-VP","I-VP","B-NP","O"]
+,"parents":[3,3,3,13,6,6,3,8,6,-2,11,13,13,-1,13,-2]
+,"deprels":["advmod","nsubj","advmod","advcl","nsubj","cop","ccomp","aux","xcomp",null,"det","nsubj","aux","root","dobj",null]
+,"naryTree":"((ROOT (S (SBAR (RB once) (S (NP (NNS doctors)) (ADVP (RB there)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ good) (S (VP (TO to) (VP (VB go))))))))))) (, ,) (NP (DT the) (CD seven)) (VP (MD will) (VP (VB head) (NP (NN stateside)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a6f\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8e\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["once","doctors","there","say","they","are","good","to","go",",","the","seven","will","head","stateside","."]
+,"lemmas":["once","doctor","there","say","they","be","good","to","go",",","the","seven","will","head","stateside","."]
+,"posTags":["RB","NNS","RB","VBP","PRP","VBP","JJ","TO","VB",",","DT","CD","MD","VB","NN","."]
+,"chunks":["O","B-NP","B-ADVP","B-VP","B-NP","B-VP","B-ADJP","B-VP","I-VP","O","B-NP","I-NP","B-VP","I-VP","B-NP","O"]
+,"parents":[3,3,3,13,6,6,3,8,6,-2,11,13,13,-1,13,-2]
+,"deprels":["advmod","nsubj","advmod","advcl","nsubj","cop","ccomp","aux","xcomp",null,"det","nsubj","aux","root","dobj",null]
+,"naryTree":"((ROOT (S (SBAR (RB once) (S (NP (NNS doctors)) (ADVP (RB there)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ good) (S (VP (TO to) (VP (VB go))))))))))) (, ,) (NP (DT the) (CD seven)) (VP (MD will) (VP (VB head) (NP (NN stateside)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a6f\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a7e\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["once","doctors","there","say","they","are","good","to","go",",","the","seven","will","head","stateside","."]
+,"lemmas":["once","doctor","there","say","they","be","good","to","go",",","the","seven","will","head","stateside","."]
+,"posTags":["RB","NNS","RB","VBP","PRP","VBP","JJ","TO","VB",",","DT","CD","MD","VB","NN","."]
+,"chunks":["O","B-NP","B-ADVP","B-VP","B-NP","B-VP","B-ADJP","B-VP","I-VP","O","B-NP","I-NP","B-VP","I-VP","B-NP","O"]
+,"parents":[3,3,3,13,6,6,3,8,6,-2,11,13,13,-1,13,-2]
+,"deprels":["advmod","nsubj","advmod","advcl","nsubj","cop","ccomp","aux","xcomp",null,"det","nsubj","aux","root","dobj",null]
+,"naryTree":"((ROOT (S (SBAR (RB once) (S (NP (NNS doctors)) (ADVP (RB there)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ good) (S (VP (TO to) (VP (VB go))))))))))) (, ,) (NP (DT the) (CD seven)) (VP (MD will) (VP (VB head) (NP (NN stateside)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"FAC\",\"subtype\":\"Airport\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a82\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["once","doctors","there","say","they","are","good","to","go",",","the","seven","will","head","stateside","."]
+,"lemmas":["once","doctor","there","say","they","be","good","to","go",",","the","seven","will","head","stateside","."]
+,"posTags":["RB","NNS","RB","VBP","PRP","VBP","JJ","TO","VB",",","DT","CD","MD","VB","NN","."]
+,"chunks":["O","B-NP","B-ADVP","B-VP","B-NP","B-VP","B-ADJP","B-VP","I-VP","O","B-NP","I-NP","B-VP","I-VP","B-NP","O"]
+,"parents":[3,3,3,13,6,6,3,8,6,-2,11,13,13,-1,13,-2]
+,"deprels":["advmod","nsubj","advmod","advcl","nsubj","cop","ccomp","aux","xcomp",null,"det","nsubj","aux","root","dobj",null]
+,"naryTree":"((ROOT (S (SBAR (RB once) (S (NP (NNS doctors)) (ADVP (RB there)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ good) (S (VP (TO to) (VP (VB go))))))))))) (, ,) (NP (DT the) (CD seven)) (VP (MD will) (VP (VB head) (NP (NN stateside)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"FAC\",\"subtype\":\"Airport\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a82\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8e\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["once","doctors","there","say","they","are","good","to","go",",","the","seven","will","head","stateside","."]
+,"lemmas":["once","doctor","there","say","they","be","good","to","go",",","the","seven","will","head","stateside","."]
+,"posTags":["RB","NNS","RB","VBP","PRP","VBP","JJ","TO","VB",",","DT","CD","MD","VB","NN","."]
+,"chunks":["O","B-NP","B-ADVP","B-VP","B-NP","B-VP","B-ADJP","B-VP","I-VP","O","B-NP","I-NP","B-VP","I-VP","B-NP","O"]
+,"parents":[3,3,3,13,6,6,3,8,6,-2,11,13,13,-1,13,-2]
+,"deprels":["advmod","nsubj","advmod","advcl","nsubj","cop","ccomp","aux","xcomp",null,"det","nsubj","aux","root","dobj",null]
+,"naryTree":"((ROOT (S (SBAR (RB once) (S (NP (NNS doctors)) (ADVP (RB there)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ good) (S (VP (TO to) (VP (VB go))))))))))) (, ,) (NP (DT the) (CD seven)) (VP (MD will) (VP (VB head) (NP (NN stateside)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"FAC\",\"subtype\":\"Airport\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a82\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a7e\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["once","doctors","there","say","they","are","good","to","go",",","the","seven","will","head","stateside","."]
+,"lemmas":["once","doctor","there","say","they","be","good","to","go",",","the","seven","will","head","stateside","."]
+,"posTags":["RB","NNS","RB","VBP","PRP","VBP","JJ","TO","VB",",","DT","CD","MD","VB","NN","."]
+,"chunks":["O","B-NP","B-ADVP","B-VP","B-NP","B-VP","B-ADJP","B-VP","I-VP","O","B-NP","I-NP","B-VP","I-VP","B-NP","O"]
+,"parents":[3,3,3,13,6,6,3,8,6,-2,11,13,13,-1,13,-2]
+,"deprels":["advmod","nsubj","advmod","advcl","nsubj","cop","ccomp","aux","xcomp",null,"det","nsubj","aux","root","dobj",null]
+,"naryTree":"((ROOT (S (SBAR (RB once) (S (NP (NNS doctors)) (ADVP (RB there)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ good) (S (VP (TO to) (VP (VB go))))))))))) (, ,) (NP (DT the) (CD seven)) (VP (MD will) (VP (VB head) (NP (NN stateside)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8d\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8e\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["once","doctors","there","say","they","are","good","to","go",",","the","seven","will","head","stateside","."]
+,"lemmas":["once","doctor","there","say","they","be","good","to","go",",","the","seven","will","head","stateside","."]
+,"posTags":["RB","NNS","RB","VBP","PRP","VBP","JJ","TO","VB",",","DT","CD","MD","VB","NN","."]
+,"chunks":["O","B-NP","B-ADVP","B-VP","B-NP","B-VP","B-ADJP","B-VP","I-VP","O","B-NP","I-NP","B-VP","I-VP","B-NP","O"]
+,"parents":[3,3,3,13,6,6,3,8,6,-2,11,13,13,-1,13,-2]
+,"deprels":["advmod","nsubj","advmod","advcl","nsubj","cop","ccomp","aux","xcomp",null,"det","nsubj","aux","root","dobj",null]
+,"naryTree":"((ROOT (S (SBAR (RB once) (S (NP (NNS doctors)) (ADVP (RB there)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ good) (S (VP (TO to) (VP (VB go))))))))))) (, ,) (NP (DT the) (CD seven)) (VP (MD will) (VP (VB head) (NP (NN stateside)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8d\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a7e\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a73\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a77\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8f\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a7c\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a73\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a79\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a73\"},\"m2\":{\"start\":6,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a75\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a73\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8f\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a73\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a7c\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a77\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a79\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a77\"},\"m2\":{\"start\":6,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a75\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a77\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8f\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a77\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a7c\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a79\"},\"m2\":{\"start\":6,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a75\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a79\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8f\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a79\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a7c\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a75\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8f\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["doctors","in","kuwait","have","already","said","the","six","men","and","one","woman","are","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"lemmas":["doctor","in","kuwait","have","already","say","the","six","man","and","one","woman","be","in","good","shape",",","so","they","may","not","have","to","stay","in","germany","very","long","."]
+,"posTags":["NNS","IN","NN","VBP","RB","VBD","DT","CD","NNS","CC","CD","NN","VBP","IN","JJ","NN",",","IN","PRP","MD","RB","VB","TO","VB","IN","NN","RB","RB","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-ADVP","I-ADVP","O"]
+,"parents":[5,0,1,5,5,-1,8,8,12,8,11,8,5,12,15,13,-2,5,21,21,21,5,23,21,23,24,27,23,-2]
+,"deprels":["nsubj","prep","pobj","aux","advmod","root","det","num","nsubj","cc","num","conj","ccomp","prep","amod","pobj",null,"dep","nsubj","aux","neg","parataxis","aux","xcomp","prep","pobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NNS doctors)) (PP (IN in) (NP (NN kuwait)))) (VP (VBP have) (ADVP (RB already)) (VP (VBD said) (SBAR (S (NP (NP (DT the) (CD six) (NNS men)) (CC and) (NP (CD one) (NN woman))) (VP (VBP are) (PP (IN in) (NP (JJ good) (NN shape))))))))) (, ,) (IN so) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (NN germany))) (ADVP (RB very) (RB long)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a75\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a7c\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["the","former","p.o.w.s","were","rescued","sunday","about","75","miles","north","of","baghdad","."]
+,"lemmas":["the","former","p.o.w.s","be","rescue","sunday","about","75","mile","north","of","baghdad","."]
+,"posTags":["DT","JJ","NNS","VBD","VBN","NNP","IN","CD","NNS","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[2,2,4,4,-1,4,4,8,9,6,4,10,-2]
+,"deprels":["det","amod","nsubjpass","auxpass","root","tmod","prep","num","npadvmod","pcomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (JJ former) (NNS p.o.w.s)) (VP (VBD were) (VP (VBN rescued) (NP-TMP (NNP sunday)) (PP (IN about) (ADVP (NP (CD 75) (NNS miles)) (RB north))) (PP (IN of) (NP (NN baghdad))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a90\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a6d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8b\"},\"m2\":{\"start\":25,\"end\":28,\"head\":27,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a84\"}}]"
+,"relLabels":["GEN-AFF-Citizen-Resident-Religion-Ethnicity(Arg-1,Arg-2)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a88\"},\"m2\":{\"start\":25,\"end\":28,\"head\":27,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a84\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a71\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a88\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a71\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a89\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a71\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8a\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a71\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8b\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a71\"},\"m2\":{\"start\":25,\"end\":28,\"head\":27,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a84\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a88\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a89\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a88\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8a\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a88\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8b\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a89\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8a\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a89\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8b\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a89\"},\"m2\":{\"start\":25,\"end\":28,\"head\":27,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a84\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8a\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8b\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["medical","officers","say","they","became","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","'s","time","to","go","to","their","separate","homes","."]
+,"lemmas":["medical","officer","say","they","become","a","team","while","in","captivity","and","want","to","stay","together","as","a","team","until","it","be","time","to","go","to","they","separate","home","."]
+,"posTags":["JJ","NNS","VBP","PRP","VBD","DT","NN","IN","IN","NN","CC","VBP","TO","VB","RB","IN","DT","NN","IN","PRP","VBZ","NN","TO","VB","TO","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-PP","B-NP","O","B-VP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,6,4,4,7,8,4,4,13,11,13,13,17,15,21,21,21,13,23,21,23,27,27,24,-2]
+,"deprels":["amod","nsubj","root","nsubj","ccomp","det","xcomp","prep","pcomp","pobj","cc","conj","aux","xcomp","advmod","prep","det","pobj","mark","nsubj","cop","advcl","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ medical) (NNS officers)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VP (VBD became) (NP (DT a) (NN team)) (PP (IN while) (PP (IN in) (NP (NN captivity))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB stay) (ADVP (RB together)) (PP (IN as) (NP (DT a) (NN team))) (SBAR (IN until) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN time) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (PRP$ their) (JJ separate) (NNS homes)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a8a\"},\"m2\":{\"start\":25,\"end\":28,\"head\":27,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"5d38074c-3140-df06-91dd-000003f18a84\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+

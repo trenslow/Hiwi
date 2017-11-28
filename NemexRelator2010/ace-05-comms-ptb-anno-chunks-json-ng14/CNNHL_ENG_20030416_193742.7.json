@@ -1,0 +1,580 @@
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ab\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309b\"}}]"
+,"relLabels":["PART-WHOLE"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a1\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a7\"}}]"
+,"relLabels":["ORG-AFF"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309f\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309b\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a7\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309b\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ab\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a1\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ab\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a7\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ab\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309f\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a1\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309f\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a1\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309b\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a1\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a7\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309f\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a7\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a7\"},\"m2\":{\"start\":24,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309f\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309f\"},\"m2\":{\"start\":24,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309b\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309b\"},\"m2\":{\"start\":24,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["in","northern","iraq",",","u.s.","marines","and","residents","exchanged","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbances","there","."]
+,"lemmas":["in","northern","iraq",",","u.s.","marine","and","resident","exchange","gunfire","in","the","city","of","mosul","today",",","in","the","second","day","of","civil","disturbance","there","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","CC","NNS","VBD","NN","IN","DT","NN","IN","NN","NN",",","IN","DT","JJ","NN","IN","JJ","NNS","RB","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-NP","O","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[8,2,0,-2,5,8,5,5,-1,8,8,12,10,12,13,8,-2,8,20,20,17,20,23,21,23,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","cc","conj","root","dobj","prep","det","pobj","prep","pobj","tmod",null,"prep","det","amod","pobj","prep","amod","pobj","advmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS marines) (CC and) (NNS residents)) (VP (VBD exchanged) (NP (NN gunfire)) (PP (IN in) (NP (NP (DT the) (NN city)) (PP (IN of) (NP (NN mosul))))) (NP-TMP (NN today)) (, ,) (PP (IN in) (NP (NP (DT the) (JJ second) (NN day)) (PP (IN of) (NP (NP (JJ civil) (NNS disturbances)) (ADVP (RB there))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309c\"},\"m2\":{\"start\":24,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3092\"},\"m2\":{\"start\":13,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3094\"}}]"
+,"relLabels":["ART"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309d\"},\"m2\":{\"start\":13,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3094\"}}]"
+,"relLabels":["PART-WHOLE"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30bf\"},\"m2\":{\"start\":0,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3098\"}}]"
+,"relLabels":["GEN-AFF"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30bf\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3096\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30bf\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a2\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30bf\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309d\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3098\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3096\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3098\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a2\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3098\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309d\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3096\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a2\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3096\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309d\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3096\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3092\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3096\"},\"m2\":{\"start\":13,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3094\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a2\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309d\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a2\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3092\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a2\"},\"m2\":{\"start\":13,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3094\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","senior","kurdish","intelligence","official","says","citizens","were","protesting","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"lemmas":["a","senior","kurdish","intelligence","official","say","citizen","be","protest","the","american","occupation","of","the","city","'s","main","government","building","."]
+,"posTags":["DT","JJ","JJ","NN","NN","VBZ","NNS","VBD","VBG","DT","JJ","NN","IN","DT","NN","POS","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,8,8,5,11,11,8,11,14,18,14,18,18,12,-2]
+,"deprels":["det","amod","amod","nn","nsubj","root","nsubj","aux","ccomp","det","amod","dobj","prep","det","poss","possessive","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ senior) (JJ kurdish) (NN intelligence) (NN official)) (VP (VBZ says) (SBAR (S (NP (NNS citizens)) (VP (VBD were) (VP (VBG protesting) (NP (NP (DT the) (JJ american) (NN occupation)) (PP (IN of) (NP (NP (DT the) (NN city) (POS 's)) (JJ main) (NN government) (NN building))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef309d\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef3092\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a3\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ae\"}}]"
+,"relLabels":["ORG-AFF"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b1\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a3\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b1\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ae\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b1\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30af\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b1\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ad\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a3\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30af\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a3\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ad\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a3\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30bb\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ae\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30af\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ae\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ad\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ae\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30bb\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30af\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ad\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30af\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30bb\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["seven","iraqis","were","killed","by","u.s.","marines",",","who","say","they","were","responding","to","sniper","fire","."]
+,"lemmas":["seven","iraqi","be","kill","by","u.s.","marine",",","who","say","they","be","respond","to","sniper","fire","."]
+,"posTags":["CD","NNS","VBD","VBN","IN","JJ","NNS",",","WP","VBP","PRP","VBD","VBG","TO","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,6,4,-2,9,6,12,12,9,12,15,13,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","amod","pobj",null,"nsubj","rcmod","nsubj","aux","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD seven) (NNS iraqis)) (VP (VBD were) (VP (VBN killed) (PP (IN by) (NP (NP (JJ u.s.) (NNS marines)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG responding) (PP (TO to) (NP (NN sniper) (NN fire)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30ad\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30bb\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["hospital","officials","say","17","people","have","been","killed","and","18","wounded","over","the","past","2","days","."]
+,"lemmas":["hospital","official","say","17","people","have","be","kill","and","18","wound","over","the","past","2","day","."]
+,"posTags":["NN","NNS","VBP","CD","NNS","VBP","VBN","VBN","CC","CD","VBN","IN","DT","JJ","CD","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","I-VP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,7,7,4,4,4,9,9,15,15,15,11,-2]
+,"deprels":["nn","nsubj","root","num","dobj","aux","auxpass","rcmod","cc","conj","amod","prep","det","amod","num","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN hospital) (NNS officials)) (VP (VBP say) (NP (NP (NP (CD 17) (NNS people)) (SBAR (S (VP (VBP have) (VP (VBN been) (VP (VBN killed))))))) (CC and) (NP (NP (CD 18) (VBN wounded)) (PP (IN over) (NP (DT the) (JJ past) (CD 2) (NNS days)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a9\"},\"m2\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a5\"}}]"
+,"relLabels":["ORG-AFF"]}
+
+{"words":["hospital","officials","say","17","people","have","been","killed","and","18","wounded","over","the","past","2","days","."]
+,"lemmas":["hospital","official","say","17","people","have","be","kill","and","18","wound","over","the","past","2","day","."]
+,"posTags":["NN","NNS","VBP","CD","NNS","VBP","VBN","VBN","CC","CD","VBN","IN","DT","JJ","CD","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","I-VP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,7,7,4,4,4,9,9,15,15,15,11,-2]
+,"deprels":["nn","nsubj","root","num","dobj","aux","auxpass","rcmod","cc","conj","amod","prep","det","amod","num","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN hospital) (NNS officials)) (VP (VBP say) (NP (NP (NP (CD 17) (NNS people)) (SBAR (S (VP (VBP have) (VP (VBN been) (VP (VBN killed))))))) (CC and) (NP (NP (CD 18) (VBN wounded)) (PP (IN over) (NP (DT the) (JJ past) (CD 2) (NNS days)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a9\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b7\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["hospital","officials","say","17","people","have","been","killed","and","18","wounded","over","the","past","2","days","."]
+,"lemmas":["hospital","official","say","17","people","have","be","kill","and","18","wound","over","the","past","2","day","."]
+,"posTags":["NN","NNS","VBP","CD","NNS","VBP","VBN","VBN","CC","CD","VBN","IN","DT","JJ","CD","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","I-VP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,7,7,4,4,4,9,9,15,15,15,11,-2]
+,"deprels":["nn","nsubj","root","num","dobj","aux","auxpass","rcmod","cc","conj","amod","prep","det","amod","num","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN hospital) (NNS officials)) (VP (VBP say) (NP (NP (NP (CD 17) (NNS people)) (SBAR (S (VP (VBP have) (VP (VBN been) (VP (VBN killed))))))) (CC and) (NP (NP (CD 18) (VBN wounded)) (PP (IN over) (NP (DT the) (JJ past) (CD 2) (NNS days)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a9\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["hospital","officials","say","17","people","have","been","killed","and","18","wounded","over","the","past","2","days","."]
+,"lemmas":["hospital","official","say","17","people","have","be","kill","and","18","wound","over","the","past","2","day","."]
+,"posTags":["NN","NNS","VBP","CD","NNS","VBP","VBN","VBN","CC","CD","VBN","IN","DT","JJ","CD","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","I-VP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,7,7,4,4,4,9,9,15,15,15,11,-2]
+,"deprels":["nn","nsubj","root","num","dobj","aux","auxpass","rcmod","cc","conj","amod","prep","det","amod","num","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN hospital) (NNS officials)) (VP (VBP say) (NP (NP (NP (CD 17) (NNS people)) (SBAR (S (VP (VBP have) (VP (VBN been) (VP (VBN killed))))))) (CC and) (NP (NP (CD 18) (VBN wounded)) (PP (IN over) (NP (DT the) (JJ past) (CD 2) (NNS days)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a5\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b7\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["hospital","officials","say","17","people","have","been","killed","and","18","wounded","over","the","past","2","days","."]
+,"lemmas":["hospital","official","say","17","people","have","be","kill","and","18","wound","over","the","past","2","day","."]
+,"posTags":["NN","NNS","VBP","CD","NNS","VBP","VBN","VBN","CC","CD","VBN","IN","DT","JJ","CD","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","I-VP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,7,7,4,4,4,9,9,15,15,15,11,-2]
+,"deprels":["nn","nsubj","root","num","dobj","aux","auxpass","rcmod","cc","conj","amod","prep","det","amod","num","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN hospital) (NNS officials)) (VP (VBP say) (NP (NP (NP (CD 17) (NNS people)) (SBAR (S (VP (VBP have) (VP (VBN been) (VP (VBN killed))))))) (CC and) (NP (NP (CD 18) (VBN wounded)) (PP (IN over) (NP (DT the) (JJ past) (CD 2) (NNS days)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30a5\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["hospital","officials","say","17","people","have","been","killed","and","18","wounded","over","the","past","2","days","."]
+,"lemmas":["hospital","official","say","17","people","have","be","kill","and","18","wound","over","the","past","2","day","."]
+,"posTags":["NN","NNS","VBP","CD","NNS","VBP","VBN","VBN","CC","CD","VBN","IN","DT","JJ","CD","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","I-VP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,7,7,4,4,4,9,9,15,15,15,11,-2]
+,"deprels":["nn","nsubj","root","num","dobj","aux","auxpass","rcmod","cc","conj","amod","prep","det","amod","num","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN hospital) (NNS officials)) (VP (VBP say) (NP (NP (NP (CD 17) (NNS people)) (SBAR (S (VP (VBP have) (VP (VBN been) (VP (VBN killed))))))) (CC and) (NP (NP (CD 18) (VBN wounded)) (PP (IN over) (NP (DT the) (JJ past) (CD 2) (NNS days)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b7\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["central","command","says","troops","were","involved","in","a","gun","battle","yesterday","."]
+,"lemmas":["central","command","say","troops","be","involve","in","a","gun","battle","yesterday","."]
+,"posTags":["JJ","NN","VBZ","NNS","VBD","VBN","IN","DT","NN","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-NP","O"]
+,"parents":[1,2,-1,5,5,2,5,9,9,6,5,-2]
+,"deprels":["amod","nsubj","root","nsubjpass","auxpass","ccomp","prep","det","nn","pobj","tmod",null]
+,"naryTree":"((ROOT (S (NP (JJ central) (NN command)) (VP (VBZ says) (SBAR (S (NP (NNS troops)) (VP (VBD were) (VP (VBN involved) (PP (IN in) (NP (DT a) (NN gun) (NN battle))) (NP-TMP (NN yesterday))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b3\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b5\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["central","command","says","troops","were","involved","in","a","gun","battle","yesterday","."]
+,"lemmas":["central","command","say","troops","be","involve","in","a","gun","battle","yesterday","."]
+,"posTags":["JJ","NN","VBZ","NNS","VBD","VBN","IN","DT","NN","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-NP","O"]
+,"parents":[1,2,-1,5,5,2,5,9,9,6,5,-2]
+,"deprels":["amod","nsubj","root","nsubjpass","auxpass","ccomp","prep","det","nn","pobj","tmod",null]
+,"naryTree":"((ROOT (S (NP (JJ central) (NN command)) (VP (VBZ says) (SBAR (S (NP (NNS troops)) (VP (VBD were) (VP (VBN involved) (PP (IN in) (NP (DT a) (NN gun) (NN battle))) (NP-TMP (NN yesterday))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b3\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30bd\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["central","command","says","troops","were","involved","in","a","gun","battle","yesterday","."]
+,"lemmas":["central","command","say","troops","be","involve","in","a","gun","battle","yesterday","."]
+,"posTags":["JJ","NN","VBZ","NNS","VBD","VBN","IN","DT","NN","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-NP","O"]
+,"parents":[1,2,-1,5,5,2,5,9,9,6,5,-2]
+,"deprels":["amod","nsubj","root","nsubjpass","auxpass","ccomp","prep","det","nn","pobj","tmod",null]
+,"naryTree":"((ROOT (S (NP (JJ central) (NN command)) (VP (VBZ says) (SBAR (S (NP (NNS troops)) (VP (VBD were) (VP (VBN involved) (PP (IN in) (NP (DT a) (NN gun) (NN battle))) (NP-TMP (NN yesterday))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30b5\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"57401a80-0061-90e6-83d2-00003fef30bd\"}}]"
+,"relLabels":["NO_RELATION"]}
+

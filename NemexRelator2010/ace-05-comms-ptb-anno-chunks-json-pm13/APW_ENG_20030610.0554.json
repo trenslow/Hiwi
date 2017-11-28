@@ -1,0 +1,980 @@
+{"words":["CAPE","CANAVERAL",",","Florida","-LRB-","AP","-RRB-"]
+,"lemmas":["CAPE","CANAVERAL",",","Florida","-lrb-","AP","-rrb-"]
+,"posTags":["NNP","NNP",",","NNP","-LRB-","NNP","-RRB-"]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","O","B-NP","O"]
+,"parents":[3,3,-2,-1,-2,3,-2]
+,"deprels":["nn","nn",null,"root",null,"appos",null]
+,"naryTree":"((ROOT (NP (NP (NNP CAPE) (NNP CANAVERAL) (, ,) (NNP Florida)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-)))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98332d\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983304\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["CAPE","CANAVERAL",",","Florida","-LRB-","AP","-RRB-"]
+,"lemmas":["CAPE","CANAVERAL",",","Florida","-lrb-","AP","-rrb-"]
+,"posTags":["NNP","NNP",",","NNP","-LRB-","NNP","-RRB-"]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","O","B-NP","O"]
+,"parents":[3,3,-2,-1,-2,3,-2]
+,"deprels":["nn","nn",null,"root",null,"appos",null]
+,"naryTree":"((ROOT (NP (NP (NNP CAPE) (NNP CANAVERAL) (, ,) (NNP Florida)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-)))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98332d\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ec\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["CAPE","CANAVERAL",",","Florida","-LRB-","AP","-RRB-"]
+,"lemmas":["CAPE","CANAVERAL",",","Florida","-lrb-","AP","-rrb-"]
+,"posTags":["NNP","NNP",",","NNP","-LRB-","NNP","-RRB-"]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","O","B-NP","O"]
+,"parents":[3,3,-2,-1,-2,3,-2]
+,"deprels":["nn","nn",null,"root",null,"appos",null]
+,"naryTree":"((ROOT (NP (NP (NNP CAPE) (NNP CANAVERAL) (, ,) (NNP Florida)) (PRN (-LRB- -LRB-) (NP (NNP AP)) (-RRB- -RRB-)))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983304\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ec\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ef\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983322\"}}]"
+,"relLabels":["PART-WHOLE(Arg-1,Arg-2)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ef\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ff\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ef\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ef\"},\"m2\":{\"start\":17,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983300\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983322\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ff\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983322\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983322\"},\"m2\":{\"start\":17,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983300\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983322\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983301\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ff\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ff\"},\"m2\":{\"start\":17,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983300\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ff\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983301\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ff\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ff\"},\"m2\":{\"start\":21,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331d\"},\"m2\":{\"start\":17,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983300\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331d\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983301\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331d\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331d\"},\"m2\":{\"start\":21,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983300\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983301\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983300\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983300\"},\"m2\":{\"start\":21,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983300\"},\"m2\":{\"start\":38,\"end\":39,\"head\":38,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983302\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983301\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983301\"},\"m2\":{\"start\":21,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983301\"},\"m2\":{\"start\":38,\"end\":39,\"head\":38,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983302\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e6\"},\"m2\":{\"start\":21,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e6\"},\"m2\":{\"start\":38,\"end\":39,\"head\":38,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983302\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","rocket","holding","the","first","of","two","Mars","rovers","blasted","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicles","will","search","for","evidence","that","there","was","once","enough","water","to","support","life","on","Mars","."]
+,"lemmas":["a","rocket","hold","the","first","of","two","Mars","rover","blast","off","Tuesday","on","a","seven-month","voyage","to","the","red","planet","where","the","golf-cart-sized","vehicle","will","search","for","evidence","that","there","be","once","enough","water","to","support","life","on","Mars","."]
+,"posTags":["DT","NN","VBG","DT","JJ","IN","CD","NNP","NNS","VBD","RP","NNP","IN","DT","JJ","NN","TO","DT","JJ","NN","WRB","DT","JJ","NNS","MD","VB","IN","NN","IN","EX","VBD","RB","JJ","NN","TO","VB","NN","IN","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PRT","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,9,1,4,2,4,8,8,5,-1,9,9,9,15,15,12,15,19,19,16,25,23,23,25,25,19,25,26,30,30,25,30,33,30,35,33,35,35,37,-2]
+,"deprels":["det","nsubj","vmod","det","dobj","prep","num","nn","pobj","root","prt","tmod","prep","det","amod","pobj","prep","det","amod","pobj","advmod","det","amod","nsubj","aux","rcmod","prep","pobj","mark","expl","ccomp","advmod","amod","nsubj","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN rocket)) (VP (VBG holding) (NP (NP (DT the) (JJ first)) (PP (IN of) (NP (CD two) (NNP Mars) (NNS rovers)))))) (VP (VBD blasted) (PRT (RP off)) (NP-TMP (NNP Tuesday)) (PP (IN on) (NP (NP (DT a) (JJ seven-month) (NN voyage)) (PP (TO to) (NP (NP (DT the) (JJ red) (NN planet)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (JJ golf-cart-sized) (NNS vehicles)) (VP (MD will) (VP (VB search) (PP (IN for) (NP (NN evidence))) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB once)) (NP (JJ enough) (NN water) (S (VP (TO to) (VP (VB support) (NP (NN life)) (PP (IN on) (NP (NNP Mars))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":21,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331e\"},\"m2\":{\"start\":38,\"end\":39,\"head\":38,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983302\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983323\"},\"m2\":{\"start\":14,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f0\"}}]"
+,"relLabels":["PART-WHOLE(Arg-1,Arg-2)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983328\"},\"m2\":{\"start\":14,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f0\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983323\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983324\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983323\"},\"m2\":{\"start\":7,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983323\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983328\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983324\"},\"m2\":{\"start\":7,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983324\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983328\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983324\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983324\"},\"m2\":{\"start\":14,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e4\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983328\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e4\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e4\"},\"m2\":{\"start\":14,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983328\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rover","named","Spirit","lifted","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-LRB-","1758","GMT","-RRB-","."]
+,"lemmas":["the","rover","name","spirit","lift","off","from","the","Cape","Canaveral","Air","Force","Station","aboard","a","Boeing","Delta","II","rocket","at","1:58","p.m.","-lrb-","1758","GMT","-rrb-","."]
+,"posTags":["DT","NN","VBN","NN","VBD","RP","IN","DT","NNP","NNP","NNP","NNP","NNP","IN","DT","NNP","NNP","NNP","NN","IN","CD","NN","-LRB-","CD","NNP","-RRB-","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","B-NP","O","O"]
+,"parents":[1,4,1,2,-1,4,4,12,12,12,12,12,6,4,18,18,18,18,13,18,21,19,-2,21,23,-2,-2]
+,"deprels":["det","nsubj","vmod","dobj","root","prt","prep","det","nn","nn","nn","nn","pobj","prep","det","nn","nn","nn","pobj","prep","num","pobj",null,"dep","appos",null,null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NN rover)) (VP (VBN named) (NP (NN Spirit)))) (VP (VBD lifted) (PRT (RP off)) (PP (IN from) (NP (DT the) (NNP Cape) (NNP Canaveral) (NNP Air) (NNP Force) (NNP Station))) (PP (IN aboard) (NP (NP (DT a) (NNP Boeing) (NNP Delta) (NNP II) (NN rocket)) (PP (IN at) (NP (NP (CD 1:58) (NN p.m.)) (PRN (-LRB- -LRB-) (NP (NP (CD 1758)) (NP (NNP GMT))) (-RRB- -RRB-))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f1\"},\"m2\":{\"start\":14,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thunderstorms","delayed","the","launch","by","two","days",",","and","launch","officials","contended","with","a","last-minute","communications","glitch","between","stations","that","will","track","the","spacecraft","."]
+,"lemmas":["thunderstorm","delay","the","launch","by","two","day",",","and","launch","official","contend","with","a","last-minute","communication","glitch","between","station","that","will","track","the","spacecraft","."]
+,"posTags":["NNS","VBD","DT","NN","IN","CD","NNS",",","CC","NN","NNS","VBD","IN","DT","JJ","NNS","NN","IN","NNS","WDT","MD","VB","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,-2,1,10,11,1,11,16,16,16,12,16,17,21,21,18,23,21,-2]
+,"deprels":["nsubj","root","det","dobj","prep","num","pobj",null,"cc","nn","nsubj","conj","prep","det","amod","nn","pobj","prep","pobj","nsubj","aux","rcmod","det","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NNS Thunderstorms)) (VP (VBD delayed) (NP (DT the) (NN launch)) (PP (IN by) (NP (CD two) (NNS days))))) (, ,) (CC and) (S (NP (NN launch) (NNS officials)) (VP (VBD contended) (PP (IN with) (NP (NP (DT a) (JJ last-minute) (NNS communications) (NN glitch)) (PP (IN between) (NP (NP (NNS stations)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB track) (NP (DT the) (NN spacecraft)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98332f\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983308\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thunderstorms","delayed","the","launch","by","two","days",",","and","launch","officials","contended","with","a","last-minute","communications","glitch","between","stations","that","will","track","the","spacecraft","."]
+,"lemmas":["thunderstorm","delay","the","launch","by","two","day",",","and","launch","official","contend","with","a","last-minute","communication","glitch","between","station","that","will","track","the","spacecraft","."]
+,"posTags":["NNS","VBD","DT","NN","IN","CD","NNS",",","CC","NN","NNS","VBD","IN","DT","JJ","NNS","NN","IN","NNS","WDT","MD","VB","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,-2,1,10,11,1,11,16,16,16,12,16,17,21,21,18,23,21,-2]
+,"deprels":["nsubj","root","det","dobj","prep","num","pobj",null,"cc","nn","nsubj","conj","prep","det","amod","nn","pobj","prep","pobj","nsubj","aux","rcmod","det","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NNS Thunderstorms)) (VP (VBD delayed) (NP (DT the) (NN launch)) (PP (IN by) (NP (CD two) (NNS days))))) (, ,) (CC and) (S (NP (NN launch) (NNS officials)) (VP (VBD contended) (PP (IN with) (NP (NP (DT a) (JJ last-minute) (NNS communications) (NN glitch)) (PP (IN between) (NP (NP (NNS stations)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB track) (NP (DT the) (NN spacecraft)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98332f\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983309\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thunderstorms","delayed","the","launch","by","two","days",",","and","launch","officials","contended","with","a","last-minute","communications","glitch","between","stations","that","will","track","the","spacecraft","."]
+,"lemmas":["thunderstorm","delay","the","launch","by","two","day",",","and","launch","official","contend","with","a","last-minute","communication","glitch","between","station","that","will","track","the","spacecraft","."]
+,"posTags":["NNS","VBD","DT","NN","IN","CD","NNS",",","CC","NN","NNS","VBD","IN","DT","JJ","NNS","NN","IN","NNS","WDT","MD","VB","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,-2,1,10,11,1,11,16,16,16,12,16,17,21,21,18,23,21,-2]
+,"deprels":["nsubj","root","det","dobj","prep","num","pobj",null,"cc","nn","nsubj","conj","prep","det","amod","nn","pobj","prep","pobj","nsubj","aux","rcmod","det","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NNS Thunderstorms)) (VP (VBD delayed) (NP (DT the) (NN launch)) (PP (IN by) (NP (CD two) (NNS days))))) (, ,) (CC and) (S (NP (NN launch) (NNS officials)) (VP (VBD contended) (PP (IN with) (NP (NP (DT a) (JJ last-minute) (NNS communications) (NN glitch)) (PP (IN between) (NP (NP (NNS stations)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB track) (NP (DT the) (NN spacecraft)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98332f\"},\"m2\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ee\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thunderstorms","delayed","the","launch","by","two","days",",","and","launch","officials","contended","with","a","last-minute","communications","glitch","between","stations","that","will","track","the","spacecraft","."]
+,"lemmas":["thunderstorm","delay","the","launch","by","two","day",",","and","launch","official","contend","with","a","last-minute","communication","glitch","between","station","that","will","track","the","spacecraft","."]
+,"posTags":["NNS","VBD","DT","NN","IN","CD","NNS",",","CC","NN","NNS","VBD","IN","DT","JJ","NNS","NN","IN","NNS","WDT","MD","VB","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,-2,1,10,11,1,11,16,16,16,12,16,17,21,21,18,23,21,-2]
+,"deprels":["nsubj","root","det","dobj","prep","num","pobj",null,"cc","nn","nsubj","conj","prep","det","amod","nn","pobj","prep","pobj","nsubj","aux","rcmod","det","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NNS Thunderstorms)) (VP (VBD delayed) (NP (DT the) (NN launch)) (PP (IN by) (NP (CD two) (NNS days))))) (, ,) (CC and) (S (NP (NN launch) (NNS officials)) (VP (VBD contended) (PP (IN with) (NP (NP (DT a) (JJ last-minute) (NNS communications) (NN glitch)) (PP (IN between) (NP (NP (NNS stations)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB track) (NP (DT the) (NN spacecraft)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983308\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983309\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thunderstorms","delayed","the","launch","by","two","days",",","and","launch","officials","contended","with","a","last-minute","communications","glitch","between","stations","that","will","track","the","spacecraft","."]
+,"lemmas":["thunderstorm","delay","the","launch","by","two","day",",","and","launch","official","contend","with","a","last-minute","communication","glitch","between","station","that","will","track","the","spacecraft","."]
+,"posTags":["NNS","VBD","DT","NN","IN","CD","NNS",",","CC","NN","NNS","VBD","IN","DT","JJ","NNS","NN","IN","NNS","WDT","MD","VB","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,-2,1,10,11,1,11,16,16,16,12,16,17,21,21,18,23,21,-2]
+,"deprels":["nsubj","root","det","dobj","prep","num","pobj",null,"cc","nn","nsubj","conj","prep","det","amod","nn","pobj","prep","pobj","nsubj","aux","rcmod","det","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NNS Thunderstorms)) (VP (VBD delayed) (NP (DT the) (NN launch)) (PP (IN by) (NP (CD two) (NNS days))))) (, ,) (CC and) (S (NP (NN launch) (NNS officials)) (VP (VBD contended) (PP (IN with) (NP (NP (DT a) (JJ last-minute) (NNS communications) (NN glitch)) (PP (IN between) (NP (NP (NNS stations)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB track) (NP (DT the) (NN spacecraft)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983308\"},\"m2\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ee\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thunderstorms","delayed","the","launch","by","two","days",",","and","launch","officials","contended","with","a","last-minute","communications","glitch","between","stations","that","will","track","the","spacecraft","."]
+,"lemmas":["thunderstorm","delay","the","launch","by","two","day",",","and","launch","official","contend","with","a","last-minute","communication","glitch","between","station","that","will","track","the","spacecraft","."]
+,"posTags":["NNS","VBD","DT","NN","IN","CD","NNS",",","CC","NN","NNS","VBD","IN","DT","JJ","NNS","NN","IN","NNS","WDT","MD","VB","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","O","B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,-2,1,10,11,1,11,16,16,16,12,16,17,21,21,18,23,21,-2]
+,"deprels":["nsubj","root","det","dobj","prep","num","pobj",null,"cc","nn","nsubj","conj","prep","det","amod","nn","pobj","prep","pobj","nsubj","aux","rcmod","det","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NNS Thunderstorms)) (VP (VBD delayed) (NP (DT the) (NN launch)) (PP (IN by) (NP (CD two) (NNS days))))) (, ,) (CC and) (S (NP (NN launch) (NNS officials)) (VP (VBD contended) (PP (IN with) (NP (NP (DT a) (JJ last-minute) (NNS communications) (NN glitch)) (PP (IN between) (NP (NP (NNS stations)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB track) (NP (DT the) (NN spacecraft)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":19,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983309\"},\"m2\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ee\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","second","rover",",","named","Opportunity",",","will","be","launched","later","this","month",",","and","both","are","expected","to","arrive","at","Mars","in","January","."]
+,"lemmas":["the","second","rover",",","name","Opportunity",",","will","be","launch","later","this","month",",","and","both","be","expect","to","arrive","at","Mars","in","January","."]
+,"posTags":["DT","JJ","NN",",","VBN","NNP",",","MD","VB","VBN","RB","DT","NN",",","CC","DT","VBP","VBN","TO","VB","IN","NNP","IN","NNP","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-VP","B-NP","O","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,9,-2,2,4,-2,9,9,-1,12,12,9,-2,9,17,17,9,19,17,19,20,19,22,-2]
+,"deprels":["det","amod","nsubjpass",null,"vmod","dobj",null,"aux","auxpass","root","advmod","det","tmod",null,"cc","nsubjpass","auxpass","conj","aux","xcomp","prep","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (DT The) (JJ second) (NN rover)) (, ,) (VP (VBN named) (NP (NNP Opportunity))) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN launched) (NP-TMP (RB later) (DT this) (NN month)))))) (, ,) (CC and) (S (NP (DT both)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB arrive) (PP (IN at) (NP (NNP Mars))) (PP (IN in) (NP (NNP January))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98332a\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98332b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","second","rover",",","named","Opportunity",",","will","be","launched","later","this","month",",","and","both","are","expected","to","arrive","at","Mars","in","January","."]
+,"lemmas":["the","second","rover",",","name","Opportunity",",","will","be","launch","later","this","month",",","and","both","be","expect","to","arrive","at","Mars","in","January","."]
+,"posTags":["DT","JJ","NN",",","VBN","NNP",",","MD","VB","VBN","RB","DT","NN",",","CC","DT","VBP","VBN","TO","VB","IN","NNP","IN","NNP","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-VP","B-NP","O","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,9,-2,2,4,-2,9,9,-1,12,12,9,-2,9,17,17,9,19,17,19,20,19,22,-2]
+,"deprels":["det","amod","nsubjpass",null,"vmod","dobj",null,"aux","auxpass","root","advmod","det","tmod",null,"cc","nsubjpass","auxpass","conj","aux","xcomp","prep","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (DT The) (JJ second) (NN rover)) (, ,) (VP (VBN named) (NP (NNP Opportunity))) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN launched) (NP-TMP (RB later) (DT this) (NN month)))))) (, ,) (CC and) (S (NP (DT both)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB arrive) (PP (IN at) (NP (NNP Mars))) (PP (IN in) (NP (NNP January))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98332a\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983313\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","second","rover",",","named","Opportunity",",","will","be","launched","later","this","month",",","and","both","are","expected","to","arrive","at","Mars","in","January","."]
+,"lemmas":["the","second","rover",",","name","Opportunity",",","will","be","launch","later","this","month",",","and","both","be","expect","to","arrive","at","Mars","in","January","."]
+,"posTags":["DT","JJ","NN",",","VBN","NNP",",","MD","VB","VBN","RB","DT","NN",",","CC","DT","VBP","VBN","TO","VB","IN","NNP","IN","NNP","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-VP","B-NP","O","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,9,-2,2,4,-2,9,9,-1,12,12,9,-2,9,17,17,9,19,17,19,20,19,22,-2]
+,"deprels":["det","amod","nsubjpass",null,"vmod","dobj",null,"aux","auxpass","root","advmod","det","tmod",null,"cc","nsubjpass","auxpass","conj","aux","xcomp","prep","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (DT The) (JJ second) (NN rover)) (, ,) (VP (VBN named) (NP (NNP Opportunity))) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN launched) (NP-TMP (RB later) (DT this) (NN month)))))) (, ,) (CC and) (S (NP (DT both)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB arrive) (PP (IN at) (NP (NNP Mars))) (PP (IN in) (NP (NNP January))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98332a\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","second","rover",",","named","Opportunity",",","will","be","launched","later","this","month",",","and","both","are","expected","to","arrive","at","Mars","in","January","."]
+,"lemmas":["the","second","rover",",","name","Opportunity",",","will","be","launch","later","this","month",",","and","both","be","expect","to","arrive","at","Mars","in","January","."]
+,"posTags":["DT","JJ","NN",",","VBN","NNP",",","MD","VB","VBN","RB","DT","NN",",","CC","DT","VBP","VBN","TO","VB","IN","NNP","IN","NNP","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-VP","B-NP","O","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,9,-2,2,4,-2,9,9,-1,12,12,9,-2,9,17,17,9,19,17,19,20,19,22,-2]
+,"deprels":["det","amod","nsubjpass",null,"vmod","dobj",null,"aux","auxpass","root","advmod","det","tmod",null,"cc","nsubjpass","auxpass","conj","aux","xcomp","prep","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (DT The) (JJ second) (NN rover)) (, ,) (VP (VBN named) (NP (NNP Opportunity))) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN launched) (NP-TMP (RB later) (DT this) (NN month)))))) (, ,) (CC and) (S (NP (DT both)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB arrive) (PP (IN at) (NP (NNP Mars))) (PP (IN in) (NP (NNP January))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98332b\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983313\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","second","rover",",","named","Opportunity",",","will","be","launched","later","this","month",",","and","both","are","expected","to","arrive","at","Mars","in","January","."]
+,"lemmas":["the","second","rover",",","name","Opportunity",",","will","be","launch","later","this","month",",","and","both","be","expect","to","arrive","at","Mars","in","January","."]
+,"posTags":["DT","JJ","NN",",","VBN","NNP",",","MD","VB","VBN","RB","DT","NN",",","CC","DT","VBP","VBN","TO","VB","IN","NNP","IN","NNP","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-VP","B-NP","O","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,9,-2,2,4,-2,9,9,-1,12,12,9,-2,9,17,17,9,19,17,19,20,19,22,-2]
+,"deprels":["det","amod","nsubjpass",null,"vmod","dobj",null,"aux","auxpass","root","advmod","det","tmod",null,"cc","nsubjpass","auxpass","conj","aux","xcomp","prep","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (DT The) (JJ second) (NN rover)) (, ,) (VP (VBN named) (NP (NNP Opportunity))) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN launched) (NP-TMP (RB later) (DT this) (NN month)))))) (, ,) (CC and) (S (NP (DT both)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB arrive) (PP (IN at) (NP (NNP Mars))) (PP (IN in) (NP (NNP January))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98332b\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","second","rover",",","named","Opportunity",",","will","be","launched","later","this","month",",","and","both","are","expected","to","arrive","at","Mars","in","January","."]
+,"lemmas":["the","second","rover",",","name","Opportunity",",","will","be","launch","later","this","month",",","and","both","be","expect","to","arrive","at","Mars","in","January","."]
+,"posTags":["DT","JJ","NN",",","VBN","NNP",",","MD","VB","VBN","RB","DT","NN",",","CC","DT","VBP","VBN","TO","VB","IN","NNP","IN","NNP","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-VP","B-NP","O","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,9,-2,2,4,-2,9,9,-1,12,12,9,-2,9,17,17,9,19,17,19,20,19,22,-2]
+,"deprels":["det","amod","nsubjpass",null,"vmod","dobj",null,"aux","auxpass","root","advmod","det","tmod",null,"cc","nsubjpass","auxpass","conj","aux","xcomp","prep","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (DT The) (JJ second) (NN rover)) (, ,) (VP (VBN named) (NP (NNP Opportunity))) (, ,)) (VP (MD will) (VP (VB be) (VP (VBN launched) (NP-TMP (RB later) (DT this) (NN month)))))) (, ,) (CC and) (S (NP (DT both)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB arrive) (PP (IN at) (NP (NNP Mars))) (PP (IN in) (NP (NNP January))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983313\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Moving","on","six","wheels",",","the","$","800","million","rovers","act","as","robotic","geologists","."]
+,"lemmas":["move","on","six","wheel",",","the","$","800","million","rover","act","as","robotic","geologist","."]
+,"posTags":["VBG","IN","CD","NNS",",","DT","$","CD","CD","NNS","VBP","IN","JJ","NNS","."]
+,"chunks":["B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[10,0,3,1,-2,9,9,8,6,10,-1,10,13,11,-2]
+,"deprels":["vmod","prep","num","pobj",null,"det","amod","number","num","nsubj","root","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (VP (VBG Moving) (PP (IN on) (NP (CD six) (NNS wheels))))) (, ,) (NP (DT the) (ADJP (QP ($ $) (CD 800) (CD million))) (NNS rovers)) (VP (VBP act) (PP (IN as) (NP (JJ robotic) (NNS geologists)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983314\"},\"m2\":{\"start\":12,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Previous","missions","have","shown","Mars","had","water","in","the","past",",","but","scientists","want","to","find","out","how","long","the","water","was","there","and","in","what","quantities","."]
+,"lemmas":["previous","mission","have","show","Mars","have","water","in","the","past",",","but","scientist","want","to","find","out","how","long","the","water","be","there","and","in","what","quantity","."]
+,"posTags":["JJ","NNS","VBP","VBN","NNP","VBD","NN","IN","DT","NN",",","CC","NNS","VBP","TO","VB","RP","WRB","RB","DT","NN","VBD","RB","CC","IN","WP","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","B-VP","I-VP","B-PRT","B-ADVP","I-ADVP","B-NP","I-NP","B-VP","B-ADVP","O","B-PP","B-NP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,5,6,9,7,-2,3,13,3,15,13,15,18,26,20,26,26,26,22,22,24,15,-2]
+,"deprels":["amod","nsubj","aux","root","nsubj","ccomp","dobj","prep","det","pobj",null,"cc","nsubj","conj","aux","xcomp","prt","advmod","advmod","det","nsubj","cop","advmod","cc","conj","pobj","ccomp",null]
+,"naryTree":"((ROOT (S (S (NP (JJ Previous) (NNS missions)) (VP (VBP have) (VP (VBN shown) (SBAR (S (NP (NNP Mars)) (VP (VBD had) (NP (NP (NN water)) (PP (IN in) (NP (DT the) (NN past)))))))))) (, ,) (CC but) (S (NP (NNS scientists)) (VP (VBP want) (S (VP (TO to) (VP (VB find) (PRT (RP out)) (SBAR (WHADVP (WRB how) (RB long)) (S (NP (DT the) (NN water)) (VP (VBD was) (NP (UCP (ADVP (RB there)) (CC and) (PP (IN in) (WHNP (WP what)))) (NNS quantities)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f4\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98330f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Previous","missions","have","shown","Mars","had","water","in","the","past",",","but","scientists","want","to","find","out","how","long","the","water","was","there","and","in","what","quantities","."]
+,"lemmas":["previous","mission","have","show","Mars","have","water","in","the","past",",","but","scientist","want","to","find","out","how","long","the","water","be","there","and","in","what","quantity","."]
+,"posTags":["JJ","NNS","VBP","VBN","NNP","VBD","NN","IN","DT","NN",",","CC","NNS","VBP","TO","VB","RP","WRB","RB","DT","NN","VBD","RB","CC","IN","WP","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","B-VP","I-VP","B-PRT","B-ADVP","I-ADVP","B-NP","I-NP","B-VP","B-ADVP","O","B-PP","B-NP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,5,6,9,7,-2,3,13,3,15,13,15,18,26,20,26,26,26,22,22,24,15,-2]
+,"deprels":["amod","nsubj","aux","root","nsubj","ccomp","dobj","prep","det","pobj",null,"cc","nsubj","conj","aux","xcomp","prt","advmod","advmod","det","nsubj","cop","advmod","cc","conj","pobj","ccomp",null]
+,"naryTree":"((ROOT (S (S (NP (JJ Previous) (NNS missions)) (VP (VBP have) (VP (VBN shown) (SBAR (S (NP (NNP Mars)) (VP (VBD had) (NP (NP (NN water)) (PP (IN in) (NP (DT the) (NN past)))))))))) (, ,) (CC but) (S (NP (NNS scientists)) (VP (VBP want) (S (VP (TO to) (VP (VB find) (PRT (RP out)) (SBAR (WHADVP (WRB how) (RB long)) (S (NP (DT the) (NN water)) (VP (VBD was) (NP (UCP (ADVP (RB there)) (CC and) (PP (IN in) (WHNP (WP what)))) (NNS quantities)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f4\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832fe\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Previous","missions","have","shown","Mars","had","water","in","the","past",",","but","scientists","want","to","find","out","how","long","the","water","was","there","and","in","what","quantities","."]
+,"lemmas":["previous","mission","have","show","Mars","have","water","in","the","past",",","but","scientist","want","to","find","out","how","long","the","water","be","there","and","in","what","quantity","."]
+,"posTags":["JJ","NNS","VBP","VBN","NNP","VBD","NN","IN","DT","NN",",","CC","NNS","VBP","TO","VB","RP","WRB","RB","DT","NN","VBD","RB","CC","IN","WP","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","B-VP","I-VP","B-PRT","B-ADVP","I-ADVP","B-NP","I-NP","B-VP","B-ADVP","O","B-PP","B-NP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,5,6,9,7,-2,3,13,3,15,13,15,18,26,20,26,26,26,22,22,24,15,-2]
+,"deprels":["amod","nsubj","aux","root","nsubj","ccomp","dobj","prep","det","pobj",null,"cc","nsubj","conj","aux","xcomp","prt","advmod","advmod","det","nsubj","cop","advmod","cc","conj","pobj","ccomp",null]
+,"naryTree":"((ROOT (S (S (NP (JJ Previous) (NNS missions)) (VP (VBP have) (VP (VBN shown) (SBAR (S (NP (NNP Mars)) (VP (VBD had) (NP (NP (NN water)) (PP (IN in) (NP (DT the) (NN past)))))))))) (, ,) (CC but) (S (NP (NNS scientists)) (VP (VBP want) (S (VP (TO to) (VP (VB find) (PRT (RP out)) (SBAR (WHADVP (WRB how) (RB long)) (S (NP (DT the) (NN water)) (VP (VBD was) (NP (UCP (ADVP (RB there)) (CC and) (PP (IN in) (WHNP (WP what)))) (NNS quantities)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98330f\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832fe\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Scientists","believe","the","water","may","show","that","Mars","once","was","able","to","support","life","."]
+,"lemmas":["scientist","believe","the","water","may","show","that","Mars","once","be","able","to","support","life","."]
+,"posTags":["NNS","VBP","DT","NN","MD","VB","IN","NNP","RB","VBD","JJ","TO","VB","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-SBAR","B-NP","B-ADVP","B-VP","B-ADJP","B-VP","I-VP","B-NP","O"]
+,"parents":[1,-1,3,5,5,1,10,10,10,10,5,12,10,12,-2]
+,"deprels":["nsubj","root","det","nsubj","aux","ccomp","mark","nsubj","advmod","cop","ccomp","aux","xcomp","dobj",null]
+,"naryTree":"((ROOT (S (NP (NNS Scientists)) (VP (VBP believe) (SBAR (S (NP (DT the) (NN water)) (VP (MD may) (VP (VB show) (SBAR (IN that) (S (NP (NNP Mars)) (ADVP (RB once)) (VP (VBD was) (ADJP (JJ able) (S (VP (TO to) (VP (VB support) (NP (NN life)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983310\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","'","landing","sites",",","on","opposite","sides","of","the","planet",",","were","chosen","for","their","likelihood","of","holding","evidence","of","water","."]
+,"lemmas":["the","rover","'","landing","site",",","on","opposite","side","of","the","planet",",","be","choose","for","they","likelihood","of","hold","evidence","of","water","."]
+,"posTags":["DT","NNS","POS","NN","NNS",",","IN","JJ","NNS","IN","DT","NN",",","VBD","VBN","IN","PRP$","NN","IN","VBG","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,4,-2,4,14,-2,14,8,6,8,11,9,-2,14,-1,14,17,15,17,20,18,20,21,-2]
+,"deprels":["det","poss",null,"nn","nsubjpass",null,"prep","amod","pobj","prep","det","pobj",null,"auxpass","root","prep","poss","pobj","prep","amod","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NNS rovers) (POS ')) (NN landing) (NNS sites)) (, ,) (PP (IN on) (NP (NP (JJ opposite) (NNS sides)) (PP (IN of) (NP (DT the) (NN planet))))) (, ,) (VP (VBD were) (VP (VBN chosen) (PP (IN for) (NP (NP (PRP$ their) (NN likelihood)) (PP (IN of) (NP (NP (VBG holding) (NN evidence)) (PP (IN of) (NP (NN water))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98330d\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f6\"}}]"
+,"relLabels":["PART-WHOLE(Arg-1,Arg-2)"]}
+
+{"words":["The","rovers","'","landing","sites",",","on","opposite","sides","of","the","planet",",","were","chosen","for","their","likelihood","of","holding","evidence","of","water","."]
+,"lemmas":["the","rover","'","landing","site",",","on","opposite","side","of","the","planet",",","be","choose","for","they","likelihood","of","hold","evidence","of","water","."]
+,"posTags":["DT","NNS","POS","NN","NNS",",","IN","JJ","NNS","IN","DT","NN",",","VBD","VBN","IN","PRP$","NN","IN","VBG","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,4,-2,4,14,-2,14,8,6,8,11,9,-2,14,-1,14,17,15,17,20,18,20,21,-2]
+,"deprels":["det","poss",null,"nn","nsubjpass",null,"prep","amod","pobj","prep","det","pobj",null,"auxpass","root","prep","poss","pobj","prep","amod","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NNS rovers) (POS ')) (NN landing) (NNS sites)) (, ,) (PP (IN on) (NP (NP (JJ opposite) (NNS sides)) (PP (IN of) (NP (DT the) (NN planet))))) (, ,) (VP (VBD were) (VP (VBN chosen) (PP (IN for) (NP (NP (PRP$ their) (NN likelihood)) (PP (IN of) (NP (NP (VBG holding) (NN evidence)) (PP (IN of) (NP (NN water))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983315\"},\"m2\":{\"start\":0,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832dd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","'","landing","sites",",","on","opposite","sides","of","the","planet",",","were","chosen","for","their","likelihood","of","holding","evidence","of","water","."]
+,"lemmas":["the","rover","'","landing","site",",","on","opposite","side","of","the","planet",",","be","choose","for","they","likelihood","of","hold","evidence","of","water","."]
+,"posTags":["DT","NNS","POS","NN","NNS",",","IN","JJ","NNS","IN","DT","NN",",","VBD","VBN","IN","PRP$","NN","IN","VBG","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,4,-2,4,14,-2,14,8,6,8,11,9,-2,14,-1,14,17,15,17,20,18,20,21,-2]
+,"deprels":["det","poss",null,"nn","nsubjpass",null,"prep","amod","pobj","prep","det","pobj",null,"auxpass","root","prep","poss","pobj","prep","amod","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NNS rovers) (POS ')) (NN landing) (NNS sites)) (, ,) (PP (IN on) (NP (NP (JJ opposite) (NNS sides)) (PP (IN of) (NP (DT the) (NN planet))))) (, ,) (VP (VBD were) (VP (VBN chosen) (PP (IN for) (NP (NP (PRP$ their) (NN likelihood)) (PP (IN of) (NP (NP (VBG holding) (NN evidence)) (PP (IN of) (NP (NN water))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983315\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98330d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","'","landing","sites",",","on","opposite","sides","of","the","planet",",","were","chosen","for","their","likelihood","of","holding","evidence","of","water","."]
+,"lemmas":["the","rover","'","landing","site",",","on","opposite","side","of","the","planet",",","be","choose","for","they","likelihood","of","hold","evidence","of","water","."]
+,"posTags":["DT","NNS","POS","NN","NNS",",","IN","JJ","NNS","IN","DT","NN",",","VBD","VBN","IN","PRP$","NN","IN","VBG","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,4,-2,4,14,-2,14,8,6,8,11,9,-2,14,-1,14,17,15,17,20,18,20,21,-2]
+,"deprels":["det","poss",null,"nn","nsubjpass",null,"prep","amod","pobj","prep","det","pobj",null,"auxpass","root","prep","poss","pobj","prep","amod","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NNS rovers) (POS ')) (NN landing) (NNS sites)) (, ,) (PP (IN on) (NP (NP (JJ opposite) (NNS sides)) (PP (IN of) (NP (DT the) (NN planet))))) (, ,) (VP (VBD were) (VP (VBN chosen) (PP (IN for) (NP (NP (PRP$ their) (NN likelihood)) (PP (IN of) (NP (NP (VBG holding) (NN evidence)) (PP (IN of) (NP (NN water))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983315\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","'","landing","sites",",","on","opposite","sides","of","the","planet",",","were","chosen","for","their","likelihood","of","holding","evidence","of","water","."]
+,"lemmas":["the","rover","'","landing","site",",","on","opposite","side","of","the","planet",",","be","choose","for","they","likelihood","of","hold","evidence","of","water","."]
+,"posTags":["DT","NNS","POS","NN","NNS",",","IN","JJ","NNS","IN","DT","NN",",","VBD","VBN","IN","PRP$","NN","IN","VBG","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,4,-2,4,14,-2,14,8,6,8,11,9,-2,14,-1,14,17,15,17,20,18,20,21,-2]
+,"deprels":["det","poss",null,"nn","nsubjpass",null,"prep","amod","pobj","prep","det","pobj",null,"auxpass","root","prep","poss","pobj","prep","amod","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NNS rovers) (POS ')) (NN landing) (NNS sites)) (, ,) (PP (IN on) (NP (NP (JJ opposite) (NNS sides)) (PP (IN of) (NP (DT the) (NN planet))))) (, ,) (VP (VBD were) (VP (VBN chosen) (PP (IN for) (NP (NP (PRP$ their) (NN likelihood)) (PP (IN of) (NP (NP (VBG holding) (NN evidence)) (PP (IN of) (NP (NN water))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983315\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832de\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","'","landing","sites",",","on","opposite","sides","of","the","planet",",","were","chosen","for","their","likelihood","of","holding","evidence","of","water","."]
+,"lemmas":["the","rover","'","landing","site",",","on","opposite","side","of","the","planet",",","be","choose","for","they","likelihood","of","hold","evidence","of","water","."]
+,"posTags":["DT","NNS","POS","NN","NNS",",","IN","JJ","NNS","IN","DT","NN",",","VBD","VBN","IN","PRP$","NN","IN","VBG","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,4,-2,4,14,-2,14,8,6,8,11,9,-2,14,-1,14,17,15,17,20,18,20,21,-2]
+,"deprels":["det","poss",null,"nn","nsubjpass",null,"prep","amod","pobj","prep","det","pobj",null,"auxpass","root","prep","poss","pobj","prep","amod","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NNS rovers) (POS ')) (NN landing) (NNS sites)) (, ,) (PP (IN on) (NP (NP (JJ opposite) (NNS sides)) (PP (IN of) (NP (DT the) (NN planet))))) (, ,) (VP (VBD were) (VP (VBN chosen) (PP (IN for) (NP (NP (PRP$ their) (NN likelihood)) (PP (IN of) (NP (NP (VBG holding) (NN evidence)) (PP (IN of) (NP (NN water))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832dd\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98330d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","'","landing","sites",",","on","opposite","sides","of","the","planet",",","were","chosen","for","their","likelihood","of","holding","evidence","of","water","."]
+,"lemmas":["the","rover","'","landing","site",",","on","opposite","side","of","the","planet",",","be","choose","for","they","likelihood","of","hold","evidence","of","water","."]
+,"posTags":["DT","NNS","POS","NN","NNS",",","IN","JJ","NNS","IN","DT","NN",",","VBD","VBN","IN","PRP$","NN","IN","VBG","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,4,-2,4,14,-2,14,8,6,8,11,9,-2,14,-1,14,17,15,17,20,18,20,21,-2]
+,"deprels":["det","poss",null,"nn","nsubjpass",null,"prep","amod","pobj","prep","det","pobj",null,"auxpass","root","prep","poss","pobj","prep","amod","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NNS rovers) (POS ')) (NN landing) (NNS sites)) (, ,) (PP (IN on) (NP (NP (JJ opposite) (NNS sides)) (PP (IN of) (NP (DT the) (NN planet))))) (, ,) (VP (VBD were) (VP (VBN chosen) (PP (IN for) (NP (NP (PRP$ their) (NN likelihood)) (PP (IN of) (NP (NP (VBG holding) (NN evidence)) (PP (IN of) (NP (NN water))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832dd\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","'","landing","sites",",","on","opposite","sides","of","the","planet",",","were","chosen","for","their","likelihood","of","holding","evidence","of","water","."]
+,"lemmas":["the","rover","'","landing","site",",","on","opposite","side","of","the","planet",",","be","choose","for","they","likelihood","of","hold","evidence","of","water","."]
+,"posTags":["DT","NNS","POS","NN","NNS",",","IN","JJ","NNS","IN","DT","NN",",","VBD","VBN","IN","PRP$","NN","IN","VBG","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,4,-2,4,14,-2,14,8,6,8,11,9,-2,14,-1,14,17,15,17,20,18,20,21,-2]
+,"deprels":["det","poss",null,"nn","nsubjpass",null,"prep","amod","pobj","prep","det","pobj",null,"auxpass","root","prep","poss","pobj","prep","amod","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NNS rovers) (POS ')) (NN landing) (NNS sites)) (, ,) (PP (IN on) (NP (NP (JJ opposite) (NNS sides)) (PP (IN of) (NP (DT the) (NN planet))))) (, ,) (VP (VBD were) (VP (VBN chosen) (PP (IN for) (NP (NP (PRP$ their) (NN likelihood)) (PP (IN of) (NP (NP (VBG holding) (NN evidence)) (PP (IN of) (NP (NN water))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832dd\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832de\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","'","landing","sites",",","on","opposite","sides","of","the","planet",",","were","chosen","for","their","likelihood","of","holding","evidence","of","water","."]
+,"lemmas":["the","rover","'","landing","site",",","on","opposite","side","of","the","planet",",","be","choose","for","they","likelihood","of","hold","evidence","of","water","."]
+,"posTags":["DT","NNS","POS","NN","NNS",",","IN","JJ","NNS","IN","DT","NN",",","VBD","VBN","IN","PRP$","NN","IN","VBG","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,4,-2,4,14,-2,14,8,6,8,11,9,-2,14,-1,14,17,15,17,20,18,20,21,-2]
+,"deprels":["det","poss",null,"nn","nsubjpass",null,"prep","amod","pobj","prep","det","pobj",null,"auxpass","root","prep","poss","pobj","prep","amod","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NNS rovers) (POS ')) (NN landing) (NNS sites)) (, ,) (PP (IN on) (NP (NP (JJ opposite) (NNS sides)) (PP (IN of) (NP (DT the) (NN planet))))) (, ,) (VP (VBD were) (VP (VBN chosen) (PP (IN for) (NP (NP (PRP$ their) (NN likelihood)) (PP (IN of) (NP (NP (VBG holding) (NN evidence)) (PP (IN of) (NP (NN water))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a98330d\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832de\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","'","landing","sites",",","on","opposite","sides","of","the","planet",",","were","chosen","for","their","likelihood","of","holding","evidence","of","water","."]
+,"lemmas":["the","rover","'","landing","site",",","on","opposite","side","of","the","planet",",","be","choose","for","they","likelihood","of","hold","evidence","of","water","."]
+,"posTags":["DT","NNS","POS","NN","NNS",",","IN","JJ","NNS","IN","DT","NN",",","VBD","VBN","IN","PRP$","NN","IN","VBG","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,4,-2,4,14,-2,14,8,6,8,11,9,-2,14,-1,14,17,15,17,20,18,20,21,-2]
+,"deprels":["det","poss",null,"nn","nsubjpass",null,"prep","amod","pobj","prep","det","pobj",null,"auxpass","root","prep","poss","pobj","prep","amod","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT The) (NNS rovers) (POS ')) (NN landing) (NNS sites)) (, ,) (PP (IN on) (NP (NP (JJ opposite) (NNS sides)) (PP (IN of) (NP (DT the) (NN planet))))) (, ,) (VP (VBD were) (VP (VBN chosen) (PP (IN for) (NP (NP (PRP$ their) (NN likelihood)) (PP (IN of) (NP (NP (VBG holding) (NN evidence)) (PP (IN of) (NP (NN water))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f6\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832de\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","are","expected","to","travel","up","to","132","feet","-LRB-","39.6","meters","-RRB-","each","Martian","day",",","which","is","24","hours","and","39","-LCB-","minutes","long","."]
+,"lemmas":["the","rover","be","expect","to","travel","up","to","132","foot","-lrb-","39.6","meter","-rrb-","each","Martian","day",",","which","be","24","hour","and","39","-lcb-","minute","long","."]
+,"posTags":["DT","NNS","VBP","VBN","TO","VB","RP","TO","CD","NNS","-LRB-","CD","NNS","-RRB-","DT","NNP","NN",",","WDT","VBZ","CD","NNS","CC","CD","-LRB-","NNS","RB","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","O","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","O","B-NP","B-ADVP","O"]
+,"parents":[1,3,3,-1,5,3,5,5,9,7,-2,12,9,-2,16,16,5,-2,21,21,21,16,21,21,-2,23,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","aux","xcomp","prt","prep","num","pobj",null,"num","appos",null,"det","nn","dobj",null,"nsubj","cop","num","rcmod","cc","conj",null,"dep","advmod",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NNS rovers)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB travel) (PRT (RP up)) (PP (TO to) (NP (NP (CD 132) (NNS feet)) (PRN (-LRB- -LRB-) (NP (CD 39.6) (NNS meters)) (-RRB- -RRB-)))) (NP (NP (DT each) (NNP Martian) (NN day)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (CD 24) (NNS hours)) (CC and) (NP (NP (CD 39)) (-LRB- -LCB-) (NP (NP (NNS minutes)) (ADVP (RB long)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983316\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832fb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","eventually","will","shut","down","as","dust","builds","up","on","their","solar","panels","and","they","will","remain","on","the","planet","."]
+,"lemmas":["the","rover","eventually","will","shut","down","as","dust","build","up","on","they","solar","panel","and","they","will","remain","on","the","planet","."]
+,"posTags":["DT","NNS","RB","MD","VB","RP","IN","NN","VBZ","RP","IN","PRP$","JJ","NNS","CC","PRP","MD","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-ADVP","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,4,8,8,4,8,8,13,13,10,8,17,17,8,17,20,18,-2]
+,"deprels":["det","nsubj","advmod","aux","root","prt","mark","nsubj","advcl","prt","prep","poss","amod","pobj","cc","nsubj","aux","conj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NNS rovers)) (ADVP (RB eventually)) (VP (MD will) (VP (VB shut) (PRT (RP down)) (SBAR (IN as) (S (S (NP (NN dust)) (VP (VBZ builds) (PRT (RP up)) (PP (IN on) (NP (PRP$ their) (JJ solar) (NNS panels))))) (CC and) (S (NP (PRP they)) (VP (MD will) (VP (VB remain) (PP (IN on) (NP (DT the) (NN planet)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983317\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","eventually","will","shut","down","as","dust","builds","up","on","their","solar","panels","and","they","will","remain","on","the","planet","."]
+,"lemmas":["the","rover","eventually","will","shut","down","as","dust","build","up","on","they","solar","panel","and","they","will","remain","on","the","planet","."]
+,"posTags":["DT","NNS","RB","MD","VB","RP","IN","NN","VBZ","RP","IN","PRP$","JJ","NNS","CC","PRP","MD","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-ADVP","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,4,8,8,4,8,8,13,13,10,8,17,17,8,17,20,18,-2]
+,"deprels":["det","nsubj","advmod","aux","root","prt","mark","nsubj","advcl","prt","prep","poss","amod","pobj","cc","nsubj","aux","conj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NNS rovers)) (ADVP (RB eventually)) (VP (MD will) (VP (VB shut) (PRT (RP down)) (SBAR (IN as) (S (S (NP (NN dust)) (VP (VBZ builds) (PRT (RP up)) (PP (IN on) (NP (PRP$ their) (JJ solar) (NNS panels))))) (CC and) (S (NP (PRP they)) (VP (MD will) (VP (VB remain) (PP (IN on) (NP (DT the) (NN planet)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983317\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983318\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","eventually","will","shut","down","as","dust","builds","up","on","their","solar","panels","and","they","will","remain","on","the","planet","."]
+,"lemmas":["the","rover","eventually","will","shut","down","as","dust","build","up","on","they","solar","panel","and","they","will","remain","on","the","planet","."]
+,"posTags":["DT","NNS","RB","MD","VB","RP","IN","NN","VBZ","RP","IN","PRP$","JJ","NNS","CC","PRP","MD","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-ADVP","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,4,8,8,4,8,8,13,13,10,8,17,17,8,17,20,18,-2]
+,"deprels":["det","nsubj","advmod","aux","root","prt","mark","nsubj","advcl","prt","prep","poss","amod","pobj","cc","nsubj","aux","conj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NNS rovers)) (ADVP (RB eventually)) (VP (MD will) (VP (VB shut) (PRT (RP down)) (SBAR (IN as) (S (S (NP (NN dust)) (VP (VBZ builds) (PRT (RP up)) (PP (IN on) (NP (PRP$ their) (JJ solar) (NNS panels))))) (CC and) (S (NP (PRP they)) (VP (MD will) (VP (VB remain) (PP (IN on) (NP (DT the) (NN planet)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983317\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","eventually","will","shut","down","as","dust","builds","up","on","their","solar","panels","and","they","will","remain","on","the","planet","."]
+,"lemmas":["the","rover","eventually","will","shut","down","as","dust","build","up","on","they","solar","panel","and","they","will","remain","on","the","planet","."]
+,"posTags":["DT","NNS","RB","MD","VB","RP","IN","NN","VBZ","RP","IN","PRP$","JJ","NNS","CC","PRP","MD","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-ADVP","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,4,8,8,4,8,8,13,13,10,8,17,17,8,17,20,18,-2]
+,"deprels":["det","nsubj","advmod","aux","root","prt","mark","nsubj","advcl","prt","prep","poss","amod","pobj","cc","nsubj","aux","conj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NNS rovers)) (ADVP (RB eventually)) (VP (MD will) (VP (VB shut) (PRT (RP down)) (SBAR (IN as) (S (S (NP (NN dust)) (VP (VBZ builds) (PRT (RP up)) (PP (IN on) (NP (PRP$ their) (JJ solar) (NNS panels))))) (CC and) (S (NP (PRP they)) (VP (MD will) (VP (VB remain) (PP (IN on) (NP (DT the) (NN planet)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331b\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983318\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","eventually","will","shut","down","as","dust","builds","up","on","their","solar","panels","and","they","will","remain","on","the","planet","."]
+,"lemmas":["the","rover","eventually","will","shut","down","as","dust","build","up","on","they","solar","panel","and","they","will","remain","on","the","planet","."]
+,"posTags":["DT","NNS","RB","MD","VB","RP","IN","NN","VBZ","RP","IN","PRP$","JJ","NNS","CC","PRP","MD","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-ADVP","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,4,8,8,4,8,8,13,13,10,8,17,17,8,17,20,18,-2]
+,"deprels":["det","nsubj","advmod","aux","root","prt","mark","nsubj","advcl","prt","prep","poss","amod","pobj","cc","nsubj","aux","conj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NNS rovers)) (ADVP (RB eventually)) (VP (MD will) (VP (VB shut) (PRT (RP down)) (SBAR (IN as) (S (S (NP (NN dust)) (VP (VBZ builds) (PRT (RP up)) (PP (IN on) (NP (PRP$ their) (JJ solar) (NNS panels))))) (CC and) (S (NP (PRP they)) (VP (MD will) (VP (VB remain) (PP (IN on) (NP (DT the) (NN planet)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a98331b\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","rovers","eventually","will","shut","down","as","dust","builds","up","on","their","solar","panels","and","they","will","remain","on","the","planet","."]
+,"lemmas":["the","rover","eventually","will","shut","down","as","dust","build","up","on","they","solar","panel","and","they","will","remain","on","the","planet","."]
+,"posTags":["DT","NNS","RB","MD","VB","RP","IN","NN","VBZ","RP","IN","PRP$","JJ","NNS","CC","PRP","MD","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-ADVP","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,4,8,8,4,8,8,13,13,10,8,17,17,8,17,20,18,-2]
+,"deprels":["det","nsubj","advmod","aux","root","prt","mark","nsubj","advcl","prt","prep","poss","amod","pobj","cc","nsubj","aux","conj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NNS rovers)) (ADVP (RB eventually)) (VP (MD will) (VP (VB shut) (PRT (RP down)) (SBAR (IN as) (S (S (NP (NN dust)) (VP (VBZ builds) (PRT (RP up)) (PP (IN on) (NP (PRP$ their) (JJ solar) (NNS panels))))) (CC and) (S (NP (PRP they)) (VP (MD will) (VP (VB remain) (PP (IN on) (NP (DT the) (NN planet)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a983318\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Only","12","out","of","30","previous","attempts","have","reached","Mars",",","and","only","three","out","of","nine","attempts","have","succeeded","in","landing","on","the","planet","."]
+,"lemmas":["only","12","out","of","30","previous","attempt","have","reach","Mars",",","and","only","three","out","of","nine","attempt","have","succeed","in","landing","on","the","planet","."]
+,"posTags":["RB","CD","IN","IN","CD","JJ","NNS","VBP","VBN","NNP",",","CC","RB","CD","IN","IN","CD","NNS","VBP","VBN","IN","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-NP","O","O","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,4,4,4,6,6,8,8,-1,8,-2,8,13,19,15,13,17,15,19,8,19,20,21,24,22,-2]
+,"deprels":["quantmod","number","quantmod","quantmod","num","amod","nsubj","aux","root","dobj",null,"cc","advmod","nsubj","advmod","prep","num","pobj","aux","conj","prep","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (QP (RB Only) (CD 12) (IN out) (IN of) (CD 30)) (JJ previous) (NNS attempts)) (VP (VBP have) (VP (VBN reached) (NP (NNP Mars))))) (, ,) (CC and) (S (NP (NP (RB only) (CD three)) (PP (ADVP (IN out)) (IN of) (NP (CD nine) (NNS attempts)))) (VP (VBP have) (VP (VBN succeeded) (PP (IN in) (NP (NP (NN landing)) (PP (IN on) (NP (DT the) (NN planet)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832fa\"},\"m2\":{\"start\":23,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["NASA","revamped","its","Mars","program","after","the","failure","of","two","unmanned","missions","to","Mars","four","years","ago","."]
+,"lemmas":["NASA","revamp","its","Mars","program","after","the","failure","of","two","unmanned","mission","to","Mars","four","year","ago","."]
+,"posTags":["NNP","VBD","PRP$","NNP","NN","IN","DT","NN","IN","CD","JJ","NNS","TO","NNP","CD","NNS","RB","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[1,-1,4,4,1,1,7,5,7,11,11,8,1,12,15,16,13,-2]
+,"deprels":["nsubj","root","poss","nn","dobj","prep","det","pobj","prep","num","amod","pobj","prep","pobj","num","npadvmod","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP NASA)) (VP (VBD revamped) (NP (PRP$ its) (NNP Mars) (NN program)) (PP (IN after) (NP (NP (DT the) (NN failure)) (PP (IN of) (NP (CD two) (JJ unmanned) (NNS missions))))) (PP (TO to) (NP (NP (NNP Mars)) (ADVP (NP (CD four) (NNS years)) (RB ago))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e0\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["NASA","revamped","its","Mars","program","after","the","failure","of","two","unmanned","missions","to","Mars","four","years","ago","."]
+,"lemmas":["NASA","revamp","its","Mars","program","after","the","failure","of","two","unmanned","mission","to","Mars","four","year","ago","."]
+,"posTags":["NNP","VBD","PRP$","NNP","NN","IN","DT","NN","IN","CD","JJ","NNS","TO","NNP","CD","NNS","RB","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[1,-1,4,4,1,1,7,5,7,11,11,8,1,12,15,16,13,-2]
+,"deprels":["nsubj","root","poss","nn","dobj","prep","det","pobj","prep","num","amod","pobj","prep","pobj","num","npadvmod","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP NASA)) (VP (VBD revamped) (NP (PRP$ its) (NNP Mars) (NN program)) (PP (IN after) (NP (NP (DT the) (NN failure)) (PP (IN of) (NP (CD two) (JJ unmanned) (NNS missions))))) (PP (TO to) (NP (NP (NNP Mars)) (ADVP (NP (CD four) (NNS years)) (RB ago))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e0\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["NASA","revamped","its","Mars","program","after","the","failure","of","two","unmanned","missions","to","Mars","four","years","ago","."]
+,"lemmas":["NASA","revamp","its","Mars","program","after","the","failure","of","two","unmanned","mission","to","Mars","four","year","ago","."]
+,"posTags":["NNP","VBD","PRP$","NNP","NN","IN","DT","NN","IN","CD","JJ","NNS","TO","NNP","CD","NNS","RB","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[1,-1,4,4,1,1,7,5,7,11,11,8,1,12,15,16,13,-2]
+,"deprels":["nsubj","root","poss","nn","dobj","prep","det","pobj","prep","num","amod","pobj","prep","pobj","num","npadvmod","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP NASA)) (VP (VBD revamped) (NP (PRP$ its) (NNP Mars) (NN program)) (PP (IN after) (NP (NP (DT the) (NN failure)) (PP (IN of) (NP (CD two) (JJ unmanned) (NNS missions))))) (PP (TO to) (NP (NP (NNP Mars)) (ADVP (NP (CD four) (NNS years)) (RB ago))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e0\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832fc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["NASA","revamped","its","Mars","program","after","the","failure","of","two","unmanned","missions","to","Mars","four","years","ago","."]
+,"lemmas":["NASA","revamp","its","Mars","program","after","the","failure","of","two","unmanned","mission","to","Mars","four","year","ago","."]
+,"posTags":["NNP","VBD","PRP$","NNP","NN","IN","DT","NN","IN","CD","JJ","NNS","TO","NNP","CD","NNS","RB","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[1,-1,4,4,1,1,7,5,7,11,11,8,1,12,15,16,13,-2]
+,"deprels":["nsubj","root","poss","nn","dobj","prep","det","pobj","prep","num","amod","pobj","prep","pobj","num","npadvmod","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP NASA)) (VP (VBD revamped) (NP (PRP$ its) (NNP Mars) (NN program)) (PP (IN after) (NP (NP (DT the) (NN failure)) (PP (IN of) (NP (CD two) (JJ unmanned) (NNS missions))))) (PP (TO to) (NP (NP (NNP Mars)) (ADVP (NP (CD four) (NNS years)) (RB ago))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e2\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["NASA","revamped","its","Mars","program","after","the","failure","of","two","unmanned","missions","to","Mars","four","years","ago","."]
+,"lemmas":["NASA","revamp","its","Mars","program","after","the","failure","of","two","unmanned","mission","to","Mars","four","year","ago","."]
+,"posTags":["NNP","VBD","PRP$","NNP","NN","IN","DT","NN","IN","CD","JJ","NNS","TO","NNP","CD","NNS","RB","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[1,-1,4,4,1,1,7,5,7,11,11,8,1,12,15,16,13,-2]
+,"deprels":["nsubj","root","poss","nn","dobj","prep","det","pobj","prep","num","amod","pobj","prep","pobj","num","npadvmod","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP NASA)) (VP (VBD revamped) (NP (PRP$ its) (NNP Mars) (NN program)) (PP (IN after) (NP (NP (DT the) (NN failure)) (PP (IN of) (NP (CD two) (JJ unmanned) (NNS missions))))) (PP (TO to) (NP (NP (NNP Mars)) (ADVP (NP (CD four) (NNS years)) (RB ago))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e2\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832fc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["NASA","revamped","its","Mars","program","after","the","failure","of","two","unmanned","missions","to","Mars","four","years","ago","."]
+,"lemmas":["NASA","revamp","its","Mars","program","after","the","failure","of","two","unmanned","mission","to","Mars","four","year","ago","."]
+,"posTags":["NNP","VBD","PRP$","NNP","NN","IN","DT","NN","IN","CD","JJ","NNS","TO","NNP","CD","NNS","RB","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[1,-1,4,4,1,1,7,5,7,11,11,8,1,12,15,16,13,-2]
+,"deprels":["nsubj","root","poss","nn","dobj","prep","det","pobj","prep","num","amod","pobj","prep","pobj","num","npadvmod","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP NASA)) (VP (VBD revamped) (NP (PRP$ its) (NNP Mars) (NN program)) (PP (IN after) (NP (NP (DT the) (NN failure)) (PP (IN of) (NP (CD two) (JJ unmanned) (NNS missions))))) (PP (TO to) (NP (NP (NNP Mars)) (ADVP (NP (CD four) (NNS years)) (RB ago))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832f9\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832fc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","space","agency","has","been","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrated","over","Texas",",","killing","all","seven","crew","members","."]
+,"lemmas":["the","space","agency","have","be","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrate","over","Texas",",","kill","all","seven","crew","member","."]
+,"posTags":["DT","NN","NN","VBZ","VBN","IN","JJ","NN","IN","NNP","WRB","DT","NN","NN","NNP","VBD","IN","NNP",",","VBG","DT","CD","NN","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,2,4,4,-1,4,7,5,4,8,15,14,14,14,15,4,15,16,-2,15,23,23,23,19,-2]
+,"deprels":["det","nn","nsubj","aux","root","prep","amod","pobj","prep","pobj","advmod","det","nn","nn","nsubj","advcl","prep","pobj",null,"xcomp","det","num","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NN space) (NN agency)) (VP (VBZ has) (VP (VBN been) (PP (IN under) (NP (JJ intense) (NN scrutiny))) (PP (IN since) (NP (NNP February))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN space) (NN shuttle) (NNP Columbia)) (VP (VBD disintegrated) (PP (IN over) (NP (NNP Texas))) (, ,) (S (VP (VBG killing) (NP (DT all) (CD seven) (NN crew) (NNS members))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e8\"},\"m2\":{\"start\":20,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983326\"}}]"
+,"relLabels":["ART(Arg-2,Arg-1)"]}
+
+{"words":["The","space","agency","has","been","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrated","over","Texas",",","killing","all","seven","crew","members","."]
+,"lemmas":["the","space","agency","have","be","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrate","over","Texas",",","kill","all","seven","crew","member","."]
+,"posTags":["DT","NN","NN","VBZ","VBN","IN","JJ","NN","IN","NNP","WRB","DT","NN","NN","NNP","VBD","IN","NNP",",","VBG","DT","CD","NN","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,2,4,4,-1,4,7,5,4,8,15,14,14,14,15,4,15,16,-2,15,23,23,23,19,-2]
+,"deprels":["det","nn","nsubj","aux","root","prep","amod","pobj","prep","pobj","advmod","det","nn","nn","nsubj","advcl","prep","pobj",null,"xcomp","det","num","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NN space) (NN agency)) (VP (VBZ has) (VP (VBN been) (PP (IN under) (NP (JJ intense) (NN scrutiny))) (PP (IN since) (NP (NNP February))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN space) (NN shuttle) (NNP Columbia)) (VP (VBD disintegrated) (PP (IN over) (NP (NNP Texas))) (, ,) (S (VP (VBG killing) (NP (DT all) (CD seven) (NN crew) (NNS members))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e1\"},\"m2\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","space","agency","has","been","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrated","over","Texas",",","killing","all","seven","crew","members","."]
+,"lemmas":["the","space","agency","have","be","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrate","over","Texas",",","kill","all","seven","crew","member","."]
+,"posTags":["DT","NN","NN","VBZ","VBN","IN","JJ","NN","IN","NNP","WRB","DT","NN","NN","NNP","VBD","IN","NNP",",","VBG","DT","CD","NN","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,2,4,4,-1,4,7,5,4,8,15,14,14,14,15,4,15,16,-2,15,23,23,23,19,-2]
+,"deprels":["det","nn","nsubj","aux","root","prep","amod","pobj","prep","pobj","advmod","det","nn","nn","nsubj","advcl","prep","pobj",null,"xcomp","det","num","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NN space) (NN agency)) (VP (VBZ has) (VP (VBN been) (PP (IN under) (NP (JJ intense) (NN scrutiny))) (PP (IN since) (NP (NNP February))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN space) (NN shuttle) (NNP Columbia)) (VP (VBD disintegrated) (PP (IN over) (NP (NNP Texas))) (, ,) (S (VP (VBG killing) (NP (DT all) (CD seven) (NN crew) (NNS members))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e1\"},\"m2\":{\"start\":11,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","space","agency","has","been","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrated","over","Texas",",","killing","all","seven","crew","members","."]
+,"lemmas":["the","space","agency","have","be","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrate","over","Texas",",","kill","all","seven","crew","member","."]
+,"posTags":["DT","NN","NN","VBZ","VBN","IN","JJ","NN","IN","NNP","WRB","DT","NN","NN","NNP","VBD","IN","NNP",",","VBG","DT","CD","NN","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,2,4,4,-1,4,7,5,4,8,15,14,14,14,15,4,15,16,-2,15,23,23,23,19,-2]
+,"deprels":["det","nn","nsubj","aux","root","prep","amod","pobj","prep","pobj","advmod","det","nn","nn","nsubj","advcl","prep","pobj",null,"xcomp","det","num","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NN space) (NN agency)) (VP (VBZ has) (VP (VBN been) (PP (IN under) (NP (JJ intense) (NN scrutiny))) (PP (IN since) (NP (NNP February))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN space) (NN shuttle) (NNP Columbia)) (VP (VBD disintegrated) (PP (IN over) (NP (NNP Texas))) (, ,) (S (VP (VBG killing) (NP (DT all) (CD seven) (NN crew) (NNS members))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e1\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983320\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","space","agency","has","been","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrated","over","Texas",",","killing","all","seven","crew","members","."]
+,"lemmas":["the","space","agency","have","be","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrate","over","Texas",",","kill","all","seven","crew","member","."]
+,"posTags":["DT","NN","NN","VBZ","VBN","IN","JJ","NN","IN","NNP","WRB","DT","NN","NN","NNP","VBD","IN","NNP",",","VBG","DT","CD","NN","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,2,4,4,-1,4,7,5,4,8,15,14,14,14,15,4,15,16,-2,15,23,23,23,19,-2]
+,"deprels":["det","nn","nsubj","aux","root","prep","amod","pobj","prep","pobj","advmod","det","nn","nn","nsubj","advcl","prep","pobj",null,"xcomp","det","num","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NN space) (NN agency)) (VP (VBZ has) (VP (VBN been) (PP (IN under) (NP (JJ intense) (NN scrutiny))) (PP (IN since) (NP (NNP February))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN space) (NN shuttle) (NNP Columbia)) (VP (VBD disintegrated) (PP (IN over) (NP (NNP Texas))) (, ,) (S (VP (VBG killing) (NP (DT all) (CD seven) (NN crew) (NNS members))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e1\"},\"m2\":{\"start\":20,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983326\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","space","agency","has","been","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrated","over","Texas",",","killing","all","seven","crew","members","."]
+,"lemmas":["the","space","agency","have","be","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrate","over","Texas",",","kill","all","seven","crew","member","."]
+,"posTags":["DT","NN","NN","VBZ","VBN","IN","JJ","NN","IN","NNP","WRB","DT","NN","NN","NNP","VBD","IN","NNP",",","VBG","DT","CD","NN","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,2,4,4,-1,4,7,5,4,8,15,14,14,14,15,4,15,16,-2,15,23,23,23,19,-2]
+,"deprels":["det","nn","nsubj","aux","root","prep","amod","pobj","prep","pobj","advmod","det","nn","nn","nsubj","advcl","prep","pobj",null,"xcomp","det","num","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NN space) (NN agency)) (VP (VBZ has) (VP (VBN been) (PP (IN under) (NP (JJ intense) (NN scrutiny))) (PP (IN since) (NP (NNP February))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN space) (NN shuttle) (NNP Columbia)) (VP (VBD disintegrated) (PP (IN over) (NP (NNP Texas))) (, ,) (S (VP (VBG killing) (NP (DT all) (CD seven) (NN crew) (NNS members))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e9\"},\"m2\":{\"start\":11,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","space","agency","has","been","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrated","over","Texas",",","killing","all","seven","crew","members","."]
+,"lemmas":["the","space","agency","have","be","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrate","over","Texas",",","kill","all","seven","crew","member","."]
+,"posTags":["DT","NN","NN","VBZ","VBN","IN","JJ","NN","IN","NNP","WRB","DT","NN","NN","NNP","VBD","IN","NNP",",","VBG","DT","CD","NN","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,2,4,4,-1,4,7,5,4,8,15,14,14,14,15,4,15,16,-2,15,23,23,23,19,-2]
+,"deprels":["det","nn","nsubj","aux","root","prep","amod","pobj","prep","pobj","advmod","det","nn","nn","nsubj","advcl","prep","pobj",null,"xcomp","det","num","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NN space) (NN agency)) (VP (VBZ has) (VP (VBN been) (PP (IN under) (NP (JJ intense) (NN scrutiny))) (PP (IN since) (NP (NNP February))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN space) (NN shuttle) (NNP Columbia)) (VP (VBD disintegrated) (PP (IN over) (NP (NNP Texas))) (, ,) (S (VP (VBG killing) (NP (DT all) (CD seven) (NN crew) (NNS members))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e9\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983320\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","space","agency","has","been","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrated","over","Texas",",","killing","all","seven","crew","members","."]
+,"lemmas":["the","space","agency","have","be","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrate","over","Texas",",","kill","all","seven","crew","member","."]
+,"posTags":["DT","NN","NN","VBZ","VBN","IN","JJ","NN","IN","NNP","WRB","DT","NN","NN","NNP","VBD","IN","NNP",",","VBG","DT","CD","NN","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,2,4,4,-1,4,7,5,4,8,15,14,14,14,15,4,15,16,-2,15,23,23,23,19,-2]
+,"deprels":["det","nn","nsubj","aux","root","prep","amod","pobj","prep","pobj","advmod","det","nn","nn","nsubj","advcl","prep","pobj",null,"xcomp","det","num","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NN space) (NN agency)) (VP (VBZ has) (VP (VBN been) (PP (IN under) (NP (JJ intense) (NN scrutiny))) (PP (IN since) (NP (NNP February))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN space) (NN shuttle) (NNP Columbia)) (VP (VBD disintegrated) (PP (IN over) (NP (NNP Texas))) (, ,) (S (VP (VBG killing) (NP (DT all) (CD seven) (NN crew) (NNS members))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e9\"},\"m2\":{\"start\":20,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983326\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","space","agency","has","been","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrated","over","Texas",",","killing","all","seven","crew","members","."]
+,"lemmas":["the","space","agency","have","be","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrate","over","Texas",",","kill","all","seven","crew","member","."]
+,"posTags":["DT","NN","NN","VBZ","VBN","IN","JJ","NN","IN","NNP","WRB","DT","NN","NN","NNP","VBD","IN","NNP",",","VBG","DT","CD","NN","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,2,4,4,-1,4,7,5,4,8,15,14,14,14,15,4,15,16,-2,15,23,23,23,19,-2]
+,"deprels":["det","nn","nsubj","aux","root","prep","amod","pobj","prep","pobj","advmod","det","nn","nn","nsubj","advcl","prep","pobj",null,"xcomp","det","num","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NN space) (NN agency)) (VP (VBZ has) (VP (VBN been) (PP (IN under) (NP (JJ intense) (NN scrutiny))) (PP (IN since) (NP (NNP February))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN space) (NN shuttle) (NNP Columbia)) (VP (VBD disintegrated) (PP (IN over) (NP (NNP Texas))) (, ,) (S (VP (VBG killing) (NP (DT all) (CD seven) (NN crew) (NNS members))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832e8\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983320\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","space","agency","has","been","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrated","over","Texas",",","killing","all","seven","crew","members","."]
+,"lemmas":["the","space","agency","have","be","under","intense","scrutiny","since","February","when","the","space","shuttle","Columbia","disintegrate","over","Texas",",","kill","all","seven","crew","member","."]
+,"posTags":["DT","NN","NN","VBZ","VBN","IN","JJ","NN","IN","NNP","WRB","DT","NN","NN","NNP","VBD","IN","NNP",",","VBG","DT","CD","NN","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,2,4,4,-1,4,7,5,4,8,15,14,14,14,15,4,15,16,-2,15,23,23,23,19,-2]
+,"deprels":["det","nn","nsubj","aux","root","prep","amod","pobj","prep","pobj","advmod","det","nn","nn","nsubj","advcl","prep","pobj",null,"xcomp","det","num","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT The) (NN space) (NN agency)) (VP (VBZ has) (VP (VBN been) (PP (IN under) (NP (JJ intense) (NN scrutiny))) (PP (IN since) (NP (NNP February))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN space) (NN shuttle) (NNP Columbia)) (VP (VBD disintegrated) (PP (IN over) (NP (NNP Texas))) (, ,) (S (VP (VBG killing) (NP (DT all) (CD seven) (NN crew) (NNS members))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983320\"},\"m2\":{\"start\":20,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983326\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","logo","patch","of","that","last","Columbia","mission","was","attached","to","both","Mars","rovers","."]
+,"lemmas":["a","logo","patch","of","that","last","Columbia","mission","be","attach","to","both","Mars","rover","."]
+,"posTags":["DT","NN","NN","IN","DT","JJ","NNP","NN","VBD","VBN","TO","DT","NNP","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,9,2,7,7,7,3,9,-1,9,13,13,10,-2]
+,"deprels":["det","nn","nsubjpass","prep","det","amod","nn","pobj","auxpass","root","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN logo) (NN patch)) (PP (IN of) (NP (DT that) (JJ last) (NNP Columbia) (NN mission)))) (VP (VBD was) (VP (VBN attached) (PP (TO to) (NP (DT both) (NNP Mars) (NNS rovers))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ea\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832fd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","logo","patch","of","that","last","Columbia","mission","was","attached","to","both","Mars","rovers","."]
+,"lemmas":["a","logo","patch","of","that","last","Columbia","mission","be","attach","to","both","Mars","rover","."]
+,"posTags":["DT","NN","NN","IN","DT","JJ","NNP","NN","VBD","VBN","TO","DT","NNP","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,9,2,7,7,7,3,9,-1,9,13,13,10,-2]
+,"deprels":["det","nn","nsubjpass","prep","det","amod","nn","pobj","auxpass","root","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN logo) (NN patch)) (PP (IN of) (NP (DT that) (JJ last) (NNP Columbia) (NN mission)))) (VP (VBD was) (VP (VBN attached) (PP (TO to) (NP (DT both) (NNP Mars) (NNS rovers))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832ea\"},\"m2\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983319\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["A","logo","patch","of","that","last","Columbia","mission","was","attached","to","both","Mars","rovers","."]
+,"lemmas":["a","logo","patch","of","that","last","Columbia","mission","be","attach","to","both","Mars","rover","."]
+,"posTags":["DT","NN","NN","IN","DT","JJ","NNP","NN","VBD","VBN","TO","DT","NNP","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,9,2,7,7,7,3,9,-1,9,13,13,10,-2]
+,"deprels":["det","nn","nsubjpass","prep","det","amod","nn","pobj","auxpass","root","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT A) (NN logo) (NN patch)) (PP (IN of) (NP (DT that) (JJ last) (NNP Columbia) (NN mission)))) (VP (VBD was) (VP (VBN attached) (PP (TO to) (NP (DT both) (NNP Mars) (NNS rovers))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"6033205b-8567-ebc7-9504-00001a9832fd\"},\"m2\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"6033205b-8567-ebc7-9504-00001a983319\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

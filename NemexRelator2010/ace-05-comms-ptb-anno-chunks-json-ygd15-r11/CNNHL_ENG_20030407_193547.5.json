@@ -1,0 +1,320 @@
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91d\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91f\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"PRO\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90d\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91f\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f908\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f908\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f908\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"PRO\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f908\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f908\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f908\"},\"m2\":{\"start\":22,\"end\":28,\"head\":27,\"type\":\"WEA\",\"subtype\":\"Chemical\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f922\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90a\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90a\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"PRO\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90a\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90a\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90a\"},\"m2\":{\"start\":22,\"end\":28,\"head\":27,\"type\":\"WEA\",\"subtype\":\"Chemical\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f922\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90c\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"PRO\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90c\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90c\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90c\"},\"m2\":{\"start\":22,\"end\":28,\"head\":27,\"type\":\"WEA\",\"subtype\":\"Chemical\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f922\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"PRO\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90d\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"PRO\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90d\"},\"m2\":{\"start\":22,\"end\":28,\"head\":27,\"type\":\"WEA\",\"subtype\":\"Chemical\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f922\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91d\"},\"m2\":{\"start\":22,\"end\":28,\"head\":27,\"type\":\"WEA\",\"subtype\":\"Chemical\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f922\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","found","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapons","materials","."]
+,"lemmas":["we","begin","south","of","baghdad",",","-","-","-","where","u.s.","troops","have","find","-","-","f","|","-","what","may","be","chemical","-","-","-","-","weapon","material","."]
+,"posTags":["PRP","VBP","RB","IN","NN",",",":",":",":","WRB","JJ","NNS","VBP","VBN",":",":","SYM","SYM",":","WP","MD","VB","JJ",":",":",":",":","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","O","O","O","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","O","O","B-NP","B-NP","O","B-NP","B-VP","I-VP","B-ADJP","O","O","O","O","B-NP","B-NP","O"]
+,"parents":[1,-1,1,2,3,-2,-2,-2,-2,10,11,13,13,1,-2,-2,13,16,-2,21,21,1,21,-2,-2,-2,-2,28,1,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj",null,null,null,null,"advmod","amod","nsubj","aux","prep",null,null,"dep","dep",null,"nsubj","aux","parataxis","dep",null,null,null,null,"dep","parataxis",null]
+,"naryTree":"((ROOT (S (S (NP (PRP we)) (VP (VBP begin) (ADVP (RB south) (PP (IN of) (NP (NP (NN baghdad)) (, ,)))) (: -) (PP (: -) (PRN (: -) (SBAR (WHNP (WHADJP (WHADVP (WRB where)) (JJ u.s.)) (NNS troops)) (S (VP (VBP have) (VP (VBN found))) (: -))) (: -)) (NP (NP (SYM f)) (X (SYM |))))) (PRN (: -) (SBAR (WHNP (WP what)) (S (VP (MD may) (VP (VB be) (FRAG (ADJP (JJ chemical)) (: -)))) (: -))) (: -))) (: -) (S (NP (NNS weapons)) (NP (NNS materials))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91f\"},\"m2\":{\"start\":22,\"end\":28,\"head\":27,\"type\":\"WEA\",\"subtype\":\"Chemical\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f922\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["-","-","-","-","-","elements","of","the","army","'s","101st","-","-","airborne","division","discovered","-","the","chemicals","buried","in","barrels","-","beneath","an","agricultural","complex","-","-","-","-","-","-","-","near","karbala","."]
+,"lemmas":["-","-","-","-","-","element","of","the","army","'s","101st","-","-","airborne","division","discover","-","the","chemical","bury","in","barrel","-","beneath","a","agricultural","complex","-","-","-","-","-","-","-","near","karbalum","."]
+,"posTags":[":",":",":",":",":","NNS","IN","DT","NN","POS","CD",":",":","JJ","NN","VBN",":","DT","NNS","VBN","IN","NNS",":","IN","DT","JJ","NN",":",":",":",":",":",":",":","IN","NN","."]
+,"chunks":["O","O","O","O","O","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O","O","B-NP","B-NP","B-VP","O","B-NP","I-NP","B-VP","B-PP","B-NP","O","B-PP","B-NP","B-PP","B-NP","O","O","O","O","O","O","O","B-NP","I-NP","O"]
+,"parents":[-2,-2,-2,-2,-2,-1,5,8,6,8,8,-2,-2,15,13,8,-2,18,15,18,19,20,-2,21,23,24,25,-2,-2,-2,-2,-2,-2,-2,35,5,-2]
+,"deprels":[null,null,null,null,null,"root","prep","det","pobj","possessive","dep",null,null,"dep","dep","dep",null,"det","dep","vmod","dep","pobj",null,"prep","pobj","prep","dep",null,null,null,null,null,null,null,"amod","dep",null]
+,"naryTree":"((ROOT (NP (: -) (NP (NP (NP (PRN (: -) (ADVP (: -) (: -)) (: -)) (NNS elements)) (PP (IN of) (NP (NP (NP (DT the) (NN army) (POS 's)) (NP (CD 101st))) (PRN (: -) (VP (VP (PRN (: -) (NP (NP (JJ airborne)) (NP (NN division)))) (VBN discovered)) (PRN (: -) (NP (NP (DT the) (NNS chemicals)) (VP (VBN buried) (FRAG (PP (IN in) (NP (NP (NNS barrels)) (PRN (: -) (PP (IN beneath) (NP (NP (DT an)) (UCP (PP (JJ agricultural)) (NP-TMP (NN complex)) (: -))) (: -)) (: -))) (: -))))) (: -))) (: -))))) (: -) (NP (ADJP (IN near)) (NN karbala))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f924\"},\"m2\":{\"start\":7,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f915\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["-","-","-","-","-","elements","of","the","army","'s","101st","-","-","airborne","division","discovered","-","the","chemicals","buried","in","barrels","-","beneath","an","agricultural","complex","-","-","-","-","-","-","-","near","karbala","."]
+,"lemmas":["-","-","-","-","-","element","of","the","army","'s","101st","-","-","airborne","division","discover","-","the","chemical","bury","in","barrel","-","beneath","a","agricultural","complex","-","-","-","-","-","-","-","near","karbalum","."]
+,"posTags":[":",":",":",":",":","NNS","IN","DT","NN","POS","CD",":",":","JJ","NN","VBN",":","DT","NNS","VBN","IN","NNS",":","IN","DT","JJ","NN",":",":",":",":",":",":",":","IN","NN","."]
+,"chunks":["O","O","O","O","O","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O","O","B-NP","B-NP","B-VP","O","B-NP","I-NP","B-VP","B-PP","B-NP","O","B-PP","B-NP","B-PP","B-NP","O","O","O","O","O","O","O","B-NP","I-NP","O"]
+,"parents":[-2,-2,-2,-2,-2,-1,5,8,6,8,8,-2,-2,15,13,8,-2,18,15,18,19,20,-2,21,23,24,25,-2,-2,-2,-2,-2,-2,-2,35,5,-2]
+,"deprels":[null,null,null,null,null,"root","prep","det","pobj","possessive","dep",null,null,"dep","dep","dep",null,"det","dep","vmod","dep","pobj",null,"prep","pobj","prep","dep",null,null,null,null,null,null,null,"amod","dep",null]
+,"naryTree":"((ROOT (NP (: -) (NP (NP (NP (PRN (: -) (ADVP (: -) (: -)) (: -)) (NNS elements)) (PP (IN of) (NP (NP (NP (DT the) (NN army) (POS 's)) (NP (CD 101st))) (PRN (: -) (VP (VP (PRN (: -) (NP (NP (JJ airborne)) (NP (NN division)))) (VBN discovered)) (PRN (: -) (NP (NP (DT the) (NNS chemicals)) (VP (VBN buried) (FRAG (PP (IN in) (NP (NP (NNS barrels)) (PRN (: -) (PP (IN beneath) (NP (NP (DT an)) (UCP (PP (JJ agricultural)) (NP-TMP (NN complex)) (: -))) (: -)) (: -))) (: -))))) (: -))) (: -))))) (: -) (NP (ADJP (IN near)) (NN karbala))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":24,\"end\":27,\"head\":26,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f918\"},\"m2\":{\"start\":35,\"end\":36,\"head\":35,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91b\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["-","-","-","-","-","elements","of","the","army","'s","101st","-","-","airborne","division","discovered","-","the","chemicals","buried","in","barrels","-","beneath","an","agricultural","complex","-","-","-","-","-","-","-","near","karbala","."]
+,"lemmas":["-","-","-","-","-","element","of","the","army","'s","101st","-","-","airborne","division","discover","-","the","chemical","bury","in","barrel","-","beneath","a","agricultural","complex","-","-","-","-","-","-","-","near","karbalum","."]
+,"posTags":[":",":",":",":",":","NNS","IN","DT","NN","POS","CD",":",":","JJ","NN","VBN",":","DT","NNS","VBN","IN","NNS",":","IN","DT","JJ","NN",":",":",":",":",":",":",":","IN","NN","."]
+,"chunks":["O","O","O","O","O","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O","O","B-NP","B-NP","B-VP","O","B-NP","I-NP","B-VP","B-PP","B-NP","O","B-PP","B-NP","B-PP","B-NP","O","O","O","O","O","O","O","B-NP","I-NP","O"]
+,"parents":[-2,-2,-2,-2,-2,-1,5,8,6,8,8,-2,-2,15,13,8,-2,18,15,18,19,20,-2,21,23,24,25,-2,-2,-2,-2,-2,-2,-2,35,5,-2]
+,"deprels":[null,null,null,null,null,"root","prep","det","pobj","possessive","dep",null,null,"dep","dep","dep",null,"det","dep","vmod","dep","pobj",null,"prep","pobj","prep","dep",null,null,null,null,null,null,null,"amod","dep",null]
+,"naryTree":"((ROOT (NP (: -) (NP (NP (NP (PRN (: -) (ADVP (: -) (: -)) (: -)) (NNS elements)) (PP (IN of) (NP (NP (NP (DT the) (NN army) (POS 's)) (NP (CD 101st))) (PRN (: -) (VP (VP (PRN (: -) (NP (NP (JJ airborne)) (NP (NN division)))) (VBN discovered)) (PRN (: -) (NP (NP (DT the) (NNS chemicals)) (VP (VBN buried) (FRAG (PP (IN in) (NP (NP (NNS barrels)) (PRN (: -) (PP (IN beneath) (NP (NP (DT an)) (UCP (PP (JJ agricultural)) (NP-TMP (NN complex)) (: -))) (: -)) (: -))) (: -))))) (: -))) (: -))))) (: -) (NP (ADJP (IN near)) (NN karbala))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f924\"},\"m2\":{\"start\":24,\"end\":27,\"head\":26,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f918\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["-","-","-","-","-","elements","of","the","army","'s","101st","-","-","airborne","division","discovered","-","the","chemicals","buried","in","barrels","-","beneath","an","agricultural","complex","-","-","-","-","-","-","-","near","karbala","."]
+,"lemmas":["-","-","-","-","-","element","of","the","army","'s","101st","-","-","airborne","division","discover","-","the","chemical","bury","in","barrel","-","beneath","a","agricultural","complex","-","-","-","-","-","-","-","near","karbalum","."]
+,"posTags":[":",":",":",":",":","NNS","IN","DT","NN","POS","CD",":",":","JJ","NN","VBN",":","DT","NNS","VBN","IN","NNS",":","IN","DT","JJ","NN",":",":",":",":",":",":",":","IN","NN","."]
+,"chunks":["O","O","O","O","O","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O","O","B-NP","B-NP","B-VP","O","B-NP","I-NP","B-VP","B-PP","B-NP","O","B-PP","B-NP","B-PP","B-NP","O","O","O","O","O","O","O","B-NP","I-NP","O"]
+,"parents":[-2,-2,-2,-2,-2,-1,5,8,6,8,8,-2,-2,15,13,8,-2,18,15,18,19,20,-2,21,23,24,25,-2,-2,-2,-2,-2,-2,-2,35,5,-2]
+,"deprels":[null,null,null,null,null,"root","prep","det","pobj","possessive","dep",null,null,"dep","dep","dep",null,"det","dep","vmod","dep","pobj",null,"prep","pobj","prep","dep",null,null,null,null,null,null,null,"amod","dep",null]
+,"naryTree":"((ROOT (NP (: -) (NP (NP (NP (PRN (: -) (ADVP (: -) (: -)) (: -)) (NNS elements)) (PP (IN of) (NP (NP (NP (DT the) (NN army) (POS 's)) (NP (CD 101st))) (PRN (: -) (VP (VP (PRN (: -) (NP (NP (JJ airborne)) (NP (NN division)))) (VBN discovered)) (PRN (: -) (NP (NP (DT the) (NNS chemicals)) (VP (VBN buried) (FRAG (PP (IN in) (NP (NP (NNS barrels)) (PRN (: -) (PP (IN beneath) (NP (NP (DT an)) (UCP (PP (JJ agricultural)) (NP-TMP (NN complex)) (: -))) (: -)) (: -))) (: -))))) (: -))) (: -))))) (: -) (NP (ADJP (IN near)) (NN karbala))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f924\"},\"m2\":{\"start\":35,\"end\":36,\"head\":35,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["-","-","-","-","-","elements","of","the","army","'s","101st","-","-","airborne","division","discovered","-","the","chemicals","buried","in","barrels","-","beneath","an","agricultural","complex","-","-","-","-","-","-","-","near","karbala","."]
+,"lemmas":["-","-","-","-","-","element","of","the","army","'s","101st","-","-","airborne","division","discover","-","the","chemical","bury","in","barrel","-","beneath","a","agricultural","complex","-","-","-","-","-","-","-","near","karbalum","."]
+,"posTags":[":",":",":",":",":","NNS","IN","DT","NN","POS","CD",":",":","JJ","NN","VBN",":","DT","NNS","VBN","IN","NNS",":","IN","DT","JJ","NN",":",":",":",":",":",":",":","IN","NN","."]
+,"chunks":["O","O","O","O","O","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O","O","B-NP","B-NP","B-VP","O","B-NP","I-NP","B-VP","B-PP","B-NP","O","B-PP","B-NP","B-PP","B-NP","O","O","O","O","O","O","O","B-NP","I-NP","O"]
+,"parents":[-2,-2,-2,-2,-2,-1,5,8,6,8,8,-2,-2,15,13,8,-2,18,15,18,19,20,-2,21,23,24,25,-2,-2,-2,-2,-2,-2,-2,35,5,-2]
+,"deprels":[null,null,null,null,null,"root","prep","det","pobj","possessive","dep",null,null,"dep","dep","dep",null,"det","dep","vmod","dep","pobj",null,"prep","pobj","prep","dep",null,null,null,null,null,null,null,"amod","dep",null]
+,"naryTree":"((ROOT (NP (: -) (NP (NP (NP (PRN (: -) (ADVP (: -) (: -)) (: -)) (NNS elements)) (PP (IN of) (NP (NP (NP (DT the) (NN army) (POS 's)) (NP (CD 101st))) (PRN (: -) (VP (VP (PRN (: -) (NP (NP (JJ airborne)) (NP (NN division)))) (VBN discovered)) (PRN (: -) (NP (NP (DT the) (NNS chemicals)) (VP (VBN buried) (FRAG (PP (IN in) (NP (NP (NNS barrels)) (PRN (: -) (PP (IN beneath) (NP (NP (DT an)) (UCP (PP (JJ agricultural)) (NP-TMP (NN complex)) (: -))) (: -)) (: -))) (: -))))) (: -))) (: -))))) (: -) (NP (ADJP (IN near)) (NN karbala))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f915\"},\"m2\":{\"start\":24,\"end\":27,\"head\":26,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f918\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["-","-","-","-","-","elements","of","the","army","'s","101st","-","-","airborne","division","discovered","-","the","chemicals","buried","in","barrels","-","beneath","an","agricultural","complex","-","-","-","-","-","-","-","near","karbala","."]
+,"lemmas":["-","-","-","-","-","element","of","the","army","'s","101st","-","-","airborne","division","discover","-","the","chemical","bury","in","barrel","-","beneath","a","agricultural","complex","-","-","-","-","-","-","-","near","karbalum","."]
+,"posTags":[":",":",":",":",":","NNS","IN","DT","NN","POS","CD",":",":","JJ","NN","VBN",":","DT","NNS","VBN","IN","NNS",":","IN","DT","JJ","NN",":",":",":",":",":",":",":","IN","NN","."]
+,"chunks":["O","O","O","O","O","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O","O","B-NP","B-NP","B-VP","O","B-NP","I-NP","B-VP","B-PP","B-NP","O","B-PP","B-NP","B-PP","B-NP","O","O","O","O","O","O","O","B-NP","I-NP","O"]
+,"parents":[-2,-2,-2,-2,-2,-1,5,8,6,8,8,-2,-2,15,13,8,-2,18,15,18,19,20,-2,21,23,24,25,-2,-2,-2,-2,-2,-2,-2,35,5,-2]
+,"deprels":[null,null,null,null,null,"root","prep","det","pobj","possessive","dep",null,null,"dep","dep","dep",null,"det","dep","vmod","dep","pobj",null,"prep","pobj","prep","dep",null,null,null,null,null,null,null,"amod","dep",null]
+,"naryTree":"((ROOT (NP (: -) (NP (NP (NP (PRN (: -) (ADVP (: -) (: -)) (: -)) (NNS elements)) (PP (IN of) (NP (NP (NP (DT the) (NN army) (POS 's)) (NP (CD 101st))) (PRN (: -) (VP (VP (PRN (: -) (NP (NP (JJ airborne)) (NP (NN division)))) (VBN discovered)) (PRN (: -) (NP (NP (DT the) (NNS chemicals)) (VP (VBN buried) (FRAG (PP (IN in) (NP (NP (NNS barrels)) (PRN (: -) (PP (IN beneath) (NP (NP (DT an)) (UCP (PP (JJ agricultural)) (NP-TMP (NN complex)) (: -))) (: -)) (: -))) (: -))))) (: -))) (: -))))) (: -) (NP (ADJP (IN near)) (NN karbala))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f915\"},\"m2\":{\"start\":35,\"end\":36,\"head\":35,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f91b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["-","-","troops","also","found","a","large","amount","of","conventional","weapons","-","at","the","site","."]
+,"lemmas":["-","-","troops","also","find","a","large","amount","of","conventional","weapon","-","at","the","site","."]
+,"posTags":[":",":","NNS","RB","VBD","DT","JJ","NN","IN","JJ","NNS",":","IN","DT","NN","."]
+,"chunks":["O","O","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O"]
+,"parents":[-2,-2,4,4,-1,7,7,4,7,10,8,-2,7,14,12,-2]
+,"deprels":[null,null,"nsubj","advmod","root","det","amod","dobj","prep","amod","pobj",null,"prep","det","pobj",null]
+,"naryTree":"((ROOT (S (: -) (S (NP (PRN (: -) (NP (NNS troops)))) (VP (ADVP (RB also)) (VBD found) (NP (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (JJ conventional) (NNS weapons)))) (: -) (PP (IN at) (NP (DT the) (NN site)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f920\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f919\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["-","-","troops","also","found","a","large","amount","of","conventional","weapons","-","at","the","site","."]
+,"lemmas":["-","-","troops","also","find","a","large","amount","of","conventional","weapon","-","at","the","site","."]
+,"posTags":[":",":","NNS","RB","VBD","DT","JJ","NN","IN","JJ","NNS",":","IN","DT","NN","."]
+,"chunks":["O","O","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O"]
+,"parents":[-2,-2,4,4,-1,7,7,4,7,10,8,-2,7,14,12,-2]
+,"deprels":[null,null,"nsubj","advmod","root","det","amod","dobj","prep","amod","pobj",null,"prep","det","pobj",null]
+,"naryTree":"((ROOT (S (: -) (S (NP (PRN (: -) (NP (NNS troops)))) (VP (ADVP (RB also)) (VBD found) (NP (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (JJ conventional) (NNS weapons)))) (: -) (PP (IN at) (NP (DT the) (NN site)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f920\"},\"m2\":{\"start\":5,\"end\":11,\"head\":10,\"type\":\"WEA\",\"subtype\":\"Underspecified\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["-","-","troops","also","found","a","large","amount","of","conventional","weapons","-","at","the","site","."]
+,"lemmas":["-","-","troops","also","find","a","large","amount","of","conventional","weapon","-","at","the","site","."]
+,"posTags":[":",":","NNS","RB","VBD","DT","JJ","NN","IN","JJ","NNS",":","IN","DT","NN","."]
+,"chunks":["O","O","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O"]
+,"parents":[-2,-2,4,4,-1,7,7,4,7,10,8,-2,7,14,12,-2]
+,"deprels":[null,null,"nsubj","advmod","root","det","amod","dobj","prep","amod","pobj",null,"prep","det","pobj",null]
+,"naryTree":"((ROOT (S (: -) (S (NP (PRN (: -) (NP (NNS troops)))) (VP (ADVP (RB also)) (VBD found) (NP (NP (NP (DT a) (JJ large) (NN amount)) (PP (IN of) (NP (JJ conventional) (NNS weapons)))) (: -) (PP (IN at) (NP (DT the) (NN site)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":11,\"head\":10,\"type\":\"WEA\",\"subtype\":\"Underspecified\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f90f\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f919\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["-","-","-","f","|","no","car","a","higher","level","test","indicated","no","carrier","the","presence","of","nerve","no","carrier","-","-","-","-","-","and","blister","agents",",","but","those","-","f","|","tests","are","not","always","accurate","."]
+,"lemmas":["-","-","-","f","|","no","car","a","higher","level","test","indicate","no","carrier","the","presence","of","nerve","no","carrier","-","-","-","-","-","and","blister","agent",",","but","those","-","f","|","test","be","not","always","accurate","."]
+,"posTags":[":",":",":","SYM","CD","DT","NN","DT","JJR","NN","NN","VBD","DT","NN","DT","NN","IN","NN","DT","NN",":",":",":",":",":","CC","NN","NNS",",","CC","DT",":","SYM","CD","NNS","VBP","RB","RB","JJ","."]
+,"chunks":["O","O","O","O","B-NP","B-NP","B-NP","B-ADVP","B-ADJP","B-ADVP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","O","O","O","O","O","B-NP","B-NP","O","B-PP","B-NP","O","B-NP","B-NP","I-NP","B-VP","O","B-ADVP","B-ADJP","O"]
+,"parents":[-2,-2,-2,4,5,6,7,10,7,7,11,-1,13,11,15,13,13,19,19,16,-2,-2,-2,-2,-2,26,27,38,-2,27,29,-2,30,34,27,38,38,38,11,-2]
+,"deprels":[null,null,null,"dep","dep","dep","dep","prep","dep","dep","nsubj","root","neg","dep","det","dep","prep","nn","neg","pobj",null,null,null,null,null,"cc","dep","nsubj",null,"prep","pobj",null,"dep","num","dep","cop","neg","advmod","parataxis",null]
+,"naryTree":"((ROOT (S (: -) (S (NP (PRN (: -) (FRAG (PP (PP (NP (PRN (: -) (FRAG (X (X (SYM f)) (NP (CD |))) (NP (DT no)))) (NN car)) (PP (ADVP (DT a)) (ADJP (JJR higher)))) (ADVP (NN level))) (NP (NN test))))) (VP (VBD indicated) (SBAR (FRAG (ADJP (ADJP (NP (DT no) (NN carrier)) (NP (DT the) (NN presence))) (PP (IN of) (NP (NP (NN nerve) (DT no) (NN carrier)) (: -)))) (: -))))) (: -) (S (NP (PRN (: -) (NP (NP (NP (PRN (: -) (FRAG (CC and) (NP (NN blister)))) (NNS agents)) (, ,) (PP (CC but) (NP (NP (DT those)) (: -) (NP (SYM f))))) (NP (CD |) (NNS tests))))) (VP (VBP are) (RB not) (ADVP (RB always)) (ADJP (JJ accurate)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"WEA\",\"subtype\":\"Chemical\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f913\"},\"m2\":{\"start\":17,\"end\":28,\"head\":27,\"type\":\"WEA\",\"subtype\":\"Chemical\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f906\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["-","f","|","ring","no","carrier","the","commander","of","the","101st","says","f","|","-","f","|","ring","no","carri","the","chemicals","may","be","pesticides","no","carrier","or","chemical","agents","that","have","n't","been","weaponized","."]
+,"lemmas":["-","f","|","ring","no","carrier","the","commander","of","the","101st","say","f","|","-","f","|","ring","no","carrus","the","chemical","may","be","pesticide","no","carrier","or","chemical","agent","that","have","not","be","weaponize","."]
+,"posTags":[":","SYM","CD","NN","DT","NN","DT","NN","IN","DT","CD","VBZ","SYM","SYM",":","SYM","CD","NN","DT","NN","DT","NNS","MD","VB","NNS","DT","NN","CC","NN","NNS","WDT","VBP","RB","VBN","VBN","."]
+,"chunks":["O","B-NP","B-NP","I-NP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","O","O","B-NP","B-NP","I-NP","B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","O","B-NP","I-NP","B-NP","B-VP","I-VP","I-VP","I-VP","O"]
+,"parents":[-2,-1,3,11,5,3,7,3,7,10,8,1,11,15,-2,12,17,24,19,17,21,17,24,24,15,26,24,24,29,24,34,34,34,34,29,-2]
+,"deprels":[null,"root","num","nsubj","neg","dep","det","dep","prep","det","pobj","rcmod","dobj","dep",null,"dep","num","nsubj","neg","dep","det","dep","aux","cop","rcmod","neg","dep","cc","nn","conj","nsubjpass","aux","neg","auxpass","rcmod",null]
+,"naryTree":"((ROOT (PRN (: -) (NP (NP (SYM f)) (SBAR (S (NP (NP (CD |) (NN ring)) (NP (DT no) (NN carrier)) (NP (NP (DT the) (NN commander)) (PP (IN of) (NP (DT the) (CD 101st))))) (VP (VBZ says) (NP (NP (SYM f)) (FRAG (X (SYM |)) (: -) (NP (NP (SYM f)) (SBAR (S (NP (NP (NP (CD |) (NN ring)) (NP (DT no) (NN carri))) (NP (DT the) (NNS chemicals))) (VP (MD may) (VP (VB be) (NP (NP (NP (NNS pesticides)) (NP (DT no) (NN carrier))) (CC or) (NP (NP (NN chemical) (NNS agents)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (RB n't) (VP (VBN been) (VP (VBN weaponized))))))))))))) (. .))))))))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f911\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"d308f953-db3f-2b0b-72a4-00003564f916\"}}]"
+,"relLabels":["ORG-AFF(Arg-1,Arg-2)"]}
+

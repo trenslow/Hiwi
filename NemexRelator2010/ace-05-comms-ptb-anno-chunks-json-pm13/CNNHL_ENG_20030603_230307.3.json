@@ -1,0 +1,260 @@
+{"words":["our","top","story","--","eric","robert","rudolph","has","officially","said","he","did","n't","do","it","."]
+,"lemmas":["we","top","story","--","eric","robert","rudolph","have","officially","say","he","do","not","do","it","."]
+,"posTags":["PRP$","JJ","NN",":","JJ","NN","NN","VBZ","RB","VBD","PRP","VBD","RB","VB","PRP","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-NP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[2,2,-1,-2,6,6,9,9,9,2,13,13,13,9,13,-2]
+,"deprels":["poss","amod","root",null,"amod","nn","nsubj","aux","advmod","dep","nsubj","aux","neg","ccomp","dobj",null]
+,"naryTree":"((ROOT (NP (NP (PRP$ our) (JJ top) (NN story)) (: --) (S (NP (JJ eric) (NN robert) (NN rudolph)) (VP (VBZ has) (ADVP (RB officially)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD did) (RB n't) (VP (VB do) (NP (PRP it))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064989\"},\"m2\":{\"start\":4,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-000021064994\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["our","top","story","--","eric","robert","rudolph","has","officially","said","he","did","n't","do","it","."]
+,"lemmas":["we","top","story","--","eric","robert","rudolph","have","officially","say","he","do","not","do","it","."]
+,"posTags":["PRP$","JJ","NN",":","JJ","NN","NN","VBZ","RB","VBD","PRP","VBD","RB","VB","PRP","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-NP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[2,2,-1,-2,6,6,9,9,9,2,13,13,13,9,13,-2]
+,"deprels":["poss","amod","root",null,"amod","nn","nsubj","aux","advmod","dep","nsubj","aux","neg","ccomp","dobj",null]
+,"naryTree":"((ROOT (NP (NP (PRP$ our) (JJ top) (NN story)) (: --) (S (NP (JJ eric) (NN robert) (NN rudolph)) (VP (VBZ has) (ADVP (RB officially)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD did) (RB n't) (VP (VB do) (NP (PRP it))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064989\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064995\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["our","top","story","--","eric","robert","rudolph","has","officially","said","he","did","n't","do","it","."]
+,"lemmas":["we","top","story","--","eric","robert","rudolph","have","officially","say","he","do","not","do","it","."]
+,"posTags":["PRP$","JJ","NN",":","JJ","NN","NN","VBZ","RB","VBD","PRP","VBD","RB","VB","PRP","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-NP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[2,2,-1,-2,6,6,9,9,9,2,13,13,13,9,13,-2]
+,"deprels":["poss","amod","root",null,"amod","nn","nsubj","aux","advmod","dep","nsubj","aux","neg","ccomp","dobj",null]
+,"naryTree":"((ROOT (NP (NP (PRP$ our) (JJ top) (NN story)) (: --) (S (NP (JJ eric) (NN robert) (NN rudolph)) (VP (VBZ has) (ADVP (RB officially)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD did) (RB n't) (VP (VB do) (NP (PRP it))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-000021064994\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064995\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","pleaded","not","guilty","to","bombing","a","birmingham","women","'s","clinic","in","1998","."]
+,"lemmas":["he","plead","not","guilty","to","bombing","a","birmingham","woman","'s","clinic","in","1998","."]
+,"posTags":["PRP","VBD","RB","JJ","TO","NN","DT","NN","NNS","POS","NN","IN","CD","."]
+,"chunks":["B-NP","B-VP","B-ADJP","I-ADJP","B-PP","B-NP","B-NP","I-NP","I-NP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,3,4,8,8,10,8,3,10,11,-2]
+,"deprels":["nsubj","root","neg","acomp","prep","pobj","det","nn","poss","possessive","dep","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD pleaded) (S (ADJP (RB not) (JJ guilty) (PP (TO to) (NP (NN bombing)))) (NP (NP (NP (DT a) (NN birmingham) (NNS women) (POS 's)) (NN clinic)) (PP (IN in) (NP (CD 1998)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-0000210649a3\"},\"m2\":{\"start\":6,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-00002106498b\"}}]"
+,"relLabels":["PART-WHOLE(Arg-2,Arg-1)"]}
+
+{"words":["he","pleaded","not","guilty","to","bombing","a","birmingham","women","'s","clinic","in","1998","."]
+,"lemmas":["he","plead","not","guilty","to","bombing","a","birmingham","woman","'s","clinic","in","1998","."]
+,"posTags":["PRP","VBD","RB","JJ","TO","NN","DT","NN","NNS","POS","NN","IN","CD","."]
+,"chunks":["B-NP","B-VP","B-ADJP","I-ADJP","B-PP","B-NP","B-NP","I-NP","I-NP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,3,4,8,8,10,8,3,10,11,-2]
+,"deprels":["nsubj","root","neg","acomp","prep","pobj","det","nn","poss","possessive","dep","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD pleaded) (S (ADJP (RB not) (JJ guilty) (PP (TO to) (NP (NN bombing)))) (NP (NP (NP (DT a) (NN birmingham) (NNS women) (POS 's)) (NN clinic)) (PP (IN in) (NP (CD 1998)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064996\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-0000210649a3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","pleaded","not","guilty","to","bombing","a","birmingham","women","'s","clinic","in","1998","."]
+,"lemmas":["he","plead","not","guilty","to","bombing","a","birmingham","woman","'s","clinic","in","1998","."]
+,"posTags":["PRP","VBD","RB","JJ","TO","NN","DT","NN","NNS","POS","NN","IN","CD","."]
+,"chunks":["B-NP","B-VP","B-ADJP","I-ADJP","B-PP","B-NP","B-NP","I-NP","I-NP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,3,4,8,8,10,8,3,10,11,-2]
+,"deprels":["nsubj","root","neg","acomp","prep","pobj","det","nn","poss","possessive","dep","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD pleaded) (S (ADJP (RB not) (JJ guilty) (PP (TO to) (NP (NN bombing)))) (NP (NP (NP (DT a) (NN birmingham) (NNS women) (POS 's)) (NN clinic)) (PP (IN in) (NP (CD 1998)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064996\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-00002106498d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","pleaded","not","guilty","to","bombing","a","birmingham","women","'s","clinic","in","1998","."]
+,"lemmas":["he","plead","not","guilty","to","bombing","a","birmingham","woman","'s","clinic","in","1998","."]
+,"posTags":["PRP","VBD","RB","JJ","TO","NN","DT","NN","NNS","POS","NN","IN","CD","."]
+,"chunks":["B-NP","B-VP","B-ADJP","I-ADJP","B-PP","B-NP","B-NP","I-NP","I-NP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,3,4,8,8,10,8,3,10,11,-2]
+,"deprels":["nsubj","root","neg","acomp","prep","pobj","det","nn","poss","possessive","dep","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD pleaded) (S (ADJP (RB not) (JJ guilty) (PP (TO to) (NP (NN bombing)))) (NP (NP (NP (DT a) (NN birmingham) (NNS women) (POS 's)) (NN clinic)) (PP (IN in) (NP (CD 1998)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064996\"},\"m2\":{\"start\":6,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-00002106498b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","pleaded","not","guilty","to","bombing","a","birmingham","women","'s","clinic","in","1998","."]
+,"lemmas":["he","plead","not","guilty","to","bombing","a","birmingham","woman","'s","clinic","in","1998","."]
+,"posTags":["PRP","VBD","RB","JJ","TO","NN","DT","NN","NNS","POS","NN","IN","CD","."]
+,"chunks":["B-NP","B-VP","B-ADJP","I-ADJP","B-PP","B-NP","B-NP","I-NP","I-NP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,3,4,8,8,10,8,3,10,11,-2]
+,"deprels":["nsubj","root","neg","acomp","prep","pobj","det","nn","poss","possessive","dep","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD pleaded) (S (ADJP (RB not) (JJ guilty) (PP (TO to) (NP (NN bombing)))) (NP (NP (NP (DT a) (NN birmingham) (NNS women) (POS 's)) (NN clinic)) (PP (IN in) (NP (CD 1998)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-0000210649a3\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-00002106498d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","pleaded","not","guilty","to","bombing","a","birmingham","women","'s","clinic","in","1998","."]
+,"lemmas":["he","plead","not","guilty","to","bombing","a","birmingham","woman","'s","clinic","in","1998","."]
+,"posTags":["PRP","VBD","RB","JJ","TO","NN","DT","NN","NNS","POS","NN","IN","CD","."]
+,"chunks":["B-NP","B-VP","B-ADJP","I-ADJP","B-PP","B-NP","B-NP","I-NP","I-NP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,3,4,8,8,10,8,3,10,11,-2]
+,"deprels":["nsubj","root","neg","acomp","prep","pobj","det","nn","poss","possessive","dep","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD pleaded) (S (ADJP (RB not) (JJ guilty) (PP (TO to) (NP (NN bombing)))) (NP (NP (NP (DT a) (NN birmingham) (NNS women) (POS 's)) (NN clinic)) (PP (IN in) (NP (CD 1998)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-00002106498d\"},\"m2\":{\"start\":6,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-00002106498b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","suspected","serial","bomber","appeared","in","a","federal","courthouse","tuesday","afternoon","."]
+,"lemmas":["the","suspect","serial","bomber","appear","in","a","federal","courthouse","tuesday","afternoon","."]
+,"posTags":["DT","VBN","NN","NN","VBD","IN","DT","JJ","NN","NNP","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,4,-1,4,8,8,5,10,4,-2]
+,"deprels":["det","amod","nn","nsubj","root","prep","det","amod","pobj","nn","tmod",null]
+,"naryTree":"((ROOT (S (NP (DT the) (VBN suspected) (NN serial) (NN bomber)) (VP (VBD appeared) (PP (IN in) (NP (DT a) (JJ federal) (NN courthouse))) (NP-TMP (NNP tuesday) (NN afternoon))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-000021064997\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-0000210649a5\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["he","is","also","suspected","in","three","atlanta-area","bombings","."]
+,"lemmas":["he","be","also","suspect","in","three","atlanta-area","bombing","."]
+,"posTags":["PRP","VBZ","RB","VBN","IN","CD","NN","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,7,7,4,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","num","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN suspected) (PP (IN in) (NP (CD three) (NN atlanta-area) (NNS bombings))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064998\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-000021064985\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","is","also","suspected","in","three","atlanta-area","bombings","."]
+,"lemmas":["he","be","also","suspect","in","three","atlanta-area","bombing","."]
+,"posTags":["PRP","VBZ","RB","VBN","IN","CD","NN","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,7,7,4,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","num","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN suspected) (PP (IN in) (NP (CD three) (NN atlanta-area) (NNS bombings))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064998\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","is","also","suspected","in","three","atlanta-area","bombings","."]
+,"lemmas":["he","be","also","suspect","in","three","atlanta-area","bombing","."]
+,"posTags":["PRP","VBZ","RB","VBN","IN","CD","NN","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,7,7,4,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","num","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ is) (ADVP (RB also)) (VP (VBN suspected) (PP (IN in) (NP (CD three) (NN atlanta-area) (NNS bombings))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-000021064985\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["north","carolina","authorities","say","rudolph","opened","up","to","them","about","his","five","years","on","the","run","."]
+,"lemmas":["north","carolina","authority","say","rudolph","open","up","to","they","about","he","five","year","on","the","run","."]
+,"posTags":["RB","NNP","NNS","VBP","NN","VBD","RP","TO","PRP","IN","PRP$","CD","NNS","IN","DT","NN","."]
+,"chunks":["B-ADVP","B-NP","B-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,5,3,5,5,7,5,12,12,9,5,15,13,-2]
+,"deprels":["advmod","pobj","nsubj","root","nsubj","ccomp","prt","prep","pobj","prep","poss","num","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (ADVP (RB north) (NP (NNP carolina))) (NNS authorities)) (VP (VBP say) (SBAR (S (NP (NN rudolph)) (VP (VBD opened) (PRT (RP up)) (PP (TO to) (NP (PRP them))) (PP (IN about) (NP (PRP$ his) (CD five) (NNS years))) (PP (IN on) (NP (DT the) (NN run))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-0000210649a1\"},\"m2\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499e\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["north","carolina","authorities","say","rudolph","opened","up","to","them","about","his","five","years","on","the","run","."]
+,"lemmas":["north","carolina","authority","say","rudolph","open","up","to","they","about","he","five","year","on","the","run","."]
+,"posTags":["RB","NNP","NNS","VBP","NN","VBD","RP","TO","PRP","IN","PRP$","CD","NNS","IN","DT","NN","."]
+,"chunks":["B-ADVP","B-NP","B-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,5,3,5,5,7,5,12,12,9,5,15,13,-2]
+,"deprels":["advmod","pobj","nsubj","root","nsubj","ccomp","prt","prep","pobj","prep","poss","num","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (ADVP (RB north) (NP (NNP carolina))) (NNS authorities)) (VP (VBP say) (SBAR (S (NP (NN rudolph)) (VP (VBD opened) (PRT (RP up)) (PP (TO to) (NP (PRP them))) (PP (IN about) (NP (PRP$ his) (CD five) (NNS years))) (PP (IN on) (NP (DT the) (NN run))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-0000210649a1\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-000021064999\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["north","carolina","authorities","say","rudolph","opened","up","to","them","about","his","five","years","on","the","run","."]
+,"lemmas":["north","carolina","authority","say","rudolph","open","up","to","they","about","he","five","year","on","the","run","."]
+,"posTags":["RB","NNP","NNS","VBP","NN","VBD","RP","TO","PRP","IN","PRP$","CD","NNS","IN","DT","NN","."]
+,"chunks":["B-ADVP","B-NP","B-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,5,3,5,5,7,5,12,12,9,5,15,13,-2]
+,"deprels":["advmod","pobj","nsubj","root","nsubj","ccomp","prt","prep","pobj","prep","poss","num","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (ADVP (RB north) (NP (NNP carolina))) (NNS authorities)) (VP (VBP say) (SBAR (S (NP (NN rudolph)) (VP (VBD opened) (PRT (RP up)) (PP (TO to) (NP (PRP them))) (PP (IN about) (NP (PRP$ his) (CD five) (NNS years))) (PP (IN on) (NP (DT the) (NN run))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-0000210649a1\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["north","carolina","authorities","say","rudolph","opened","up","to","them","about","his","five","years","on","the","run","."]
+,"lemmas":["north","carolina","authority","say","rudolph","open","up","to","they","about","he","five","year","on","the","run","."]
+,"posTags":["RB","NNP","NNS","VBP","NN","VBD","RP","TO","PRP","IN","PRP$","CD","NNS","IN","DT","NN","."]
+,"chunks":["B-ADVP","B-NP","B-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,5,3,5,5,7,5,12,12,9,5,15,13,-2]
+,"deprels":["advmod","pobj","nsubj","root","nsubj","ccomp","prt","prep","pobj","prep","poss","num","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (ADVP (RB north) (NP (NNP carolina))) (NNS authorities)) (VP (VBP say) (SBAR (S (NP (NN rudolph)) (VP (VBD opened) (PRT (RP up)) (PP (TO to) (NP (PRP them))) (PP (IN about) (NP (PRP$ his) (CD five) (NNS years))) (PP (IN on) (NP (DT the) (NN run))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-0000210649a1\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["north","carolina","authorities","say","rudolph","opened","up","to","them","about","his","five","years","on","the","run","."]
+,"lemmas":["north","carolina","authority","say","rudolph","open","up","to","they","about","he","five","year","on","the","run","."]
+,"posTags":["RB","NNP","NNS","VBP","NN","VBD","RP","TO","PRP","IN","PRP$","CD","NNS","IN","DT","NN","."]
+,"chunks":["B-ADVP","B-NP","B-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,5,3,5,5,7,5,12,12,9,5,15,13,-2]
+,"deprels":["advmod","pobj","nsubj","root","nsubj","ccomp","prt","prep","pobj","prep","poss","num","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (ADVP (RB north) (NP (NNP carolina))) (NNS authorities)) (VP (VBP say) (SBAR (S (NP (NN rudolph)) (VP (VBD opened) (PRT (RP up)) (PP (TO to) (NP (PRP them))) (PP (IN about) (NP (PRP$ his) (CD five) (NNS years))) (PP (IN on) (NP (DT the) (NN run))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499e\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-000021064999\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["north","carolina","authorities","say","rudolph","opened","up","to","them","about","his","five","years","on","the","run","."]
+,"lemmas":["north","carolina","authority","say","rudolph","open","up","to","they","about","he","five","year","on","the","run","."]
+,"posTags":["RB","NNP","NNS","VBP","NN","VBD","RP","TO","PRP","IN","PRP$","CD","NNS","IN","DT","NN","."]
+,"chunks":["B-ADVP","B-NP","B-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,5,3,5,5,7,5,12,12,9,5,15,13,-2]
+,"deprels":["advmod","pobj","nsubj","root","nsubj","ccomp","prt","prep","pobj","prep","poss","num","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (ADVP (RB north) (NP (NNP carolina))) (NNS authorities)) (VP (VBP say) (SBAR (S (NP (NN rudolph)) (VP (VBD opened) (PRT (RP up)) (PP (TO to) (NP (PRP them))) (PP (IN about) (NP (PRP$ his) (CD five) (NNS years))) (PP (IN on) (NP (DT the) (NN run))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499e\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["north","carolina","authorities","say","rudolph","opened","up","to","them","about","his","five","years","on","the","run","."]
+,"lemmas":["north","carolina","authority","say","rudolph","open","up","to","they","about","he","five","year","on","the","run","."]
+,"posTags":["RB","NNP","NNS","VBP","NN","VBD","RP","TO","PRP","IN","PRP$","CD","NNS","IN","DT","NN","."]
+,"chunks":["B-ADVP","B-NP","B-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,5,3,5,5,7,5,12,12,9,5,15,13,-2]
+,"deprels":["advmod","pobj","nsubj","root","nsubj","ccomp","prt","prep","pobj","prep","poss","num","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (ADVP (RB north) (NP (NNP carolina))) (NNS authorities)) (VP (VBP say) (SBAR (S (NP (NN rudolph)) (VP (VBD opened) (PRT (RP up)) (PP (TO to) (NP (PRP them))) (PP (IN about) (NP (PRP$ his) (CD five) (NNS years))) (PP (IN on) (NP (DT the) (NN run))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499e\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["north","carolina","authorities","say","rudolph","opened","up","to","them","about","his","five","years","on","the","run","."]
+,"lemmas":["north","carolina","authority","say","rudolph","open","up","to","they","about","he","five","year","on","the","run","."]
+,"posTags":["RB","NNP","NNS","VBP","NN","VBD","RP","TO","PRP","IN","PRP$","CD","NNS","IN","DT","NN","."]
+,"chunks":["B-ADVP","B-NP","B-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,5,3,5,5,7,5,12,12,9,5,15,13,-2]
+,"deprels":["advmod","pobj","nsubj","root","nsubj","ccomp","prt","prep","pobj","prep","poss","num","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (ADVP (RB north) (NP (NNP carolina))) (NNS authorities)) (VP (VBP say) (SBAR (S (NP (NN rudolph)) (VP (VBD opened) (PRT (RP up)) (PP (TO to) (NP (PRP them))) (PP (IN about) (NP (PRP$ his) (CD five) (NNS years))) (PP (IN on) (NP (DT the) (NN run))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-000021064999\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["north","carolina","authorities","say","rudolph","opened","up","to","them","about","his","five","years","on","the","run","."]
+,"lemmas":["north","carolina","authority","say","rudolph","open","up","to","they","about","he","five","year","on","the","run","."]
+,"posTags":["RB","NNP","NNS","VBP","NN","VBD","RP","TO","PRP","IN","PRP$","CD","NNS","IN","DT","NN","."]
+,"chunks":["B-ADVP","B-NP","B-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,5,3,5,5,7,5,12,12,9,5,15,13,-2]
+,"deprels":["advmod","pobj","nsubj","root","nsubj","ccomp","prt","prep","pobj","prep","poss","num","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (ADVP (RB north) (NP (NNP carolina))) (NNS authorities)) (VP (VBP say) (SBAR (S (NP (NN rudolph)) (VP (VBD opened) (PRT (RP up)) (PP (TO to) (NP (PRP them))) (PP (IN about) (NP (PRP$ his) (CD five) (NNS years))) (PP (IN on) (NP (DT the) (NN run))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"922cfb16-8387-55a7-0f16-000021064999\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["north","carolina","authorities","say","rudolph","opened","up","to","them","about","his","five","years","on","the","run","."]
+,"lemmas":["north","carolina","authority","say","rudolph","open","up","to","they","about","he","five","year","on","the","run","."]
+,"posTags":["RB","NNP","NNS","VBP","NN","VBD","RP","TO","PRP","IN","PRP$","CD","NNS","IN","DT","NN","."]
+,"chunks":["B-ADVP","B-NP","B-NP","B-VP","B-NP","B-VP","B-PRT","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,5,3,5,5,7,5,12,12,9,5,15,13,-2]
+,"deprels":["advmod","pobj","nsubj","root","nsubj","ccomp","prt","prep","pobj","prep","poss","num","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (ADVP (RB north) (NP (NNP carolina))) (NNS authorities)) (VP (VBP say) (SBAR (S (NP (NN rudolph)) (VP (VBD opened) (PRT (RP up)) (PP (TO to) (NP (PRP them))) (PP (IN about) (NP (PRP$ his) (CD five) (NNS years))) (PP (IN on) (NP (DT the) (NN run))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499f\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-00002106499a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","says","he","hunted","wild","animals",",","searched","the","trash","for","food",",","and","covered","himself","with","leaves","to","make","it","through","the","winters","."]
+,"lemmas":["he","say","he","hunt","wild","animal",",","search","the","trash","for","food",",","and","cover","himself","with","leaf","to","make","it","through","the","winter","."]
+,"posTags":["PRP","VBZ","PRP","VBD","JJ","NNS",",","VBD","DT","NN","IN","NN",",","CC","VBD","PRP","IN","NNS","TO","VB","PRP","IN","DT","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-NP","I-NP","B-PP","B-NP","O","O","B-VP","B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,5,3,-2,3,9,7,7,10,-2,3,3,14,14,16,19,14,19,19,23,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","amod","dobj",null,"conj","det","dobj","prep","pobj",null,"cc","conj","dobj","prep","pobj","aux","vmod","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VP (VBD hunted) (NP (JJ wild) (NNS animals))) (, ,) (VP (VBD searched) (NP (DT the) (NN trash)) (PP (IN for) (NP (NN food)))) (, ,) (CC and) (VP (VBD covered) (NP (PRP himself)) (PP (IN with) (NP (NNS leaves))) (S (VP (TO to) (VP (VB make) (NP (PRP it)) (PP (IN through) (NP (DT the) (NNS winters))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064991\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064992\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","says","he","hunted","wild","animals",",","searched","the","trash","for","food",",","and","covered","himself","with","leaves","to","make","it","through","the","winters","."]
+,"lemmas":["he","say","he","hunt","wild","animal",",","search","the","trash","for","food",",","and","cover","himself","with","leaf","to","make","it","through","the","winter","."]
+,"posTags":["PRP","VBZ","PRP","VBD","JJ","NNS",",","VBD","DT","NN","IN","NN",",","CC","VBD","PRP","IN","NNS","TO","VB","PRP","IN","DT","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-NP","I-NP","B-PP","B-NP","O","O","B-VP","B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,5,3,-2,3,9,7,7,10,-2,3,3,14,14,16,19,14,19,19,23,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","amod","dobj",null,"conj","det","dobj","prep","pobj",null,"cc","conj","dobj","prep","pobj","aux","vmod","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VP (VBD hunted) (NP (JJ wild) (NNS animals))) (, ,) (VP (VBD searched) (NP (DT the) (NN trash)) (PP (IN for) (NP (NN food)))) (, ,) (CC and) (VP (VBD covered) (NP (PRP himself)) (PP (IN with) (NP (NNS leaves))) (S (VP (TO to) (VP (VB make) (NP (PRP it)) (PP (IN through) (NP (DT the) (NNS winters))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064991\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064993\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","says","he","hunted","wild","animals",",","searched","the","trash","for","food",",","and","covered","himself","with","leaves","to","make","it","through","the","winters","."]
+,"lemmas":["he","say","he","hunt","wild","animal",",","search","the","trash","for","food",",","and","cover","himself","with","leaf","to","make","it","through","the","winter","."]
+,"posTags":["PRP","VBZ","PRP","VBD","JJ","NNS",",","VBD","DT","NN","IN","NN",",","CC","VBD","PRP","IN","NNS","TO","VB","PRP","IN","DT","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-NP","I-NP","B-PP","B-NP","O","O","B-VP","B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,5,3,-2,3,9,7,7,10,-2,3,3,14,14,16,19,14,19,19,23,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","amod","dobj",null,"conj","det","dobj","prep","pobj",null,"cc","conj","dobj","prep","pobj","aux","vmod","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VP (VBD hunted) (NP (JJ wild) (NNS animals))) (, ,) (VP (VBD searched) (NP (DT the) (NN trash)) (PP (IN for) (NP (NN food)))) (, ,) (CC and) (VP (VBD covered) (NP (PRP himself)) (PP (IN with) (NP (NNS leaves))) (S (VP (TO to) (VP (VB make) (NP (PRP it)) (PP (IN through) (NP (DT the) (NNS winters))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064992\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"922cfb16-8387-55a7-0f16-000021064993\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

@@ -1,0 +1,1160 @@
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b359\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b353\"}}]"
+,"relLabels":["ART"]}
+
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b359\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b364\"}}]"
+,"relLabels":["ART"]}
+
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b337\"},\"m2\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b359\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b337\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b307\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b337\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b364\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b337\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b353\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b359\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b307\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b359\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b308\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b307\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b364\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b307\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b353\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b307\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b308\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b364\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b353\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b364\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b308\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","nasa","and","the","european","space","agency","both","launch","missions","to","mars","this","month","sending","rovers","and","ashters","to","probe","the","red","planet","."]
+,"lemmas":["the","nasa","and","the","european","space","agency","both","launch","mission","to","mar","this","month","send","rover","and","ashter","to","probe","the","red","planet","."]
+,"posTags":["DT","NN","CC","DT","JJ","NN","NN","CC","NN","NNS","TO","NNS","DT","NN","VBG","NNS","CC","NNS","TO","VB","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,6,6,6,1,1,9,1,9,10,13,11,1,14,15,15,19,14,22,22,19,-2]
+,"deprels":["det","root","cc","det","amod","nn","conj","preconj","nn","conj","prep","pobj","det","dep","vmod","dobj","cc","conj","aux","vmod","det","amod","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (NP (DT the) (NN nasa)) (CC and) (NP (DT the) (JJ european) (NN space) (NN agency))) (CC both) (NP (NP (NN launch) (NNS missions)) (PP (TO to) (NP (NP (NNS mars)) (NP (DT this) (NN month)))))) (VP (VBG sending) (NP (NNS rovers) (CC and) (NNS ashters)) (S (VP (TO to) (VP (VB probe) (NP (DT the) (JJ red) (NN planet)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b353\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b308\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["one","of","the","big","questions","about","mars","is","when","or","whether","humans","will","ever","be","able","to","visit","."]
+,"lemmas":["one","of","the","big","question","about","mar","be","when","or","whether","human","will","ever","be","able","to","visit","."]
+,"posTags":["CD","IN","DT","JJ","NNS","IN","NNS","VBZ","WRB","CC","IN","NNS","MD","RB","VB","JJ","TO","VB","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-VP","B-ADVP","O","B-SBAR","B-NP","B-VP","I-VP","I-VP","B-ADJP","B-VP","I-VP","O"]
+,"parents":[7,0,4,4,1,4,5,-1,7,8,15,15,15,15,15,8,17,15,-2]
+,"deprels":["nsubj","prep","det","amod","pobj","prep","pobj","root","dep","cc","mark","nsubj","aux","advmod","cop","conj","aux","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (JJ big) (NNS questions)) (PP (IN about) (NP (NNS mars)))))) (VP (VBZ is) (UCP (FRAG (WHADVP (WRB when))) (CC or) (SBAR (IN whether) (S (NP (NNS humans)) (VP (MD will) (ADVP (RB ever)) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB visit))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b309\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b351\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["joining","us","is","the","contributing","editor","."]
+,"lemmas":["join","we","be","the","contribute","editor","."]
+,"posTags":["VBG","PRP","VBZ","DT","VBG","NN","."]
+,"chunks":["B-VP","B-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,0,5,5,5,-1,-2]
+,"deprels":["csubj","dobj","cop","det","amod","root",null]
+,"naryTree":"((ROOT (S (S (VP (VBG joining) (NP (PRP us)))) (VP (VBZ is) (NP (DT the) (VBG contributing) (NN editor))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b320\"},\"m2\":{\"start\":3,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b360\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["good","to","see","you",",","jeff","."]
+,"lemmas":["good","to","see","you",",","jeff","."]
+,"posTags":["JJ","TO","VB","PRP",",","NN","."]
+,"chunks":["B-ADJP","B-VP","I-VP","B-NP","O","B-NP","O"]
+,"parents":[-1,2,0,2,-2,3,-2]
+,"deprels":["root","aux","dep","dobj",null,"appos",null]
+,"naryTree":"((ROOT (FRAG (ADJP (JJ good)) (S (VP (TO to) (VP (VB see) (NP (NP (PRP you)) (, ,) (NP (NN jeff)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b361\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b362\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["it","was","only","about","30","years","ago","when","we","went","to","the","moon","."]
+,"lemmas":["it","be","only","about","30","year","ago","when","we","go","to","the","moon","."]
+,"posTags":["PRP","VBD","RB","RB","CD","NNS","RB","WRB","PRP","VBD","TO","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-ADVP","B-NP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,4,4,5,6,1,9,9,1,9,12,10,-2]
+,"deprels":["nsubj","root","quantmod","quantmod","num","npadvmod","advmod","advmod","nsubj","advcl","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NP (QP (RB only) (RB about) (CD 30)) (NNS years)) (RB ago)) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBD went) (PP (TO to) (NP (DT the) (NN moon))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b32d\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2dc\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["mars","is","at","most","times","100","million","miles","away","from","us","."]
+,"lemmas":["mar","be","at","most","time","100","million","mile","away","from","we","."]
+,"posTags":["NNS","VBZ","IN","JJS","NNS","CD","CD","NNS","RB","IN","PRP","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,-1,1,4,2,6,7,8,4,8,9,-2]
+,"deprels":["nsubj","root","prep","amod","pobj","number","num","npadvmod","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS mars)) (VP (VBZ is) (PP (IN at) (NP (NP (JJS most) (NNS times)) (ADVP (NP (QP (CD 100) (CD million)) (NNS miles)) (RB away) (PP (IN from) (NP (PRP us))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f6\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f0\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["then","if","we","stay","there","for","about","a","year","or","two",",","the","whole","trip","could","last","about","three","years","."]
+,"lemmas":["then","if","we","stay","there","for","about","a","year","or","two",",","the","whole","trip","could","last","about","three","year","."]
+,"posTags":["RB","IN","PRP","VBP","RB","IN","IN","DT","NN","CC","CD",",","DT","JJ","NN","MD","VB","IN","CD","NNS","."]
+,"chunks":["O","B-SBAR","B-NP","B-VP","B-ADVP","B-PP","I-PP","B-NP","I-NP","O","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[16,3,3,16,6,6,3,8,6,8,8,-2,14,14,16,16,-1,16,19,17,-2]
+,"deprels":["advmod","mark","nsubj","advcl","advmod","dep","prep","det","pobj","cc","conj",null,"det","amod","nsubj","aux","root","prep","num","pobj",null]
+,"naryTree":"((ROOT (S (RB then) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP stay) (PP (ADVP (RB there)) (IN for) (IN about) (NP (NP (DT a) (NN year)) (CC or) (NP (CD two))))))) (, ,) (NP (DT the) (JJ whole) (NN trip)) (VP (MD could) (VP (VB last) (PP (IN about) (NP (CD three) (NNS years))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30b\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b305\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["we","'re","talking","about","conditions","where","there","'s","radiation","in","space","cosmic","radiation","that","could","cause","cancer","."]
+,"lemmas":["we","be","talk","about","condition","where","there","be","radiation","in","space","cosmic","radiation","that","could","cause","cancer","."]
+,"posTags":["PRP","VBP","VBG","IN","NNS","WRB","EX","VBZ","NN","IN","NN","JJ","NN","WDT","MD","VB","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","I-VP","B-NP","O"]
+,"parents":[2,2,-1,2,3,7,7,4,7,8,12,12,9,15,15,12,15,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","advmod","expl","rcmod","nsubj","prep","nn","amod","pobj","nsubj","aux","rcmod","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP 're) (VP (VBG talking) (PP (IN about) (NP (NP (NNS conditions)) (SBAR (WHADVP (WRB where)) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (NN radiation)) (PP (IN in) (NP (NP (NN space) (JJ cosmic) (NN radiation)) (SBAR (WHNP (WDT that)) (S (VP (MD could) (VP (VB cause) (NP (NN cancer)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b331\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b318\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","communications","conditions","once","you","'re","on","mars",",","just","to","talk","to","people","on","earth",",","there","'s","a","20","minute","delay","in","the","conversation","."]
+,"lemmas":["the","communication","condition","once","you","be","on","mar",",","just","to","talk","to","people","on","earth",",","there","be","a","20","minute","delay","in","the","conversation","."]
+,"posTags":["DT","NNS","NNS","RB","PRP","VBP","IN","NNS",",","RB","TO","VB","TO","NNS","IN","NN",",","EX","VBZ","DT","CD","NN","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-ADVP","B-NP","B-VP","B-PP","B-NP","O","B-ADVP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,18,18,5,18,5,6,-2,11,11,5,11,12,13,14,-2,18,-1,22,21,22,18,22,25,23,-2]
+,"deprels":["det","nn","nsubj","advmod","nsubj","parataxis","prep","pobj",null,"advmod","aux","xcomp","prep","pobj","prep","pobj",null,"expl","root","det","number","amod","nsubj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NNS communications) (NNS conditions)) (ADVP (RB once)) (PRN (S (NP (PRP you)) (VP (VBP 're) (PP (IN on) (NP (NNS mars))) (, ,) (S (ADVP (RB just)) (VP (TO to) (VP (VB talk) (PP (TO to) (NP (NP (NNS people)) (PP (IN on) (NP (NN earth)))))))))) (, ,)) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (ADJP (CD 20) (NN minute)) (NN delay)) (PP (IN in) (NP (DT the) (NN conversation))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b322\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f7\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["the","communications","conditions","once","you","'re","on","mars",",","just","to","talk","to","people","on","earth",",","there","'s","a","20","minute","delay","in","the","conversation","."]
+,"lemmas":["the","communication","condition","once","you","be","on","mar",",","just","to","talk","to","people","on","earth",",","there","be","a","20","minute","delay","in","the","conversation","."]
+,"posTags":["DT","NNS","NNS","RB","PRP","VBP","IN","NNS",",","RB","TO","VB","TO","NNS","IN","NN",",","EX","VBZ","DT","CD","NN","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-ADVP","B-NP","B-VP","B-PP","B-NP","O","B-ADVP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,18,18,5,18,5,6,-2,11,11,5,11,12,13,14,-2,18,-1,22,21,22,18,22,25,23,-2]
+,"deprels":["det","nn","nsubj","advmod","nsubj","parataxis","prep","pobj",null,"advmod","aux","xcomp","prep","pobj","prep","pobj",null,"expl","root","det","number","amod","nsubj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NNS communications) (NNS conditions)) (ADVP (RB once)) (PRN (S (NP (PRP you)) (VP (VBP 're) (PP (IN on) (NP (NNS mars))) (, ,) (S (ADVP (RB just)) (VP (TO to) (VP (VB talk) (PP (TO to) (NP (NP (NNS people)) (PP (IN on) (NP (NN earth)))))))))) (, ,)) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (ADJP (CD 20) (NN minute)) (NN delay)) (PP (IN in) (NP (DT the) (NN conversation))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2de\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f3\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["the","communications","conditions","once","you","'re","on","mars",",","just","to","talk","to","people","on","earth",",","there","'s","a","20","minute","delay","in","the","conversation","."]
+,"lemmas":["the","communication","condition","once","you","be","on","mar",",","just","to","talk","to","people","on","earth",",","there","be","a","20","minute","delay","in","the","conversation","."]
+,"posTags":["DT","NNS","NNS","RB","PRP","VBP","IN","NNS",",","RB","TO","VB","TO","NNS","IN","NN",",","EX","VBZ","DT","CD","NN","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-ADVP","B-NP","B-VP","B-PP","B-NP","O","B-ADVP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,18,18,5,18,5,6,-2,11,11,5,11,12,13,14,-2,18,-1,22,21,22,18,22,25,23,-2]
+,"deprels":["det","nn","nsubj","advmod","nsubj","parataxis","prep","pobj",null,"advmod","aux","xcomp","prep","pobj","prep","pobj",null,"expl","root","det","number","amod","nsubj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NNS communications) (NNS conditions)) (ADVP (RB once)) (PRN (S (NP (PRP you)) (VP (VBP 're) (PP (IN on) (NP (NNS mars))) (, ,) (S (ADVP (RB just)) (VP (TO to) (VP (VB talk) (PP (TO to) (NP (NP (NNS people)) (PP (IN on) (NP (NN earth)))))))))) (, ,)) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (ADJP (CD 20) (NN minute)) (NN delay)) (PP (IN in) (NP (DT the) (NN conversation))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b322\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2de\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","communications","conditions","once","you","'re","on","mars",",","just","to","talk","to","people","on","earth",",","there","'s","a","20","minute","delay","in","the","conversation","."]
+,"lemmas":["the","communication","condition","once","you","be","on","mar",",","just","to","talk","to","people","on","earth",",","there","be","a","20","minute","delay","in","the","conversation","."]
+,"posTags":["DT","NNS","NNS","RB","PRP","VBP","IN","NNS",",","RB","TO","VB","TO","NNS","IN","NN",",","EX","VBZ","DT","CD","NN","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-ADVP","B-NP","B-VP","B-PP","B-NP","O","B-ADVP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,18,18,5,18,5,6,-2,11,11,5,11,12,13,14,-2,18,-1,22,21,22,18,22,25,23,-2]
+,"deprels":["det","nn","nsubj","advmod","nsubj","parataxis","prep","pobj",null,"advmod","aux","xcomp","prep","pobj","prep","pobj",null,"expl","root","det","number","amod","nsubj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NNS communications) (NNS conditions)) (ADVP (RB once)) (PRN (S (NP (PRP you)) (VP (VBP 're) (PP (IN on) (NP (NNS mars))) (, ,) (S (ADVP (RB just)) (VP (TO to) (VP (VB talk) (PP (TO to) (NP (NP (NNS people)) (PP (IN on) (NP (NN earth)))))))))) (, ,)) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (ADJP (CD 20) (NN minute)) (NN delay)) (PP (IN in) (NP (DT the) (NN conversation))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b322\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f3\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","communications","conditions","once","you","'re","on","mars",",","just","to","talk","to","people","on","earth",",","there","'s","a","20","minute","delay","in","the","conversation","."]
+,"lemmas":["the","communication","condition","once","you","be","on","mar",",","just","to","talk","to","people","on","earth",",","there","be","a","20","minute","delay","in","the","conversation","."]
+,"posTags":["DT","NNS","NNS","RB","PRP","VBP","IN","NNS",",","RB","TO","VB","TO","NNS","IN","NN",",","EX","VBZ","DT","CD","NN","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-ADVP","B-NP","B-VP","B-PP","B-NP","O","B-ADVP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,18,18,5,18,5,6,-2,11,11,5,11,12,13,14,-2,18,-1,22,21,22,18,22,25,23,-2]
+,"deprels":["det","nn","nsubj","advmod","nsubj","parataxis","prep","pobj",null,"advmod","aux","xcomp","prep","pobj","prep","pobj",null,"expl","root","det","number","amod","nsubj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NNS communications) (NNS conditions)) (ADVP (RB once)) (PRN (S (NP (PRP you)) (VP (VBP 're) (PP (IN on) (NP (NNS mars))) (, ,) (S (ADVP (RB just)) (VP (TO to) (VP (VB talk) (PP (TO to) (NP (NP (NNS people)) (PP (IN on) (NP (NN earth)))))))))) (, ,)) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (ADJP (CD 20) (NN minute)) (NN delay)) (PP (IN in) (NP (DT the) (NN conversation))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f7\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2de\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","communications","conditions","once","you","'re","on","mars",",","just","to","talk","to","people","on","earth",",","there","'s","a","20","minute","delay","in","the","conversation","."]
+,"lemmas":["the","communication","condition","once","you","be","on","mar",",","just","to","talk","to","people","on","earth",",","there","be","a","20","minute","delay","in","the","conversation","."]
+,"posTags":["DT","NNS","NNS","RB","PRP","VBP","IN","NNS",",","RB","TO","VB","TO","NNS","IN","NN",",","EX","VBZ","DT","CD","NN","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-ADVP","B-NP","B-VP","B-PP","B-NP","O","B-ADVP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,18,18,5,18,5,6,-2,11,11,5,11,12,13,14,-2,18,-1,22,21,22,18,22,25,23,-2]
+,"deprels":["det","nn","nsubj","advmod","nsubj","parataxis","prep","pobj",null,"advmod","aux","xcomp","prep","pobj","prep","pobj",null,"expl","root","det","number","amod","nsubj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NNS communications) (NNS conditions)) (ADVP (RB once)) (PRN (S (NP (PRP you)) (VP (VBP 're) (PP (IN on) (NP (NNS mars))) (, ,) (S (ADVP (RB just)) (VP (TO to) (VP (VB talk) (PP (TO to) (NP (NP (NNS people)) (PP (IN on) (NP (NN earth)))))))))) (, ,)) (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (ADJP (CD 20) (NN minute)) (NN delay)) (PP (IN in) (NP (DT the) (NN conversation))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f7\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f3\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","the","--","you","know",",","the","issues","are","so","much","larger","than","going","to","the","moon","."]
+,"lemmas":["so","the","--","you","know",",","the","issue","be","so","much","larger","than","go","to","the","moon","."]
+,"posTags":["IN","DT",":","PRP","VBP",",","DT","NNS","VBP","RB","RB","JJR","IN","VBG","TO","DT","NN","."]
+,"chunks":["B-ADVP","I-ADVP","O","B-NP","B-VP","O","B-NP","I-NP","B-VP","B-ADJP","I-ADJP","I-ADJP","B-PP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,0,-2,4,-1,-2,7,11,11,11,11,4,11,12,13,16,14,-2]
+,"deprels":["advmod","dep",null,"nsubj","root",null,"det","nsubj","cop","advmod","advmod","ccomp","prep","pcomp","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (IN so) (DT the)) (: --) (NP (PRP you)) (VP (VBP know) (, ,) (SBAR (S (NP (DT the) (NNS issues)) (VP (VBP are) (ADJP (ADJP (RB so) (RB much) (JJR larger)) (PP (IN than) (S (VP (VBG going) (PP (TO to) (NP (DT the) (NN moon))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b323\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2db\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["and","for","now",",","it","'s","250","days",",","which","seems","to","be","the","maximum","for","astronauts","in","space","anyway","."]
+,"lemmas":["and","for","now",",","it","be","250","day",",","which","seem","to","be","the","maximum","for","astronaut","in","space","anyway","."]
+,"posTags":["CC","IN","RB",",","PRP","VBZ","CD","NNS",",","WDT","VBZ","TO","VB","DT","NN","IN","NNS","IN","NN","RB","."]
+,"chunks":["O","B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","B-VP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","B-ADVP","O"]
+,"parents":[7,7,1,-2,7,7,7,-1,-2,10,7,14,14,14,10,14,15,16,17,16,-2]
+,"deprels":["cc","prep","pobj",null,"nsubj","cop","num","root",null,"nsubj","rcmod","aux","cop","det","xcomp","prep","pobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (CC and) (PP (IN for) (NP (RB now))) (, ,) (NP (PRP it)) (VP (VBZ 's) (NP (NP (CD 250) (NNS days)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (NP (NP (DT the) (NN maximum)) (PP (IN for) (NP (NP (NNS astronauts)) (PP (IN in) (NP (NN space))) (ADVP (RB anyway))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e0\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b319\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["but","let","'s","talk","about","some","of","the","hurdles","that","hamper","humans","to","be","able","to","survive","there","."]
+,"lemmas":["but","let","'s","talk","about","some","of","the","hurdle","that","hamper","human","to","be","able","to","survive","there","."]
+,"posTags":["CC","VB","POS","VB","IN","DT","IN","DT","NNS","WDT","VBP","NNS","TO","VB","JJ","TO","VB","RB","."]
+,"chunks":["O","B-VP","B-NP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-NP","B-VP","I-VP","B-ADJP","B-VP","I-VP","B-ADVP","O"]
+,"parents":[1,-1,3,1,3,4,5,8,6,10,8,10,14,14,10,16,14,16,-2]
+,"deprels":["cc","root","nsubj","ccomp","prep","pobj","prep","det","pobj","nsubj","rcmod","dobj","aux","cop","xcomp","aux","xcomp","advmod",null]
+,"naryTree":"((ROOT (S (CC but) (VP (VB let) (S (NP (POS 's)) (VP (VB talk) (PP (IN about) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS hurdles)) (SBAR (WHNP (WDT that)) (S (VP (VBP hamper) (S (NP (NNS humans)) (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB survive) (ADVP (RB there))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b32a\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34e\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["but","let","'s","talk","about","some","of","the","hurdles","that","hamper","humans","to","be","able","to","survive","there","."]
+,"lemmas":["but","let","'s","talk","about","some","of","the","hurdle","that","hamper","human","to","be","able","to","survive","there","."]
+,"posTags":["CC","VB","POS","VB","IN","DT","IN","DT","NNS","WDT","VBP","NNS","TO","VB","JJ","TO","VB","RB","."]
+,"chunks":["O","B-VP","B-NP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-NP","B-VP","I-VP","B-ADJP","B-VP","I-VP","B-ADVP","O"]
+,"parents":[1,-1,3,1,3,4,5,8,6,10,8,10,14,14,10,16,14,16,-2]
+,"deprels":["cc","root","nsubj","ccomp","prep","pobj","prep","det","pobj","nsubj","rcmod","dobj","aux","cop","xcomp","aux","xcomp","advmod",null]
+,"naryTree":"((ROOT (S (CC but) (VP (VB let) (S (NP (POS 's)) (VP (VB talk) (PP (IN about) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS hurdles)) (SBAR (WHNP (WDT that)) (S (VP (VBP hamper) (S (NP (NNS humans)) (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB survive) (ADVP (RB there))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b32a\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f8\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["but","let","'s","talk","about","some","of","the","hurdles","that","hamper","humans","to","be","able","to","survive","there","."]
+,"lemmas":["but","let","'s","talk","about","some","of","the","hurdle","that","hamper","human","to","be","able","to","survive","there","."]
+,"posTags":["CC","VB","POS","VB","IN","DT","IN","DT","NNS","WDT","VBP","NNS","TO","VB","JJ","TO","VB","RB","."]
+,"chunks":["O","B-VP","B-NP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-NP","B-VP","I-VP","B-ADJP","B-VP","I-VP","B-ADVP","O"]
+,"parents":[1,-1,3,1,3,4,5,8,6,10,8,10,14,14,10,16,14,16,-2]
+,"deprels":["cc","root","nsubj","ccomp","prep","pobj","prep","det","pobj","nsubj","rcmod","dobj","aux","cop","xcomp","aux","xcomp","advmod",null]
+,"naryTree":"((ROOT (S (CC but) (VP (VB let) (S (NP (POS 's)) (VP (VB talk) (PP (IN about) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS hurdles)) (SBAR (WHNP (WDT that)) (S (VP (VBP hamper) (S (NP (NNS humans)) (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB survive) (ADVP (RB there))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34e\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f8\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["let","'s","talk","about","the","right","kind","of","spacecraft","that","would","be","able","to","allow","humans","to","actually","get","that","far","and","to","survive","."]
+,"lemmas":["let","'s","talk","about","the","right","kind","of","spacecraft","that","would","be","able","to","allow","human","to","actually","get","that","far","and","to","survive","."]
+,"posTags":["VB","POS","VB","IN","DT","JJ","NN","IN","NN","WDT","MD","VB","JJ","TO","VB","NNS","TO","RB","VB","DT","RB","CC","TO","VB","."]
+,"chunks":["B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-ADJP","B-VP","I-VP","B-NP","B-VP","I-VP","I-VP","B-ADVP","I-ADVP","O","B-VP","I-VP","O"]
+,"parents":[-1,2,0,2,6,6,3,6,7,12,12,12,6,14,12,18,18,18,14,20,18,18,23,18,-2]
+,"deprels":["root","nsubj","ccomp","prep","det","amod","pobj","prep","pobj","nsubj","aux","cop","rcmod","aux","xcomp","nsubj","aux","advmod","ccomp","dep","advmod","cc","aux","conj",null]
+,"naryTree":"((ROOT (S (VP (VB let) (S (NP (POS 's)) (VP (VB talk) (PP (IN about) (NP (NP (DT the) (JJ right) (NN kind)) (PP (IN of) (NP (NN spacecraft))) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB allow) (S (NP (NNS humans)) (VP (VP (TO to) (ADVP (RB actually)) (VP (VB get) (ADVP (DT that) (RB far)))) (CC and) (VP (TO to) (VP (VB survive)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b32b\"},\"m2\":{\"start\":4,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e5\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["let","'s","talk","about","the","right","kind","of","spacecraft","that","would","be","able","to","allow","humans","to","actually","get","that","far","and","to","survive","."]
+,"lemmas":["let","'s","talk","about","the","right","kind","of","spacecraft","that","would","be","able","to","allow","human","to","actually","get","that","far","and","to","survive","."]
+,"posTags":["VB","POS","VB","IN","DT","JJ","NN","IN","NN","WDT","MD","VB","JJ","TO","VB","NNS","TO","RB","VB","DT","RB","CC","TO","VB","."]
+,"chunks":["B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-ADJP","B-VP","I-VP","B-NP","B-VP","I-VP","I-VP","B-ADVP","I-ADVP","O","B-VP","I-VP","O"]
+,"parents":[-1,2,0,2,6,6,3,6,7,12,12,12,6,14,12,18,18,18,14,20,18,18,23,18,-2]
+,"deprels":["root","nsubj","ccomp","prep","det","amod","pobj","prep","pobj","nsubj","aux","cop","rcmod","aux","xcomp","nsubj","aux","advmod","ccomp","dep","advmod","cc","aux","conj",null]
+,"naryTree":"((ROOT (S (VP (VB let) (S (NP (POS 's)) (VP (VB talk) (PP (IN about) (NP (NP (DT the) (JJ right) (NN kind)) (PP (IN of) (NP (NN spacecraft))) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB allow) (S (NP (NNS humans)) (VP (VP (TO to) (ADVP (RB actually)) (VP (VB get) (ADVP (DT that) (RB far)))) (CC and) (VP (TO to) (VP (VB survive)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b32b\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e6\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["let","'s","talk","about","the","right","kind","of","spacecraft","that","would","be","able","to","allow","humans","to","actually","get","that","far","and","to","survive","."]
+,"lemmas":["let","'s","talk","about","the","right","kind","of","spacecraft","that","would","be","able","to","allow","human","to","actually","get","that","far","and","to","survive","."]
+,"posTags":["VB","POS","VB","IN","DT","JJ","NN","IN","NN","WDT","MD","VB","JJ","TO","VB","NNS","TO","RB","VB","DT","RB","CC","TO","VB","."]
+,"chunks":["B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-ADJP","B-VP","I-VP","B-NP","B-VP","I-VP","I-VP","B-ADVP","I-ADVP","O","B-VP","I-VP","O"]
+,"parents":[-1,2,0,2,6,6,3,6,7,12,12,12,6,14,12,18,18,18,14,20,18,18,23,18,-2]
+,"deprels":["root","nsubj","ccomp","prep","det","amod","pobj","prep","pobj","nsubj","aux","cop","rcmod","aux","xcomp","nsubj","aux","advmod","ccomp","dep","advmod","cc","aux","conj",null]
+,"naryTree":"((ROOT (S (VP (VB let) (S (NP (POS 's)) (VP (VB talk) (PP (IN about) (NP (NP (DT the) (JJ right) (NN kind)) (PP (IN of) (NP (NN spacecraft))) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB allow) (S (NP (NNS humans)) (VP (VP (TO to) (ADVP (RB actually)) (VP (VB get) (ADVP (DT that) (RB far)))) (CC and) (VP (TO to) (VP (VB survive)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b32b\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34f\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["let","'s","talk","about","the","right","kind","of","spacecraft","that","would","be","able","to","allow","humans","to","actually","get","that","far","and","to","survive","."]
+,"lemmas":["let","'s","talk","about","the","right","kind","of","spacecraft","that","would","be","able","to","allow","human","to","actually","get","that","far","and","to","survive","."]
+,"posTags":["VB","POS","VB","IN","DT","JJ","NN","IN","NN","WDT","MD","VB","JJ","TO","VB","NNS","TO","RB","VB","DT","RB","CC","TO","VB","."]
+,"chunks":["B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-ADJP","B-VP","I-VP","B-NP","B-VP","I-VP","I-VP","B-ADVP","I-ADVP","O","B-VP","I-VP","O"]
+,"parents":[-1,2,0,2,6,6,3,6,7,12,12,12,6,14,12,18,18,18,14,20,18,18,23,18,-2]
+,"deprels":["root","nsubj","ccomp","prep","det","amod","pobj","prep","pobj","nsubj","aux","cop","rcmod","aux","xcomp","nsubj","aux","advmod","ccomp","dep","advmod","cc","aux","conj",null]
+,"naryTree":"((ROOT (S (VP (VB let) (S (NP (POS 's)) (VP (VB talk) (PP (IN about) (NP (NP (DT the) (JJ right) (NN kind)) (PP (IN of) (NP (NN spacecraft))) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB allow) (S (NP (NNS humans)) (VP (VP (TO to) (ADVP (RB actually)) (VP (VB get) (ADVP (DT that) (RB far)))) (CC and) (VP (TO to) (VP (VB survive)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e5\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e6\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["let","'s","talk","about","the","right","kind","of","spacecraft","that","would","be","able","to","allow","humans","to","actually","get","that","far","and","to","survive","."]
+,"lemmas":["let","'s","talk","about","the","right","kind","of","spacecraft","that","would","be","able","to","allow","human","to","actually","get","that","far","and","to","survive","."]
+,"posTags":["VB","POS","VB","IN","DT","JJ","NN","IN","NN","WDT","MD","VB","JJ","TO","VB","NNS","TO","RB","VB","DT","RB","CC","TO","VB","."]
+,"chunks":["B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-ADJP","B-VP","I-VP","B-NP","B-VP","I-VP","I-VP","B-ADVP","I-ADVP","O","B-VP","I-VP","O"]
+,"parents":[-1,2,0,2,6,6,3,6,7,12,12,12,6,14,12,18,18,18,14,20,18,18,23,18,-2]
+,"deprels":["root","nsubj","ccomp","prep","det","amod","pobj","prep","pobj","nsubj","aux","cop","rcmod","aux","xcomp","nsubj","aux","advmod","ccomp","dep","advmod","cc","aux","conj",null]
+,"naryTree":"((ROOT (S (VP (VB let) (S (NP (POS 's)) (VP (VB talk) (PP (IN about) (NP (NP (DT the) (JJ right) (NN kind)) (PP (IN of) (NP (NN spacecraft))) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB allow) (S (NP (NNS humans)) (VP (VP (TO to) (ADVP (RB actually)) (VP (VB get) (ADVP (DT that) (RB far)))) (CC and) (VP (TO to) (VP (VB survive)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e5\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34f\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["let","'s","talk","about","the","right","kind","of","spacecraft","that","would","be","able","to","allow","humans","to","actually","get","that","far","and","to","survive","."]
+,"lemmas":["let","'s","talk","about","the","right","kind","of","spacecraft","that","would","be","able","to","allow","human","to","actually","get","that","far","and","to","survive","."]
+,"posTags":["VB","POS","VB","IN","DT","JJ","NN","IN","NN","WDT","MD","VB","JJ","TO","VB","NNS","TO","RB","VB","DT","RB","CC","TO","VB","."]
+,"chunks":["B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-ADJP","B-VP","I-VP","B-NP","B-VP","I-VP","I-VP","B-ADVP","I-ADVP","O","B-VP","I-VP","O"]
+,"parents":[-1,2,0,2,6,6,3,6,7,12,12,12,6,14,12,18,18,18,14,20,18,18,23,18,-2]
+,"deprels":["root","nsubj","ccomp","prep","det","amod","pobj","prep","pobj","nsubj","aux","cop","rcmod","aux","xcomp","nsubj","aux","advmod","ccomp","dep","advmod","cc","aux","conj",null]
+,"naryTree":"((ROOT (S (VP (VB let) (S (NP (POS 's)) (VP (VB talk) (PP (IN about) (NP (NP (DT the) (JJ right) (NN kind)) (PP (IN of) (NP (NN spacecraft))) (SBAR (WHNP (WDT that)) (S (VP (MD would) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB allow) (S (NP (NNS humans)) (VP (VP (TO to) (ADVP (RB actually)) (VP (VB get) (ADVP (DT that) (RB far)))) (CC and) (VP (TO to) (VP (VB survive)))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e6\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34f\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["well",",","first","of","all",",","the","spacecraft","would","not","be","launched","from","earth","."]
+,"lemmas":["well",",","first","of","all",",","the","spacecraft","would","not","be","launch","from","earth","."]
+,"posTags":["RB",",","RB","IN","DT",",","DT","NN","MD","RB","VB","VBN","IN","NN","."]
+,"chunks":["B-ADVP","O","B-ADVP","B-PP","B-NP","O","B-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[11,-2,3,11,3,-2,7,11,11,11,11,-1,11,12,-2]
+,"deprels":["advmod",null,"advmod","prep","pobj",null,"det","nsubjpass","aux","neg","auxpass","root","prep","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB well)) (, ,) (PP (ADVP (RB first)) (IN of) (NP (DT all))) (, ,) (NP (DT the) (NN spacecraft)) (VP (MD would) (RB not) (VP (VB be) (VP (VBN launched) (PP (IN from) (NP (NN earth)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e7\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f1\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30c\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b31b\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b324\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ea\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b324\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b31a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b324\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b324\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2eb\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ea\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b31a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ea\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ea\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2eb\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ea\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b31b\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b31a\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b31a\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2eb\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b31a\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b31b\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30c\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2eb\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["you","'d","have","to","launch","is","from","in","space","already",",","which","means","we","would","have","to","build","it","in","space","."]
+,"lemmas":["you","would","have","to","launch","be","from","in","space","already",",","which","mean","we","would","have","to","build","it","in","space","."]
+,"posTags":["PRP","MD","VB","TO","NN","VBZ","IN","IN","NN","RB",",","WDT","VBZ","PRP","MD","VB","TO","VB","PRP","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-PP","B-NP","B-ADVP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,4,5,6,7,5,-2,12,4,15,15,12,17,15,17,17,19,-2]
+,"deprels":["nsubj","aux","root","prep","pobj","rcmod","prep","pcomp","pobj","advmod",null,"nsubj","rcmod","nsubj","aux","ccomp","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (MD 'd) (VP (VB have) (PP (TO to) (NP (NP (NN launch)) (SBAR (S (VP (VBZ is) (PP (IN from) (PP (IN in) (NP (NN space)))) (ADVP (RB already))))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (PRP we)) (VP (MD would) (VP (VB have) (S (VP (TO to) (VP (VB build) (NP (PRP it)) (PP (IN in) (NP (NN space))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2eb\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b31b\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","that","means","we","need","a","good","shuttle","that","'s","going","to","take","us","back","and","forth","to","build","the","spacecraft","."]
+,"lemmas":["so","that","mean","we","need","a","good","shuttle","that","be","go","to","take","we","back","and","forth","to","build","the","spacecraft","."]
+,"posTags":["RB","IN","VBZ","PRP","VBP","DT","JJ","NN","WDT","VBZ","VBG","TO","VB","PRP","RB","CC","RB","TO","VB","DT","NN","."]
+,"chunks":["B-ADVP","B-SBAR","B-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-ADVP","I-ADVP","I-ADVP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[4,2,0,4,-1,7,7,4,10,10,7,12,10,12,12,14,14,18,12,20,18,-2]
+,"deprels":["advmod","mark","ccomp","nsubj","root","det","amod","dobj","nsubj","aux","rcmod","aux","xcomp","dobj","advmod","cc","conj","aux","vmod","det","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB so) (SBAR (IN that) (S (VP (VBZ means))))) (NP (PRP we)) (VP (VBP need) (NP (NP (DT a) (JJ good) (NN shuttle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (PRP us)) (ADVP (RB back) (CC and) (RB forth)) (S (VP (TO to) (VP (VB build) (NP (DT the) (NN spacecraft)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30d\"},\"m2\":{\"start\":5,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ed\"}}]"
+,"relLabels":["ART"]}
+
+{"words":["so","that","means","we","need","a","good","shuttle","that","'s","going","to","take","us","back","and","forth","to","build","the","spacecraft","."]
+,"lemmas":["so","that","mean","we","need","a","good","shuttle","that","be","go","to","take","we","back","and","forth","to","build","the","spacecraft","."]
+,"posTags":["RB","IN","VBZ","PRP","VBP","DT","JJ","NN","WDT","VBZ","VBG","TO","VB","PRP","RB","CC","RB","TO","VB","DT","NN","."]
+,"chunks":["B-ADVP","B-SBAR","B-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-ADVP","I-ADVP","I-ADVP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[4,2,0,4,-1,7,7,4,10,10,7,12,10,12,12,14,14,18,12,20,18,-2]
+,"deprels":["advmod","mark","ccomp","nsubj","root","det","amod","dobj","nsubj","aux","rcmod","aux","xcomp","dobj","advmod","cc","conj","aux","vmod","det","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB so) (SBAR (IN that) (S (VP (VBZ means))))) (NP (PRP we)) (VP (VBP need) (NP (NP (DT a) (JJ good) (NN shuttle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (PRP us)) (ADVP (RB back) (CC and) (RB forth)) (S (VP (TO to) (VP (VB build) (NP (DT the) (NN spacecraft)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30d\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ee\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","that","means","we","need","a","good","shuttle","that","'s","going","to","take","us","back","and","forth","to","build","the","spacecraft","."]
+,"lemmas":["so","that","mean","we","need","a","good","shuttle","that","be","go","to","take","we","back","and","forth","to","build","the","spacecraft","."]
+,"posTags":["RB","IN","VBZ","PRP","VBP","DT","JJ","NN","WDT","VBZ","VBG","TO","VB","PRP","RB","CC","RB","TO","VB","DT","NN","."]
+,"chunks":["B-ADVP","B-SBAR","B-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-ADVP","I-ADVP","I-ADVP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[4,2,0,4,-1,7,7,4,10,10,7,12,10,12,12,14,14,18,12,20,18,-2]
+,"deprels":["advmod","mark","ccomp","nsubj","root","det","amod","dobj","nsubj","aux","rcmod","aux","xcomp","dobj","advmod","cc","conj","aux","vmod","det","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB so) (SBAR (IN that) (S (VP (VBZ means))))) (NP (PRP we)) (VP (VBP need) (NP (NP (DT a) (JJ good) (NN shuttle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (PRP us)) (ADVP (RB back) (CC and) (RB forth)) (S (VP (TO to) (VP (VB build) (NP (DT the) (NN spacecraft)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30d\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30e\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","that","means","we","need","a","good","shuttle","that","'s","going","to","take","us","back","and","forth","to","build","the","spacecraft","."]
+,"lemmas":["so","that","mean","we","need","a","good","shuttle","that","be","go","to","take","we","back","and","forth","to","build","the","spacecraft","."]
+,"posTags":["RB","IN","VBZ","PRP","VBP","DT","JJ","NN","WDT","VBZ","VBG","TO","VB","PRP","RB","CC","RB","TO","VB","DT","NN","."]
+,"chunks":["B-ADVP","B-SBAR","B-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-ADVP","I-ADVP","I-ADVP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[4,2,0,4,-1,7,7,4,10,10,7,12,10,12,12,14,14,18,12,20,18,-2]
+,"deprels":["advmod","mark","ccomp","nsubj","root","det","amod","dobj","nsubj","aux","rcmod","aux","xcomp","dobj","advmod","cc","conj","aux","vmod","det","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB so) (SBAR (IN that) (S (VP (VBZ means))))) (NP (PRP we)) (VP (VBP need) (NP (NP (DT a) (JJ good) (NN shuttle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (PRP us)) (ADVP (RB back) (CC and) (RB forth)) (S (VP (TO to) (VP (VB build) (NP (DT the) (NN spacecraft)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30d\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e8\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","that","means","we","need","a","good","shuttle","that","'s","going","to","take","us","back","and","forth","to","build","the","spacecraft","."]
+,"lemmas":["so","that","mean","we","need","a","good","shuttle","that","be","go","to","take","we","back","and","forth","to","build","the","spacecraft","."]
+,"posTags":["RB","IN","VBZ","PRP","VBP","DT","JJ","NN","WDT","VBZ","VBG","TO","VB","PRP","RB","CC","RB","TO","VB","DT","NN","."]
+,"chunks":["B-ADVP","B-SBAR","B-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-ADVP","I-ADVP","I-ADVP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[4,2,0,4,-1,7,7,4,10,10,7,12,10,12,12,14,14,18,12,20,18,-2]
+,"deprels":["advmod","mark","ccomp","nsubj","root","det","amod","dobj","nsubj","aux","rcmod","aux","xcomp","dobj","advmod","cc","conj","aux","vmod","det","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB so) (SBAR (IN that) (S (VP (VBZ means))))) (NP (PRP we)) (VP (VBP need) (NP (NP (DT a) (JJ good) (NN shuttle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (PRP us)) (ADVP (RB back) (CC and) (RB forth)) (S (VP (TO to) (VP (VB build) (NP (DT the) (NN spacecraft)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ed\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ee\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","that","means","we","need","a","good","shuttle","that","'s","going","to","take","us","back","and","forth","to","build","the","spacecraft","."]
+,"lemmas":["so","that","mean","we","need","a","good","shuttle","that","be","go","to","take","we","back","and","forth","to","build","the","spacecraft","."]
+,"posTags":["RB","IN","VBZ","PRP","VBP","DT","JJ","NN","WDT","VBZ","VBG","TO","VB","PRP","RB","CC","RB","TO","VB","DT","NN","."]
+,"chunks":["B-ADVP","B-SBAR","B-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-ADVP","I-ADVP","I-ADVP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[4,2,0,4,-1,7,7,4,10,10,7,12,10,12,12,14,14,18,12,20,18,-2]
+,"deprels":["advmod","mark","ccomp","nsubj","root","det","amod","dobj","nsubj","aux","rcmod","aux","xcomp","dobj","advmod","cc","conj","aux","vmod","det","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB so) (SBAR (IN that) (S (VP (VBZ means))))) (NP (PRP we)) (VP (VBP need) (NP (NP (DT a) (JJ good) (NN shuttle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (PRP us)) (ADVP (RB back) (CC and) (RB forth)) (S (VP (TO to) (VP (VB build) (NP (DT the) (NN spacecraft)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ed\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30e\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","that","means","we","need","a","good","shuttle","that","'s","going","to","take","us","back","and","forth","to","build","the","spacecraft","."]
+,"lemmas":["so","that","mean","we","need","a","good","shuttle","that","be","go","to","take","we","back","and","forth","to","build","the","spacecraft","."]
+,"posTags":["RB","IN","VBZ","PRP","VBP","DT","JJ","NN","WDT","VBZ","VBG","TO","VB","PRP","RB","CC","RB","TO","VB","DT","NN","."]
+,"chunks":["B-ADVP","B-SBAR","B-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-ADVP","I-ADVP","I-ADVP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[4,2,0,4,-1,7,7,4,10,10,7,12,10,12,12,14,14,18,12,20,18,-2]
+,"deprels":["advmod","mark","ccomp","nsubj","root","det","amod","dobj","nsubj","aux","rcmod","aux","xcomp","dobj","advmod","cc","conj","aux","vmod","det","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB so) (SBAR (IN that) (S (VP (VBZ means))))) (NP (PRP we)) (VP (VBP need) (NP (NP (DT a) (JJ good) (NN shuttle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (PRP us)) (ADVP (RB back) (CC and) (RB forth)) (S (VP (TO to) (VP (VB build) (NP (DT the) (NN spacecraft)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ed\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e8\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","that","means","we","need","a","good","shuttle","that","'s","going","to","take","us","back","and","forth","to","build","the","spacecraft","."]
+,"lemmas":["so","that","mean","we","need","a","good","shuttle","that","be","go","to","take","we","back","and","forth","to","build","the","spacecraft","."]
+,"posTags":["RB","IN","VBZ","PRP","VBP","DT","JJ","NN","WDT","VBZ","VBG","TO","VB","PRP","RB","CC","RB","TO","VB","DT","NN","."]
+,"chunks":["B-ADVP","B-SBAR","B-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-ADVP","I-ADVP","I-ADVP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[4,2,0,4,-1,7,7,4,10,10,7,12,10,12,12,14,14,18,12,20,18,-2]
+,"deprels":["advmod","mark","ccomp","nsubj","root","det","amod","dobj","nsubj","aux","rcmod","aux","xcomp","dobj","advmod","cc","conj","aux","vmod","det","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB so) (SBAR (IN that) (S (VP (VBZ means))))) (NP (PRP we)) (VP (VBP need) (NP (NP (DT a) (JJ good) (NN shuttle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (PRP us)) (ADVP (RB back) (CC and) (RB forth)) (S (VP (TO to) (VP (VB build) (NP (DT the) (NN spacecraft)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ee\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30e\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","that","means","we","need","a","good","shuttle","that","'s","going","to","take","us","back","and","forth","to","build","the","spacecraft","."]
+,"lemmas":["so","that","mean","we","need","a","good","shuttle","that","be","go","to","take","we","back","and","forth","to","build","the","spacecraft","."]
+,"posTags":["RB","IN","VBZ","PRP","VBP","DT","JJ","NN","WDT","VBZ","VBG","TO","VB","PRP","RB","CC","RB","TO","VB","DT","NN","."]
+,"chunks":["B-ADVP","B-SBAR","B-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-ADVP","I-ADVP","I-ADVP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[4,2,0,4,-1,7,7,4,10,10,7,12,10,12,12,14,14,18,12,20,18,-2]
+,"deprels":["advmod","mark","ccomp","nsubj","root","det","amod","dobj","nsubj","aux","rcmod","aux","xcomp","dobj","advmod","cc","conj","aux","vmod","det","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB so) (SBAR (IN that) (S (VP (VBZ means))))) (NP (PRP we)) (VP (VBP need) (NP (NP (DT a) (JJ good) (NN shuttle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (PRP us)) (ADVP (RB back) (CC and) (RB forth)) (S (VP (TO to) (VP (VB build) (NP (DT the) (NN spacecraft)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ee\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e8\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","that","means","we","need","a","good","shuttle","that","'s","going","to","take","us","back","and","forth","to","build","the","spacecraft","."]
+,"lemmas":["so","that","mean","we","need","a","good","shuttle","that","be","go","to","take","we","back","and","forth","to","build","the","spacecraft","."]
+,"posTags":["RB","IN","VBZ","PRP","VBP","DT","JJ","NN","WDT","VBZ","VBG","TO","VB","PRP","RB","CC","RB","TO","VB","DT","NN","."]
+,"chunks":["B-ADVP","B-SBAR","B-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","B-ADVP","I-ADVP","I-ADVP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[4,2,0,4,-1,7,7,4,10,10,7,12,10,12,12,14,14,18,12,20,18,-2]
+,"deprels":["advmod","mark","ccomp","nsubj","root","det","amod","dobj","nsubj","aux","rcmod","aux","xcomp","dobj","advmod","cc","conj","aux","vmod","det","dobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB so) (SBAR (IN that) (S (VP (VBZ means))))) (NP (PRP we)) (VP (VBP need) (NP (NP (DT a) (JJ good) (NN shuttle)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (VP (VBG going) (S (VP (TO to) (VP (VB take) (NP (PRP us)) (ADVP (RB back) (CC and) (RB forth)) (S (VP (TO to) (VP (VB build) (NP (DT the) (NN spacecraft)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30e\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e8\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["then","we","have","to","come","up","with","the","fuel","that","will","take","it","out","of","the","earth","'s","orbit","all","the","way","to","mars","."]
+,"lemmas":["then","we","have","to","come","up","with","the","fuel","that","will","take","it","out","of","the","earth","'s","orbit","all","the","way","to","mar","."]
+,"posTags":["RB","PRP","VBP","TO","VB","RP","IN","DT","NN","WDT","MD","VB","PRP","IN","IN","DT","NN","POS","NN","PDT","DT","NN","TO","NNS","."]
+,"chunks":["B-ADVP","B-NP","B-VP","B-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","B-NP","B-VP","I-VP","B-NP","B-PP","I-PP","B-NP","I-NP","B-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,4,2,4,4,8,6,11,11,8,11,14,11,16,18,16,14,21,21,18,21,22,-2]
+,"deprels":["advmod","nsubj","root","aux","xcomp","prt","prep","det","pobj","nsubj","aux","rcmod","dobj","dep","prep","det","poss","possessive","pobj","predet","det","dep","prep","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB then)) (NP (PRP we)) (VP (VBP have) (S (VP (TO to) (VP (VB come) (PRT (RP up)) (PP (IN with) (NP (NP (DT the) (NN fuel)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB take) (NP (PRP it)) (PP (IN out) (IN of) (NP (NP (NP (DT the) (NN earth) (POS 's)) (NN orbit)) (NP (NP (PDT all) (DT the) (NN way)) (PP (TO to) (NP (NNS mars)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30f\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["then","we","have","to","come","up","with","the","fuel","that","will","take","it","out","of","the","earth","'s","orbit","all","the","way","to","mars","."]
+,"lemmas":["then","we","have","to","come","up","with","the","fuel","that","will","take","it","out","of","the","earth","'s","orbit","all","the","way","to","mar","."]
+,"posTags":["RB","PRP","VBP","TO","VB","RP","IN","DT","NN","WDT","MD","VB","PRP","IN","IN","DT","NN","POS","NN","PDT","DT","NN","TO","NNS","."]
+,"chunks":["B-ADVP","B-NP","B-VP","B-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","B-NP","B-VP","I-VP","B-NP","B-PP","I-PP","B-NP","I-NP","B-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,4,2,4,4,8,6,11,11,8,11,14,11,16,18,16,14,21,21,18,21,22,-2]
+,"deprels":["advmod","nsubj","root","aux","xcomp","prt","prep","det","pobj","nsubj","aux","rcmod","dobj","dep","prep","det","poss","possessive","pobj","predet","det","dep","prep","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB then)) (NP (PRP we)) (VP (VBP have) (S (VP (TO to) (VP (VB come) (PRT (RP up)) (PP (IN with) (NP (NP (DT the) (NN fuel)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB take) (NP (PRP it)) (PP (IN out) (IN of) (NP (NP (NP (DT the) (NN earth) (POS 's)) (NN orbit)) (NP (NP (PDT all) (DT the) (NN way)) (PP (TO to) (NP (NNS mars)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30f\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f2\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["then","we","have","to","come","up","with","the","fuel","that","will","take","it","out","of","the","earth","'s","orbit","all","the","way","to","mars","."]
+,"lemmas":["then","we","have","to","come","up","with","the","fuel","that","will","take","it","out","of","the","earth","'s","orbit","all","the","way","to","mar","."]
+,"posTags":["RB","PRP","VBP","TO","VB","RP","IN","DT","NN","WDT","MD","VB","PRP","IN","IN","DT","NN","POS","NN","PDT","DT","NN","TO","NNS","."]
+,"chunks":["B-ADVP","B-NP","B-VP","B-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","B-NP","B-VP","I-VP","B-NP","B-PP","I-PP","B-NP","I-NP","B-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,4,2,4,4,8,6,11,11,8,11,14,11,16,18,16,14,21,21,18,21,22,-2]
+,"deprels":["advmod","nsubj","root","aux","xcomp","prt","prep","det","pobj","nsubj","aux","rcmod","dobj","dep","prep","det","poss","possessive","pobj","predet","det","dep","prep","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB then)) (NP (PRP we)) (VP (VBP have) (S (VP (TO to) (VP (VB come) (PRT (RP up)) (PP (IN with) (NP (NP (DT the) (NN fuel)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB take) (NP (PRP it)) (PP (IN out) (IN of) (NP (NP (NP (DT the) (NN earth) (POS 's)) (NN orbit)) (NP (NP (PDT all) (DT the) (NN way)) (PP (TO to) (NP (NNS mars)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b30f\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["then","we","have","to","come","up","with","the","fuel","that","will","take","it","out","of","the","earth","'s","orbit","all","the","way","to","mars","."]
+,"lemmas":["then","we","have","to","come","up","with","the","fuel","that","will","take","it","out","of","the","earth","'s","orbit","all","the","way","to","mar","."]
+,"posTags":["RB","PRP","VBP","TO","VB","RP","IN","DT","NN","WDT","MD","VB","PRP","IN","IN","DT","NN","POS","NN","PDT","DT","NN","TO","NNS","."]
+,"chunks":["B-ADVP","B-NP","B-VP","B-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","B-NP","B-VP","I-VP","B-NP","B-PP","I-PP","B-NP","I-NP","B-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,4,2,4,4,8,6,11,11,8,11,14,11,16,18,16,14,21,21,18,21,22,-2]
+,"deprels":["advmod","nsubj","root","aux","xcomp","prt","prep","det","pobj","nsubj","aux","rcmod","dobj","dep","prep","det","poss","possessive","pobj","predet","det","dep","prep","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB then)) (NP (PRP we)) (VP (VBP have) (S (VP (TO to) (VP (VB come) (PRT (RP up)) (PP (IN with) (NP (NP (DT the) (NN fuel)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB take) (NP (PRP it)) (PP (IN out) (IN of) (NP (NP (NP (DT the) (NN earth) (POS 's)) (NN orbit)) (NP (NP (PDT all) (DT the) (NN way)) (PP (TO to) (NP (NNS mars)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e9\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f2\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["then","we","have","to","come","up","with","the","fuel","that","will","take","it","out","of","the","earth","'s","orbit","all","the","way","to","mars","."]
+,"lemmas":["then","we","have","to","come","up","with","the","fuel","that","will","take","it","out","of","the","earth","'s","orbit","all","the","way","to","mar","."]
+,"posTags":["RB","PRP","VBP","TO","VB","RP","IN","DT","NN","WDT","MD","VB","PRP","IN","IN","DT","NN","POS","NN","PDT","DT","NN","TO","NNS","."]
+,"chunks":["B-ADVP","B-NP","B-VP","B-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","B-NP","B-VP","I-VP","B-NP","B-PP","I-PP","B-NP","I-NP","B-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,4,2,4,4,8,6,11,11,8,11,14,11,16,18,16,14,21,21,18,21,22,-2]
+,"deprels":["advmod","nsubj","root","aux","xcomp","prt","prep","det","pobj","nsubj","aux","rcmod","dobj","dep","prep","det","poss","possessive","pobj","predet","det","dep","prep","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB then)) (NP (PRP we)) (VP (VBP have) (S (VP (TO to) (VP (VB come) (PRT (RP up)) (PP (IN with) (NP (NP (DT the) (NN fuel)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB take) (NP (PRP it)) (PP (IN out) (IN of) (NP (NP (NP (DT the) (NN earth) (POS 's)) (NN orbit)) (NP (NP (PDT all) (DT the) (NN way)) (PP (TO to) (NP (NNS mars)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e9\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["then","we","have","to","come","up","with","the","fuel","that","will","take","it","out","of","the","earth","'s","orbit","all","the","way","to","mars","."]
+,"lemmas":["then","we","have","to","come","up","with","the","fuel","that","will","take","it","out","of","the","earth","'s","orbit","all","the","way","to","mar","."]
+,"posTags":["RB","PRP","VBP","TO","VB","RP","IN","DT","NN","WDT","MD","VB","PRP","IN","IN","DT","NN","POS","NN","PDT","DT","NN","TO","NNS","."]
+,"chunks":["B-ADVP","B-NP","B-VP","B-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","B-NP","B-VP","I-VP","B-NP","B-PP","I-PP","B-NP","I-NP","B-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,4,2,4,4,8,6,11,11,8,11,14,11,16,18,16,14,21,21,18,21,22,-2]
+,"deprels":["advmod","nsubj","root","aux","xcomp","prt","prep","det","pobj","nsubj","aux","rcmod","dobj","dep","prep","det","poss","possessive","pobj","predet","det","dep","prep","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB then)) (NP (PRP we)) (VP (VBP have) (S (VP (TO to) (VP (VB come) (PRT (RP up)) (PP (IN with) (NP (NP (DT the) (NN fuel)) (SBAR (WHNP (WDT that)) (S (VP (MD will) (VP (VB take) (NP (PRP it)) (PP (IN out) (IN of) (NP (NP (NP (DT the) (NN earth) (POS 's)) (NN orbit)) (NP (NP (PDT all) (DT the) (NN way)) (PP (TO to) (NP (NNS mars)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f2\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2f9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["that","'s","probably","going","to","be","nuclear","propulsion","at","this","point","again","something","we","have","n't","really","developed","yet",",","because","we","could","n't","carry","that","much","fuel",",","obviously","."]
+,"lemmas":["that","be","probably","go","to","be","nuclear","propulsion","at","this","point","again","something","we","have","not","really","develop","yet",",","because","we","could","not","carry","that","much","fuel",",","obviously","."]
+,"posTags":["DT","VBZ","RB","VBG","TO","VB","JJ","NN","IN","DT","NN","RB","NN","PRP","VBP","RB","RB","VBN","RB",",","IN","PRP","MD","RB","VB","DT","JJ","NN",",","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","I-VP","I-VP","I-VP","B-ADVP","O","B-SBAR","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","O","B-ADVP","O"]
+,"parents":[3,3,3,-1,7,7,7,3,7,10,11,12,8,17,17,17,17,12,17,-2,24,24,24,24,17,27,27,24,-2,7,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","cop","amod","xcomp","prep","det","npadvmod","advmod","pobj","nsubj","aux","neg","advmod","rcmod","advmod",null,"mark","nsubj","aux","neg","advcl","det","amod","dobj",null,"advmod",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (ADVP (RB probably)) (VP (VBG going) (S (VP (TO to) (VP (VB be) (NP (NP (JJ nuclear) (NN propulsion)) (PP (IN at) (NP (NP (ADVP (NP (DT this) (NN point)) (RB again)) (NN something)) (SBAR (S (NP (PRP we)) (VP (VBP have) (RB n't) (ADVP (RB really)) (VP (VBN developed) (ADVP (RB yet)) (, ,) (SBAR (IN because) (S (NP (PRP we)) (VP (MD could) (RB n't) (VP (VB carry) (NP (DT that) (JJ much) (NN fuel))))))))))))) (, ,) (ADVP (RB obviously))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b310\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b311\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":25,\"end\":26,\"head\":25,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b314\"},\"m2\":{\"start\":36,\"end\":38,\"head\":37,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34c\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b312\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fb\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":36,\"end\":38,\"head\":37,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34c\"},\"m2\":{\"start\":39,\"end\":41,\"head\":40,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fd\"}}]"
+,"relLabels":["PART-WHOLE"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b312\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b313\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b312\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fc\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b312\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b314\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fb\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b313\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fb\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fc\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fb\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b314\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fb\"},\"m2\":{\"start\":36,\"end\":38,\"head\":37,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b313\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fc\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b313\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b314\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b313\"},\"m2\":{\"start\":36,\"end\":38,\"head\":37,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b313\"},\"m2\":{\"start\":39,\"end\":41,\"head\":40,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fd\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fc\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b314\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fc\"},\"m2\":{\"start\":36,\"end\":38,\"head\":37,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fc\"},\"m2\":{\"start\":39,\"end\":41,\"head\":40,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fd\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","bigger","issue","is","once","we","get","there",",","we","ca","n't","carry","oxygen","or","water","or","food","to","stay","there","three","years",",","so","we","'re","going","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"lemmas":["the","bigger","issue","be","once","we","get","there",",","we","can","not","carry","oxygen","or","water","or","food","to","stay","there","three","year",",","so","we","be","go","to","have","to","do","all","of","that","on","the","surface","of","the","planet","."]
+,"posTags":["DT","JJR","NN","VBZ","RB","PRP","VBP","RB",",","PRP","MD","RB","VB","NN","CC","NN","CC","NN","TO","VB","RB","CD","NNS",",","IN","PRP","VBP","VBG","TO","VB","TO","VB","DT","IN","DT","IN","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","O","B-NP","B-VP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","B-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,6,6,3,6,-2,12,12,12,3,12,13,13,15,15,19,12,19,22,20,-2,3,27,27,3,29,27,31,29,31,32,33,34,37,35,37,40,38,-2]
+,"deprels":["det","amod","nsubj","root","advmod","nsubj","ccomp","advmod",null,"nsubj","aux","neg","dep","dobj","cc","conj","cc","conj","aux","xcomp","advmod","num","pobj",null,"dep","nsubj","aux","parataxis","aux","xcomp","aux","xcomp","dobj","prep","pobj","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT the) (JJR bigger) (NN issue)) (VP (VBZ is) (SBAR (RB once) (S (NP (PRP we)) (VP (VBP get) (ADVP (RB there))))))) (PRN (, ,) (S (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB carry) (S (NP (NP (NN oxygen)) (CC or) (NP (NN water) (CC or) (NN food))) (VP (TO to) (VP (VB stay) (ADVP (RB there) (NP (CD three) (NNS years))))))))) (, ,)) (IN so) (S (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB do) (NP (NP (DT all)) (PP (IN of) (NP (NP (DT that)) (PP (IN on) (NP (NP (DT the) (NN surface)) (PP (IN of) (NP (DT the) (NN planet))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":25,\"end\":26,\"head\":25,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b314\"},\"m2\":{\"start\":39,\"end\":41,\"head\":40,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2fd\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","we","ca","n't","breathe","there","."]
+,"lemmas":["so","we","can","not","breathe","there","."]
+,"posTags":["IN","PRP","MD","RB","VB","RB","."]
+,"chunks":["O","B-NP","B-VP","I-VP","I-VP","B-ADVP","O"]
+,"parents":[4,4,4,4,-1,4,-2]
+,"deprels":["dep","nsubj","aux","neg","root","advmod",null]
+,"naryTree":"((ROOT (S (IN so) (NP (PRP we)) (VP (MD ca) (RB n't) (VP (VB breathe) (ADVP (RB there)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b315\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b306\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","we","'re","going","to","have","to","come","up","with","some","conversion","technique","to","create","water",",","to","create","oxygen","and","then","some","way","of","growing","food","on","the","planet","itself","."]
+,"lemmas":["so","we","be","go","to","have","to","come","up","with","some","conversion","technique","to","create","water",",","to","create","oxygen","and","then","some","way","of","grow","food","on","the","planet","itself","."]
+,"posTags":["IN","PRP","VBP","VBG","TO","VB","TO","VB","RP","IN","DT","NN","NN","TO","VB","NN",",","TO","VB","NN","CC","RB","DT","NN","IN","VBG","NN","IN","DT","NN","PRP","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","O","B-VP","I-VP","B-NP","O","B-ADVP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","O"]
+,"parents":[3,3,3,-1,5,3,7,5,7,7,12,12,9,14,5,14,-2,18,3,18,19,23,23,19,23,26,24,26,29,27,26,-2]
+,"deprels":["dep","nsubj","aux","root","aux","xcomp","aux","xcomp","prt","prep","det","nn","pobj","aux","xcomp","dobj",null,"aux","xcomp","dobj","cc","advmod","det","conj","prep","amod","pobj","prep","det","pobj","advmod",null]
+,"naryTree":"((ROOT (S (IN so) (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB come) (PRT (RP up)) (PP (IN with) (NP (DT some) (NN conversion) (NN technique)))))) (S (VP (TO to) (VP (VB create) (NP (NN water)))))))) (, ,) (S (VP (TO to) (VP (VB create) (NP (NP (NN oxygen)) (CC and) (ADVP (RB then)) (NP (NP (DT some) (NN way)) (PP (IN of) (NP (NP (VBG growing) (NN food)) (PP (IN on) (NP (DT the) (NN planet))) (ADVP (PRP itself))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b316\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ff\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","we","'re","going","to","have","to","come","up","with","some","conversion","technique","to","create","water",",","to","create","oxygen","and","then","some","way","of","growing","food","on","the","planet","itself","."]
+,"lemmas":["so","we","be","go","to","have","to","come","up","with","some","conversion","technique","to","create","water",",","to","create","oxygen","and","then","some","way","of","grow","food","on","the","planet","itself","."]
+,"posTags":["IN","PRP","VBP","VBG","TO","VB","TO","VB","RP","IN","DT","NN","NN","TO","VB","NN",",","TO","VB","NN","CC","RB","DT","NN","IN","VBG","NN","IN","DT","NN","PRP","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","O","B-VP","I-VP","B-NP","O","B-ADVP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","O"]
+,"parents":[3,3,3,-1,5,3,7,5,7,7,12,12,9,14,5,14,-2,18,3,18,19,23,23,19,23,26,24,26,29,27,26,-2]
+,"deprels":["dep","nsubj","aux","root","aux","xcomp","aux","xcomp","prt","prep","det","nn","pobj","aux","xcomp","dobj",null,"aux","xcomp","dobj","cc","advmod","det","conj","prep","amod","pobj","prep","det","pobj","advmod",null]
+,"naryTree":"((ROOT (S (IN so) (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB come) (PRT (RP up)) (PP (IN with) (NP (DT some) (NN conversion) (NN technique)))))) (S (VP (TO to) (VP (VB create) (NP (NN water)))))))) (, ,) (S (VP (TO to) (VP (VB create) (NP (NP (NN oxygen)) (CC and) (ADVP (RB then)) (NP (NP (DT some) (NN way)) (PP (IN of) (NP (NP (VBG growing) (NN food)) (PP (IN on) (NP (DT the) (NN planet))) (ADVP (PRP itself))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b316\"},\"m2\":{\"start\":30,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b300\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["so","we","'re","going","to","have","to","come","up","with","some","conversion","technique","to","create","water",",","to","create","oxygen","and","then","some","way","of","growing","food","on","the","planet","itself","."]
+,"lemmas":["so","we","be","go","to","have","to","come","up","with","some","conversion","technique","to","create","water",",","to","create","oxygen","and","then","some","way","of","grow","food","on","the","planet","itself","."]
+,"posTags":["IN","PRP","VBP","VBG","TO","VB","TO","VB","RP","IN","DT","NN","NN","TO","VB","NN",",","TO","VB","NN","CC","RB","DT","NN","IN","VBG","NN","IN","DT","NN","PRP","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","I-VP","B-PRT","B-PP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","O","B-VP","I-VP","B-NP","O","B-ADVP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O","O"]
+,"parents":[3,3,3,-1,5,3,7,5,7,7,12,12,9,14,5,14,-2,18,3,18,19,23,23,19,23,26,24,26,29,27,26,-2]
+,"deprels":["dep","nsubj","aux","root","aux","xcomp","aux","xcomp","prt","prep","det","nn","pobj","aux","xcomp","dobj",null,"aux","xcomp","dobj","cc","advmod","det","conj","prep","amod","pobj","prep","det","pobj","advmod",null]
+,"naryTree":"((ROOT (S (IN so) (NP (PRP we)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB have) (S (VP (TO to) (VP (VB come) (PRT (RP up)) (PP (IN with) (NP (DT some) (NN conversion) (NN technique)))))) (S (VP (TO to) (VP (VB create) (NP (NN water)))))))) (, ,) (S (VP (TO to) (VP (VB create) (NP (NP (NN oxygen)) (CC and) (ADVP (RB then)) (NP (NP (DT some) (NN way)) (PP (IN of) (NP (NP (VBG growing) (NN food)) (PP (IN on) (NP (DT the) (NN planet))) (ADVP (PRP itself))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":28,\"end\":30,\"head\":29,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2ff\"},\"m2\":{\"start\":30,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b300\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["there","could","be","as","much","as","50","%","bone","loss","in","astronauts","in","mars","."]
+,"lemmas":["there","could","be","as","much","as","50","%","bone","loss","in","astronaut","in","mar","."]
+,"posTags":["RB","MD","VB","RB","JJ","IN","CD","NN","NN","NN","IN","NNS","IN","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-PP","B-NP","O"]
+,"parents":[9,9,9,5,5,7,7,9,9,-1,9,10,11,12,-2]
+,"deprels":["nsubj","aux","cop","advmod","advmod","quantmod","number","num","nn","root","prep","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (RB there)) (VP (MD could) (VP (VB be) (NP (NP (QP (RB as) (JJ much) (IN as) (CD 50) (NN %)) (NN bone) (NN loss)) (PP (IN in) (NP (NP (NNS astronauts)) (PP (IN in) (NP (NNS mars)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e1\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b301\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["because","when","the","body","has","--","when","there","is","no","dpravity","as","there","is","on","mars",",","the","body","does","n't","pick","up","the","calcium","in","the","bones",",","so","it","does","n't","keep","getting","the","bones","stronger","and","stronger","."]
+,"lemmas":["because","when","the","body","have","--","when","there","be","no","dpravity","as","there","be","on","mar",",","the","body","do","not","pick","up","the","calcium","in","the","bone",",","so","it","do","not","keep","get","the","bone","stronger","and","stronger","."]
+,"posTags":["IN","WRB","DT","NN","VBZ",":","WRB","EX","VBZ","DT","NN","IN","EX","VBZ","IN","NNS",",","DT","NN","VBZ","RB","VB","RP","DT","NN","IN","DT","NNS",",","IN","PRP","VBZ","RB","VB","VBG","DT","NNS","JJR","CC","JJR","."]
+,"chunks":["B-SBAR","B-ADVP","B-NP","I-NP","B-VP","O","B-ADVP","B-NP","B-VP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-PP","B-NP","O","B-NP","I-NP","B-VP","I-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","B-NP","I-NP","B-ADJP","I-ADJP","I-ADJP","O"]
+,"parents":[4,4,3,4,21,-2,8,8,4,10,8,13,13,8,13,14,-2,18,21,21,21,-1,21,24,21,24,27,25,-2,21,33,33,33,21,33,36,37,34,37,37,-2]
+,"deprels":["dep","advmod","det","nsubj","advcl",null,"advmod","expl","dep","neg","nsubj","mark","expl","advcl","prep","pobj",null,"det","nsubj","aux","neg","root","prt","det","dobj","prep","det","pobj",null,"dep","nsubj","aux","neg","parataxis","xcomp","det","nsubj","xcomp","cc","conj",null]
+,"naryTree":"((ROOT (S (S (SBAR (SBAR (IN because) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN body)) (VP (VBZ has))))) (: --) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBZ is) (NP (DT no) (NN dpravity)) (SBAR (IN as) (S (NP (EX there)) (VP (VBZ is) (PP (IN on) (NP (NNS mars)))))))))) (, ,) (NP (DT the) (NN body)) (VP (VBZ does) (RB n't) (VP (VB pick) (PRT (RP up)) (NP (NP (DT the) (NN calcium)) (PP (IN in) (NP (DT the) (NNS bones))))))) (, ,) (IN so) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB keep) (S (VP (VBG getting) (S (NP (DT the) (NNS bones)) (ADJP (JJR stronger) (CC and) (JJR stronger)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b326\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b303\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["because","when","the","body","has","--","when","there","is","no","dpravity","as","there","is","on","mars",",","the","body","does","n't","pick","up","the","calcium","in","the","bones",",","so","it","does","n't","keep","getting","the","bones","stronger","and","stronger","."]
+,"lemmas":["because","when","the","body","have","--","when","there","be","no","dpravity","as","there","be","on","mar",",","the","body","do","not","pick","up","the","calcium","in","the","bone",",","so","it","do","not","keep","get","the","bone","stronger","and","stronger","."]
+,"posTags":["IN","WRB","DT","NN","VBZ",":","WRB","EX","VBZ","DT","NN","IN","EX","VBZ","IN","NNS",",","DT","NN","VBZ","RB","VB","RP","DT","NN","IN","DT","NNS",",","IN","PRP","VBZ","RB","VB","VBG","DT","NNS","JJR","CC","JJR","."]
+,"chunks":["B-SBAR","B-ADVP","B-NP","I-NP","B-VP","O","B-ADVP","B-NP","B-VP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-PP","B-NP","O","B-NP","I-NP","B-VP","I-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","B-NP","I-NP","B-ADJP","I-ADJP","I-ADJP","O"]
+,"parents":[4,4,3,4,21,-2,8,8,4,10,8,13,13,8,13,14,-2,18,21,21,21,-1,21,24,21,24,27,25,-2,21,33,33,33,21,33,36,37,34,37,37,-2]
+,"deprels":["dep","advmod","det","nsubj","advcl",null,"advmod","expl","dep","neg","nsubj","mark","expl","advcl","prep","pobj",null,"det","nsubj","aux","neg","root","prt","det","dobj","prep","det","pobj",null,"dep","nsubj","aux","neg","parataxis","xcomp","det","nsubj","xcomp","cc","conj",null]
+,"naryTree":"((ROOT (S (S (SBAR (SBAR (IN because) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN body)) (VP (VBZ has))))) (: --) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBZ is) (NP (DT no) (NN dpravity)) (SBAR (IN as) (S (NP (EX there)) (VP (VBZ is) (PP (IN on) (NP (NNS mars)))))))))) (, ,) (NP (DT the) (NN body)) (VP (VBZ does) (RB n't) (VP (VB pick) (PRT (RP up)) (NP (NP (DT the) (NN calcium)) (PP (IN in) (NP (DT the) (NNS bones))))))) (, ,) (IN so) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB keep) (S (VP (VBG getting) (S (NP (DT the) (NNS bones)) (ADJP (JJR stronger) (CC and) (JJR stronger)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b326\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b328\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["because","when","the","body","has","--","when","there","is","no","dpravity","as","there","is","on","mars",",","the","body","does","n't","pick","up","the","calcium","in","the","bones",",","so","it","does","n't","keep","getting","the","bones","stronger","and","stronger","."]
+,"lemmas":["because","when","the","body","have","--","when","there","be","no","dpravity","as","there","be","on","mar",",","the","body","do","not","pick","up","the","calcium","in","the","bone",",","so","it","do","not","keep","get","the","bone","stronger","and","stronger","."]
+,"posTags":["IN","WRB","DT","NN","VBZ",":","WRB","EX","VBZ","DT","NN","IN","EX","VBZ","IN","NNS",",","DT","NN","VBZ","RB","VB","RP","DT","NN","IN","DT","NNS",",","IN","PRP","VBZ","RB","VB","VBG","DT","NNS","JJR","CC","JJR","."]
+,"chunks":["B-SBAR","B-ADVP","B-NP","I-NP","B-VP","O","B-ADVP","B-NP","B-VP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-PP","B-NP","O","B-NP","I-NP","B-VP","I-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","B-NP","I-NP","B-ADJP","I-ADJP","I-ADJP","O"]
+,"parents":[4,4,3,4,21,-2,8,8,4,10,8,13,13,8,13,14,-2,18,21,21,21,-1,21,24,21,24,27,25,-2,21,33,33,33,21,33,36,37,34,37,37,-2]
+,"deprels":["dep","advmod","det","nsubj","advcl",null,"advmod","expl","dep","neg","nsubj","mark","expl","advcl","prep","pobj",null,"det","nsubj","aux","neg","root","prt","det","dobj","prep","det","pobj",null,"dep","nsubj","aux","neg","parataxis","xcomp","det","nsubj","xcomp","cc","conj",null]
+,"naryTree":"((ROOT (S (S (SBAR (SBAR (IN because) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN body)) (VP (VBZ has))))) (: --) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBZ is) (NP (DT no) (NN dpravity)) (SBAR (IN as) (S (NP (EX there)) (VP (VBZ is) (PP (IN on) (NP (NNS mars)))))))))) (, ,) (NP (DT the) (NN body)) (VP (VBZ does) (RB n't) (VP (VB pick) (PRT (RP up)) (NP (NP (DT the) (NN calcium)) (PP (IN in) (NP (DT the) (NNS bones))))))) (, ,) (IN so) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB keep) (S (VP (VBG getting) (S (NP (DT the) (NNS bones)) (ADJP (JJR stronger) (CC and) (JJR stronger)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b326\"},\"m2\":{\"start\":30,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b327\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["because","when","the","body","has","--","when","there","is","no","dpravity","as","there","is","on","mars",",","the","body","does","n't","pick","up","the","calcium","in","the","bones",",","so","it","does","n't","keep","getting","the","bones","stronger","and","stronger","."]
+,"lemmas":["because","when","the","body","have","--","when","there","be","no","dpravity","as","there","be","on","mar",",","the","body","do","not","pick","up","the","calcium","in","the","bone",",","so","it","do","not","keep","get","the","bone","stronger","and","stronger","."]
+,"posTags":["IN","WRB","DT","NN","VBZ",":","WRB","EX","VBZ","DT","NN","IN","EX","VBZ","IN","NNS",",","DT","NN","VBZ","RB","VB","RP","DT","NN","IN","DT","NNS",",","IN","PRP","VBZ","RB","VB","VBG","DT","NNS","JJR","CC","JJR","."]
+,"chunks":["B-SBAR","B-ADVP","B-NP","I-NP","B-VP","O","B-ADVP","B-NP","B-VP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-PP","B-NP","O","B-NP","I-NP","B-VP","I-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","B-NP","I-NP","B-ADJP","I-ADJP","I-ADJP","O"]
+,"parents":[4,4,3,4,21,-2,8,8,4,10,8,13,13,8,13,14,-2,18,21,21,21,-1,21,24,21,24,27,25,-2,21,33,33,33,21,33,36,37,34,37,37,-2]
+,"deprels":["dep","advmod","det","nsubj","advcl",null,"advmod","expl","dep","neg","nsubj","mark","expl","advcl","prep","pobj",null,"det","nsubj","aux","neg","root","prt","det","dobj","prep","det","pobj",null,"dep","nsubj","aux","neg","parataxis","xcomp","det","nsubj","xcomp","cc","conj",null]
+,"naryTree":"((ROOT (S (S (SBAR (SBAR (IN because) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN body)) (VP (VBZ has))))) (: --) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBZ is) (NP (DT no) (NN dpravity)) (SBAR (IN as) (S (NP (EX there)) (VP (VBZ is) (PP (IN on) (NP (NNS mars)))))))))) (, ,) (NP (DT the) (NN body)) (VP (VBZ does) (RB n't) (VP (VB pick) (PRT (RP up)) (NP (NP (DT the) (NN calcium)) (PP (IN in) (NP (DT the) (NNS bones))))))) (, ,) (IN so) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB keep) (S (VP (VBG getting) (S (NP (DT the) (NNS bones)) (ADJP (JJR stronger) (CC and) (JJR stronger)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b303\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b328\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["because","when","the","body","has","--","when","there","is","no","dpravity","as","there","is","on","mars",",","the","body","does","n't","pick","up","the","calcium","in","the","bones",",","so","it","does","n't","keep","getting","the","bones","stronger","and","stronger","."]
+,"lemmas":["because","when","the","body","have","--","when","there","be","no","dpravity","as","there","be","on","mar",",","the","body","do","not","pick","up","the","calcium","in","the","bone",",","so","it","do","not","keep","get","the","bone","stronger","and","stronger","."]
+,"posTags":["IN","WRB","DT","NN","VBZ",":","WRB","EX","VBZ","DT","NN","IN","EX","VBZ","IN","NNS",",","DT","NN","VBZ","RB","VB","RP","DT","NN","IN","DT","NNS",",","IN","PRP","VBZ","RB","VB","VBG","DT","NNS","JJR","CC","JJR","."]
+,"chunks":["B-SBAR","B-ADVP","B-NP","I-NP","B-VP","O","B-ADVP","B-NP","B-VP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-PP","B-NP","O","B-NP","I-NP","B-VP","I-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","B-NP","I-NP","B-ADJP","I-ADJP","I-ADJP","O"]
+,"parents":[4,4,3,4,21,-2,8,8,4,10,8,13,13,8,13,14,-2,18,21,21,21,-1,21,24,21,24,27,25,-2,21,33,33,33,21,33,36,37,34,37,37,-2]
+,"deprels":["dep","advmod","det","nsubj","advcl",null,"advmod","expl","dep","neg","nsubj","mark","expl","advcl","prep","pobj",null,"det","nsubj","aux","neg","root","prt","det","dobj","prep","det","pobj",null,"dep","nsubj","aux","neg","parataxis","xcomp","det","nsubj","xcomp","cc","conj",null]
+,"naryTree":"((ROOT (S (S (SBAR (SBAR (IN because) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN body)) (VP (VBZ has))))) (: --) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBZ is) (NP (DT no) (NN dpravity)) (SBAR (IN as) (S (NP (EX there)) (VP (VBZ is) (PP (IN on) (NP (NNS mars)))))))))) (, ,) (NP (DT the) (NN body)) (VP (VBZ does) (RB n't) (VP (VB pick) (PRT (RP up)) (NP (NP (DT the) (NN calcium)) (PP (IN in) (NP (DT the) (NNS bones))))))) (, ,) (IN so) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB keep) (S (VP (VBG getting) (S (NP (DT the) (NNS bones)) (ADJP (JJR stronger) (CC and) (JJR stronger)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b303\"},\"m2\":{\"start\":30,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b327\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["because","when","the","body","has","--","when","there","is","no","dpravity","as","there","is","on","mars",",","the","body","does","n't","pick","up","the","calcium","in","the","bones",",","so","it","does","n't","keep","getting","the","bones","stronger","and","stronger","."]
+,"lemmas":["because","when","the","body","have","--","when","there","be","no","dpravity","as","there","be","on","mar",",","the","body","do","not","pick","up","the","calcium","in","the","bone",",","so","it","do","not","keep","get","the","bone","stronger","and","stronger","."]
+,"posTags":["IN","WRB","DT","NN","VBZ",":","WRB","EX","VBZ","DT","NN","IN","EX","VBZ","IN","NNS",",","DT","NN","VBZ","RB","VB","RP","DT","NN","IN","DT","NNS",",","IN","PRP","VBZ","RB","VB","VBG","DT","NNS","JJR","CC","JJR","."]
+,"chunks":["B-SBAR","B-ADVP","B-NP","I-NP","B-VP","O","B-ADVP","B-NP","B-VP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-PP","B-NP","O","B-NP","I-NP","B-VP","I-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O","O","B-NP","B-VP","I-VP","I-VP","B-VP","B-NP","I-NP","B-ADJP","I-ADJP","I-ADJP","O"]
+,"parents":[4,4,3,4,21,-2,8,8,4,10,8,13,13,8,13,14,-2,18,21,21,21,-1,21,24,21,24,27,25,-2,21,33,33,33,21,33,36,37,34,37,37,-2]
+,"deprels":["dep","advmod","det","nsubj","advcl",null,"advmod","expl","dep","neg","nsubj","mark","expl","advcl","prep","pobj",null,"det","nsubj","aux","neg","root","prt","det","dobj","prep","det","pobj",null,"dep","nsubj","aux","neg","parataxis","xcomp","det","nsubj","xcomp","cc","conj",null]
+,"naryTree":"((ROOT (S (S (SBAR (SBAR (IN because) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN body)) (VP (VBZ has))))) (: --) (SBAR (WHADVP (WRB when)) (S (NP (EX there)) (VP (VBZ is) (NP (DT no) (NN dpravity)) (SBAR (IN as) (S (NP (EX there)) (VP (VBZ is) (PP (IN on) (NP (NNS mars)))))))))) (, ,) (NP (DT the) (NN body)) (VP (VBZ does) (RB n't) (VP (VB pick) (PRT (RP up)) (NP (NP (DT the) (NN calcium)) (PP (IN in) (NP (DT the) (NNS bones))))))) (, ,) (IN so) (S (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB keep) (S (VP (VBG getting) (S (NP (DT the) (NNS bones)) (ADJP (JJR stronger) (CC and) (JJR stronger)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b328\"},\"m2\":{\"start\":30,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b327\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["they","will","be","almost","like","old","people","even","at","the","age","of","40","."]
+,"lemmas":["they","will","be","almost","like","old","people","even","at","the","age","of","40","."]
+,"posTags":["PRP","MD","VB","RB","IN","JJ","NNS","RB","IN","DT","NN","IN","CD","."]
+,"chunks":["B-NP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,3,6,4,4,2,10,8,10,11,-2]
+,"deprels":["nsubj","aux","root","advmod","prep","amod","pobj","advmod","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD will) (VP (VB be) (ADVP (RB almost) (PP (IN like) (NP (JJ old) (NNS people)) (ADVP (RB even)))) (PP (IN at) (NP (NP (DT the) (NN age)) (PP (IN of) (NP (CD 40))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b2e3\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b355\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["thank","you","for","joining","us","."]
+,"lemmas":["thank","you","for","join","we","."]
+,"posTags":["VB","PRP","IN","VBG","PRP","."]
+,"chunks":["B-VP","B-NP","B-PP","B-VP","B-NP","O"]
+,"parents":[-1,0,0,2,3,-2]
+,"deprels":["root","dobj","prep","pcomp","dobj",null]
+,"naryTree":"((ROOT (S (VP (VB thank) (NP (PRP you)) (PP (IN for) (S (VP (VBG joining) (NP (PRP us)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b35f\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b31d\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["looks","like","it","will","be","some","time","before","we","make","our","way","to","mars","."]
+,"lemmas":["look","like","it","will","be","some","time","before","we","make","we","way","to","mar","."]
+,"posTags":["NNS","IN","PRP","MD","VB","DT","NN","IN","PRP","VBP","PRP$","NN","TO","NNS","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[6,0,1,6,6,6,-1,9,9,6,11,9,9,12,-2]
+,"deprels":["nsubj","prep","pobj","aux","cop","det","root","mark","nsubj","advcl","poss","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NNS looks)) (PP (IN like) (NP (PRP it)))) (VP (MD will) (VP (VB be) (NP (DT some) (NN time)) (SBAR (IN before) (S (NP (PRP we)) (VP (VBP make) (NP (PRP$ our) (NN way)) (PP (TO to) (NP (NNS mars)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b32f\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b304\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["looks","like","it","will","be","some","time","before","we","make","our","way","to","mars","."]
+,"lemmas":["look","like","it","will","be","some","time","before","we","make","we","way","to","mar","."]
+,"posTags":["NNS","IN","PRP","MD","VB","DT","NN","IN","PRP","VBP","PRP$","NN","TO","NNS","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[6,0,1,6,6,6,-1,9,9,6,11,9,9,12,-2]
+,"deprels":["nsubj","prep","pobj","aux","cop","det","root","mark","nsubj","advcl","poss","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NNS looks)) (PP (IN like) (NP (PRP it)))) (VP (MD will) (VP (VB be) (NP (DT some) (NN time)) (SBAR (IN before) (S (NP (PRP we)) (VP (VBP make) (NP (PRP$ our) (NN way)) (PP (TO to) (NP (NNS mars)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b32e\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b32f\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["looks","like","it","will","be","some","time","before","we","make","our","way","to","mars","."]
+,"lemmas":["look","like","it","will","be","some","time","before","we","make","we","way","to","mar","."]
+,"posTags":["NNS","IN","PRP","MD","VB","DT","NN","IN","PRP","VBP","PRP$","NN","TO","NNS","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[6,0,1,6,6,6,-1,9,9,6,11,9,9,12,-2]
+,"deprels":["nsubj","prep","pobj","aux","cop","det","root","mark","nsubj","advcl","poss","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NNS looks)) (PP (IN like) (NP (PRP it)))) (VP (MD will) (VP (VB be) (NP (DT some) (NN time)) (SBAR (IN before) (S (NP (PRP we)) (VP (VBP make) (NP (PRP$ our) (NN way)) (PP (TO to) (NP (NNS mars)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b32e\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b304\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","controversial","incinerator","just","about","ready","to","destroy","weapons","at","an","anniston",",","alabama",",","military","facility","."]
+,"lemmas":["a","controversial","incinerator","just","about","ready","to","destroy","weapon","at","a","anniston",",","alabama",",","military","facility","."]
+,"posTags":["DT","JJ","NN","RB","IN","JJ","TO","VB","NNS","IN","DT","NN",",","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","I-PP","O","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,16,7,5,7,7,11,9,-2,11,-2,16,4,-2]
+,"deprels":["det","amod","root","advmod","prep","amod","aux","xcomp","dobj","prep","det","pobj",null,"appos",null,"amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT a) (JJ controversial) (NN incinerator)) (PP (RB just) (IN about) (NP (ADJP (JJ ready) (S (VP (TO to) (VP (VB destroy) (NP (NNS weapons)) (PP (IN at) (NP (NP (DT an) (NN anniston)) (, ,) (NP (NN alabama)) (, ,))))))) (JJ military) (NN facility))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b348\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b33e\"}}]"
+,"relLabels":["PART-WHOLE"]}
+
+{"words":["a","controversial","incinerator","just","about","ready","to","destroy","weapons","at","an","anniston",",","alabama",",","military","facility","."]
+,"lemmas":["a","controversial","incinerator","just","about","ready","to","destroy","weapon","at","a","anniston",",","alabama",",","military","facility","."]
+,"posTags":["DT","JJ","NN","RB","IN","JJ","TO","VB","NNS","IN","DT","NN",",","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","I-PP","O","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,16,7,5,7,7,11,9,-2,11,-2,16,4,-2]
+,"deprels":["det","amod","root","advmod","prep","amod","aux","xcomp","dobj","prep","det","pobj",null,"appos",null,"amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT a) (JJ controversial) (NN incinerator)) (PP (RB just) (IN about) (NP (ADJP (JJ ready) (S (VP (TO to) (VP (VB destroy) (NP (NNS weapons)) (PP (IN at) (NP (NP (DT an) (NN anniston)) (, ,) (NP (NN alabama)) (, ,))))))) (JJ military) (NN facility))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34a\"},\"m2\":{\"start\":10,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b342\"}}]"
+,"relLabels":["ART"]}
+
+{"words":["a","controversial","incinerator","just","about","ready","to","destroy","weapons","at","an","anniston",",","alabama",",","military","facility","."]
+,"lemmas":["a","controversial","incinerator","just","about","ready","to","destroy","weapon","at","a","anniston",",","alabama",",","military","facility","."]
+,"posTags":["DT","JJ","NN","RB","IN","JJ","TO","VB","NNS","IN","DT","NN",",","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","I-PP","O","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,16,7,5,7,7,11,9,-2,11,-2,16,4,-2]
+,"deprels":["det","amod","root","advmod","prep","amod","aux","xcomp","dobj","prep","det","pobj",null,"appos",null,"amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT a) (JJ controversial) (NN incinerator)) (PP (RB just) (IN about) (NP (ADJP (JJ ready) (S (VP (TO to) (VP (VB destroy) (NP (NNS weapons)) (PP (IN at) (NP (NP (DT an) (NN anniston)) (, ,) (NP (NN alabama)) (, ,))))))) (JJ military) (NN facility))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b348\"},\"m2\":{\"start\":10,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b342\"}}]"
+,"relLabels":["PART-WHOLE"]}
+
+{"words":["a","controversial","incinerator","just","about","ready","to","destroy","weapons","at","an","anniston",",","alabama",",","military","facility","."]
+,"lemmas":["a","controversial","incinerator","just","about","ready","to","destroy","weapon","at","a","anniston",",","alabama",",","military","facility","."]
+,"posTags":["DT","JJ","NN","RB","IN","JJ","TO","VB","NNS","IN","DT","NN",",","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","I-PP","O","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,16,7,5,7,7,11,9,-2,11,-2,16,4,-2]
+,"deprels":["det","amod","root","advmod","prep","amod","aux","xcomp","dobj","prep","det","pobj",null,"appos",null,"amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT a) (JJ controversial) (NN incinerator)) (PP (RB just) (IN about) (NP (ADJP (JJ ready) (S (VP (TO to) (VP (VB destroy) (NP (NNS weapons)) (PP (IN at) (NP (NP (DT an) (NN anniston)) (, ,) (NP (NN alabama)) (, ,))))))) (JJ military) (NN facility))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b344\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b348\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","controversial","incinerator","just","about","ready","to","destroy","weapons","at","an","anniston",",","alabama",",","military","facility","."]
+,"lemmas":["a","controversial","incinerator","just","about","ready","to","destroy","weapon","at","a","anniston",",","alabama",",","military","facility","."]
+,"posTags":["DT","JJ","NN","RB","IN","JJ","TO","VB","NNS","IN","DT","NN",",","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","I-PP","O","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,16,7,5,7,7,11,9,-2,11,-2,16,4,-2]
+,"deprels":["det","amod","root","advmod","prep","amod","aux","xcomp","dobj","prep","det","pobj",null,"appos",null,"amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT a) (JJ controversial) (NN incinerator)) (PP (RB just) (IN about) (NP (ADJP (JJ ready) (S (VP (TO to) (VP (VB destroy) (NP (NNS weapons)) (PP (IN at) (NP (NP (DT an) (NN anniston)) (, ,) (NP (NN alabama)) (, ,))))))) (JJ military) (NN facility))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b344\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b33e\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","controversial","incinerator","just","about","ready","to","destroy","weapons","at","an","anniston",",","alabama",",","military","facility","."]
+,"lemmas":["a","controversial","incinerator","just","about","ready","to","destroy","weapon","at","a","anniston",",","alabama",",","military","facility","."]
+,"posTags":["DT","JJ","NN","RB","IN","JJ","TO","VB","NNS","IN","DT","NN",",","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","I-PP","O","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,16,7,5,7,7,11,9,-2,11,-2,16,4,-2]
+,"deprels":["det","amod","root","advmod","prep","amod","aux","xcomp","dobj","prep","det","pobj",null,"appos",null,"amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT a) (JJ controversial) (NN incinerator)) (PP (RB just) (IN about) (NP (ADJP (JJ ready) (S (VP (TO to) (VP (VB destroy) (NP (NNS weapons)) (PP (IN at) (NP (NP (DT an) (NN anniston)) (, ,) (NP (NN alabama)) (, ,))))))) (JJ military) (NN facility))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b344\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","controversial","incinerator","just","about","ready","to","destroy","weapons","at","an","anniston",",","alabama",",","military","facility","."]
+,"lemmas":["a","controversial","incinerator","just","about","ready","to","destroy","weapon","at","a","anniston",",","alabama",",","military","facility","."]
+,"posTags":["DT","JJ","NN","RB","IN","JJ","TO","VB","NNS","IN","DT","NN",",","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","I-PP","O","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,16,7,5,7,7,11,9,-2,11,-2,16,4,-2]
+,"deprels":["det","amod","root","advmod","prep","amod","aux","xcomp","dobj","prep","det","pobj",null,"appos",null,"amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT a) (JJ controversial) (NN incinerator)) (PP (RB just) (IN about) (NP (ADJP (JJ ready) (S (VP (TO to) (VP (VB destroy) (NP (NNS weapons)) (PP (IN at) (NP (NP (DT an) (NN anniston)) (, ,) (NP (NN alabama)) (, ,))))))) (JJ military) (NN facility))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b344\"},\"m2\":{\"start\":10,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b342\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","controversial","incinerator","just","about","ready","to","destroy","weapons","at","an","anniston",",","alabama",",","military","facility","."]
+,"lemmas":["a","controversial","incinerator","just","about","ready","to","destroy","weapon","at","a","anniston",",","alabama",",","military","facility","."]
+,"posTags":["DT","JJ","NN","RB","IN","JJ","TO","VB","NNS","IN","DT","NN",",","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","I-PP","O","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,16,7,5,7,7,11,9,-2,11,-2,16,4,-2]
+,"deprels":["det","amod","root","advmod","prep","amod","aux","xcomp","dobj","prep","det","pobj",null,"appos",null,"amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT a) (JJ controversial) (NN incinerator)) (PP (RB just) (IN about) (NP (ADJP (JJ ready) (S (VP (TO to) (VP (VB destroy) (NP (NNS weapons)) (PP (IN at) (NP (NP (DT an) (NN anniston)) (, ,) (NP (NN alabama)) (, ,))))))) (JJ military) (NN facility))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b348\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","controversial","incinerator","just","about","ready","to","destroy","weapons","at","an","anniston",",","alabama",",","military","facility","."]
+,"lemmas":["a","controversial","incinerator","just","about","ready","to","destroy","weapon","at","a","anniston",",","alabama",",","military","facility","."]
+,"posTags":["DT","JJ","NN","RB","IN","JJ","TO","VB","NNS","IN","DT","NN",",","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","I-PP","O","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,16,7,5,7,7,11,9,-2,11,-2,16,4,-2]
+,"deprels":["det","amod","root","advmod","prep","amod","aux","xcomp","dobj","prep","det","pobj",null,"appos",null,"amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT a) (JJ controversial) (NN incinerator)) (PP (RB just) (IN about) (NP (ADJP (JJ ready) (S (VP (TO to) (VP (VB destroy) (NP (NNS weapons)) (PP (IN at) (NP (NP (DT an) (NN anniston)) (, ,) (NP (NN alabama)) (, ,))))))) (JJ military) (NN facility))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b33e\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b34a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","controversial","incinerator","just","about","ready","to","destroy","weapons","at","an","anniston",",","alabama",",","military","facility","."]
+,"lemmas":["a","controversial","incinerator","just","about","ready","to","destroy","weapon","at","a","anniston",",","alabama",",","military","facility","."]
+,"posTags":["DT","JJ","NN","RB","IN","JJ","TO","VB","NNS","IN","DT","NN",",","NN",",","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","I-PP","O","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,16,7,5,7,7,11,9,-2,11,-2,16,4,-2]
+,"deprels":["det","amod","root","advmod","prep","amod","aux","xcomp","dobj","prep","det","pobj",null,"appos",null,"amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT a) (JJ controversial) (NN incinerator)) (PP (RB just) (IN about) (NP (ADJP (JJ ready) (S (VP (TO to) (VP (VB destroy) (NP (NNS weapons)) (PP (IN at) (NP (NP (DT an) (NN anniston)) (, ,) (NP (NN alabama)) (, ,))))))) (JJ military) (NN facility))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b33e\"},\"m2\":{\"start\":10,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b342\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["that","'s","followed","by","``","people","in","the","news","''","profiling","harrison","ford","and","harry","potter","."]
+,"lemmas":["that","be","follow","by","``","people","in","the","news","''","profile","harrison","ford","and","harry","potter","."]
+,"posTags":["DT","VBZ","VBN","IN","``","NNS","IN","DT","NN","''","VBG","NN","NN","CC","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","O","B-NP","B-PP","B-NP","I-NP","O","B-VP","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,-2,3,5,8,6,-2,2,12,10,12,15,12,-2]
+,"deprels":["nsubjpass","auxpass","root","prep",null,"pobj","prep","det","pobj",null,"xcomp","nn","dobj","cc","nn","conj",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (VP (VBN followed) (PP (IN by) (`` ``) (NP (NP (NNS people)) (PP (IN in) (NP (DT the) (NN news)))) ('' '')) (S (VP (VBG profiling) (NP (NP (NN harrison) (NN ford)) (CC and) (NP (NN harry) (NN potter))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b340\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b335\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["at","8:00","eastern",",","cnn","presents","road","to","baghdad","."]
+,"lemmas":["at","8:00","eastern",",","cnn","present","road","to","baghdad","."]
+,"posTags":["IN","CD","JJ",",","NN","VBZ","NN","TO","NN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[5,0,1,-2,5,-1,5,5,7,-2]
+,"deprels":["prep","pobj","amod",null,"nsubj","root","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN at) (NP (CD 8:00) (JJ eastern))) (, ,) (NP (NN cnn)) (VP (VBZ presents) (NP (NN road)) (PP (TO to) (NP (NN baghdad)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b333\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"f1d34816-7536-9e9c-ab4d-000021b1b33a\"}}]"
+,"relLabels":["NO_RELATION"]}
+

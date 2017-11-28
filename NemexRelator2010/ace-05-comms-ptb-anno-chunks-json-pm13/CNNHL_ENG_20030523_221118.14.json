@@ -1,0 +1,370 @@
+{"words":["5,400","sailors","and","marines","are","back","at","home","after","serving","in","iraq","."]
+,"lemmas":["5,400","sailor","and","marine","be","back","at","home","after","serve","in","iraq","."]
+,"posTags":["CD","NNS","CC","NNS","VBP","RB","IN","NN","IN","VBG","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","B-VP","B-ADVP","I-ADVP","I-ADVP","B-PP","B-VP","B-PP","B-NP","O"]
+,"parents":[1,4,1,1,-1,6,4,6,4,8,9,10,-2]
+,"deprels":["num","nsubj","cc","conj","root","advmod","advmod","dep","prep","pcomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 5,400) (NNS sailors)) (CC and) (NP (NNS marines))) (VP (VBP are) (ADVP (RB back) (IN at) (NN home)) (PP (IN after) (S (VP (VBG serving) (PP (IN in) (NP (NN iraq))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a259\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a255\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["5,400","sailors","and","marines","are","back","at","home","after","serving","in","iraq","."]
+,"lemmas":["5,400","sailor","and","marine","be","back","at","home","after","serve","in","iraq","."]
+,"posTags":["CD","NNS","CC","NNS","VBP","RB","IN","NN","IN","VBG","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","B-VP","B-ADVP","I-ADVP","I-ADVP","B-PP","B-VP","B-PP","B-NP","O"]
+,"parents":[1,4,1,1,-1,6,4,6,4,8,9,10,-2]
+,"deprels":["num","nsubj","cc","conj","root","advmod","advmod","dep","prep","pcomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 5,400) (NNS sailors)) (CC and) (NP (NNS marines))) (VP (VBP are) (ADVP (RB back) (IN at) (NN home)) (PP (IN after) (S (VP (VBG serving) (PP (IN in) (NP (NN iraq))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a257\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a253\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["5,400","sailors","and","marines","are","back","at","home","after","serving","in","iraq","."]
+,"lemmas":["5,400","sailor","and","marine","be","back","at","home","after","serve","in","iraq","."]
+,"posTags":["CD","NNS","CC","NNS","VBP","RB","IN","NN","IN","VBG","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","B-VP","B-ADVP","I-ADVP","I-ADVP","B-PP","B-VP","B-PP","B-NP","O"]
+,"parents":[1,4,1,1,-1,6,4,6,4,8,9,10,-2]
+,"deprels":["num","nsubj","cc","conj","root","advmod","advmod","dep","prep","pcomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 5,400) (NNS sailors)) (CC and) (NP (NNS marines))) (VP (VBP are) (ADVP (RB back) (IN at) (NN home)) (PP (IN after) (S (VP (VBG serving) (PP (IN in) (NP (NN iraq))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a257\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a255\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["5,400","sailors","and","marines","are","back","at","home","after","serving","in","iraq","."]
+,"lemmas":["5,400","sailor","and","marine","be","back","at","home","after","serve","in","iraq","."]
+,"posTags":["CD","NNS","CC","NNS","VBP","RB","IN","NN","IN","VBG","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","B-VP","B-ADVP","I-ADVP","I-ADVP","B-PP","B-VP","B-PP","B-NP","O"]
+,"parents":[1,4,1,1,-1,6,4,6,4,8,9,10,-2]
+,"deprels":["num","nsubj","cc","conj","root","advmod","advmod","dep","prep","pcomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 5,400) (NNS sailors)) (CC and) (NP (NNS marines))) (VP (VBP are) (ADVP (RB back) (IN at) (NN home)) (PP (IN after) (S (VP (VBG serving) (PP (IN in) (NP (NN iraq))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a259\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a253\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["5,400","sailors","and","marines","are","back","at","home","after","serving","in","iraq","."]
+,"lemmas":["5,400","sailor","and","marine","be","back","at","home","after","serve","in","iraq","."]
+,"posTags":["CD","NNS","CC","NNS","VBP","RB","IN","NN","IN","VBG","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","B-VP","B-ADVP","I-ADVP","I-ADVP","B-PP","B-VP","B-PP","B-NP","O"]
+,"parents":[1,4,1,1,-1,6,4,6,4,8,9,10,-2]
+,"deprels":["num","nsubj","cc","conj","root","advmod","advmod","dep","prep","pcomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 5,400) (NNS sailors)) (CC and) (NP (NNS marines))) (VP (VBP are) (ADVP (RB back) (IN at) (NN home)) (PP (IN after) (S (VP (VBG serving) (PP (IN in) (NP (NN iraq))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a259\"},\"m2\":{\"start\":0,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a257\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["5,400","sailors","and","marines","are","back","at","home","after","serving","in","iraq","."]
+,"lemmas":["5,400","sailor","and","marine","be","back","at","home","after","serve","in","iraq","."]
+,"posTags":["CD","NNS","CC","NNS","VBP","RB","IN","NN","IN","VBG","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","B-VP","B-ADVP","I-ADVP","I-ADVP","B-PP","B-VP","B-PP","B-NP","O"]
+,"parents":[1,4,1,1,-1,6,4,6,4,8,9,10,-2]
+,"deprels":["num","nsubj","cc","conj","root","advmod","advmod","dep","prep","pcomp","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 5,400) (NNS sailors)) (CC and) (NP (NNS marines))) (VP (VBP are) (ADVP (RB back) (IN at) (NN home)) (PP (IN after) (S (VP (VBG serving) (PP (IN in) (NP (NN iraq))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a255\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a253\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","'re","the","crew","of","the","``","uss","harry","s.","truman","."]
+,"lemmas":["they","be","the","crew","of","the","``","uss","harry","s.","truman","."]
+,"posTags":["PRP","VBP","DT","NN","IN","DT","``","NN","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,8,-2,8,4,10,8,-2]
+,"deprels":["nsubj","cop","det","root","prep","det",null,"nn","pobj","amod","dep",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBP 're) (NP (NP (DT the) (NN crew)) (PP (IN of) (NP (NP (DT the) (`` ``) (NN uss) (NN harry)) (NP (JJ s.) (NN truman)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a24e\"},\"m2\":{\"start\":2,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a24f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","'re","the","crew","of","the","``","uss","harry","s.","truman","."]
+,"lemmas":["they","be","the","crew","of","the","``","uss","harry","s.","truman","."]
+,"posTags":["PRP","VBP","DT","NN","IN","DT","``","NN","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,8,-2,8,4,10,8,-2]
+,"deprels":["nsubj","cop","det","root","prep","det",null,"nn","pobj","amod","dep",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBP 're) (NP (NP (DT the) (NN crew)) (PP (IN of) (NP (NP (DT the) (`` ``) (NN uss) (NN harry)) (NP (JJ s.) (NN truman)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a24e\"},\"m2\":{\"start\":5,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a26b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","'re","the","crew","of","the","``","uss","harry","s.","truman","."]
+,"lemmas":["they","be","the","crew","of","the","``","uss","harry","s.","truman","."]
+,"posTags":["PRP","VBP","DT","NN","IN","DT","``","NN","NN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,8,-2,8,4,10,8,-2]
+,"deprels":["nsubj","cop","det","root","prep","det",null,"nn","pobj","amod","dep",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBP 're) (NP (NP (DT the) (NN crew)) (PP (IN of) (NP (NP (DT the) (`` ``) (NN uss) (NN harry)) (NP (JJ s.) (NN truman)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a24f\"},\"m2\":{\"start\":5,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a26b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a261\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25f\"}}]"
+,"relLabels":["PART-WHOLE(Arg-1,Arg-2)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a265\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a261\"}}]"
+,"relLabels":["PART-WHOLE(Arg-1,Arg-2)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a251\"},\"m2\":{\"start\":5,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25b\"}}]"
+,"relLabels":["PER-SOC(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a251\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25d\"}}]"
+,"relLabels":["PER-SOC(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a250\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a261\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a250\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a251\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a250\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a250\"},\"m2\":{\"start\":5,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25d\"},\"m2\":{\"start\":5,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25d\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a263\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25d\"},\"m2\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a26c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25d\"},\"m2\":{\"start\":11,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a265\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25d\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a261\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25b\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a263\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25b\"},\"m2\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a26c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25b\"},\"m2\":{\"start\":11,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a265\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25b\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a261\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a263\"},\"m2\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a26c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a263\"},\"m2\":{\"start\":11,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a265\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a263\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a261\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a263\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a26c\"},\"m2\":{\"start\":11,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a265\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a26c\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a261\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a26c\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["''","they","have","reunited","with","their","families","and","friends",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginia","."]
+,"lemmas":["''","they","have","reunite","with","they","family","and","friend",",","at","the","aircraft","carrier","'s","home","port","in","norfolk",",","virginium","."]
+,"posTags":["''","PRP","VBP","VBN","IN","PRP$","NNS","CC","NNS",",","IN","DT","NN","NN","POS","NN","NN","IN","NN",",","NN","."]
+,"chunks":["O","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O"]
+,"parents":[-2,3,3,-1,3,6,4,6,6,-2,3,13,13,16,13,16,10,16,17,-2,18,-2]
+,"deprels":[null,"nsubj","aux","root","prep","poss","pobj","cc","conj",null,"prep","det","nn","poss","possessive","nn","pobj","prep","pobj",null,"appos",null]
+,"naryTree":"((ROOT (S ('' '') (NP (PRP they)) (VP (VBP have) (VP (VBN reunited) (PP (IN with) (NP (PRP$ their) (NNS families) (CC and) (NNS friends))) (, ,) (PP (IN at) (NP (NP (NP (DT the) (NN aircraft) (NN carrier) (POS 's)) (NN home) (NN port)) (PP (IN in) (NP (NP (NN norfolk)) (, ,) (NP (NN virginia)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a265\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a25f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","``","truman","''","is","the","first","east","coast-based","carrier","to","return","from","the","war","."]
+,"lemmas":["the","``","truman","''","be","the","first","east","coast-based","carrier","to","return","from","the","war","."]
+,"posTags":["DT","``","NN","''","VBZ","DT","JJ","JJ","JJ","NN","TO","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,-2,9,-2,9,9,9,9,9,-1,11,9,11,14,12,-2]
+,"deprels":["det",null,"nsubj",null,"cop","det","amod","amod","amod","root","aux","vmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (`` ``) (NN truman) ('' '')) (VP (VBZ is) (NP (DT the) (JJ first) (JJ east) (JJ coast-based) (NN carrier)) (S (VP (TO to) (VP (VB return) (PP (IN from) (NP (DT the) (NN war))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a269\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a267\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","``","truman","''","is","the","first","east","coast-based","carrier","to","return","from","the","war","."]
+,"lemmas":["the","``","truman","''","be","the","first","east","coast-based","carrier","to","return","from","the","war","."]
+,"posTags":["DT","``","NN","''","VBZ","DT","JJ","JJ","JJ","NN","TO","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,-2,9,-2,9,9,9,9,9,-1,11,9,11,14,12,-2]
+,"deprels":["det",null,"nsubj",null,"cop","det","amod","amod","amod","root","aux","vmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (`` ``) (NN truman) ('' '')) (VP (VBZ is) (NP (DT the) (JJ first) (JJ east) (JJ coast-based) (NN carrier)) (S (VP (TO to) (VP (VB return) (PP (IN from) (NP (DT the) (NN war))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a269\"},\"m2\":{\"start\":5,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a26a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","``","truman","''","is","the","first","east","coast-based","carrier","to","return","from","the","war","."]
+,"lemmas":["the","``","truman","''","be","the","first","east","coast-based","carrier","to","return","from","the","war","."]
+,"posTags":["DT","``","NN","''","VBZ","DT","JJ","JJ","JJ","NN","TO","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,-2,9,-2,9,9,9,9,9,-1,11,9,11,14,12,-2]
+,"deprels":["det",null,"nsubj",null,"cop","det","amod","amod","amod","root","aux","vmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (`` ``) (NN truman) ('' '')) (VP (VBZ is) (NP (DT the) (JJ first) (JJ east) (JJ coast-based) (NN carrier)) (S (VP (TO to) (VP (VB return) (PP (IN from) (NP (DT the) (NN war))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a267\"},\"m2\":{\"start\":5,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"ba22a552-426b-7e43-7f6c-000032b9a26a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

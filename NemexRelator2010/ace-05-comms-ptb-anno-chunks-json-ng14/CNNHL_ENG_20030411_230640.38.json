@@ -1,0 +1,360 @@
+{"words":["sharon","osbourne","did","not","enjoy","her","meal","at","a","los","angeles","restaurant","last","night","."]
+,"lemmas":["sharon","osbourne","do","not","enjoy","she","meal","at","a","lo","angele","restaurant","last","night","."]
+,"posTags":["NN","NN","VBD","RB","VB","PRP$","NN","IN","DT","NN","VBZ","NN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,6,4,4,9,7,9,10,13,10,-2]
+,"deprels":["nn","nsubj","aux","neg","root","poss","dobj","prep","det","pobj","rcmod","dobj","amod","tmod",null]
+,"naryTree":"((ROOT (S (NP (NN sharon) (NN osbourne)) (VP (VBD did) (RB not) (VP (VB enjoy) (NP (PRP$ her) (NN meal)) (PP (IN at) (NP (NP (DT a) (NN los)) (SBAR (S (VP (VBZ angeles) (NP (NN restaurant)) (NP-TMP (JJ last) (NN night))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c305b\"},\"m2\":{\"start\":8,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c305d\"}}]"
+,"relLabels":["PART-WHOLE"]}
+
+{"words":["sharon","osbourne","did","not","enjoy","her","meal","at","a","los","angeles","restaurant","last","night","."]
+,"lemmas":["sharon","osbourne","do","not","enjoy","she","meal","at","a","lo","angele","restaurant","last","night","."]
+,"posTags":["NN","NN","VBD","RB","VB","PRP$","NN","IN","DT","NN","VBZ","NN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,6,4,4,9,7,9,10,13,10,-2]
+,"deprels":["nn","nsubj","aux","neg","root","poss","dobj","prep","det","pobj","rcmod","dobj","amod","tmod",null]
+,"naryTree":"((ROOT (S (NP (NN sharon) (NN osbourne)) (VP (VBD did) (RB not) (VP (VB enjoy) (NP (PRP$ her) (NN meal)) (PP (IN at) (NP (NP (DT a) (NN los)) (SBAR (S (VP (VBZ angeles) (NP (NN restaurant)) (NP-TMP (JJ last) (NN night))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c305f\"},\"m2\":{\"start\":8,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c305d\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["sharon","osbourne","did","not","enjoy","her","meal","at","a","los","angeles","restaurant","last","night","."]
+,"lemmas":["sharon","osbourne","do","not","enjoy","she","meal","at","a","lo","angele","restaurant","last","night","."]
+,"posTags":["NN","NN","VBD","RB","VB","PRP$","NN","IN","DT","NN","VBZ","NN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,6,4,4,9,7,9,10,13,10,-2]
+,"deprels":["nn","nsubj","aux","neg","root","poss","dobj","prep","det","pobj","rcmod","dobj","amod","tmod",null]
+,"naryTree":"((ROOT (S (NP (NN sharon) (NN osbourne)) (VP (VBD did) (RB not) (VP (VB enjoy) (NP (PRP$ her) (NN meal)) (PP (IN at) (NP (NP (DT a) (NN los)) (SBAR (S (VP (VBZ angeles) (NP (NN restaurant)) (NP-TMP (JJ last) (NN night))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c305f\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3062\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sharon","osbourne","did","not","enjoy","her","meal","at","a","los","angeles","restaurant","last","night","."]
+,"lemmas":["sharon","osbourne","do","not","enjoy","she","meal","at","a","lo","angele","restaurant","last","night","."]
+,"posTags":["NN","NN","VBD","RB","VB","PRP$","NN","IN","DT","NN","VBZ","NN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,6,4,4,9,7,9,10,13,10,-2]
+,"deprels":["nn","nsubj","aux","neg","root","poss","dobj","prep","det","pobj","rcmod","dobj","amod","tmod",null]
+,"naryTree":"((ROOT (S (NP (NN sharon) (NN osbourne)) (VP (VBD did) (RB not) (VP (VB enjoy) (NP (PRP$ her) (NN meal)) (PP (IN at) (NP (NP (DT a) (NN los)) (SBAR (S (VP (VBZ angeles) (NP (NN restaurant)) (NP-TMP (JJ last) (NN night))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c305f\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c305b\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sharon","osbourne","did","not","enjoy","her","meal","at","a","los","angeles","restaurant","last","night","."]
+,"lemmas":["sharon","osbourne","do","not","enjoy","she","meal","at","a","lo","angele","restaurant","last","night","."]
+,"posTags":["NN","NN","VBD","RB","VB","PRP$","NN","IN","DT","NN","VBZ","NN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,6,4,4,9,7,9,10,13,10,-2]
+,"deprels":["nn","nsubj","aux","neg","root","poss","dobj","prep","det","pobj","rcmod","dobj","amod","tmod",null]
+,"naryTree":"((ROOT (S (NP (NN sharon) (NN osbourne)) (VP (VBD did) (RB not) (VP (VB enjoy) (NP (PRP$ her) (NN meal)) (PP (IN at) (NP (NP (DT a) (NN los)) (SBAR (S (VP (VBZ angeles) (NP (NN restaurant)) (NP-TMP (JJ last) (NN night))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3062\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c305b\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sharon","osbourne","did","not","enjoy","her","meal","at","a","los","angeles","restaurant","last","night","."]
+,"lemmas":["sharon","osbourne","do","not","enjoy","she","meal","at","a","lo","angele","restaurant","last","night","."]
+,"posTags":["NN","NN","VBD","RB","VB","PRP$","NN","IN","DT","NN","VBZ","NN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,6,4,4,9,7,9,10,13,10,-2]
+,"deprels":["nn","nsubj","aux","neg","root","poss","dobj","prep","det","pobj","rcmod","dobj","amod","tmod",null]
+,"naryTree":"((ROOT (S (NP (NN sharon) (NN osbourne)) (VP (VBD did) (RB not) (VP (VB enjoy) (NP (PRP$ her) (NN meal)) (PP (IN at) (NP (NP (DT a) (NN los)) (SBAR (S (VP (VBZ angeles) (NP (NN restaurant)) (NP-TMP (JJ last) (NN night))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3062\"},\"m2\":{\"start\":8,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c305d\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["ozzy","'s","wife","reportedly","got","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"lemmas":["ozzy","'s","wife","reportedly","get","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"posTags":["NN","POS","NN","RB","VBD","IN","DT","NN","IN","NN","NN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,0,4,4,-1,4,7,5,4,12,12,12,8,-2]
+,"deprels":["poss","possessive","nsubj","advmod","root","prep","det","pobj","prep","nn","nn","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN ozzy) (POS 's)) (NN wife)) (ADVP (RB reportedly)) (VP (VBD got) (PP (IN into) (NP (DT a) (NN fight))) (PP (IN with) (NP (NN hollywood) (NN agent) (NN renee) (NN tab)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c307a\"},\"m2\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3063\"}}]"
+,"relLabels":["PER-SOC"]}
+
+{"words":["ozzy","'s","wife","reportedly","got","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"lemmas":["ozzy","'s","wife","reportedly","get","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"posTags":["NN","POS","NN","RB","VBD","IN","DT","NN","IN","NN","NN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,0,4,4,-1,4,7,5,4,12,12,12,8,-2]
+,"deprels":["poss","possessive","nsubj","advmod","root","prep","det","pobj","prep","nn","nn","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN ozzy) (POS 's)) (NN wife)) (ADVP (RB reportedly)) (VP (VBD got) (PP (IN into) (NP (DT a) (NN fight))) (PP (IN with) (NP (NN hollywood) (NN agent) (NN renee) (NN tab)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c307a\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3072\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["ozzy","'s","wife","reportedly","got","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"lemmas":["ozzy","'s","wife","reportedly","get","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"posTags":["NN","POS","NN","RB","VBD","IN","DT","NN","IN","NN","NN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,0,4,4,-1,4,7,5,4,12,12,12,8,-2]
+,"deprels":["poss","possessive","nsubj","advmod","root","prep","det","pobj","prep","nn","nn","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN ozzy) (POS 's)) (NN wife)) (ADVP (RB reportedly)) (VP (VBD got) (PP (IN into) (NP (DT a) (NN fight))) (PP (IN with) (NP (NN hollywood) (NN agent) (NN renee) (NN tab)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c307a\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3076\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["ozzy","'s","wife","reportedly","got","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"lemmas":["ozzy","'s","wife","reportedly","get","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"posTags":["NN","POS","NN","RB","VBD","IN","DT","NN","IN","NN","NN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,0,4,4,-1,4,7,5,4,12,12,12,8,-2]
+,"deprels":["poss","possessive","nsubj","advmod","root","prep","det","pobj","prep","nn","nn","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN ozzy) (POS 's)) (NN wife)) (ADVP (RB reportedly)) (VP (VBD got) (PP (IN into) (NP (DT a) (NN fight))) (PP (IN with) (NP (NN hollywood) (NN agent) (NN renee) (NN tab)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c307a\"},\"m2\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3075\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["ozzy","'s","wife","reportedly","got","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"lemmas":["ozzy","'s","wife","reportedly","get","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"posTags":["NN","POS","NN","RB","VBD","IN","DT","NN","IN","NN","NN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,0,4,4,-1,4,7,5,4,12,12,12,8,-2]
+,"deprels":["poss","possessive","nsubj","advmod","root","prep","det","pobj","prep","nn","nn","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN ozzy) (POS 's)) (NN wife)) (ADVP (RB reportedly)) (VP (VBD got) (PP (IN into) (NP (DT a) (NN fight))) (PP (IN with) (NP (NN hollywood) (NN agent) (NN renee) (NN tab)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3063\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3072\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["ozzy","'s","wife","reportedly","got","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"lemmas":["ozzy","'s","wife","reportedly","get","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"posTags":["NN","POS","NN","RB","VBD","IN","DT","NN","IN","NN","NN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,0,4,4,-1,4,7,5,4,12,12,12,8,-2]
+,"deprels":["poss","possessive","nsubj","advmod","root","prep","det","pobj","prep","nn","nn","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN ozzy) (POS 's)) (NN wife)) (ADVP (RB reportedly)) (VP (VBD got) (PP (IN into) (NP (DT a) (NN fight))) (PP (IN with) (NP (NN hollywood) (NN agent) (NN renee) (NN tab)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3063\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3076\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["ozzy","'s","wife","reportedly","got","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"lemmas":["ozzy","'s","wife","reportedly","get","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"posTags":["NN","POS","NN","RB","VBD","IN","DT","NN","IN","NN","NN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,0,4,4,-1,4,7,5,4,12,12,12,8,-2]
+,"deprels":["poss","possessive","nsubj","advmod","root","prep","det","pobj","prep","nn","nn","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN ozzy) (POS 's)) (NN wife)) (ADVP (RB reportedly)) (VP (VBD got) (PP (IN into) (NP (DT a) (NN fight))) (PP (IN with) (NP (NN hollywood) (NN agent) (NN renee) (NN tab)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3063\"},\"m2\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3075\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["ozzy","'s","wife","reportedly","got","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"lemmas":["ozzy","'s","wife","reportedly","get","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"posTags":["NN","POS","NN","RB","VBD","IN","DT","NN","IN","NN","NN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,0,4,4,-1,4,7,5,4,12,12,12,8,-2]
+,"deprels":["poss","possessive","nsubj","advmod","root","prep","det","pobj","prep","nn","nn","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN ozzy) (POS 's)) (NN wife)) (ADVP (RB reportedly)) (VP (VBD got) (PP (IN into) (NP (DT a) (NN fight))) (PP (IN with) (NP (NN hollywood) (NN agent) (NN renee) (NN tab)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3072\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3076\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["ozzy","'s","wife","reportedly","got","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"lemmas":["ozzy","'s","wife","reportedly","get","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"posTags":["NN","POS","NN","RB","VBD","IN","DT","NN","IN","NN","NN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,0,4,4,-1,4,7,5,4,12,12,12,8,-2]
+,"deprels":["poss","possessive","nsubj","advmod","root","prep","det","pobj","prep","nn","nn","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN ozzy) (POS 's)) (NN wife)) (ADVP (RB reportedly)) (VP (VBD got) (PP (IN into) (NP (DT a) (NN fight))) (PP (IN with) (NP (NN hollywood) (NN agent) (NN renee) (NN tab)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3072\"},\"m2\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3075\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["ozzy","'s","wife","reportedly","got","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"lemmas":["ozzy","'s","wife","reportedly","get","into","a","fight","with","hollywood","agent","renee","tab","."]
+,"posTags":["NN","POS","NN","RB","VBD","IN","DT","NN","IN","NN","NN","NN","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[2,0,4,4,-1,4,7,5,4,12,12,12,8,-2]
+,"deprels":["poss","possessive","nsubj","advmod","root","prep","det","pobj","prep","nn","nn","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN ozzy) (POS 's)) (NN wife)) (ADVP (RB reportedly)) (VP (VBD got) (PP (IN into) (NP (DT a) (NN fight))) (PP (IN with) (NP (NN hollywood) (NN agent) (NN renee) (NN tab)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3076\"},\"m2\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3075\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sharon","spit","on","tab","and","called","her","names","."]
+,"lemmas":["sharon","spit","on","tab","and","call","she","name","."]
+,"posTags":["NN","NN","IN","NN","CC","VBD","PRP$","NNS","."]
+,"chunks":["B-NP","B-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,2,1,1,7,5,-2]
+,"deprels":["nsubj","root","prep","pobj","cc","conj","poss","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN sharon)) (VP (VP (NP (NN spit)) (PP (IN on) (NP (NN tab)))) (CC and) (VP (VBD called) (NP (PRP$ her) (NNS names)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3064\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3078\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sharon","spit","on","tab","and","called","her","names","."]
+,"lemmas":["sharon","spit","on","tab","and","call","she","name","."]
+,"posTags":["NN","NN","IN","NN","CC","VBD","PRP$","NNS","."]
+,"chunks":["B-NP","B-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,2,1,1,7,5,-2]
+,"deprels":["nsubj","root","prep","pobj","cc","conj","poss","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN sharon)) (VP (VP (NP (NN spit)) (PP (IN on) (NP (NN tab)))) (CC and) (VP (VBD called) (NP (PRP$ her) (NNS names)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3064\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3077\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sharon","spit","on","tab","and","called","her","names","."]
+,"lemmas":["sharon","spit","on","tab","and","call","she","name","."]
+,"posTags":["NN","NN","IN","NN","CC","VBD","PRP$","NNS","."]
+,"chunks":["B-NP","B-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,2,1,1,7,5,-2]
+,"deprels":["nsubj","root","prep","pobj","cc","conj","poss","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN sharon)) (VP (VP (NP (NN spit)) (PP (IN on) (NP (NN tab)))) (CC and) (VP (VBD called) (NP (PRP$ her) (NNS names)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3078\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3077\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["osbourne","'s","spokeswomen","says","sharon","was","quote",",","``","viciously","assaulted","and","treated","at","a","hospital","."]
+,"lemmas":["osbourne","'s","spokeswoman","say","sharon","be","quote",",","``","viciously","assault","and","treat","at","a","hospital","."]
+,"posTags":["NN","POS","NNS","VBZ","NN","VBD","NN",",","``","RB","VBN","CC","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","O","O","B-VP","I-VP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,6,6,3,-2,-2,10,6,10,10,12,15,13,-2]
+,"deprels":["poss","possessive","nsubj","root","nsubj","cop","ccomp",null,null,"advmod","dep","cc","conj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN osbourne) (POS 's)) (NNS spokeswomen)) (VP (VBZ says) (SBAR (S (NP (NN sharon)) (VP (VBD was) (NP (NP (NN quote)) (, ,) (VP (`` ``) (VP (ADVP (RB viciously)) (VBN assaulted)) (CC and) (VP (VBN treated) (PP (IN at) (NP (DT a) (NN hospital)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3065\"},\"m2\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3070\"}}]"
+,"relLabels":["PER-SOC"]}
+
+{"words":["osbourne","'s","spokeswomen","says","sharon","was","quote",",","``","viciously","assaulted","and","treated","at","a","hospital","."]
+,"lemmas":["osbourne","'s","spokeswoman","say","sharon","be","quote",",","``","viciously","assault","and","treat","at","a","hospital","."]
+,"posTags":["NN","POS","NNS","VBZ","NN","VBD","NN",",","``","RB","VBN","CC","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","O","O","B-VP","I-VP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,6,6,3,-2,-2,10,6,10,10,12,15,13,-2]
+,"deprels":["poss","possessive","nsubj","root","nsubj","cop","ccomp",null,null,"advmod","dep","cc","conj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN osbourne) (POS 's)) (NNS spokeswomen)) (VP (VBZ says) (SBAR (S (NP (NN sharon)) (VP (VBD was) (NP (NP (NN quote)) (, ,) (VP (`` ``) (VP (ADVP (RB viciously)) (VBN assaulted)) (CC and) (VP (VBN treated) (PP (IN at) (NP (DT a) (NN hospital)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3065\"},\"m2\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3070\"}}]"
+,"relLabels":["PER-SOC"]}
+
+{"words":["osbourne","'s","spokeswomen","says","sharon","was","quote",",","``","viciously","assaulted","and","treated","at","a","hospital","."]
+,"lemmas":["osbourne","'s","spokeswoman","say","sharon","be","quote",",","``","viciously","assault","and","treat","at","a","hospital","."]
+,"posTags":["NN","POS","NNS","VBZ","NN","VBD","NN",",","``","RB","VBN","CC","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","O","O","B-VP","I-VP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,6,6,3,-2,-2,10,6,10,10,12,15,13,-2]
+,"deprels":["poss","possessive","nsubj","root","nsubj","cop","ccomp",null,null,"advmod","dep","cc","conj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN osbourne) (POS 's)) (NNS spokeswomen)) (VP (VBZ says) (SBAR (S (NP (NN sharon)) (VP (VBD was) (NP (NP (NN quote)) (, ,) (VP (`` ``) (VP (ADVP (RB viciously)) (VBN assaulted)) (CC and) (VP (VBN treated) (PP (IN at) (NP (DT a) (NN hospital)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3065\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3066\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["osbourne","'s","spokeswomen","says","sharon","was","quote",",","``","viciously","assaulted","and","treated","at","a","hospital","."]
+,"lemmas":["osbourne","'s","spokeswoman","say","sharon","be","quote",",","``","viciously","assault","and","treat","at","a","hospital","."]
+,"posTags":["NN","POS","NNS","VBZ","NN","VBD","NN",",","``","RB","VBN","CC","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","O","O","B-VP","I-VP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,6,6,3,-2,-2,10,6,10,10,12,15,13,-2]
+,"deprels":["poss","possessive","nsubj","root","nsubj","cop","ccomp",null,null,"advmod","dep","cc","conj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN osbourne) (POS 's)) (NNS spokeswomen)) (VP (VBZ says) (SBAR (S (NP (NN sharon)) (VP (VBD was) (NP (NP (NN quote)) (, ,) (VP (`` ``) (VP (ADVP (RB viciously)) (VBN assaulted)) (CC and) (VP (VBN treated) (PP (IN at) (NP (DT a) (NN hospital)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3065\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c306a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["osbourne","'s","spokeswomen","says","sharon","was","quote",",","``","viciously","assaulted","and","treated","at","a","hospital","."]
+,"lemmas":["osbourne","'s","spokeswoman","say","sharon","be","quote",",","``","viciously","assault","and","treat","at","a","hospital","."]
+,"posTags":["NN","POS","NNS","VBZ","NN","VBD","NN",",","``","RB","VBN","CC","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","O","O","B-VP","I-VP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,6,6,3,-2,-2,10,6,10,10,12,15,13,-2]
+,"deprels":["poss","possessive","nsubj","root","nsubj","cop","ccomp",null,null,"advmod","dep","cc","conj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN osbourne) (POS 's)) (NNS spokeswomen)) (VP (VBZ says) (SBAR (S (NP (NN sharon)) (VP (VBD was) (NP (NP (NN quote)) (, ,) (VP (`` ``) (VP (ADVP (RB viciously)) (VBN assaulted)) (CC and) (VP (VBN treated) (PP (IN at) (NP (DT a) (NN hospital)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3070\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3066\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["osbourne","'s","spokeswomen","says","sharon","was","quote",",","``","viciously","assaulted","and","treated","at","a","hospital","."]
+,"lemmas":["osbourne","'s","spokeswoman","say","sharon","be","quote",",","``","viciously","assault","and","treat","at","a","hospital","."]
+,"posTags":["NN","POS","NNS","VBZ","NN","VBD","NN",",","``","RB","VBN","CC","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","O","O","B-VP","I-VP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,6,6,3,-2,-2,10,6,10,10,12,15,13,-2]
+,"deprels":["poss","possessive","nsubj","root","nsubj","cop","ccomp",null,null,"advmod","dep","cc","conj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN osbourne) (POS 's)) (NNS spokeswomen)) (VP (VBZ says) (SBAR (S (NP (NN sharon)) (VP (VBD was) (NP (NP (NN quote)) (, ,) (VP (`` ``) (VP (ADVP (RB viciously)) (VBN assaulted)) (CC and) (VP (VBN treated) (PP (IN at) (NP (DT a) (NN hospital)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3070\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c306a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["osbourne","'s","spokeswomen","says","sharon","was","quote",",","``","viciously","assaulted","and","treated","at","a","hospital","."]
+,"lemmas":["osbourne","'s","spokeswoman","say","sharon","be","quote",",","``","viciously","assault","and","treat","at","a","hospital","."]
+,"posTags":["NN","POS","NNS","VBZ","NN","VBD","NN",",","``","RB","VBN","CC","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","B-VP","B-NP","B-VP","B-NP","O","O","B-VP","I-VP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,0,3,-1,6,6,3,-2,-2,10,6,10,10,12,15,13,-2]
+,"deprels":["poss","possessive","nsubj","root","nsubj","cop","ccomp",null,null,"advmod","dep","cc","conj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN osbourne) (POS 's)) (NNS spokeswomen)) (VP (VBZ says) (SBAR (S (NP (NN sharon)) (VP (VBD was) (NP (NP (NN quote)) (, ,) (VP (`` ``) (VP (ADVP (RB viciously)) (VBN assaulted)) (CC and) (VP (VBN treated) (PP (IN at) (NP (DT a) (NN hospital)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3066\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c306a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["''","disagreement","between","the","women","began","months","ago","when","osbourne","said","tab","atended","her","family","'s","new","year","'s","eve","party","uninvited","and","then","won","the","door","prize",",","a","$","15,000","necklace","."]
+,"lemmas":["''","disagreement","between","the","woman","begin","month","ago","when","osbourne","say","tab","atend","she","family","'s","new","year","'s","eve","party","uninvited","and","then","win","the","door","prize",",","a","$","15,000","necklace","."]
+,"posTags":["''","NN","IN","DT","NNS","VBD","NNS","RB","WRB","NN","VBD","NN","VBD","PRP$","NN","POS","JJ","NN","POS","NN","NN","JJ","CC","RB","VBD","DT","NN","NN",",","DT","$","CD","NN","."]
+,"chunks":["O","B-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-ADVP","B-ADVP","B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-ADJP","O","B-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-2,5,1,4,2,-1,5,5,10,10,7,12,10,14,17,14,17,20,17,20,12,20,5,24,5,27,27,24,-2,32,32,30,27,-2]
+,"deprels":[null,"nsubj","prep","det","pobj","root","tmod","advmod","advmod","nsubj","dep","nsubj","ccomp","poss","poss","possessive","amod","poss","possessive","nn","dobj","amod","cc","nsubj","conj","det","nn","dobj",null,"det","amod","num","appos",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (NP (NN disagreement)) (PP (IN between) (NP (DT the) (NNS women)))) (VP (VBD began) (NP (NNS months)) (ADVP (RB ago) (SBAR (WHADVP (WRB when)) (S (NP (NN osbourne)) (VP (VBD said) (SBAR (S (NP (NN tab)) (VP (VBD atended) (NP (NP (NP (NP (PRP$ her) (NN family) (POS 's)) (JJ new) (NN year) (POS 's)) (NN eve) (NN party)) (ADJP (JJ uninvited)))))))))))) (CC and) (S (NP (RB then)) (VP (VBD won) (NP (NP (DT the) (NN door) (NN prize)) (, ,) (NP (DT a) (ADJP (QP ($ $) (CD 15,000))) (NN necklace))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3061\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c306c\"}}]"
+,"relLabels":["PER-SOC"]}
+
+{"words":["''","disagreement","between","the","women","began","months","ago","when","osbourne","said","tab","atended","her","family","'s","new","year","'s","eve","party","uninvited","and","then","won","the","door","prize",",","a","$","15,000","necklace","."]
+,"lemmas":["''","disagreement","between","the","woman","begin","month","ago","when","osbourne","say","tab","atend","she","family","'s","new","year","'s","eve","party","uninvited","and","then","win","the","door","prize",",","a","$","15,000","necklace","."]
+,"posTags":["''","NN","IN","DT","NNS","VBD","NNS","RB","WRB","NN","VBD","NN","VBD","PRP$","NN","POS","JJ","NN","POS","NN","NN","JJ","CC","RB","VBD","DT","NN","NN",",","DT","$","CD","NN","."]
+,"chunks":["O","B-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-ADVP","B-ADVP","B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-ADJP","O","B-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-2,5,1,4,2,-1,5,5,10,10,7,12,10,14,17,14,17,20,17,20,12,20,5,24,5,27,27,24,-2,32,32,30,27,-2]
+,"deprels":[null,"nsubj","prep","det","pobj","root","tmod","advmod","advmod","nsubj","dep","nsubj","ccomp","poss","poss","possessive","amod","poss","possessive","nn","dobj","amod","cc","nsubj","conj","det","nn","dobj",null,"det","amod","num","appos",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (NP (NN disagreement)) (PP (IN between) (NP (DT the) (NNS women)))) (VP (VBD began) (NP (NNS months)) (ADVP (RB ago) (SBAR (WHADVP (WRB when)) (S (NP (NN osbourne)) (VP (VBD said) (SBAR (S (NP (NN tab)) (VP (VBD atended) (NP (NP (NP (NP (PRP$ her) (NN family) (POS 's)) (JJ new) (NN year) (POS 's)) (NN eve) (NN party)) (ADJP (JJ uninvited)))))))))))) (CC and) (S (NP (RB then)) (VP (VBD won) (NP (NP (DT the) (NN door) (NN prize)) (, ,) (NP (DT a) (ADJP (QP ($ $) (CD 15,000))) (NN necklace))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c306e\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3060\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["''","disagreement","between","the","women","began","months","ago","when","osbourne","said","tab","atended","her","family","'s","new","year","'s","eve","party","uninvited","and","then","won","the","door","prize",",","a","$","15,000","necklace","."]
+,"lemmas":["''","disagreement","between","the","woman","begin","month","ago","when","osbourne","say","tab","atend","she","family","'s","new","year","'s","eve","party","uninvited","and","then","win","the","door","prize",",","a","$","15,000","necklace","."]
+,"posTags":["''","NN","IN","DT","NNS","VBD","NNS","RB","WRB","NN","VBD","NN","VBD","PRP$","NN","POS","JJ","NN","POS","NN","NN","JJ","CC","RB","VBD","DT","NN","NN",",","DT","$","CD","NN","."]
+,"chunks":["O","B-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-ADVP","B-ADVP","B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-ADJP","O","B-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-2,5,1,4,2,-1,5,5,10,10,7,12,10,14,17,14,17,20,17,20,12,20,5,24,5,27,27,24,-2,32,32,30,27,-2]
+,"deprels":[null,"nsubj","prep","det","pobj","root","tmod","advmod","advmod","nsubj","dep","nsubj","ccomp","poss","poss","possessive","amod","poss","possessive","nn","dobj","amod","cc","nsubj","conj","det","nn","dobj",null,"det","amod","num","appos",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (NP (NN disagreement)) (PP (IN between) (NP (DT the) (NNS women)))) (VP (VBD began) (NP (NNS months)) (ADVP (RB ago) (SBAR (WHADVP (WRB when)) (S (NP (NN osbourne)) (VP (VBD said) (SBAR (S (NP (NN tab)) (VP (VBD atended) (NP (NP (NP (NP (PRP$ her) (NN family) (POS 's)) (JJ new) (NN year) (POS 's)) (NN eve) (NN party)) (ADJP (JJ uninvited)))))))))))) (CC and) (S (NP (RB then)) (VP (VBD won) (NP (NP (DT the) (NN door) (NN prize)) (, ,) (NP (DT a) (ADJP (QP ($ $) (CD 15,000))) (NN necklace))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c306e\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3074\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["''","disagreement","between","the","women","began","months","ago","when","osbourne","said","tab","atended","her","family","'s","new","year","'s","eve","party","uninvited","and","then","won","the","door","prize",",","a","$","15,000","necklace","."]
+,"lemmas":["''","disagreement","between","the","woman","begin","month","ago","when","osbourne","say","tab","atend","she","family","'s","new","year","'s","eve","party","uninvited","and","then","win","the","door","prize",",","a","$","15,000","necklace","."]
+,"posTags":["''","NN","IN","DT","NNS","VBD","NNS","RB","WRB","NN","VBD","NN","VBD","PRP$","NN","POS","JJ","NN","POS","NN","NN","JJ","CC","RB","VBD","DT","NN","NN",",","DT","$","CD","NN","."]
+,"chunks":["O","B-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-ADVP","B-ADVP","B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-ADJP","O","B-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-2,5,1,4,2,-1,5,5,10,10,7,12,10,14,17,14,17,20,17,20,12,20,5,24,5,27,27,24,-2,32,32,30,27,-2]
+,"deprels":[null,"nsubj","prep","det","pobj","root","tmod","advmod","advmod","nsubj","dep","nsubj","ccomp","poss","poss","possessive","amod","poss","possessive","nn","dobj","amod","cc","nsubj","conj","det","nn","dobj",null,"det","amod","num","appos",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (NP (NN disagreement)) (PP (IN between) (NP (DT the) (NNS women)))) (VP (VBD began) (NP (NNS months)) (ADVP (RB ago) (SBAR (WHADVP (WRB when)) (S (NP (NN osbourne)) (VP (VBD said) (SBAR (S (NP (NN tab)) (VP (VBD atended) (NP (NP (NP (NP (PRP$ her) (NN family) (POS 's)) (JJ new) (NN year) (POS 's)) (NN eve) (NN party)) (ADJP (JJ uninvited)))))))))))) (CC and) (S (NP (RB then)) (VP (VBD won) (NP (NP (DT the) (NN door) (NN prize)) (, ,) (NP (DT a) (ADJP (QP ($ $) (CD 15,000))) (NN necklace))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c306e\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3061\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["''","disagreement","between","the","women","began","months","ago","when","osbourne","said","tab","atended","her","family","'s","new","year","'s","eve","party","uninvited","and","then","won","the","door","prize",",","a","$","15,000","necklace","."]
+,"lemmas":["''","disagreement","between","the","woman","begin","month","ago","when","osbourne","say","tab","atend","she","family","'s","new","year","'s","eve","party","uninvited","and","then","win","the","door","prize",",","a","$","15,000","necklace","."]
+,"posTags":["''","NN","IN","DT","NNS","VBD","NNS","RB","WRB","NN","VBD","NN","VBD","PRP$","NN","POS","JJ","NN","POS","NN","NN","JJ","CC","RB","VBD","DT","NN","NN",",","DT","$","CD","NN","."]
+,"chunks":["O","B-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-ADVP","B-ADVP","B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-ADJP","O","B-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-2,5,1,4,2,-1,5,5,10,10,7,12,10,14,17,14,17,20,17,20,12,20,5,24,5,27,27,24,-2,32,32,30,27,-2]
+,"deprels":[null,"nsubj","prep","det","pobj","root","tmod","advmod","advmod","nsubj","dep","nsubj","ccomp","poss","poss","possessive","amod","poss","possessive","nn","dobj","amod","cc","nsubj","conj","det","nn","dobj",null,"det","amod","num","appos",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (NP (NN disagreement)) (PP (IN between) (NP (DT the) (NNS women)))) (VP (VBD began) (NP (NNS months)) (ADVP (RB ago) (SBAR (WHADVP (WRB when)) (S (NP (NN osbourne)) (VP (VBD said) (SBAR (S (NP (NN tab)) (VP (VBD atended) (NP (NP (NP (NP (PRP$ her) (NN family) (POS 's)) (JJ new) (NN year) (POS 's)) (NN eve) (NN party)) (ADJP (JJ uninvited)))))))))))) (CC and) (S (NP (RB then)) (VP (VBD won) (NP (NP (DT the) (NN door) (NN prize)) (, ,) (NP (DT a) (ADJP (QP ($ $) (CD 15,000))) (NN necklace))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c306e\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c306c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["''","disagreement","between","the","women","began","months","ago","when","osbourne","said","tab","atended","her","family","'s","new","year","'s","eve","party","uninvited","and","then","won","the","door","prize",",","a","$","15,000","necklace","."]
+,"lemmas":["''","disagreement","between","the","woman","begin","month","ago","when","osbourne","say","tab","atend","she","family","'s","new","year","'s","eve","party","uninvited","and","then","win","the","door","prize",",","a","$","15,000","necklace","."]
+,"posTags":["''","NN","IN","DT","NNS","VBD","NNS","RB","WRB","NN","VBD","NN","VBD","PRP$","NN","POS","JJ","NN","POS","NN","NN","JJ","CC","RB","VBD","DT","NN","NN",",","DT","$","CD","NN","."]
+,"chunks":["O","B-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-ADVP","B-ADVP","B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-ADJP","O","B-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-2,5,1,4,2,-1,5,5,10,10,7,12,10,14,17,14,17,20,17,20,12,20,5,24,5,27,27,24,-2,32,32,30,27,-2]
+,"deprels":[null,"nsubj","prep","det","pobj","root","tmod","advmod","advmod","nsubj","dep","nsubj","ccomp","poss","poss","possessive","amod","poss","possessive","nn","dobj","amod","cc","nsubj","conj","det","nn","dobj",null,"det","amod","num","appos",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (NP (NN disagreement)) (PP (IN between) (NP (DT the) (NNS women)))) (VP (VBD began) (NP (NNS months)) (ADVP (RB ago) (SBAR (WHADVP (WRB when)) (S (NP (NN osbourne)) (VP (VBD said) (SBAR (S (NP (NN tab)) (VP (VBD atended) (NP (NP (NP (NP (PRP$ her) (NN family) (POS 's)) (JJ new) (NN year) (POS 's)) (NN eve) (NN party)) (ADJP (JJ uninvited)))))))))))) (CC and) (S (NP (RB then)) (VP (VBD won) (NP (NP (DT the) (NN door) (NN prize)) (, ,) (NP (DT a) (ADJP (QP ($ $) (CD 15,000))) (NN necklace))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3060\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3074\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["''","disagreement","between","the","women","began","months","ago","when","osbourne","said","tab","atended","her","family","'s","new","year","'s","eve","party","uninvited","and","then","won","the","door","prize",",","a","$","15,000","necklace","."]
+,"lemmas":["''","disagreement","between","the","woman","begin","month","ago","when","osbourne","say","tab","atend","she","family","'s","new","year","'s","eve","party","uninvited","and","then","win","the","door","prize",",","a","$","15,000","necklace","."]
+,"posTags":["''","NN","IN","DT","NNS","VBD","NNS","RB","WRB","NN","VBD","NN","VBD","PRP$","NN","POS","JJ","NN","POS","NN","NN","JJ","CC","RB","VBD","DT","NN","NN",",","DT","$","CD","NN","."]
+,"chunks":["O","B-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-ADVP","B-ADVP","B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-ADJP","O","B-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-2,5,1,4,2,-1,5,5,10,10,7,12,10,14,17,14,17,20,17,20,12,20,5,24,5,27,27,24,-2,32,32,30,27,-2]
+,"deprels":[null,"nsubj","prep","det","pobj","root","tmod","advmod","advmod","nsubj","dep","nsubj","ccomp","poss","poss","possessive","amod","poss","possessive","nn","dobj","amod","cc","nsubj","conj","det","nn","dobj",null,"det","amod","num","appos",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (NP (NN disagreement)) (PP (IN between) (NP (DT the) (NNS women)))) (VP (VBD began) (NP (NNS months)) (ADVP (RB ago) (SBAR (WHADVP (WRB when)) (S (NP (NN osbourne)) (VP (VBD said) (SBAR (S (NP (NN tab)) (VP (VBD atended) (NP (NP (NP (NP (PRP$ her) (NN family) (POS 's)) (JJ new) (NN year) (POS 's)) (NN eve) (NN party)) (ADJP (JJ uninvited)))))))))))) (CC and) (S (NP (RB then)) (VP (VBD won) (NP (NP (DT the) (NN door) (NN prize)) (, ,) (NP (DT a) (ADJP (QP ($ $) (CD 15,000))) (NN necklace))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3060\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3061\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["''","disagreement","between","the","women","began","months","ago","when","osbourne","said","tab","atended","her","family","'s","new","year","'s","eve","party","uninvited","and","then","won","the","door","prize",",","a","$","15,000","necklace","."]
+,"lemmas":["''","disagreement","between","the","woman","begin","month","ago","when","osbourne","say","tab","atend","she","family","'s","new","year","'s","eve","party","uninvited","and","then","win","the","door","prize",",","a","$","15,000","necklace","."]
+,"posTags":["''","NN","IN","DT","NNS","VBD","NNS","RB","WRB","NN","VBD","NN","VBD","PRP$","NN","POS","JJ","NN","POS","NN","NN","JJ","CC","RB","VBD","DT","NN","NN",",","DT","$","CD","NN","."]
+,"chunks":["O","B-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-ADVP","B-ADVP","B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-ADJP","O","B-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-2,5,1,4,2,-1,5,5,10,10,7,12,10,14,17,14,17,20,17,20,12,20,5,24,5,27,27,24,-2,32,32,30,27,-2]
+,"deprels":[null,"nsubj","prep","det","pobj","root","tmod","advmod","advmod","nsubj","dep","nsubj","ccomp","poss","poss","possessive","amod","poss","possessive","nn","dobj","amod","cc","nsubj","conj","det","nn","dobj",null,"det","amod","num","appos",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (NP (NN disagreement)) (PP (IN between) (NP (DT the) (NNS women)))) (VP (VBD began) (NP (NNS months)) (ADVP (RB ago) (SBAR (WHADVP (WRB when)) (S (NP (NN osbourne)) (VP (VBD said) (SBAR (S (NP (NN tab)) (VP (VBD atended) (NP (NP (NP (NP (PRP$ her) (NN family) (POS 's)) (JJ new) (NN year) (POS 's)) (NN eve) (NN party)) (ADJP (JJ uninvited)))))))))))) (CC and) (S (NP (RB then)) (VP (VBD won) (NP (NP (DT the) (NN door) (NN prize)) (, ,) (NP (DT a) (ADJP (QP ($ $) (CD 15,000))) (NN necklace))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3060\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c306c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["''","disagreement","between","the","women","began","months","ago","when","osbourne","said","tab","atended","her","family","'s","new","year","'s","eve","party","uninvited","and","then","won","the","door","prize",",","a","$","15,000","necklace","."]
+,"lemmas":["''","disagreement","between","the","woman","begin","month","ago","when","osbourne","say","tab","atend","she","family","'s","new","year","'s","eve","party","uninvited","and","then","win","the","door","prize",",","a","$","15,000","necklace","."]
+,"posTags":["''","NN","IN","DT","NNS","VBD","NNS","RB","WRB","NN","VBD","NN","VBD","PRP$","NN","POS","JJ","NN","POS","NN","NN","JJ","CC","RB","VBD","DT","NN","NN",",","DT","$","CD","NN","."]
+,"chunks":["O","B-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-ADVP","B-ADVP","B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-ADJP","O","B-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-2,5,1,4,2,-1,5,5,10,10,7,12,10,14,17,14,17,20,17,20,12,20,5,24,5,27,27,24,-2,32,32,30,27,-2]
+,"deprels":[null,"nsubj","prep","det","pobj","root","tmod","advmod","advmod","nsubj","dep","nsubj","ccomp","poss","poss","possessive","amod","poss","possessive","nn","dobj","amod","cc","nsubj","conj","det","nn","dobj",null,"det","amod","num","appos",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (NP (NN disagreement)) (PP (IN between) (NP (DT the) (NNS women)))) (VP (VBD began) (NP (NNS months)) (ADVP (RB ago) (SBAR (WHADVP (WRB when)) (S (NP (NN osbourne)) (VP (VBD said) (SBAR (S (NP (NN tab)) (VP (VBD atended) (NP (NP (NP (NP (PRP$ her) (NN family) (POS 's)) (JJ new) (NN year) (POS 's)) (NN eve) (NN party)) (ADJP (JJ uninvited)))))))))))) (CC and) (S (NP (RB then)) (VP (VBD won) (NP (NP (DT the) (NN door) (NN prize)) (, ,) (NP (DT a) (ADJP (QP ($ $) (CD 15,000))) (NN necklace))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3074\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3061\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["''","disagreement","between","the","women","began","months","ago","when","osbourne","said","tab","atended","her","family","'s","new","year","'s","eve","party","uninvited","and","then","won","the","door","prize",",","a","$","15,000","necklace","."]
+,"lemmas":["''","disagreement","between","the","woman","begin","month","ago","when","osbourne","say","tab","atend","she","family","'s","new","year","'s","eve","party","uninvited","and","then","win","the","door","prize",",","a","$","15,000","necklace","."]
+,"posTags":["''","NN","IN","DT","NNS","VBD","NNS","RB","WRB","NN","VBD","NN","VBD","PRP$","NN","POS","JJ","NN","POS","NN","NN","JJ","CC","RB","VBD","DT","NN","NN",",","DT","$","CD","NN","."]
+,"chunks":["O","B-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-ADVP","B-ADVP","B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-NP","I-NP","I-NP","B-ADJP","O","B-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-2,5,1,4,2,-1,5,5,10,10,7,12,10,14,17,14,17,20,17,20,12,20,5,24,5,27,27,24,-2,32,32,30,27,-2]
+,"deprels":[null,"nsubj","prep","det","pobj","root","tmod","advmod","advmod","nsubj","dep","nsubj","ccomp","poss","poss","possessive","amod","poss","possessive","nn","dobj","amod","cc","nsubj","conj","det","nn","dobj",null,"det","amod","num","appos",null]
+,"naryTree":"((ROOT (S ('' '') (S (NP (NP (NN disagreement)) (PP (IN between) (NP (DT the) (NNS women)))) (VP (VBD began) (NP (NNS months)) (ADVP (RB ago) (SBAR (WHADVP (WRB when)) (S (NP (NN osbourne)) (VP (VBD said) (SBAR (S (NP (NN tab)) (VP (VBD atended) (NP (NP (NP (NP (PRP$ her) (NN family) (POS 's)) (JJ new) (NN year) (POS 's)) (NN eve) (NN party)) (ADJP (JJ uninvited)))))))))))) (CC and) (S (NP (RB then)) (VP (VBD won) (NP (NP (DT the) (NN door) (NN prize)) (, ,) (NP (DT a) (ADJP (QP ($ $) (CD 15,000))) (NN necklace))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c3074\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"1d3ccf87-73b3-1001-6927-00002d8c306c\"}}]"
+,"relLabels":["NO_RELATION"]}
+

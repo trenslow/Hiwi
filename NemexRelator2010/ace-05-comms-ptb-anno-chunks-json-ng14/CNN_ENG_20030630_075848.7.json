@@ -1,0 +1,230 @@
+{"words":["and","the","pope","will","reportedly","name","a","new","head","of","the","troubled","boston","archdiocese","this","week","."]
+,"lemmas":["and","the","pope","will","reportedly","name","a","new","head","of","the","troubled","boston","archdiocese","this","week","."]
+,"posTags":["CC","DT","NN","MD","RB","VB","DT","JJ","NN","IN","DT","JJ","NN","NN","DT","NN","."]
+,"chunks":["O","B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[5,2,5,5,5,-1,8,8,5,8,13,13,13,9,15,5,-2]
+,"deprels":["cc","det","nsubj","aux","advmod","root","det","amod","dobj","prep","det","amod","nn","pobj","det","tmod",null]
+,"naryTree":"((ROOT (S (CC and) (NP (DT the) (NN pope)) (VP (MD will) (ADVP (RB reportedly)) (VP (VB name) (NP (NP (DT a) (JJ new) (NN head)) (PP (IN of) (NP (DT the) (JJ troubled) (NN boston) (NN archdiocese)))) (NP-TMP (DT this) (NN week)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f50\"},\"m2\":{\"start\":10,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f52\"}}]"
+,"relLabels":["GEN-AFF"]}
+
+{"words":["and","the","pope","will","reportedly","name","a","new","head","of","the","troubled","boston","archdiocese","this","week","."]
+,"lemmas":["and","the","pope","will","reportedly","name","a","new","head","of","the","troubled","boston","archdiocese","this","week","."]
+,"posTags":["CC","DT","NN","MD","RB","VB","DT","JJ","NN","IN","DT","JJ","NN","NN","DT","NN","."]
+,"chunks":["O","B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[5,2,5,5,5,-1,8,8,5,8,13,13,13,9,15,5,-2]
+,"deprels":["cc","det","nsubj","aux","advmod","root","det","amod","dobj","prep","det","amod","nn","pobj","det","tmod",null]
+,"naryTree":"((ROOT (S (CC and) (NP (DT the) (NN pope)) (VP (MD will) (ADVP (RB reportedly)) (VP (VB name) (NP (NP (DT a) (JJ new) (NN head)) (PP (IN of) (NP (DT the) (JJ troubled) (NN boston) (NN archdiocese)))) (NP-TMP (DT this) (NN week)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f54\"},\"m2\":{\"start\":10,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f52\"}}]"
+,"relLabels":["ORG-AFF"]}
+
+{"words":["and","the","pope","will","reportedly","name","a","new","head","of","the","troubled","boston","archdiocese","this","week","."]
+,"lemmas":["and","the","pope","will","reportedly","name","a","new","head","of","the","troubled","boston","archdiocese","this","week","."]
+,"posTags":["CC","DT","NN","MD","RB","VB","DT","JJ","NN","IN","DT","JJ","NN","NN","DT","NN","."]
+,"chunks":["O","B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[5,2,5,5,5,-1,8,8,5,8,13,13,13,9,15,5,-2]
+,"deprels":["cc","det","nsubj","aux","advmod","root","det","amod","dobj","prep","det","amod","nn","pobj","det","tmod",null]
+,"naryTree":"((ROOT (S (CC and) (NP (DT the) (NN pope)) (VP (MD will) (ADVP (RB reportedly)) (VP (VB name) (NP (NP (DT a) (JJ new) (NN head)) (PP (IN of) (NP (DT the) (JJ troubled) (NN boston) (NN archdiocese)))) (NP-TMP (DT this) (NN week)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f56\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f54\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["and","the","pope","will","reportedly","name","a","new","head","of","the","troubled","boston","archdiocese","this","week","."]
+,"lemmas":["and","the","pope","will","reportedly","name","a","new","head","of","the","troubled","boston","archdiocese","this","week","."]
+,"posTags":["CC","DT","NN","MD","RB","VB","DT","JJ","NN","IN","DT","JJ","NN","NN","DT","NN","."]
+,"chunks":["O","B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[5,2,5,5,5,-1,8,8,5,8,13,13,13,9,15,5,-2]
+,"deprels":["cc","det","nsubj","aux","advmod","root","det","amod","dobj","prep","det","amod","nn","pobj","det","tmod",null]
+,"naryTree":"((ROOT (S (CC and) (NP (DT the) (NN pope)) (VP (MD will) (ADVP (RB reportedly)) (VP (VB name) (NP (NP (DT a) (JJ new) (NN head)) (PP (IN of) (NP (DT the) (JJ troubled) (NN boston) (NN archdiocese)))) (NP-TMP (DT this) (NN week)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f56\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f50\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["and","the","pope","will","reportedly","name","a","new","head","of","the","troubled","boston","archdiocese","this","week","."]
+,"lemmas":["and","the","pope","will","reportedly","name","a","new","head","of","the","troubled","boston","archdiocese","this","week","."]
+,"posTags":["CC","DT","NN","MD","RB","VB","DT","JJ","NN","IN","DT","JJ","NN","NN","DT","NN","."]
+,"chunks":["O","B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[5,2,5,5,5,-1,8,8,5,8,13,13,13,9,15,5,-2]
+,"deprels":["cc","det","nsubj","aux","advmod","root","det","amod","dobj","prep","det","amod","nn","pobj","det","tmod",null]
+,"naryTree":"((ROOT (S (CC and) (NP (DT the) (NN pope)) (VP (MD will) (ADVP (RB reportedly)) (VP (VB name) (NP (NP (DT a) (JJ new) (NN head)) (PP (IN of) (NP (DT the) (JJ troubled) (NN boston) (NN archdiocese)))) (NP-TMP (DT this) (NN week)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f56\"},\"m2\":{\"start\":10,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f52\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["and","the","pope","will","reportedly","name","a","new","head","of","the","troubled","boston","archdiocese","this","week","."]
+,"lemmas":["and","the","pope","will","reportedly","name","a","new","head","of","the","troubled","boston","archdiocese","this","week","."]
+,"posTags":["CC","DT","NN","MD","RB","VB","DT","JJ","NN","IN","DT","JJ","NN","NN","DT","NN","."]
+,"chunks":["O","B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[5,2,5,5,5,-1,8,8,5,8,13,13,13,9,15,5,-2]
+,"deprels":["cc","det","nsubj","aux","advmod","root","det","amod","dobj","prep","det","amod","nn","pobj","det","tmod",null]
+,"naryTree":"((ROOT (S (CC and) (NP (DT the) (NN pope)) (VP (MD will) (ADVP (RB reportedly)) (VP (VB name) (NP (NP (DT a) (JJ new) (NN head)) (PP (IN of) (NP (DT the) (JJ troubled) (NN boston) (NN archdiocese)))) (NP-TMP (DT this) (NN week)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f54\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f50\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f64\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f62\"}}]"
+,"relLabels":["PART-WHOLE"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f67\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f64\"}}]"
+,"relLabels":["GEN-AFF"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f66\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f67\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f66\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f64\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f66\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f62\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f66\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f5f\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f67\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f62\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f67\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f5f\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f67\"},\"m2\":{\"start\":16,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f5e\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f64\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f5f\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f64\"},\"m2\":{\"start\":16,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f5e\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f62\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f5f\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f62\"},\"m2\":{\"start\":16,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f5e\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","is","expected","to","replace","cardinal","bernard","law","."]
+,"lemmas":["sean","patrick","o'malley",",","the","bishop","of","palm","beach",",","florida",",","be","expect","to","replace","cardinal","bernard","law","."]
+,"posTags":["NN","NN","NN",",","DT","NN","IN","NN","NN",",","NN",",","VBZ","VBN","TO","VB","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,13,-2,5,2,5,8,6,-2,8,-2,13,-1,15,13,18,18,15,-2]
+,"deprels":["nn","nn","nsubjpass",null,"det","appos","prep","nn","pobj",null,"appos",null,"auxpass","root","aux","xcomp","amod","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN sean) (NN patrick) (NN o'malley)) (, ,) (NP (NP (DT the) (NN bishop)) (PP (IN of) (NP (NP (NN palm) (NN beach)) (, ,) (NP (NN florida))))) (, ,)) (VP (VBZ is) (VP (VBN expected) (S (VP (TO to) (VP (VB replace) (NP (JJ cardinal) (NN bernard) (NN law))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f5f\"},\"m2\":{\"start\":16,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f5e\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["law","stepped","down","in","december","amid","charges","of","widespread","child","sexual","abuse","in","the","church","."]
+,"lemmas":["law","step","down","in","december","amid","charge","of","widespread","child","sexual","abuse","in","the","church","."]
+,"posTags":["NN","VBD","RB","IN","NNP","IN","NNS","IN","JJ","NN","JJ","NN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,2,3,1,5,6,11,11,11,7,11,14,12,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj","prep","pobj","prep","amod","nn","amod","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN law)) (VP (VBD stepped) (ADVP (RB down) (PP (IN in) (NP (NNP december)))) (PP (IN amid) (NP (NP (NNS charges)) (PP (IN of) (NP (NP (JJ widespread) (NN child) (JJ sexual) (NN abuse)) (PP (IN in) (NP (DT the) (NN church)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f60\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f58\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["law","stepped","down","in","december","amid","charges","of","widespread","child","sexual","abuse","in","the","church","."]
+,"lemmas":["law","step","down","in","december","amid","charge","of","widespread","child","sexual","abuse","in","the","church","."]
+,"posTags":["NN","VBD","RB","IN","NNP","IN","NNS","IN","JJ","NN","JJ","NN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,2,3,1,5,6,11,11,11,7,11,14,12,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj","prep","pobj","prep","amod","nn","amod","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN law)) (VP (VBD stepped) (ADVP (RB down) (PP (IN in) (NP (NNP december)))) (PP (IN amid) (NP (NP (NNS charges)) (PP (IN of) (NP (NP (JJ widespread) (NN child) (JJ sexual) (NN abuse)) (PP (IN in) (NP (DT the) (NN church)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f60\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f5a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["law","stepped","down","in","december","amid","charges","of","widespread","child","sexual","abuse","in","the","church","."]
+,"lemmas":["law","step","down","in","december","amid","charge","of","widespread","child","sexual","abuse","in","the","church","."]
+,"posTags":["NN","VBD","RB","IN","NNP","IN","NNS","IN","JJ","NN","JJ","NN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,2,3,1,5,6,11,11,11,7,11,14,12,-2]
+,"deprels":["nsubj","root","advmod","prep","pobj","prep","pobj","prep","amod","nn","amod","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN law)) (VP (VBD stepped) (ADVP (RB down) (PP (IN in) (NP (NNP december)))) (PP (IN amid) (NP (NP (NNS charges)) (PP (IN of) (NP (NP (JJ widespread) (NN child) (JJ sexual) (NN abuse)) (PP (IN in) (NP (DT the) (NN church)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f58\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"fc3849d1-b8b8-c24e-6492-000031354f5a\"}}]"
+,"relLabels":["NO_RELATION"]}
+

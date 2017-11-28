@@ -1,0 +1,570 @@
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f4\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f0\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f6\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f2\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"PRO\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fd\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f2\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fc\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0de\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0eb\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0eb\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0eb\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0eb\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0eb\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0de\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0eb\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"PRO\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0eb\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0eb\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f4\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f4\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f4\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0de\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f4\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"PRO\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f4\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f4\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f0\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f0\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f0\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0de\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f0\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"PRO\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f0\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f0\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f9\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f9\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0de\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f9\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"PRO\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f9\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f9\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fc\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"PRO\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fc\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fc\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0de\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"PRO\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0de\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0de\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["in","northern","iraq",",","u.s.","warplanes","hit","targets","including","a","ridge","east","of","mosul",",","where","iraqi","troops","have","been","entrenched","."]
+,"lemmas":["in","northern","iraq",",","u.s.","warplane","hit","target","include","a","ridge","east","of","mosul",",","where","iraqi","troops","have","be","entrench","."]
+,"posTags":["IN","JJ","NN",",","JJ","NNS","VBD","NNS","VBG","DT","NN","JJ","IN","NN",",","WRB","JJ","NNS","VBP","VBN","VBN","."]
+,"chunks":["B-PP","B-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-ADVP","B-NP","I-NP","B-VP","I-VP","I-VP","O"]
+,"parents":[6,2,0,-2,5,6,-1,6,7,10,8,10,10,12,-2,20,17,20,20,20,10,-2]
+,"deprels":["prep","amod","pobj",null,"amod","nsubj","root","dobj","prep","det","pobj","advmod","prep","pobj",null,"advmod","amod","nsubjpass","aux","auxpass","rcmod",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (JJ northern) (NN iraq))) (, ,) (NP (JJ u.s.) (NNS warplanes)) (VP (VBD hit) (NP (NP (NNS targets)) (PP (VBG including) (NP (NP (DT a) (NN ridge)) (ADVP (JJ east)) (PP (IN of) (NP (NN mosul))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (JJ iraqi) (NNS troops)) (VP (VBP have) (VP (VBN been) (VP (VBN entrenched)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"PRO\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fd\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["two","f-14","tomcats","struck","the","targets",",","the","same","area","was","a","site","of","heavy","bombing","yesterday","."]
+,"lemmas":["two","f-14","tomcat","strike","the","target",",","the","same","area","be","a","site","of","heavy","bombing","yesterday","."]
+,"posTags":["CD","JJ","NNS","VBD","DT","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","O"]
+,"parents":[2,2,3,12,5,3,-2,9,9,12,12,12,-1,12,15,13,12,-2]
+,"deprels":["num","amod","nsubj","ccomp","det","dobj",null,"det","amod","nsubj","cop","det","root","prep","amod","pobj","tmod",null]
+,"naryTree":"((ROOT (S (S (NP (CD two) (JJ f-14) (NNS tomcats)) (VP (VBD struck) (NP (DT the) (NNS targets)))) (, ,) (NP (DT the) (JJ same) (NN area)) (VP (VBD was) (NP (NP (DT a) (NN site)) (PP (IN of) (NP (JJ heavy) (NN bombing)))) (NP-TMP (NN yesterday))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e9\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fa\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["two","f-14","tomcats","struck","the","targets",",","the","same","area","was","a","site","of","heavy","bombing","yesterday","."]
+,"lemmas":["two","f-14","tomcat","strike","the","target",",","the","same","area","be","a","site","of","heavy","bombing","yesterday","."]
+,"posTags":["CD","JJ","NNS","VBD","DT","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","O"]
+,"parents":[2,2,3,12,5,3,-2,9,9,12,12,12,-1,12,15,13,12,-2]
+,"deprels":["num","amod","nsubj","ccomp","det","dobj",null,"det","amod","nsubj","cop","det","root","prep","amod","pobj","tmod",null]
+,"naryTree":"((ROOT (S (S (NP (CD two) (JJ f-14) (NNS tomcats)) (VP (VBD struck) (NP (DT the) (NNS targets)))) (, ,) (NP (DT the) (JJ same) (NN area)) (VP (VBD was) (NP (NP (DT a) (NN site)) (PP (IN of) (NP (JJ heavy) (NN bombing)))) (NP-TMP (NN yesterday))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e9\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["two","f-14","tomcats","struck","the","targets",",","the","same","area","was","a","site","of","heavy","bombing","yesterday","."]
+,"lemmas":["two","f-14","tomcat","strike","the","target",",","the","same","area","be","a","site","of","heavy","bombing","yesterday","."]
+,"posTags":["CD","JJ","NNS","VBD","DT","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","O"]
+,"parents":[2,2,3,12,5,3,-2,9,9,12,12,12,-1,12,15,13,12,-2]
+,"deprels":["num","amod","nsubj","ccomp","det","dobj",null,"det","amod","nsubj","cop","det","root","prep","amod","pobj","tmod",null]
+,"naryTree":"((ROOT (S (S (NP (CD two) (JJ f-14) (NNS tomcats)) (VP (VBD struck) (NP (DT the) (NNS targets)))) (, ,) (NP (DT the) (JJ same) (NN area)) (VP (VBD was) (NP (NP (DT a) (NN site)) (PP (IN of) (NP (JJ heavy) (NN bombing)))) (NP-TMP (NN yesterday))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e9\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["two","f-14","tomcats","struck","the","targets",",","the","same","area","was","a","site","of","heavy","bombing","yesterday","."]
+,"lemmas":["two","f-14","tomcat","strike","the","target",",","the","same","area","be","a","site","of","heavy","bombing","yesterday","."]
+,"posTags":["CD","JJ","NNS","VBD","DT","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","O"]
+,"parents":[2,2,3,12,5,3,-2,9,9,12,12,12,-1,12,15,13,12,-2]
+,"deprels":["num","amod","nsubj","ccomp","det","dobj",null,"det","amod","nsubj","cop","det","root","prep","amod","pobj","tmod",null]
+,"naryTree":"((ROOT (S (S (NP (CD two) (JJ f-14) (NNS tomcats)) (VP (VBD struck) (NP (DT the) (NNS targets)))) (, ,) (NP (DT the) (JJ same) (NN area)) (VP (VBD was) (NP (NP (DT a) (NN site)) (PP (IN of) (NP (JJ heavy) (NN bombing)))) (NP-TMP (NN yesterday))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fa\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["two","f-14","tomcats","struck","the","targets",",","the","same","area","was","a","site","of","heavy","bombing","yesterday","."]
+,"lemmas":["two","f-14","tomcat","strike","the","target",",","the","same","area","be","a","site","of","heavy","bombing","yesterday","."]
+,"posTags":["CD","JJ","NNS","VBD","DT","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","O"]
+,"parents":[2,2,3,12,5,3,-2,9,9,12,12,12,-1,12,15,13,12,-2]
+,"deprels":["num","amod","nsubj","ccomp","det","dobj",null,"det","amod","nsubj","cop","det","root","prep","amod","pobj","tmod",null]
+,"naryTree":"((ROOT (S (S (NP (CD two) (JJ f-14) (NNS tomcats)) (VP (VBD struck) (NP (DT the) (NNS targets)))) (, ,) (NP (DT the) (JJ same) (NN area)) (VP (VBD was) (NP (NP (DT a) (NN site)) (PP (IN of) (NP (JJ heavy) (NN bombing)))) (NP-TMP (NN yesterday))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0fa\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["two","f-14","tomcats","struck","the","targets",",","the","same","area","was","a","site","of","heavy","bombing","yesterday","."]
+,"lemmas":["two","f-14","tomcat","strike","the","target",",","the","same","area","be","a","site","of","heavy","bombing","yesterday","."]
+,"posTags":["CD","JJ","NNS","VBD","DT","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","JJ","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-NP","O"]
+,"parents":[2,2,3,12,5,3,-2,9,9,12,12,12,-1,12,15,13,12,-2]
+,"deprels":["num","amod","nsubj","ccomp","det","dobj",null,"det","amod","nsubj","cop","det","root","prep","amod","pobj","tmod",null]
+,"naryTree":"((ROOT (S (S (NP (CD two) (JJ f-14) (NNS tomcats)) (VP (VBD struck) (NP (DT the) (NNS targets)))) (, ,) (NP (DT the) (JJ same) (NN area)) (VP (VBD was) (NP (NP (DT a) (NN site)) (PP (IN of) (NP (JJ heavy) (NN bombing)))) (NP-TMP (NN yesterday))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e5\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f7\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0ed\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e2\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e0\"}}]"
+,"relLabels":["GEN-AFF(Arg-1,Arg-2)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0ee\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e7\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f7\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0ee\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f7\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f7\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0f7\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0ed\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0ee\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0ed\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0ed\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0ed\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0ee\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0ee\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e7\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["after","today","'s","air","strikes",",","13","iraqi","soldiers","abandoned","their","posts","and","surrendered","to","kurdish","fighters","."]
+,"lemmas":["after","today","'s","air","strike",",","13","iraqi","soldier","abandon","they","post","and","surrender","to","kurdish","fighter","."]
+,"posTags":["IN","NN","POS","NN","NNS",",","CD","JJ","NNS","VBD","PRP$","NNS","CC","VBD","TO","JJ","NNS","."]
+,"chunks":["B-PP","B-NP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[9,4,1,4,0,-2,8,8,9,-1,11,9,9,9,13,16,14,-2]
+,"deprels":["prep","poss","possessive","nn","pobj",null,"num","amod","nsubj","root","poss","dobj","cc","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN after) (NP (NP (NN today) (POS 's)) (NN air) (NNS strikes))) (, ,) (NP (CD 13) (JJ iraqi) (NNS soldiers)) (VP (VP (VBD abandoned) (NP (PRP$ their) (NNS posts))) (CC and) (VP (VBD surrendered) (PP (TO to) (NP (JJ kurdish) (NNS fighters))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e7\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"a64beaab-e44c-4608-bf57-000071b0b0e0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

@@ -1,0 +1,200 @@
+{"words":["they","'re","calling","it","a","one","of","a","kind","exhibit","t","rarest","and","most","precious","diamonds","in","the","world","on","display","starting","tomorrow","morning","at","a","smithsonian","in","washington","."]
+,"lemmas":["they","be","call","it","a","one","of","a","kind","exhibit","t","rarest","and","most","precious","diamond","in","the","world","on","display","start","tomorrow","morning","at","a","smithsonian","in","washington","."]
+,"posTags":["PRP","VBP","VBG","PRP","DT","CD","IN","DT","NN","NN","NN","JJS","CC","RBS","JJ","NNS","IN","DT","NN","IN","NN","VBG","NN","NN","IN","DT","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","O","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,5,2,5,10,10,10,6,10,10,15,15,10,15,18,16,18,19,5,23,21,21,26,24,26,27,-2]
+,"deprels":["nsubj","aux","root","iobj","det","dobj","prep","det","nn","nn","pobj","dep","cc","advmod","amod","conj","prep","det","pobj","prep","pobj","vmod","nn","tmod","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBP 're) (VP (VBG calling) (NP (PRP it)) (NP (NP (DT a) (CD one)) (PP (IN of) (NP (NP (NP (DT a) (NN kind) (NN exhibit) (NN t)) (NP (JJS rarest))) (CC and) (NP (NP (RBS most) (JJ precious) (NNS diamonds)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN on) (NP (NN display)))))))) (VP (VBG starting) (NP (NN tomorrow) (NN morning)) (PP (IN at) (NP (NP (DT a) (NN smithsonian)) (PP (IN in) (NP (NN washington))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":25,\"end\":27,\"head\":26,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a597\"},\"m2\":{\"start\":28,\"end\":29,\"head\":28,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a591\"}}]"
+,"relLabels":["PART-WHOLE-Geographical(Arg-1,Arg-2)"]}
+
+{"words":["they","'re","calling","it","a","one","of","a","kind","exhibit","t","rarest","and","most","precious","diamonds","in","the","world","on","display","starting","tomorrow","morning","at","a","smithsonian","in","washington","."]
+,"lemmas":["they","be","call","it","a","one","of","a","kind","exhibit","t","rarest","and","most","precious","diamond","in","the","world","on","display","start","tomorrow","morning","at","a","smithsonian","in","washington","."]
+,"posTags":["PRP","VBP","VBG","PRP","DT","CD","IN","DT","NN","NN","NN","JJS","CC","RBS","JJ","NNS","IN","DT","NN","IN","NN","VBG","NN","NN","IN","DT","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","O","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,5,2,5,10,10,10,6,10,10,15,15,10,15,18,16,18,19,5,23,21,21,26,24,26,27,-2]
+,"deprels":["nsubj","aux","root","iobj","det","dobj","prep","det","nn","nn","pobj","dep","cc","advmod","amod","conj","prep","det","pobj","prep","pobj","vmod","nn","tmod","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBP 're) (VP (VBG calling) (NP (PRP it)) (NP (NP (DT a) (CD one)) (PP (IN of) (NP (NP (NP (DT a) (NN kind) (NN exhibit) (NN t)) (NP (JJS rarest))) (CC and) (NP (NP (RBS most) (JJ precious) (NNS diamonds)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN on) (NP (NN display)))))))) (VP (VBG starting) (NP (NN tomorrow) (NN morning)) (PP (IN at) (NP (NP (DT a) (NN smithsonian)) (PP (IN in) (NP (NN washington))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a59f\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"LOC\",\"subtype\":\"Celestial\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a5a2\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["they","'re","calling","it","a","one","of","a","kind","exhibit","t","rarest","and","most","precious","diamonds","in","the","world","on","display","starting","tomorrow","morning","at","a","smithsonian","in","washington","."]
+,"lemmas":["they","be","call","it","a","one","of","a","kind","exhibit","t","rarest","and","most","precious","diamond","in","the","world","on","display","start","tomorrow","morning","at","a","smithsonian","in","washington","."]
+,"posTags":["PRP","VBP","VBG","PRP","DT","CD","IN","DT","NN","NN","NN","JJS","CC","RBS","JJ","NNS","IN","DT","NN","IN","NN","VBG","NN","NN","IN","DT","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","O","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,5,2,5,10,10,10,6,10,10,15,15,10,15,18,16,18,19,5,23,21,21,26,24,26,27,-2]
+,"deprels":["nsubj","aux","root","iobj","det","dobj","prep","det","nn","nn","pobj","dep","cc","advmod","amod","conj","prep","det","pobj","prep","pobj","vmod","nn","tmod","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBP 're) (VP (VBG calling) (NP (PRP it)) (NP (NP (DT a) (CD one)) (PP (IN of) (NP (NP (NP (DT a) (NN kind) (NN exhibit) (NN t)) (NP (JJS rarest))) (CC and) (NP (NP (RBS most) (JJ precious) (NNS diamonds)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN on) (NP (NN display)))))))) (VP (VBG starting) (NP (NN tomorrow) (NN morning)) (PP (IN at) (NP (NP (DT a) (NN smithsonian)) (PP (IN in) (NP (NN washington))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a59f\"},\"m2\":{\"start\":25,\"end\":27,\"head\":26,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a597\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["they","'re","calling","it","a","one","of","a","kind","exhibit","t","rarest","and","most","precious","diamonds","in","the","world","on","display","starting","tomorrow","morning","at","a","smithsonian","in","washington","."]
+,"lemmas":["they","be","call","it","a","one","of","a","kind","exhibit","t","rarest","and","most","precious","diamond","in","the","world","on","display","start","tomorrow","morning","at","a","smithsonian","in","washington","."]
+,"posTags":["PRP","VBP","VBG","PRP","DT","CD","IN","DT","NN","NN","NN","JJS","CC","RBS","JJ","NNS","IN","DT","NN","IN","NN","VBG","NN","NN","IN","DT","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","O","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,5,2,5,10,10,10,6,10,10,15,15,10,15,18,16,18,19,5,23,21,21,26,24,26,27,-2]
+,"deprels":["nsubj","aux","root","iobj","det","dobj","prep","det","nn","nn","pobj","dep","cc","advmod","amod","conj","prep","det","pobj","prep","pobj","vmod","nn","tmod","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBP 're) (VP (VBG calling) (NP (PRP it)) (NP (NP (DT a) (CD one)) (PP (IN of) (NP (NP (NP (DT a) (NN kind) (NN exhibit) (NN t)) (NP (JJS rarest))) (CC and) (NP (NP (RBS most) (JJ precious) (NNS diamonds)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN on) (NP (NN display)))))))) (VP (VBG starting) (NP (NN tomorrow) (NN morning)) (PP (IN at) (NP (NP (DT a) (NN smithsonian)) (PP (IN in) (NP (NN washington))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a59f\"},\"m2\":{\"start\":28,\"end\":29,\"head\":28,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a591\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["they","'re","calling","it","a","one","of","a","kind","exhibit","t","rarest","and","most","precious","diamonds","in","the","world","on","display","starting","tomorrow","morning","at","a","smithsonian","in","washington","."]
+,"lemmas":["they","be","call","it","a","one","of","a","kind","exhibit","t","rarest","and","most","precious","diamond","in","the","world","on","display","start","tomorrow","morning","at","a","smithsonian","in","washington","."]
+,"posTags":["PRP","VBP","VBG","PRP","DT","CD","IN","DT","NN","NN","NN","JJS","CC","RBS","JJ","NNS","IN","DT","NN","IN","NN","VBG","NN","NN","IN","DT","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","O","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,5,2,5,10,10,10,6,10,10,15,15,10,15,18,16,18,19,5,23,21,21,26,24,26,27,-2]
+,"deprels":["nsubj","aux","root","iobj","det","dobj","prep","det","nn","nn","pobj","dep","cc","advmod","amod","conj","prep","det","pobj","prep","pobj","vmod","nn","tmod","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBP 're) (VP (VBG calling) (NP (PRP it)) (NP (NP (DT a) (CD one)) (PP (IN of) (NP (NP (NP (DT a) (NN kind) (NN exhibit) (NN t)) (NP (JJS rarest))) (CC and) (NP (NP (RBS most) (JJ precious) (NNS diamonds)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN on) (NP (NN display)))))))) (VP (VBG starting) (NP (NN tomorrow) (NN morning)) (PP (IN at) (NP (NP (DT a) (NN smithsonian)) (PP (IN in) (NP (NN washington))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"LOC\",\"subtype\":\"Celestial\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a5a2\"},\"m2\":{\"start\":25,\"end\":27,\"head\":26,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a597\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["they","'re","calling","it","a","one","of","a","kind","exhibit","t","rarest","and","most","precious","diamonds","in","the","world","on","display","starting","tomorrow","morning","at","a","smithsonian","in","washington","."]
+,"lemmas":["they","be","call","it","a","one","of","a","kind","exhibit","t","rarest","and","most","precious","diamond","in","the","world","on","display","start","tomorrow","morning","at","a","smithsonian","in","washington","."]
+,"posTags":["PRP","VBP","VBG","PRP","DT","CD","IN","DT","NN","NN","NN","JJS","CC","RBS","JJ","NNS","IN","DT","NN","IN","NN","VBG","NN","NN","IN","DT","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-NP","O","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,5,2,5,10,10,10,6,10,10,15,15,10,15,18,16,18,19,5,23,21,21,26,24,26,27,-2]
+,"deprels":["nsubj","aux","root","iobj","det","dobj","prep","det","nn","nn","pobj","dep","cc","advmod","amod","conj","prep","det","pobj","prep","pobj","vmod","nn","tmod","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBP 're) (VP (VBG calling) (NP (PRP it)) (NP (NP (DT a) (CD one)) (PP (IN of) (NP (NP (NP (DT a) (NN kind) (NN exhibit) (NN t)) (NP (JJS rarest))) (CC and) (NP (NP (RBS most) (JJ precious) (NNS diamonds)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN on) (NP (NN display)))))))) (VP (VBG starting) (NP (NN tomorrow) (NN morning)) (PP (IN at) (NP (NP (DT a) (NN smithsonian)) (PP (IN in) (NP (NN washington))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"LOC\",\"subtype\":\"Celestial\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a5a2\"},\"m2\":{\"start\":28,\"end\":29,\"head\":28,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a591\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["kathleen","coke","got","a","private","advanced","tour","of","the","vault","and","the","diamonds","."]
+,"lemmas":["kathleen","coke","get","a","private","advanced","tour","of","the","vault","and","the","diamond","."]
+,"posTags":["NN","NN","VBD","DT","JJ","JJ","NN","IN","DT","NN","CC","DT","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,2,6,9,7,9,12,9,-2]
+,"deprels":["nn","nsubj","root","det","amod","amod","dobj","prep","det","pobj","cc","det","conj",null]
+,"naryTree":"((ROOT (S (NP (NN kathleen) (NN coke)) (VP (VBD got) (NP (NP (DT a) (JJ private) (JJ advanced) (NN tour)) (PP (IN of) (NP (NP (DT the) (NN vault)) (CC and) (NP (DT the) (NNS diamonds)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a58c\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a588\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["reporter",":","in","the","heart","of","the","museum","of","national","history","passed","cabinets","of","artifacts","."]
+,"lemmas":["reporter",":","in","the","heart","of","the","museum","of","national","history","pass","cabinet","of","artifact","."]
+,"posTags":["NN",":","IN","DT","NN","IN","DT","NN","IN","JJ","NN","VBD","NNS","IN","NNS","."]
+,"chunks":["B-NP","O","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[11,-2,0,4,2,4,7,5,7,10,8,-1,11,12,13,-2]
+,"deprels":["dep",null,"prep","det","pobj","prep","det","pobj","prep","amod","pobj","root","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (FRAG (X (NP (NN reporter)) (: :) (PP (IN in) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (NP (DT the) (NN museum)) (PP (IN of) (NP (JJ national) (NN history)))))))) (VP (VBD passed) (NP (NP (NNS cabinets)) (PP (IN of) (NP (NNS artifacts))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"PRO\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a583\"},\"m2\":{\"start\":6,\"end\":11,\"head\":10,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NAM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a598\"}}]"
+,"relLabels":["PART-WHOLE-Geographical(Arg-1,Arg-2)"]}
+
+{"words":["they","are","stored","temporarily","in","a","vault","few","people","enter","."]
+,"lemmas":["they","be","store","temporarily","in","a","vault","few","people","enter","."]
+,"posTags":["PRP","VBP","VBN","RB","IN","DT","NN","JJ","NNS","VBP","."]
+,"chunks":["B-NP","B-VP","I-VP","B-ADVP","B-PP","B-NP","I-NP","B-NP","I-NP","B-VP","O"]
+,"parents":[2,2,-1,2,2,6,4,8,9,6,-2]
+,"deprels":["nsubjpass","auxpass","root","advmod","prep","det","pobj","amod","nsubj","rcmod",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (VBP are) (VP (VBN stored) (ADVP (RB temporarily)) (PP (IN in) (NP (NP (DT a) (NN vault)) (SBAR (S (NP (JJ few) (NNS people)) (VP (VBP enter)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a589\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a581\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["reporter",":","a","hefty","diamond","that","thieves","took","a","stab","at","in","london","in","2000","using","a","bulldozier",",","sledgehammer","and","nail","guns","."]
+,"lemmas":["reporter",":","a","hefty","diamond","that","thief","take","a","stab","at","in","london","in","2000","use","a","bulldozier",",","sledgehammer","and","nail","gun","."]
+,"posTags":["NN",":","DT","JJ","NN","WDT","NNS","VBD","DT","NN","IN","IN","NNP","IN","CD","VBG","DT","NN",",","NN","CC","NN","NNS","."]
+,"chunks":["B-NP","O","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-NP","I-NP","B-PP","I-PP","B-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,-2,4,4,0,15,7,4,9,7,11,7,11,12,13,7,22,22,-2,17,17,17,15,-2]
+,"deprels":["root",null,"det","amod","dep","dobj","nsubj","rcmod","det","dobj","dep","prep","pobj","prep","pobj","xcomp","det","nn",null,"conj","cc","conj","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NN reporter)) (: :) (NP (NP (DT a) (JJ hefty) (NN diamond)) (SBAR (WHNP (WDT that)) (S (NP (NNS thieves)) (VP (VBD took) (NP (DT a) (NN stab)) (PP (IN at) (IN in) (NP (NP (NNP london)) (PP (IN in) (NP (CD 2000))))) (S (VP (VBG using) (NP (DT a) (NN bulldozier) (, ,) (NN sledgehammer) (CC and) (NN nail) (NNS guns)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a57e\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"VEH\",\"subtype\":\"Land\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a5ab\"}}]"
+,"relLabels":["ART-User-Owner-Inventor-Manufacturer(Arg-1,Arg-2)"]}
+
+{"words":["reporter",":","a","hefty","diamond","that","thieves","took","a","stab","at","in","london","in","2000","using","a","bulldozier",",","sledgehammer","and","nail","guns","."]
+,"lemmas":["reporter",":","a","hefty","diamond","that","thief","take","a","stab","at","in","london","in","2000","use","a","bulldozier",",","sledgehammer","and","nail","gun","."]
+,"posTags":["NN",":","DT","JJ","NN","WDT","NNS","VBD","DT","NN","IN","IN","NNP","IN","CD","VBG","DT","NN",",","NN","CC","NN","NNS","."]
+,"chunks":["B-NP","O","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-NP","I-NP","B-PP","I-PP","B-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,-2,4,4,0,15,7,4,9,7,11,7,11,12,13,7,22,22,-2,17,17,17,15,-2]
+,"deprels":["root",null,"det","amod","dep","dobj","nsubj","rcmod","det","dobj","dep","prep","pobj","prep","pobj","xcomp","det","nn",null,"conj","cc","conj","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NN reporter)) (: :) (NP (NP (DT a) (JJ hefty) (NN diamond)) (SBAR (WHNP (WDT that)) (S (NP (NNS thieves)) (VP (VBD took) (NP (DT a) (NN stab)) (PP (IN at) (IN in) (NP (NP (NNP london)) (PP (IN in) (NP (CD 2000))))) (S (VP (VBG using) (NP (DT a) (NN bulldozier) (, ,) (NN sledgehammer) (CC and) (NN nail) (NNS guns)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a57e\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a57c\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["reporter",":","a","hefty","diamond","that","thieves","took","a","stab","at","in","london","in","2000","using","a","bulldozier",",","sledgehammer","and","nail","guns","."]
+,"lemmas":["reporter",":","a","hefty","diamond","that","thief","take","a","stab","at","in","london","in","2000","use","a","bulldozier",",","sledgehammer","and","nail","gun","."]
+,"posTags":["NN",":","DT","JJ","NN","WDT","NNS","VBD","DT","NN","IN","IN","NNP","IN","CD","VBG","DT","NN",",","NN","CC","NN","NNS","."]
+,"chunks":["B-NP","O","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","B-NP","I-NP","B-PP","I-PP","B-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,-2,4,4,0,15,7,4,9,7,11,7,11,12,13,7,22,22,-2,17,17,17,15,-2]
+,"deprels":["root",null,"det","amod","dep","dobj","nsubj","rcmod","det","dobj","dep","prep","pobj","prep","pobj","xcomp","det","nn",null,"conj","cc","conj","dobj",null]
+,"naryTree":"((ROOT (NP (NP (NN reporter)) (: :) (NP (NP (DT a) (JJ hefty) (NN diamond)) (SBAR (WHNP (WDT that)) (S (NP (NNS thieves)) (VP (VBD took) (NP (DT a) (NN stab)) (PP (IN at) (IN in) (NP (NP (NNP london)) (PP (IN in) (NP (CD 2000))))) (S (VP (VBG using) (NP (DT a) (NN bulldozier) (, ,) (NN sledgehammer) (CC and) (NN nail) (NNS guns)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a57c\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":\"VEH\",\"subtype\":\"Land\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a5ab\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["they","would","have","committed","the","largest","robbery","ever","to","take","place","ever","in","the","world","."]
+,"lemmas":["they","would","have","commit","the","largest","robbery","ever","to","take","place","ever","in","the","world","."]
+,"posTags":["PRP","MD","VB","VBN","DT","JJS","NN","RB","TO","VB","NN","RB","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","B-ADVP","B-VP","I-VP","B-NP","B-ADVP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,6,6,3,9,9,3,9,9,9,14,12,-2]
+,"deprels":["nsubj","aux","aux","root","det","amod","dobj","advmod","aux","vmod","dobj","advmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB have) (VP (VBN committed) (NP (DT the) (JJS largest) (NN robbery)) (S (ADVP (RB ever)) (VP (TO to) (VP (VB take) (NP (NN place)) (ADVP (RB ever)) (PP (IN in) (NP (DT the) (NN world))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a57f\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"LOC\",\"subtype\":\"Celestial\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a5a3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["this","room","an","actual","vault","with","state-of-the-art","security","."]
+,"lemmas":["this","room","a","actual","vault","with","state-of-the-art","security","."]
+,"posTags":["DT","NN","DT","JJ","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,4,4,1,4,7,5,-2]
+,"deprels":["det","root","det","amod","dep","prep","amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT this) (NN room)) (NP (NP (DT an) (JJ actual) (NN vault)) (PP (IN with) (NP (JJ state-of-the-art) (NN security)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a59b\"},\"m2\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a59c\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["iron","doors","hidden","in","panels","close","every","night",",","sealing","it","off","from","the","the","rest","of","the","museum","."]
+,"lemmas":["iron","door","hide","in","panel","close","every","night",",","seal","it","off","from","the","the","rest","of","the","museum","."]
+,"posTags":["NN","NNS","VBN","IN","NNS","RB","DT","NN",",","VBG","PRP","RP","IN","DT","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-NP","B-NP","I-NP","I-NP","O","B-VP","B-NP","B-PRT","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,2,3,7,7,4,-2,2,9,9,9,15,15,12,15,18,16,-2]
+,"deprels":["nn","nsubj","root","prep","pobj","advmod","det","tmod",null,"xcomp","dobj","prt","prep","predet","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN iron) (NNS doors)) (VP (VBN hidden) (PP (IN in) (NP (NP (NNS panels)) (NP-TMP (RB close) (DT every) (NN night)))) (, ,) (S (VP (VBG sealing) (NP (PRP it)) (PRT (RP off)) (PP (IN from) (NP (NP (DT the) (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN museum)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":16,\"head\":15,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"PRO\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a58e\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a595\"}}]"
+,"relLabels":["PART-WHOLE-Geographical(Arg-1,Arg-2)"]}
+
+{"words":["iron","doors","hidden","in","panels","close","every","night",",","sealing","it","off","from","the","the","rest","of","the","museum","."]
+,"lemmas":["iron","door","hide","in","panel","close","every","night",",","seal","it","off","from","the","the","rest","of","the","museum","."]
+,"posTags":["NN","NNS","VBN","IN","NNS","RB","DT","NN",",","VBG","PRP","RP","IN","DT","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-NP","B-NP","I-NP","I-NP","O","B-VP","B-NP","B-PRT","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,2,3,7,7,4,-2,2,9,9,9,15,15,12,15,18,16,-2]
+,"deprels":["nn","nsubj","root","prep","pobj","advmod","det","tmod",null,"xcomp","dobj","prt","prep","predet","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN iron) (NNS doors)) (VP (VBN hidden) (PP (IN in) (NP (NP (NNS panels)) (NP-TMP (RB close) (DT every) (NN night)))) (, ,) (S (VP (VBG sealing) (NP (PRP it)) (PRT (RP off)) (PP (IN from) (NP (NP (DT the) (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN museum)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"PRO\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a59d\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"PRO\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a58e\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["iron","doors","hidden","in","panels","close","every","night",",","sealing","it","off","from","the","the","rest","of","the","museum","."]
+,"lemmas":["iron","door","hide","in","panel","close","every","night",",","seal","it","off","from","the","the","rest","of","the","museum","."]
+,"posTags":["NN","NNS","VBN","IN","NNS","RB","DT","NN",",","VBG","PRP","RP","IN","DT","DT","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-NP","B-NP","I-NP","I-NP","O","B-VP","B-NP","B-PRT","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,2,3,7,7,4,-2,2,9,9,9,15,15,12,15,18,16,-2]
+,"deprels":["nn","nsubj","root","prep","pobj","advmod","det","tmod",null,"xcomp","dobj","prt","prep","predet","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN iron) (NNS doors)) (VP (VBN hidden) (PP (IN in) (NP (NP (NNS panels)) (NP-TMP (RB close) (DT every) (NN night)))) (, ,) (S (VP (VBG sealing) (NP (PRP it)) (PRT (RP off)) (PP (IN from) (NP (NP (DT the) (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN museum)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"PRO\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a59d\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a595\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["kat","len","koch",",","cnn",",","washington","."]
+,"lemmas":["kat","len","koch",",","cnn",",","washington","."]
+,"posTags":["NN","NN","NN",",","NN",",","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","O","B-NP","O"]
+,"parents":[2,2,-1,-2,2,-2,4,-2]
+,"deprels":["nn","nn","root",null,"appos",null,"appos",null]
+,"naryTree":"((ROOT (NP (NP (NN kat) (NN len) (NN koch)) (, ,) (NP (NP (NN cnn)) (, ,) (NP (NN washington))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a58b\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a590\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["kat","len","koch",",","cnn",",","washington","."]
+,"lemmas":["kat","len","koch",",","cnn",",","washington","."]
+,"posTags":["NN","NN","NN",",","NN",",","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","O","B-NP","O"]
+,"parents":[2,2,-1,-2,2,-2,4,-2]
+,"deprels":["nn","nn","root",null,"appos",null,"appos",null]
+,"naryTree":"((ROOT (NP (NP (NN kat) (NN len) (NN koch)) (, ,) (NP (NP (NN cnn)) (, ,) (NP (NN washington))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a58b\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a585\"}}]"
+,"relLabels":["ORG-AFF-Employment(Arg-1,Arg-2)"]}
+
+{"words":["kat","len","koch",",","cnn",",","washington","."]
+,"lemmas":["kat","len","koch",",","cnn",",","washington","."]
+,"posTags":["NN","NN","NN",",","NN",",","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","O","B-NP","O","B-NP","O"]
+,"parents":[2,2,-1,-2,2,-2,4,-2]
+,"deprels":["nn","nn","root",null,"appos",null,"appos",null]
+,"naryTree":"((ROOT (NP (NP (NN kat) (NN len) (NN koch)) (, ,) (NP (NP (NN cnn)) (, ,) (NP (NN washington))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a585\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"32bb3b9b-0169-bce5-211b-00002126a590\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+

@@ -1,0 +1,1000 @@
+{"words":["We","have","been","so","damned","busy","with","the","holidays","-LRB-","that","'s","what","we","call","December","at","our","house","-RRB-","that","I","just","have","n't","had","time","."]
+,"lemmas":["we","have","be","so","damned","busy","with","the","holiday","-lrb-","that","be","what","we","call","December","at","we","house","-rrb-","that","I","just","have","not","have","time","."]
+,"posTags":["PRP","VBP","VBN","RB","RB","JJ","IN","DT","NNS","-LRB-","DT","VBZ","WP","PRP","VBP","NNP","IN","PRP$","NN","-RRB-","IN","PRP","RB","VBP","RB","VBD","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-ADJP","I-ADJP","I-ADJP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[5,5,5,5,5,-1,5,8,6,-2,11,5,14,14,11,14,15,18,16,-2,25,25,25,25,25,5,25,-2]
+,"deprels":["nsubj","aux","cop","advmod","advmod","root","prep","det","pobj",null,"nsubj","dep","dobj","nsubj","ccomp","dobj","prep","poss","pobj",null,"mark","nsubj","advmod","aux","neg","ccomp","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP We)) (VP (VBP have) (VP (VBN been) (ADJP (ADJP (RB so) (RB damned) (JJ busy) (PP (IN with) (NP (DT the) (NNS holidays)))) (PRN (-LRB- -LRB-) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP call) (NP (NP (NNP December)) (PP (IN at) (NP (PRP$ our) (NN house))))))))) (-RRB- -RRB-)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP have) (RB n't) (VP (VBD had) (NP (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eefa\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec9\"}}]"
+,"relLabels":["ART-User-Owner-Inventor-Manufacturer(Arg-1,Arg-2)"]}
+
+{"words":["We","have","been","so","damned","busy","with","the","holidays","-LRB-","that","'s","what","we","call","December","at","our","house","-RRB-","that","I","just","have","n't","had","time","."]
+,"lemmas":["we","have","be","so","damned","busy","with","the","holiday","-lrb-","that","be","what","we","call","December","at","we","house","-rrb-","that","I","just","have","not","have","time","."]
+,"posTags":["PRP","VBP","VBN","RB","RB","JJ","IN","DT","NNS","-LRB-","DT","VBZ","WP","PRP","VBP","NNP","IN","PRP$","NN","-RRB-","IN","PRP","RB","VBP","RB","VBD","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-ADJP","I-ADJP","I-ADJP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[5,5,5,5,5,-1,5,8,6,-2,11,5,14,14,11,14,15,18,16,-2,25,25,25,25,25,5,25,-2]
+,"deprels":["nsubj","aux","cop","advmod","advmod","root","prep","det","pobj",null,"nsubj","dep","dobj","nsubj","ccomp","dobj","prep","poss","pobj",null,"mark","nsubj","advmod","aux","neg","ccomp","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP We)) (VP (VBP have) (VP (VBN been) (ADJP (ADJP (RB so) (RB damned) (JJ busy) (PP (IN with) (NP (DT the) (NNS holidays)))) (PRN (-LRB- -LRB-) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP call) (NP (NP (NNP December)) (PP (IN at) (NP (PRP$ our) (NN house))))))))) (-RRB- -RRB-)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP have) (RB n't) (VP (VBD had) (NP (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef8\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef9\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["We","have","been","so","damned","busy","with","the","holidays","-LRB-","that","'s","what","we","call","December","at","our","house","-RRB-","that","I","just","have","n't","had","time","."]
+,"lemmas":["we","have","be","so","damned","busy","with","the","holiday","-lrb-","that","be","what","we","call","December","at","we","house","-rrb-","that","I","just","have","not","have","time","."]
+,"posTags":["PRP","VBP","VBN","RB","RB","JJ","IN","DT","NNS","-LRB-","DT","VBZ","WP","PRP","VBP","NNP","IN","PRP$","NN","-RRB-","IN","PRP","RB","VBP","RB","VBD","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-ADJP","I-ADJP","I-ADJP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[5,5,5,5,5,-1,5,8,6,-2,11,5,14,14,11,14,15,18,16,-2,25,25,25,25,25,5,25,-2]
+,"deprels":["nsubj","aux","cop","advmod","advmod","root","prep","det","pobj",null,"nsubj","dep","dobj","nsubj","ccomp","dobj","prep","poss","pobj",null,"mark","nsubj","advmod","aux","neg","ccomp","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP We)) (VP (VBP have) (VP (VBN been) (ADJP (ADJP (RB so) (RB damned) (JJ busy) (PP (IN with) (NP (DT the) (NNS holidays)))) (PRN (-LRB- -LRB-) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP call) (NP (NP (NNP December)) (PP (IN at) (NP (PRP$ our) (NN house))))))))) (-RRB- -RRB-)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP have) (RB n't) (VP (VBD had) (NP (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef8\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eefa\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["We","have","been","so","damned","busy","with","the","holidays","-LRB-","that","'s","what","we","call","December","at","our","house","-RRB-","that","I","just","have","n't","had","time","."]
+,"lemmas":["we","have","be","so","damned","busy","with","the","holiday","-lrb-","that","be","what","we","call","December","at","we","house","-rrb-","that","I","just","have","not","have","time","."]
+,"posTags":["PRP","VBP","VBN","RB","RB","JJ","IN","DT","NNS","-LRB-","DT","VBZ","WP","PRP","VBP","NNP","IN","PRP$","NN","-RRB-","IN","PRP","RB","VBP","RB","VBD","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-ADJP","I-ADJP","I-ADJP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[5,5,5,5,5,-1,5,8,6,-2,11,5,14,14,11,14,15,18,16,-2,25,25,25,25,25,5,25,-2]
+,"deprels":["nsubj","aux","cop","advmod","advmod","root","prep","det","pobj",null,"nsubj","dep","dobj","nsubj","ccomp","dobj","prep","poss","pobj",null,"mark","nsubj","advmod","aux","neg","ccomp","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP We)) (VP (VBP have) (VP (VBN been) (ADJP (ADJP (RB so) (RB damned) (JJ busy) (PP (IN with) (NP (DT the) (NNS holidays)))) (PRN (-LRB- -LRB-) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP call) (NP (NP (NNP December)) (PP (IN at) (NP (PRP$ our) (NN house))))))))) (-RRB- -RRB-)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP have) (RB n't) (VP (VBD had) (NP (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef8\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec9\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["We","have","been","so","damned","busy","with","the","holidays","-LRB-","that","'s","what","we","call","December","at","our","house","-RRB-","that","I","just","have","n't","had","time","."]
+,"lemmas":["we","have","be","so","damned","busy","with","the","holiday","-lrb-","that","be","what","we","call","December","at","we","house","-rrb-","that","I","just","have","not","have","time","."]
+,"posTags":["PRP","VBP","VBN","RB","RB","JJ","IN","DT","NNS","-LRB-","DT","VBZ","WP","PRP","VBP","NNP","IN","PRP$","NN","-RRB-","IN","PRP","RB","VBP","RB","VBD","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-ADJP","I-ADJP","I-ADJP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[5,5,5,5,5,-1,5,8,6,-2,11,5,14,14,11,14,15,18,16,-2,25,25,25,25,25,5,25,-2]
+,"deprels":["nsubj","aux","cop","advmod","advmod","root","prep","det","pobj",null,"nsubj","dep","dobj","nsubj","ccomp","dobj","prep","poss","pobj",null,"mark","nsubj","advmod","aux","neg","ccomp","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP We)) (VP (VBP have) (VP (VBN been) (ADJP (ADJP (RB so) (RB damned) (JJ busy) (PP (IN with) (NP (DT the) (NNS holidays)))) (PRN (-LRB- -LRB-) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP call) (NP (NP (NNP December)) (PP (IN at) (NP (PRP$ our) (NN house))))))))) (-RRB- -RRB-)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP have) (RB n't) (VP (VBD had) (NP (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef8\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef2\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["We","have","been","so","damned","busy","with","the","holidays","-LRB-","that","'s","what","we","call","December","at","our","house","-RRB-","that","I","just","have","n't","had","time","."]
+,"lemmas":["we","have","be","so","damned","busy","with","the","holiday","-lrb-","that","be","what","we","call","December","at","we","house","-rrb-","that","I","just","have","not","have","time","."]
+,"posTags":["PRP","VBP","VBN","RB","RB","JJ","IN","DT","NNS","-LRB-","DT","VBZ","WP","PRP","VBP","NNP","IN","PRP$","NN","-RRB-","IN","PRP","RB","VBP","RB","VBD","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-ADJP","I-ADJP","I-ADJP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[5,5,5,5,5,-1,5,8,6,-2,11,5,14,14,11,14,15,18,16,-2,25,25,25,25,25,5,25,-2]
+,"deprels":["nsubj","aux","cop","advmod","advmod","root","prep","det","pobj",null,"nsubj","dep","dobj","nsubj","ccomp","dobj","prep","poss","pobj",null,"mark","nsubj","advmod","aux","neg","ccomp","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP We)) (VP (VBP have) (VP (VBN been) (ADJP (ADJP (RB so) (RB damned) (JJ busy) (PP (IN with) (NP (DT the) (NNS holidays)))) (PRN (-LRB- -LRB-) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP call) (NP (NP (NNP December)) (PP (IN at) (NP (PRP$ our) (NN house))))))))) (-RRB- -RRB-)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP have) (RB n't) (VP (VBD had) (NP (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef9\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eefa\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["We","have","been","so","damned","busy","with","the","holidays","-LRB-","that","'s","what","we","call","December","at","our","house","-RRB-","that","I","just","have","n't","had","time","."]
+,"lemmas":["we","have","be","so","damned","busy","with","the","holiday","-lrb-","that","be","what","we","call","December","at","we","house","-rrb-","that","I","just","have","not","have","time","."]
+,"posTags":["PRP","VBP","VBN","RB","RB","JJ","IN","DT","NNS","-LRB-","DT","VBZ","WP","PRP","VBP","NNP","IN","PRP$","NN","-RRB-","IN","PRP","RB","VBP","RB","VBD","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-ADJP","I-ADJP","I-ADJP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[5,5,5,5,5,-1,5,8,6,-2,11,5,14,14,11,14,15,18,16,-2,25,25,25,25,25,5,25,-2]
+,"deprels":["nsubj","aux","cop","advmod","advmod","root","prep","det","pobj",null,"nsubj","dep","dobj","nsubj","ccomp","dobj","prep","poss","pobj",null,"mark","nsubj","advmod","aux","neg","ccomp","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP We)) (VP (VBP have) (VP (VBN been) (ADJP (ADJP (RB so) (RB damned) (JJ busy) (PP (IN with) (NP (DT the) (NNS holidays)))) (PRN (-LRB- -LRB-) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP call) (NP (NP (NNP December)) (PP (IN at) (NP (PRP$ our) (NN house))))))))) (-RRB- -RRB-)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP have) (RB n't) (VP (VBD had) (NP (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef9\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec9\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["We","have","been","so","damned","busy","with","the","holidays","-LRB-","that","'s","what","we","call","December","at","our","house","-RRB-","that","I","just","have","n't","had","time","."]
+,"lemmas":["we","have","be","so","damned","busy","with","the","holiday","-lrb-","that","be","what","we","call","December","at","we","house","-rrb-","that","I","just","have","not","have","time","."]
+,"posTags":["PRP","VBP","VBN","RB","RB","JJ","IN","DT","NNS","-LRB-","DT","VBZ","WP","PRP","VBP","NNP","IN","PRP$","NN","-RRB-","IN","PRP","RB","VBP","RB","VBD","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-ADJP","I-ADJP","I-ADJP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[5,5,5,5,5,-1,5,8,6,-2,11,5,14,14,11,14,15,18,16,-2,25,25,25,25,25,5,25,-2]
+,"deprels":["nsubj","aux","cop","advmod","advmod","root","prep","det","pobj",null,"nsubj","dep","dobj","nsubj","ccomp","dobj","prep","poss","pobj",null,"mark","nsubj","advmod","aux","neg","ccomp","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP We)) (VP (VBP have) (VP (VBN been) (ADJP (ADJP (RB so) (RB damned) (JJ busy) (PP (IN with) (NP (DT the) (NNS holidays)))) (PRN (-LRB- -LRB-) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP call) (NP (NP (NNP December)) (PP (IN at) (NP (PRP$ our) (NN house))))))))) (-RRB- -RRB-)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP have) (RB n't) (VP (VBD had) (NP (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef9\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef2\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["We","have","been","so","damned","busy","with","the","holidays","-LRB-","that","'s","what","we","call","December","at","our","house","-RRB-","that","I","just","have","n't","had","time","."]
+,"lemmas":["we","have","be","so","damned","busy","with","the","holiday","-lrb-","that","be","what","we","call","December","at","we","house","-rrb-","that","I","just","have","not","have","time","."]
+,"posTags":["PRP","VBP","VBN","RB","RB","JJ","IN","DT","NNS","-LRB-","DT","VBZ","WP","PRP","VBP","NNP","IN","PRP$","NN","-RRB-","IN","PRP","RB","VBP","RB","VBD","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-ADJP","I-ADJP","I-ADJP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[5,5,5,5,5,-1,5,8,6,-2,11,5,14,14,11,14,15,18,16,-2,25,25,25,25,25,5,25,-2]
+,"deprels":["nsubj","aux","cop","advmod","advmod","root","prep","det","pobj",null,"nsubj","dep","dobj","nsubj","ccomp","dobj","prep","poss","pobj",null,"mark","nsubj","advmod","aux","neg","ccomp","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP We)) (VP (VBP have) (VP (VBN been) (ADJP (ADJP (RB so) (RB damned) (JJ busy) (PP (IN with) (NP (DT the) (NNS holidays)))) (PRN (-LRB- -LRB-) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP call) (NP (NP (NNP December)) (PP (IN at) (NP (PRP$ our) (NN house))))))))) (-RRB- -RRB-)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP have) (RB n't) (VP (VBD had) (NP (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eefa\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef2\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["We","have","been","so","damned","busy","with","the","holidays","-LRB-","that","'s","what","we","call","December","at","our","house","-RRB-","that","I","just","have","n't","had","time","."]
+,"lemmas":["we","have","be","so","damned","busy","with","the","holiday","-lrb-","that","be","what","we","call","December","at","we","house","-rrb-","that","I","just","have","not","have","time","."]
+,"posTags":["PRP","VBP","VBN","RB","RB","JJ","IN","DT","NNS","-LRB-","DT","VBZ","WP","PRP","VBP","NNP","IN","PRP$","NN","-RRB-","IN","PRP","RB","VBP","RB","VBD","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-ADJP","I-ADJP","I-ADJP","B-PP","B-NP","I-NP","O","B-NP","B-VP","B-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","I-VP","I-VP","B-NP","O"]
+,"parents":[5,5,5,5,5,-1,5,8,6,-2,11,5,14,14,11,14,15,18,16,-2,25,25,25,25,25,5,25,-2]
+,"deprels":["nsubj","aux","cop","advmod","advmod","root","prep","det","pobj",null,"nsubj","dep","dobj","nsubj","ccomp","dobj","prep","poss","pobj",null,"mark","nsubj","advmod","aux","neg","ccomp","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP We)) (VP (VBP have) (VP (VBN been) (ADJP (ADJP (RB so) (RB damned) (JJ busy) (PP (IN with) (NP (DT the) (NNS holidays)))) (PRN (-LRB- -LRB-) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP call) (NP (NP (NNP December)) (PP (IN at) (NP (PRP$ our) (NN house))))))))) (-RRB- -RRB-)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBP have) (RB n't) (VP (VBD had) (NP (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec9\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef2\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["I","read","a","funny","joke","today","and","I","thought","I","'d","share","it","with","you","."]
+,"lemmas":["I","read","a","funny","joke","today","and","I","think","I","would","share","it","with","you","."]
+,"posTags":["PRP","VBP","DT","JJ","NN","NN","CC","PRP","VBD","PRP","MD","VB","PRP","IN","PRP","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,4,4,1,1,1,8,1,11,11,8,11,11,13,-2]
+,"deprels":["nsubj","root","det","amod","dobj","tmod","cc","nsubj","conj","nsubj","aux","ccomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP I)) (VP (VBP read) (NP (DT a) (JJ funny) (NN joke)) (NP-TMP (NN today)))) (CC and) (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB share) (NP (PRP it)) (PP (IN with) (NP (PRP you))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef3\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef4\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["I","read","a","funny","joke","today","and","I","thought","I","'d","share","it","with","you","."]
+,"lemmas":["I","read","a","funny","joke","today","and","I","think","I","would","share","it","with","you","."]
+,"posTags":["PRP","VBP","DT","JJ","NN","NN","CC","PRP","VBD","PRP","MD","VB","PRP","IN","PRP","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,4,4,1,1,1,8,1,11,11,8,11,11,13,-2]
+,"deprels":["nsubj","root","det","amod","dobj","tmod","cc","nsubj","conj","nsubj","aux","ccomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP I)) (VP (VBP read) (NP (DT a) (JJ funny) (NN joke)) (NP-TMP (NN today)))) (CC and) (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB share) (NP (PRP it)) (PP (IN with) (NP (PRP you))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef3\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef5\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["I","read","a","funny","joke","today","and","I","thought","I","'d","share","it","with","you","."]
+,"lemmas":["I","read","a","funny","joke","today","and","I","think","I","would","share","it","with","you","."]
+,"posTags":["PRP","VBP","DT","JJ","NN","NN","CC","PRP","VBD","PRP","MD","VB","PRP","IN","PRP","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,4,4,1,1,1,8,1,11,11,8,11,11,13,-2]
+,"deprels":["nsubj","root","det","amod","dobj","tmod","cc","nsubj","conj","nsubj","aux","ccomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP I)) (VP (VBP read) (NP (DT a) (JJ funny) (NN joke)) (NP-TMP (NN today)))) (CC and) (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB share) (NP (PRP it)) (PP (IN with) (NP (PRP you))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef3\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee5\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["I","read","a","funny","joke","today","and","I","thought","I","'d","share","it","with","you","."]
+,"lemmas":["I","read","a","funny","joke","today","and","I","think","I","would","share","it","with","you","."]
+,"posTags":["PRP","VBP","DT","JJ","NN","NN","CC","PRP","VBD","PRP","MD","VB","PRP","IN","PRP","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,4,4,1,1,1,8,1,11,11,8,11,11,13,-2]
+,"deprels":["nsubj","root","det","amod","dobj","tmod","cc","nsubj","conj","nsubj","aux","ccomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP I)) (VP (VBP read) (NP (DT a) (JJ funny) (NN joke)) (NP-TMP (NN today)))) (CC and) (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB share) (NP (PRP it)) (PP (IN with) (NP (PRP you))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef4\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef5\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["I","read","a","funny","joke","today","and","I","thought","I","'d","share","it","with","you","."]
+,"lemmas":["I","read","a","funny","joke","today","and","I","think","I","would","share","it","with","you","."]
+,"posTags":["PRP","VBP","DT","JJ","NN","NN","CC","PRP","VBD","PRP","MD","VB","PRP","IN","PRP","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,4,4,1,1,1,8,1,11,11,8,11,11,13,-2]
+,"deprels":["nsubj","root","det","amod","dobj","tmod","cc","nsubj","conj","nsubj","aux","ccomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP I)) (VP (VBP read) (NP (DT a) (JJ funny) (NN joke)) (NP-TMP (NN today)))) (CC and) (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB share) (NP (PRP it)) (PP (IN with) (NP (PRP you))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef4\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee5\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["I","read","a","funny","joke","today","and","I","thought","I","'d","share","it","with","you","."]
+,"lemmas":["I","read","a","funny","joke","today","and","I","think","I","would","share","it","with","you","."]
+,"posTags":["PRP","VBP","DT","JJ","NN","NN","CC","PRP","VBD","PRP","MD","VB","PRP","IN","PRP","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","B-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,4,4,1,1,1,8,1,11,11,8,11,11,13,-2]
+,"deprels":["nsubj","root","det","amod","dobj","tmod","cc","nsubj","conj","nsubj","aux","ccomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP I)) (VP (VBP read) (NP (DT a) (JJ funny) (NN joke)) (NP-TMP (NN today)))) (CC and) (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP I)) (VP (MD 'd) (VP (VB share) (NP (PRP it)) (PP (IN with) (NP (PRP you))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef5\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee5\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","of","my","fellow","eggers","posted","it",",","so","Chet",",","here","'s","your","credit",":"]
+,"lemmas":["one","of","my","fellow","egger","post","it",",","so","Chet",",","here","'s","you","credit",":"]
+,"posTags":["CD","IN","PRP$","JJ","NNS","VBD","PRP",",","RB","NNP",",","RB","POS","PRP$","NN",":"]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","O","B-NP","I-NP","O","B-ADVP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,0,4,4,1,-1,14,-2,9,6,-2,9,9,14,5,-2]
+,"deprels":["nsubj","prep","poss","amod","pobj","root","nsubj",null,"advmod","appos",null,"advmod","possessive","poss","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (PRP$ my) (JJ fellow) (NNS eggers)))) (VP (VBD posted) (S (NP (NP (PRP it)) (, ,) (NP (NP (NP (RB so) (NNP Chet)) (, ,) (ADVP (RB here))) (POS 's))) (NP (PRP$ your) (NN credit)))) (: :))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee9\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef6\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","of","my","fellow","eggers","posted","it",",","so","Chet",",","here","'s","your","credit",":"]
+,"lemmas":["one","of","my","fellow","egger","post","it",",","so","Chet",",","here","'s","you","credit",":"]
+,"posTags":["CD","IN","PRP$","JJ","NNS","VBD","PRP",",","RB","NNP",",","RB","POS","PRP$","NN",":"]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","O","B-NP","I-NP","O","B-ADVP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,0,4,4,1,-1,14,-2,9,6,-2,9,9,14,5,-2]
+,"deprels":["nsubj","prep","poss","amod","pobj","root","nsubj",null,"advmod","appos",null,"advmod","possessive","poss","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (PRP$ my) (JJ fellow) (NNS eggers)))) (VP (VBD posted) (S (NP (NP (PRP it)) (, ,) (NP (NP (NP (RB so) (NNP Chet)) (, ,) (ADVP (RB here))) (POS 's))) (NP (PRP$ your) (NN credit)))) (: :))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee9\"},\"m2\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeeb\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","of","my","fellow","eggers","posted","it",",","so","Chet",",","here","'s","your","credit",":"]
+,"lemmas":["one","of","my","fellow","egger","post","it",",","so","Chet",",","here","'s","you","credit",":"]
+,"posTags":["CD","IN","PRP$","JJ","NNS","VBD","PRP",",","RB","NNP",",","RB","POS","PRP$","NN",":"]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","O","B-NP","I-NP","O","B-ADVP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,0,4,4,1,-1,14,-2,9,6,-2,9,9,14,5,-2]
+,"deprels":["nsubj","prep","poss","amod","pobj","root","nsubj",null,"advmod","appos",null,"advmod","possessive","poss","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (PRP$ my) (JJ fellow) (NNS eggers)))) (VP (VBD posted) (S (NP (NP (PRP it)) (, ,) (NP (NP (NP (RB so) (NNP Chet)) (, ,) (ADVP (RB here))) (POS 's))) (NP (PRP$ your) (NN credit)))) (: :))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee9\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee7\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","of","my","fellow","eggers","posted","it",",","so","Chet",",","here","'s","your","credit",":"]
+,"lemmas":["one","of","my","fellow","egger","post","it",",","so","Chet",",","here","'s","you","credit",":"]
+,"posTags":["CD","IN","PRP$","JJ","NNS","VBD","PRP",",","RB","NNP",",","RB","POS","PRP$","NN",":"]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","O","B-NP","I-NP","O","B-ADVP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,0,4,4,1,-1,14,-2,9,6,-2,9,9,14,5,-2]
+,"deprels":["nsubj","prep","poss","amod","pobj","root","nsubj",null,"advmod","appos",null,"advmod","possessive","poss","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (PRP$ my) (JJ fellow) (NNS eggers)))) (VP (VBD posted) (S (NP (NP (PRP it)) (, ,) (NP (NP (NP (RB so) (NNP Chet)) (, ,) (ADVP (RB here))) (POS 's))) (NP (PRP$ your) (NN credit)))) (: :))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee9\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee8\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","of","my","fellow","eggers","posted","it",",","so","Chet",",","here","'s","your","credit",":"]
+,"lemmas":["one","of","my","fellow","egger","post","it",",","so","Chet",",","here","'s","you","credit",":"]
+,"posTags":["CD","IN","PRP$","JJ","NNS","VBD","PRP",",","RB","NNP",",","RB","POS","PRP$","NN",":"]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","O","B-NP","I-NP","O","B-ADVP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,0,4,4,1,-1,14,-2,9,6,-2,9,9,14,5,-2]
+,"deprels":["nsubj","prep","poss","amod","pobj","root","nsubj",null,"advmod","appos",null,"advmod","possessive","poss","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (PRP$ my) (JJ fellow) (NNS eggers)))) (VP (VBD posted) (S (NP (NP (PRP it)) (, ,) (NP (NP (NP (RB so) (NNP Chet)) (, ,) (ADVP (RB here))) (POS 's))) (NP (PRP$ your) (NN credit)))) (: :))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef6\"},\"m2\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeeb\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","of","my","fellow","eggers","posted","it",",","so","Chet",",","here","'s","your","credit",":"]
+,"lemmas":["one","of","my","fellow","egger","post","it",",","so","Chet",",","here","'s","you","credit",":"]
+,"posTags":["CD","IN","PRP$","JJ","NNS","VBD","PRP",",","RB","NNP",",","RB","POS","PRP$","NN",":"]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","O","B-NP","I-NP","O","B-ADVP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,0,4,4,1,-1,14,-2,9,6,-2,9,9,14,5,-2]
+,"deprels":["nsubj","prep","poss","amod","pobj","root","nsubj",null,"advmod","appos",null,"advmod","possessive","poss","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (PRP$ my) (JJ fellow) (NNS eggers)))) (VP (VBD posted) (S (NP (NP (PRP it)) (, ,) (NP (NP (NP (RB so) (NNP Chet)) (, ,) (ADVP (RB here))) (POS 's))) (NP (PRP$ your) (NN credit)))) (: :))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef6\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee7\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","of","my","fellow","eggers","posted","it",",","so","Chet",",","here","'s","your","credit",":"]
+,"lemmas":["one","of","my","fellow","egger","post","it",",","so","Chet",",","here","'s","you","credit",":"]
+,"posTags":["CD","IN","PRP$","JJ","NNS","VBD","PRP",",","RB","NNP",",","RB","POS","PRP$","NN",":"]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","O","B-NP","I-NP","O","B-ADVP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,0,4,4,1,-1,14,-2,9,6,-2,9,9,14,5,-2]
+,"deprels":["nsubj","prep","poss","amod","pobj","root","nsubj",null,"advmod","appos",null,"advmod","possessive","poss","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (PRP$ my) (JJ fellow) (NNS eggers)))) (VP (VBD posted) (S (NP (NP (PRP it)) (, ,) (NP (NP (NP (RB so) (NNP Chet)) (, ,) (ADVP (RB here))) (POS 's))) (NP (PRP$ your) (NN credit)))) (: :))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eef6\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee8\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","of","my","fellow","eggers","posted","it",",","so","Chet",",","here","'s","your","credit",":"]
+,"lemmas":["one","of","my","fellow","egger","post","it",",","so","Chet",",","here","'s","you","credit",":"]
+,"posTags":["CD","IN","PRP$","JJ","NNS","VBD","PRP",",","RB","NNP",",","RB","POS","PRP$","NN",":"]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","O","B-NP","I-NP","O","B-ADVP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,0,4,4,1,-1,14,-2,9,6,-2,9,9,14,5,-2]
+,"deprels":["nsubj","prep","poss","amod","pobj","root","nsubj",null,"advmod","appos",null,"advmod","possessive","poss","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (PRP$ my) (JJ fellow) (NNS eggers)))) (VP (VBD posted) (S (NP (NP (PRP it)) (, ,) (NP (NP (NP (RB so) (NNP Chet)) (, ,) (ADVP (RB here))) (POS 's))) (NP (PRP$ your) (NN credit)))) (: :))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeeb\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee7\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","of","my","fellow","eggers","posted","it",",","so","Chet",",","here","'s","your","credit",":"]
+,"lemmas":["one","of","my","fellow","egger","post","it",",","so","Chet",",","here","'s","you","credit",":"]
+,"posTags":["CD","IN","PRP$","JJ","NNS","VBD","PRP",",","RB","NNP",",","RB","POS","PRP$","NN",":"]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","O","B-NP","I-NP","O","B-ADVP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,0,4,4,1,-1,14,-2,9,6,-2,9,9,14,5,-2]
+,"deprels":["nsubj","prep","poss","amod","pobj","root","nsubj",null,"advmod","appos",null,"advmod","possessive","poss","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (PRP$ my) (JJ fellow) (NNS eggers)))) (VP (VBD posted) (S (NP (NP (PRP it)) (, ,) (NP (NP (NP (RB so) (NNP Chet)) (, ,) (ADVP (RB here))) (POS 's))) (NP (PRP$ your) (NN credit)))) (: :))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeeb\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee8\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","of","my","fellow","eggers","posted","it",",","so","Chet",",","here","'s","your","credit",":"]
+,"lemmas":["one","of","my","fellow","egger","post","it",",","so","Chet",",","here","'s","you","credit",":"]
+,"posTags":["CD","IN","PRP$","JJ","NNS","VBD","PRP",",","RB","NNP",",","RB","POS","PRP$","NN",":"]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","O","B-NP","I-NP","O","B-ADVP","B-NP","I-NP","I-NP","O"]
+,"parents":[5,0,4,4,1,-1,14,-2,9,6,-2,9,9,14,5,-2]
+,"deprels":["nsubj","prep","poss","amod","pobj","root","nsubj",null,"advmod","appos",null,"advmod","possessive","poss","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD One)) (PP (IN of) (NP (PRP$ my) (JJ fellow) (NNS eggers)))) (VP (VBD posted) (S (NP (NP (PRP it)) (, ,) (NP (NP (NP (RB so) (NNP Chet)) (, ,) (ADVP (RB here))) (POS 's))) (NP (PRP$ your) (NN credit)))) (: :))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee7\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee8\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["A","traveler","was","driving","through","Arkansas","when","he","lost","his","way","and","got","off","the","main","highway","."]
+,"lemmas":["a","traveler","be","drive","through","Arkansas","when","he","lose","he","way","and","get","off","the","main","highway","."]
+,"posTags":["DT","NN","VBD","VBG","IN","NNP","WRB","PRP","VBD","PRP$","NN","CC","VBD","RP","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-PRT","B-NP","I-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,8,8,3,10,8,8,8,12,16,16,12,-2]
+,"deprels":["det","nsubj","aux","root","prep","pobj","advmod","nsubj","advcl","poss","dobj","cc","conj","prt","det","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT A) (NN traveler)) (VP (VBD was) (VP (VBG driving) (PP (IN through) (NP (NNP Arkansas))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VP (VBD lost) (NP (PRP$ his) (NN way))) (CC and) (VP (VBD got) (PRT (RP off)) (NP (DT the) (JJ main) (NN highway)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef15\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":\"FAC\",\"subtype\":\"Path\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef17\"}}]"
+,"relLabels":["PART-WHOLE-Geographical(Arg-2,Arg-1)"]}
+
+{"words":["A","traveler","was","driving","through","Arkansas","when","he","lost","his","way","and","got","off","the","main","highway","."]
+,"lemmas":["a","traveler","be","drive","through","Arkansas","when","he","lose","he","way","and","get","off","the","main","highway","."]
+,"posTags":["DT","NN","VBD","VBG","IN","NNP","WRB","PRP","VBD","PRP$","NN","CC","VBD","RP","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-PRT","B-NP","I-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,8,8,3,10,8,8,8,12,16,16,12,-2]
+,"deprels":["det","nsubj","aux","root","prep","pobj","advmod","nsubj","advcl","poss","dobj","cc","conj","prt","det","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT A) (NN traveler)) (VP (VBD was) (VP (VBG driving) (PP (IN through) (NP (NNP Arkansas))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VP (VBD lost) (NP (PRP$ his) (NN way))) (CC and) (VP (VBD got) (PRT (RP off)) (NP (DT the) (JJ main) (NN highway)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecb\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef15\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["A","traveler","was","driving","through","Arkansas","when","he","lost","his","way","and","got","off","the","main","highway","."]
+,"lemmas":["a","traveler","be","drive","through","Arkansas","when","he","lose","he","way","and","get","off","the","main","highway","."]
+,"posTags":["DT","NN","VBD","VBG","IN","NNP","WRB","PRP","VBD","PRP$","NN","CC","VBD","RP","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-PRT","B-NP","I-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,8,8,3,10,8,8,8,12,16,16,12,-2]
+,"deprels":["det","nsubj","aux","root","prep","pobj","advmod","nsubj","advcl","poss","dobj","cc","conj","prt","det","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT A) (NN traveler)) (VP (VBD was) (VP (VBG driving) (PP (IN through) (NP (NNP Arkansas))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VP (VBD lost) (NP (PRP$ his) (NN way))) (CC and) (VP (VBD got) (PRT (RP off)) (NP (DT the) (JJ main) (NN highway)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecb\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecc\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["A","traveler","was","driving","through","Arkansas","when","he","lost","his","way","and","got","off","the","main","highway","."]
+,"lemmas":["a","traveler","be","drive","through","Arkansas","when","he","lose","he","way","and","get","off","the","main","highway","."]
+,"posTags":["DT","NN","VBD","VBG","IN","NNP","WRB","PRP","VBD","PRP$","NN","CC","VBD","RP","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-PRT","B-NP","I-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,8,8,3,10,8,8,8,12,16,16,12,-2]
+,"deprels":["det","nsubj","aux","root","prep","pobj","advmod","nsubj","advcl","poss","dobj","cc","conj","prt","det","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT A) (NN traveler)) (VP (VBD was) (VP (VBG driving) (PP (IN through) (NP (NNP Arkansas))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VP (VBD lost) (NP (PRP$ his) (NN way))) (CC and) (VP (VBD got) (PRT (RP off)) (NP (DT the) (JJ main) (NN highway)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecb\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecd\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["A","traveler","was","driving","through","Arkansas","when","he","lost","his","way","and","got","off","the","main","highway","."]
+,"lemmas":["a","traveler","be","drive","through","Arkansas","when","he","lose","he","way","and","get","off","the","main","highway","."]
+,"posTags":["DT","NN","VBD","VBG","IN","NNP","WRB","PRP","VBD","PRP$","NN","CC","VBD","RP","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-PRT","B-NP","I-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,8,8,3,10,8,8,8,12,16,16,12,-2]
+,"deprels":["det","nsubj","aux","root","prep","pobj","advmod","nsubj","advcl","poss","dobj","cc","conj","prt","det","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT A) (NN traveler)) (VP (VBD was) (VP (VBG driving) (PP (IN through) (NP (NNP Arkansas))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VP (VBD lost) (NP (PRP$ his) (NN way))) (CC and) (VP (VBD got) (PRT (RP off)) (NP (DT the) (JJ main) (NN highway)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecb\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":\"FAC\",\"subtype\":\"Path\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef17\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["A","traveler","was","driving","through","Arkansas","when","he","lost","his","way","and","got","off","the","main","highway","."]
+,"lemmas":["a","traveler","be","drive","through","Arkansas","when","he","lose","he","way","and","get","off","the","main","highway","."]
+,"posTags":["DT","NN","VBD","VBG","IN","NNP","WRB","PRP","VBD","PRP$","NN","CC","VBD","RP","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-PRT","B-NP","I-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,8,8,3,10,8,8,8,12,16,16,12,-2]
+,"deprels":["det","nsubj","aux","root","prep","pobj","advmod","nsubj","advcl","poss","dobj","cc","conj","prt","det","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT A) (NN traveler)) (VP (VBD was) (VP (VBG driving) (PP (IN through) (NP (NNP Arkansas))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VP (VBD lost) (NP (PRP$ his) (NN way))) (CC and) (VP (VBD got) (PRT (RP off)) (NP (DT the) (JJ main) (NN highway)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef15\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecc\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["A","traveler","was","driving","through","Arkansas","when","he","lost","his","way","and","got","off","the","main","highway","."]
+,"lemmas":["a","traveler","be","drive","through","Arkansas","when","he","lose","he","way","and","get","off","the","main","highway","."]
+,"posTags":["DT","NN","VBD","VBG","IN","NNP","WRB","PRP","VBD","PRP$","NN","CC","VBD","RP","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-PRT","B-NP","I-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,8,8,3,10,8,8,8,12,16,16,12,-2]
+,"deprels":["det","nsubj","aux","root","prep","pobj","advmod","nsubj","advcl","poss","dobj","cc","conj","prt","det","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT A) (NN traveler)) (VP (VBD was) (VP (VBG driving) (PP (IN through) (NP (NNP Arkansas))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VP (VBD lost) (NP (PRP$ his) (NN way))) (CC and) (VP (VBD got) (PRT (RP off)) (NP (DT the) (JJ main) (NN highway)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef15\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecd\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["A","traveler","was","driving","through","Arkansas","when","he","lost","his","way","and","got","off","the","main","highway","."]
+,"lemmas":["a","traveler","be","drive","through","Arkansas","when","he","lose","he","way","and","get","off","the","main","highway","."]
+,"posTags":["DT","NN","VBD","VBG","IN","NNP","WRB","PRP","VBD","PRP$","NN","CC","VBD","RP","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-PRT","B-NP","I-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,8,8,3,10,8,8,8,12,16,16,12,-2]
+,"deprels":["det","nsubj","aux","root","prep","pobj","advmod","nsubj","advcl","poss","dobj","cc","conj","prt","det","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT A) (NN traveler)) (VP (VBD was) (VP (VBG driving) (PP (IN through) (NP (NNP Arkansas))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VP (VBD lost) (NP (PRP$ his) (NN way))) (CC and) (VP (VBD got) (PRT (RP off)) (NP (DT the) (JJ main) (NN highway)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecc\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecd\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["A","traveler","was","driving","through","Arkansas","when","he","lost","his","way","and","got","off","the","main","highway","."]
+,"lemmas":["a","traveler","be","drive","through","Arkansas","when","he","lose","he","way","and","get","off","the","main","highway","."]
+,"posTags":["DT","NN","VBD","VBG","IN","NNP","WRB","PRP","VBD","PRP$","NN","CC","VBD","RP","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-PRT","B-NP","I-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,8,8,3,10,8,8,8,12,16,16,12,-2]
+,"deprels":["det","nsubj","aux","root","prep","pobj","advmod","nsubj","advcl","poss","dobj","cc","conj","prt","det","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT A) (NN traveler)) (VP (VBD was) (VP (VBG driving) (PP (IN through) (NP (NNP Arkansas))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VP (VBD lost) (NP (PRP$ his) (NN way))) (CC and) (VP (VBD got) (PRT (RP off)) (NP (DT the) (JJ main) (NN highway)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecc\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":\"FAC\",\"subtype\":\"Path\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef17\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["A","traveler","was","driving","through","Arkansas","when","he","lost","his","way","and","got","off","the","main","highway","."]
+,"lemmas":["a","traveler","be","drive","through","Arkansas","when","he","lose","he","way","and","get","off","the","main","highway","."]
+,"posTags":["DT","NN","VBD","VBG","IN","NNP","WRB","PRP","VBD","PRP$","NN","CC","VBD","RP","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-PRT","B-NP","I-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,8,8,3,10,8,8,8,12,16,16,12,-2]
+,"deprels":["det","nsubj","aux","root","prep","pobj","advmod","nsubj","advcl","poss","dobj","cc","conj","prt","det","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT A) (NN traveler)) (VP (VBD was) (VP (VBG driving) (PP (IN through) (NP (NNP Arkansas))) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VP (VBD lost) (NP (PRP$ his) (NN way))) (CC and) (VP (VBD got) (PRT (RP off)) (NP (DT the) (JJ main) (NN highway)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecd\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":\"FAC\",\"subtype\":\"Path\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef17\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["As","he","drove","by",",","he","saw","rows","and","rows","of","pigsties","and","pigpens","and","pigs","running","in","fields","and","pigs","wallowing","in","mud","."]
+,"lemmas":["as","he","drive","by",",","he","see","row","and","row","of","pigsty","and","pigpen","and","pig","run","in","field","and","pig","wallow","in","mud","."]
+,"posTags":["IN","PRP","VBD","IN",",","PRP","VBD","NNS","CC","NNS","IN","NNS","CC","NNS","CC","NNS","VBG","IN","NNS","CC","NNS","VBG","IN","NN","."]
+,"chunks":["B-SBAR","B-NP","B-VP","B-PP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[2,2,6,2,-2,6,-1,6,7,7,7,10,11,11,7,7,15,16,17,18,18,16,21,22,-2]
+,"deprels":["mark","nsubj","advcl","prep",null,"nsubj","root","dobj","cc","conj","prep","pobj","cc","conj","cc","conj","vmod","prep","pobj","cc","conj","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (IN As) (S (NP (PRP he)) (VP (VBD drove) (PP (IN by))))) (, ,) (NP (PRP he)) (VP (VBD saw) (NP (NP (NP (NNS rows) (CC and) (NNS rows)) (PP (IN of) (NP (NNS pigsties) (CC and) (NNS pigpens)))) (CC and) (NP (NP (NNS pigs)) (VP (VBG running) (PP (IN in) (NP (NNS fields) (CC and) (NNS pigs))) (S (VP (VBG wallowing) (PP (IN in) (NP (NN mud))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eece\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecf\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["As","he","drove","by",",","he","saw","rows","and","rows","of","pigsties","and","pigpens","and","pigs","running","in","fields","and","pigs","wallowing","in","mud","."]
+,"lemmas":["as","he","drive","by",",","he","see","row","and","row","of","pigsty","and","pigpen","and","pig","run","in","field","and","pig","wallow","in","mud","."]
+,"posTags":["IN","PRP","VBD","IN",",","PRP","VBD","NNS","CC","NNS","IN","NNS","CC","NNS","CC","NNS","VBG","IN","NNS","CC","NNS","VBG","IN","NN","."]
+,"chunks":["B-SBAR","B-NP","B-VP","B-PP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[2,2,6,2,-2,6,-1,6,7,7,7,10,11,11,7,7,15,16,17,18,18,16,21,22,-2]
+,"deprels":["mark","nsubj","advcl","prep",null,"nsubj","root","dobj","cc","conj","prep","pobj","cc","conj","cc","conj","vmod","prep","pobj","cc","conj","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (IN As) (S (NP (PRP he)) (VP (VBD drove) (PP (IN by))))) (, ,) (NP (PRP he)) (VP (VBD saw) (NP (NP (NP (NNS rows) (CC and) (NNS rows)) (PP (IN of) (NP (NNS pigsties) (CC and) (NNS pigpens)))) (CC and) (NP (NP (NNS pigs)) (VP (VBG running) (PP (IN in) (NP (NNS fields) (CC and) (NNS pigs))) (S (VP (VBG wallowing) (PP (IN in) (NP (NN mud))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eece\"},\"m2\":{\"start\":7,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeef\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["As","he","drove","by",",","he","saw","rows","and","rows","of","pigsties","and","pigpens","and","pigs","running","in","fields","and","pigs","wallowing","in","mud","."]
+,"lemmas":["as","he","drive","by",",","he","see","row","and","row","of","pigsty","and","pigpen","and","pig","run","in","field","and","pig","wallow","in","mud","."]
+,"posTags":["IN","PRP","VBD","IN",",","PRP","VBD","NNS","CC","NNS","IN","NNS","CC","NNS","CC","NNS","VBG","IN","NNS","CC","NNS","VBG","IN","NN","."]
+,"chunks":["B-SBAR","B-NP","B-VP","B-PP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[2,2,6,2,-2,6,-1,6,7,7,7,10,11,11,7,7,15,16,17,18,18,16,21,22,-2]
+,"deprels":["mark","nsubj","advcl","prep",null,"nsubj","root","dobj","cc","conj","prep","pobj","cc","conj","cc","conj","vmod","prep","pobj","cc","conj","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (IN As) (S (NP (PRP he)) (VP (VBD drove) (PP (IN by))))) (, ,) (NP (PRP he)) (VP (VBD saw) (NP (NP (NP (NNS rows) (CC and) (NNS rows)) (PP (IN of) (NP (NNS pigsties) (CC and) (NNS pigpens)))) (CC and) (NP (NP (NNS pigs)) (VP (VBG running) (PP (IN in) (NP (NNS fields) (CC and) (NNS pigs))) (S (VP (VBG wallowing) (PP (IN in) (NP (NN mud))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eece\"},\"m2\":{\"start\":7,\"end\":14,\"head\":13,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eefc\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["As","he","drove","by",",","he","saw","rows","and","rows","of","pigsties","and","pigpens","and","pigs","running","in","fields","and","pigs","wallowing","in","mud","."]
+,"lemmas":["as","he","drive","by",",","he","see","row","and","row","of","pigsty","and","pigpen","and","pig","run","in","field","and","pig","wallow","in","mud","."]
+,"posTags":["IN","PRP","VBD","IN",",","PRP","VBD","NNS","CC","NNS","IN","NNS","CC","NNS","CC","NNS","VBG","IN","NNS","CC","NNS","VBG","IN","NN","."]
+,"chunks":["B-SBAR","B-NP","B-VP","B-PP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[2,2,6,2,-2,6,-1,6,7,7,7,10,11,11,7,7,15,16,17,18,18,16,21,22,-2]
+,"deprels":["mark","nsubj","advcl","prep",null,"nsubj","root","dobj","cc","conj","prep","pobj","cc","conj","cc","conj","vmod","prep","pobj","cc","conj","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (IN As) (S (NP (PRP he)) (VP (VBD drove) (PP (IN by))))) (, ,) (NP (PRP he)) (VP (VBD saw) (NP (NP (NP (NNS rows) (CC and) (NNS rows)) (PP (IN of) (NP (NNS pigsties) (CC and) (NNS pigpens)))) (CC and) (NP (NP (NNS pigs)) (VP (VBG running) (PP (IN in) (NP (NNS fields) (CC and) (NNS pigs))) (S (VP (VBG wallowing) (PP (IN in) (NP (NN mud))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eece\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef11\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["As","he","drove","by",",","he","saw","rows","and","rows","of","pigsties","and","pigpens","and","pigs","running","in","fields","and","pigs","wallowing","in","mud","."]
+,"lemmas":["as","he","drive","by",",","he","see","row","and","row","of","pigsty","and","pigpen","and","pig","run","in","field","and","pig","wallow","in","mud","."]
+,"posTags":["IN","PRP","VBD","IN",",","PRP","VBD","NNS","CC","NNS","IN","NNS","CC","NNS","CC","NNS","VBG","IN","NNS","CC","NNS","VBG","IN","NN","."]
+,"chunks":["B-SBAR","B-NP","B-VP","B-PP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[2,2,6,2,-2,6,-1,6,7,7,7,10,11,11,7,7,15,16,17,18,18,16,21,22,-2]
+,"deprels":["mark","nsubj","advcl","prep",null,"nsubj","root","dobj","cc","conj","prep","pobj","cc","conj","cc","conj","vmod","prep","pobj","cc","conj","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (IN As) (S (NP (PRP he)) (VP (VBD drove) (PP (IN by))))) (, ,) (NP (PRP he)) (VP (VBD saw) (NP (NP (NP (NNS rows) (CC and) (NNS rows)) (PP (IN of) (NP (NNS pigsties) (CC and) (NNS pigpens)))) (CC and) (NP (NP (NNS pigs)) (VP (VBG running) (PP (IN in) (NP (NNS fields) (CC and) (NNS pigs))) (S (VP (VBG wallowing) (PP (IN in) (NP (NN mud))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecf\"},\"m2\":{\"start\":7,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeef\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["As","he","drove","by",",","he","saw","rows","and","rows","of","pigsties","and","pigpens","and","pigs","running","in","fields","and","pigs","wallowing","in","mud","."]
+,"lemmas":["as","he","drive","by",",","he","see","row","and","row","of","pigsty","and","pigpen","and","pig","run","in","field","and","pig","wallow","in","mud","."]
+,"posTags":["IN","PRP","VBD","IN",",","PRP","VBD","NNS","CC","NNS","IN","NNS","CC","NNS","CC","NNS","VBG","IN","NNS","CC","NNS","VBG","IN","NN","."]
+,"chunks":["B-SBAR","B-NP","B-VP","B-PP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[2,2,6,2,-2,6,-1,6,7,7,7,10,11,11,7,7,15,16,17,18,18,16,21,22,-2]
+,"deprels":["mark","nsubj","advcl","prep",null,"nsubj","root","dobj","cc","conj","prep","pobj","cc","conj","cc","conj","vmod","prep","pobj","cc","conj","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (IN As) (S (NP (PRP he)) (VP (VBD drove) (PP (IN by))))) (, ,) (NP (PRP he)) (VP (VBD saw) (NP (NP (NP (NNS rows) (CC and) (NNS rows)) (PP (IN of) (NP (NNS pigsties) (CC and) (NNS pigpens)))) (CC and) (NP (NP (NNS pigs)) (VP (VBG running) (PP (IN in) (NP (NNS fields) (CC and) (NNS pigs))) (S (VP (VBG wallowing) (PP (IN in) (NP (NN mud))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecf\"},\"m2\":{\"start\":7,\"end\":14,\"head\":13,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eefc\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["As","he","drove","by",",","he","saw","rows","and","rows","of","pigsties","and","pigpens","and","pigs","running","in","fields","and","pigs","wallowing","in","mud","."]
+,"lemmas":["as","he","drive","by",",","he","see","row","and","row","of","pigsty","and","pigpen","and","pig","run","in","field","and","pig","wallow","in","mud","."]
+,"posTags":["IN","PRP","VBD","IN",",","PRP","VBD","NNS","CC","NNS","IN","NNS","CC","NNS","CC","NNS","VBG","IN","NNS","CC","NNS","VBG","IN","NN","."]
+,"chunks":["B-SBAR","B-NP","B-VP","B-PP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[2,2,6,2,-2,6,-1,6,7,7,7,10,11,11,7,7,15,16,17,18,18,16,21,22,-2]
+,"deprels":["mark","nsubj","advcl","prep",null,"nsubj","root","dobj","cc","conj","prep","pobj","cc","conj","cc","conj","vmod","prep","pobj","cc","conj","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (IN As) (S (NP (PRP he)) (VP (VBD drove) (PP (IN by))))) (, ,) (NP (PRP he)) (VP (VBD saw) (NP (NP (NP (NNS rows) (CC and) (NNS rows)) (PP (IN of) (NP (NNS pigsties) (CC and) (NNS pigpens)))) (CC and) (NP (NP (NNS pigs)) (VP (VBG running) (PP (IN in) (NP (NNS fields) (CC and) (NNS pigs))) (S (VP (VBG wallowing) (PP (IN in) (NP (NN mud))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eecf\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef11\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["As","he","drove","by",",","he","saw","rows","and","rows","of","pigsties","and","pigpens","and","pigs","running","in","fields","and","pigs","wallowing","in","mud","."]
+,"lemmas":["as","he","drive","by",",","he","see","row","and","row","of","pigsty","and","pigpen","and","pig","run","in","field","and","pig","wallow","in","mud","."]
+,"posTags":["IN","PRP","VBD","IN",",","PRP","VBD","NNS","CC","NNS","IN","NNS","CC","NNS","CC","NNS","VBG","IN","NNS","CC","NNS","VBG","IN","NN","."]
+,"chunks":["B-SBAR","B-NP","B-VP","B-PP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[2,2,6,2,-2,6,-1,6,7,7,7,10,11,11,7,7,15,16,17,18,18,16,21,22,-2]
+,"deprels":["mark","nsubj","advcl","prep",null,"nsubj","root","dobj","cc","conj","prep","pobj","cc","conj","cc","conj","vmod","prep","pobj","cc","conj","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (IN As) (S (NP (PRP he)) (VP (VBD drove) (PP (IN by))))) (, ,) (NP (PRP he)) (VP (VBD saw) (NP (NP (NP (NNS rows) (CC and) (NNS rows)) (PP (IN of) (NP (NNS pigsties) (CC and) (NNS pigpens)))) (CC and) (NP (NP (NNS pigs)) (VP (VBG running) (PP (IN in) (NP (NNS fields) (CC and) (NNS pigs))) (S (VP (VBG wallowing) (PP (IN in) (NP (NN mud))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeef\"},\"m2\":{\"start\":7,\"end\":14,\"head\":13,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eefc\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["As","he","drove","by",",","he","saw","rows","and","rows","of","pigsties","and","pigpens","and","pigs","running","in","fields","and","pigs","wallowing","in","mud","."]
+,"lemmas":["as","he","drive","by",",","he","see","row","and","row","of","pigsty","and","pigpen","and","pig","run","in","field","and","pig","wallow","in","mud","."]
+,"posTags":["IN","PRP","VBD","IN",",","PRP","VBD","NNS","CC","NNS","IN","NNS","CC","NNS","CC","NNS","VBG","IN","NNS","CC","NNS","VBG","IN","NN","."]
+,"chunks":["B-SBAR","B-NP","B-VP","B-PP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[2,2,6,2,-2,6,-1,6,7,7,7,10,11,11,7,7,15,16,17,18,18,16,21,22,-2]
+,"deprels":["mark","nsubj","advcl","prep",null,"nsubj","root","dobj","cc","conj","prep","pobj","cc","conj","cc","conj","vmod","prep","pobj","cc","conj","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (IN As) (S (NP (PRP he)) (VP (VBD drove) (PP (IN by))))) (, ,) (NP (PRP he)) (VP (VBD saw) (NP (NP (NP (NNS rows) (CC and) (NNS rows)) (PP (IN of) (NP (NNS pigsties) (CC and) (NNS pigpens)))) (CC and) (NP (NP (NNS pigs)) (VP (VBG running) (PP (IN in) (NP (NNS fields) (CC and) (NNS pigs))) (S (VP (VBG wallowing) (PP (IN in) (NP (NN mud))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeef\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef11\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["As","he","drove","by",",","he","saw","rows","and","rows","of","pigsties","and","pigpens","and","pigs","running","in","fields","and","pigs","wallowing","in","mud","."]
+,"lemmas":["as","he","drive","by",",","he","see","row","and","row","of","pigsty","and","pigpen","and","pig","run","in","field","and","pig","wallow","in","mud","."]
+,"posTags":["IN","PRP","VBD","IN",",","PRP","VBD","NNS","CC","NNS","IN","NNS","CC","NNS","CC","NNS","VBG","IN","NNS","CC","NNS","VBG","IN","NN","."]
+,"chunks":["B-SBAR","B-NP","B-VP","B-PP","O","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","O"]
+,"parents":[2,2,6,2,-2,6,-1,6,7,7,7,10,11,11,7,7,15,16,17,18,18,16,21,22,-2]
+,"deprels":["mark","nsubj","advcl","prep",null,"nsubj","root","dobj","cc","conj","prep","pobj","cc","conj","cc","conj","vmod","prep","pobj","cc","conj","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (IN As) (S (NP (PRP he)) (VP (VBD drove) (PP (IN by))))) (, ,) (NP (PRP he)) (VP (VBD saw) (NP (NP (NP (NNS rows) (CC and) (NNS rows)) (PP (IN of) (NP (NNS pigsties) (CC and) (NNS pigpens)))) (CC and) (NP (NP (NNS pigs)) (VP (VBG running) (PP (IN in) (NP (NNS fields) (CC and) (NNS pigs))) (S (VP (VBG wallowing) (PP (IN in) (NP (NN mud))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":14,\"head\":13,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eefc\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"LOC\",\"subtype\":\"Land-Region-Natural\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef11\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","did","a","double","take",",","muttered","to","himself","and","then","looked","a","third","time","."]
+,"lemmas":["he","do","a","double","take",",","mutter","to","himself","and","then","look","a","third","time","."]
+,"posTags":["PRP","VBD","DT","JJ","NN",",","VBN","TO","PRP","CC","RB","VBD","DT","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","O","B-VP","I-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,4,4,1,-2,4,6,7,1,11,1,14,14,11,-2]
+,"deprels":["nsubj","root","det","amod","dobj",null,"vmod","prep","pobj","cc","advmod","conj","det","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD did) (NP (NP (DT a) (JJ double) (NN take)) (, ,) (VP (VBN muttered) (PP (TO to) (NP (PRP himself)))))) (CC and) (VP (ADVP (RB then)) (VBD looked) (NP (DT a) (JJ third) (NN time)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed1\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed2\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","wondered","if","he","had","seen","correctly","-","it","looked","like","a","pig","with","a","wooden","leg","!"]
+,"lemmas":["he","wonder","if","he","have","see","correctly","-","it","look","like","a","pig","with","a","wooden","leg","!"]
+,"posTags":["PRP","VBD","IN","PRP","VBD","VBN","RB",":","PRP","VBD","IN","DT","NN","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-SBAR","B-NP","B-VP","I-VP","B-ADVP","O","B-NP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,5,5,5,1,5,-2,9,1,9,12,10,9,16,16,13,-2]
+,"deprels":["nsubj","root","mark","nsubj","aux","advcl","advmod",null,"nsubj","parataxis","prep","det","pobj","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP He)) (VP (VBD wondered) (SBAR (IN if) (S (NP (PRP he)) (VP (VBD had) (VP (VBN seen) (ADVP (RB correctly)))))))) (: -) (S (NP (PRP it)) (VP (VBD looked) (PP (IN like) (NP (DT a) (NN pig))) (PP (IN with) (NP (DT a) (JJ wooden) (NN leg))))) (. !))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed3\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed4\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed5\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef04\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef02\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed6\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed5\"},\"m2\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"FAC\",\"subtype\":\"Path\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec1\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed5\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef13\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed5\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef01\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed5\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef02\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed5\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed6\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"FAC\",\"subtype\":\"Path\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec1\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef13\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"FAC\",\"subtype\":\"Path\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec1\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef01\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"FAC\",\"subtype\":\"Path\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec1\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef02\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"FAC\",\"subtype\":\"Path\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec1\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed6\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"FAC\",\"subtype\":\"Path\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec1\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef04\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef13\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef01\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef13\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef02\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef13\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed6\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef13\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef04\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef01\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef02\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef01\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed6\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef01\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef04\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef02\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef04\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","found","the","lane","to","the","farm","and","drove","up","into","the","farmyard",",","where","he","was","met","by","the","farmer","."]
+,"lemmas":["he","find","the","lane","to","the","farm","and","drive","up","into","the","farmyard",",","where","he","be","meet","by","the","farmer","."]
+,"posTags":["PRP","VBD","DT","NN","TO","DT","NN","CC","VBD","RP","IN","DT","NN",",","WRB","PRP","VBD","VBN","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-PRT","B-PP","B-NP","I-NP","O","B-ADVP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,6,4,1,1,8,8,12,10,-2,17,17,17,12,17,20,18,-2]
+,"deprels":["nsubj","root","det","dobj","prep","det","pobj","cc","conj","prt","prep","det","pobj",null,"advmod","nsubjpass","auxpass","rcmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD found) (NP (DT the) (NN lane)) (PP (TO to) (NP (DT the) (NN farm)))) (CC and) (VP (VBD drove) (PRT (RP up)) (PP (IN into) (NP (NP (DT the) (NN farmyard)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD was) (VP (VBN met) (PP (IN by) (NP (DT the) (NN farmer))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed6\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef04\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["``","Excuse","me",",","''","the","traveler","said","."]
+,"lemmas":["``","excuse","I",",","''","the","traveler","say","."]
+,"posTags":["``","VB","PRP",",","''","DT","NN","VBD","."]
+,"chunks":["O","B-VP","B-NP","O","O","B-NP","I-NP","B-VP","O"]
+,"parents":[-2,7,1,-2,-2,6,7,-1,-2]
+,"deprels":[null,"ccomp","dobj",null,null,"det","nsubj","root",null]
+,"naryTree":"((ROOT (S (`` ``) (S (VP (VB Excuse) (NP (PRP me)))) (, ,) ('' '') (NP (DT the) (NN traveler)) (VP (VBD said)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed8\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed7\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["``","I","was","just","driving","by","and","looking","at","all","your","pigs",",","and","I","noticed","something","that","I","just","had","to","stop","and","ask","about","."]
+,"lemmas":["``","I","be","just","drive","by","and","look","at","all","you","pig",",","and","I","notice","something","that","I","just","have","to","stop","and","ask","about","."]
+,"posTags":["``","PRP","VBD","RB","VBG","IN","CC","VBG","IN","DT","PRP$","NNS",",","CC","PRP","VBD","NN","IN","PRP","RB","VBD","TO","VB","CC","VB","RB","."]
+,"chunks":["O","B-NP","B-VP","I-VP","I-VP","B-PP","O","B-VP","B-ADVP","I-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","B-NP","B-SBAR","B-NP","B-ADVP","B-VP","B-VP","I-VP","I-VP","I-VP","B-ADVP","O"]
+,"parents":[-2,4,4,4,-1,4,4,4,7,8,11,7,-2,4,15,4,15,20,20,20,15,22,20,22,22,22,-2]
+,"deprels":[null,"nsubj","aux","advmod","root","prep","cc","conj","advmod","pobj","poss","dobj",null,"cc","nsubj","conj","dobj","mark","nsubj","advmod","ccomp","aux","xcomp","cc","conj","advmod",null]
+,"naryTree":"((ROOT (S (`` ``) (S (NP (PRP I)) (VP (VBD was) (ADVP (RB just)) (VP (VP (VBG driving) (PP (IN by))) (CC and) (VP (VBG looking) (ADVP (IN at) (DT all)) (NP (PRP$ your) (NNS pigs)))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBD noticed) (NP (NN something)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD had) (S (VP (TO to) (VP (VB stop) (CC and) (VB ask) (ADVP (RB about)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed9\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eebf\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["``","I","was","just","driving","by","and","looking","at","all","your","pigs",",","and","I","noticed","something","that","I","just","had","to","stop","and","ask","about","."]
+,"lemmas":["``","I","be","just","drive","by","and","look","at","all","you","pig",",","and","I","notice","something","that","I","just","have","to","stop","and","ask","about","."]
+,"posTags":["``","PRP","VBD","RB","VBG","IN","CC","VBG","IN","DT","PRP$","NNS",",","CC","PRP","VBD","NN","IN","PRP","RB","VBD","TO","VB","CC","VB","RB","."]
+,"chunks":["O","B-NP","B-VP","I-VP","I-VP","B-PP","O","B-VP","B-ADVP","I-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","B-NP","B-SBAR","B-NP","B-ADVP","B-VP","B-VP","I-VP","I-VP","I-VP","B-ADVP","O"]
+,"parents":[-2,4,4,4,-1,4,4,4,7,8,11,7,-2,4,15,4,15,20,20,20,15,22,20,22,22,22,-2]
+,"deprels":[null,"nsubj","aux","advmod","root","prep","cc","conj","advmod","pobj","poss","dobj",null,"cc","nsubj","conj","dobj","mark","nsubj","advmod","ccomp","aux","xcomp","cc","conj","advmod",null]
+,"naryTree":"((ROOT (S (`` ``) (S (NP (PRP I)) (VP (VBD was) (ADVP (RB just)) (VP (VP (VBG driving) (PP (IN by))) (CC and) (VP (VBG looking) (ADVP (IN at) (DT all)) (NP (PRP$ your) (NNS pigs)))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBD noticed) (NP (NN something)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD had) (S (VP (TO to) (VP (VB stop) (CC and) (VB ask) (ADVP (RB about)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed9\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeda\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["``","I","was","just","driving","by","and","looking","at","all","your","pigs",",","and","I","noticed","something","that","I","just","had","to","stop","and","ask","about","."]
+,"lemmas":["``","I","be","just","drive","by","and","look","at","all","you","pig",",","and","I","notice","something","that","I","just","have","to","stop","and","ask","about","."]
+,"posTags":["``","PRP","VBD","RB","VBG","IN","CC","VBG","IN","DT","PRP$","NNS",",","CC","PRP","VBD","NN","IN","PRP","RB","VBD","TO","VB","CC","VB","RB","."]
+,"chunks":["O","B-NP","B-VP","I-VP","I-VP","B-PP","O","B-VP","B-ADVP","I-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","B-NP","B-SBAR","B-NP","B-ADVP","B-VP","B-VP","I-VP","I-VP","I-VP","B-ADVP","O"]
+,"parents":[-2,4,4,4,-1,4,4,4,7,8,11,7,-2,4,15,4,15,20,20,20,15,22,20,22,22,22,-2]
+,"deprels":[null,"nsubj","aux","advmod","root","prep","cc","conj","advmod","pobj","poss","dobj",null,"cc","nsubj","conj","dobj","mark","nsubj","advmod","ccomp","aux","xcomp","cc","conj","advmod",null]
+,"naryTree":"((ROOT (S (`` ``) (S (NP (PRP I)) (VP (VBD was) (ADVP (RB just)) (VP (VP (VBG driving) (PP (IN by))) (CC and) (VP (VBG looking) (ADVP (IN at) (DT all)) (NP (PRP$ your) (NNS pigs)))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBD noticed) (NP (NN something)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD had) (S (VP (TO to) (VP (VB stop) (CC and) (VB ask) (ADVP (RB about)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eed9\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eedb\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["``","I","was","just","driving","by","and","looking","at","all","your","pigs",",","and","I","noticed","something","that","I","just","had","to","stop","and","ask","about","."]
+,"lemmas":["``","I","be","just","drive","by","and","look","at","all","you","pig",",","and","I","notice","something","that","I","just","have","to","stop","and","ask","about","."]
+,"posTags":["``","PRP","VBD","RB","VBG","IN","CC","VBG","IN","DT","PRP$","NNS",",","CC","PRP","VBD","NN","IN","PRP","RB","VBD","TO","VB","CC","VB","RB","."]
+,"chunks":["O","B-NP","B-VP","I-VP","I-VP","B-PP","O","B-VP","B-ADVP","I-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","B-NP","B-SBAR","B-NP","B-ADVP","B-VP","B-VP","I-VP","I-VP","I-VP","B-ADVP","O"]
+,"parents":[-2,4,4,4,-1,4,4,4,7,8,11,7,-2,4,15,4,15,20,20,20,15,22,20,22,22,22,-2]
+,"deprels":[null,"nsubj","aux","advmod","root","prep","cc","conj","advmod","pobj","poss","dobj",null,"cc","nsubj","conj","dobj","mark","nsubj","advmod","ccomp","aux","xcomp","cc","conj","advmod",null]
+,"naryTree":"((ROOT (S (`` ``) (S (NP (PRP I)) (VP (VBD was) (ADVP (RB just)) (VP (VP (VBG driving) (PP (IN by))) (CC and) (VP (VBG looking) (ADVP (IN at) (DT all)) (NP (PRP$ your) (NNS pigs)))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBD noticed) (NP (NN something)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD had) (S (VP (TO to) (VP (VB stop) (CC and) (VB ask) (ADVP (RB about)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eebf\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeda\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["``","I","was","just","driving","by","and","looking","at","all","your","pigs",",","and","I","noticed","something","that","I","just","had","to","stop","and","ask","about","."]
+,"lemmas":["``","I","be","just","drive","by","and","look","at","all","you","pig",",","and","I","notice","something","that","I","just","have","to","stop","and","ask","about","."]
+,"posTags":["``","PRP","VBD","RB","VBG","IN","CC","VBG","IN","DT","PRP$","NNS",",","CC","PRP","VBD","NN","IN","PRP","RB","VBD","TO","VB","CC","VB","RB","."]
+,"chunks":["O","B-NP","B-VP","I-VP","I-VP","B-PP","O","B-VP","B-ADVP","I-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","B-NP","B-SBAR","B-NP","B-ADVP","B-VP","B-VP","I-VP","I-VP","I-VP","B-ADVP","O"]
+,"parents":[-2,4,4,4,-1,4,4,4,7,8,11,7,-2,4,15,4,15,20,20,20,15,22,20,22,22,22,-2]
+,"deprels":[null,"nsubj","aux","advmod","root","prep","cc","conj","advmod","pobj","poss","dobj",null,"cc","nsubj","conj","dobj","mark","nsubj","advmod","ccomp","aux","xcomp","cc","conj","advmod",null]
+,"naryTree":"((ROOT (S (`` ``) (S (NP (PRP I)) (VP (VBD was) (ADVP (RB just)) (VP (VP (VBG driving) (PP (IN by))) (CC and) (VP (VBG looking) (ADVP (IN at) (DT all)) (NP (PRP$ your) (NNS pigs)))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBD noticed) (NP (NN something)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD had) (S (VP (TO to) (VP (VB stop) (CC and) (VB ask) (ADVP (RB about)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eebf\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eedb\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["``","I","was","just","driving","by","and","looking","at","all","your","pigs",",","and","I","noticed","something","that","I","just","had","to","stop","and","ask","about","."]
+,"lemmas":["``","I","be","just","drive","by","and","look","at","all","you","pig",",","and","I","notice","something","that","I","just","have","to","stop","and","ask","about","."]
+,"posTags":["``","PRP","VBD","RB","VBG","IN","CC","VBG","IN","DT","PRP$","NNS",",","CC","PRP","VBD","NN","IN","PRP","RB","VBD","TO","VB","CC","VB","RB","."]
+,"chunks":["O","B-NP","B-VP","I-VP","I-VP","B-PP","O","B-VP","B-ADVP","I-ADVP","B-NP","I-NP","O","O","B-NP","B-VP","B-NP","B-SBAR","B-NP","B-ADVP","B-VP","B-VP","I-VP","I-VP","I-VP","B-ADVP","O"]
+,"parents":[-2,4,4,4,-1,4,4,4,7,8,11,7,-2,4,15,4,15,20,20,20,15,22,20,22,22,22,-2]
+,"deprels":[null,"nsubj","aux","advmod","root","prep","cc","conj","advmod","pobj","poss","dobj",null,"cc","nsubj","conj","dobj","mark","nsubj","advmod","ccomp","aux","xcomp","cc","conj","advmod",null]
+,"naryTree":"((ROOT (S (`` ``) (S (NP (PRP I)) (VP (VBD was) (ADVP (RB just)) (VP (VP (VBG driving) (PP (IN by))) (CC and) (VP (VBG looking) (ADVP (IN at) (DT all)) (NP (PRP$ your) (NNS pigs)))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBD noticed) (NP (NN something)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD had) (S (VP (TO to) (VP (VB stop) (CC and) (VB ask) (ADVP (RB about)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeda\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eedb\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["Tell","me",",","did","I","see","right","?"]
+,"lemmas":["tell","I",",","do","I","see","right","?"]
+,"posTags":["VB","PRP",",","VBD","PRP","VB","RB","."]
+,"chunks":["B-VP","B-NP","O","B-VP","B-NP","B-VP","B-ADVP","O"]
+,"parents":[3,0,-2,-1,5,3,5,-2]
+,"deprels":["ccomp","dobj",null,"root","nsubj","ccomp","advmod",null]
+,"naryTree":"((ROOT (S (S (VP (VB Tell) (NP (PRP me)))) (, ,) (VP (VBD did) (S (NP (PRP I)) (VP (VB see) (ADVP (RB right))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eedc\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eedd\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["Well",",","let","me","tell","you","a","little","about","that","pig","."]
+,"lemmas":["well",",","let","I","tell","you","a","little","about","that","pig","."]
+,"posTags":["RB",",","VB","PRP","VB","PRP","DT","JJ","IN","DT","NN","."]
+,"chunks":["B-INTJ","O","B-VP","B-NP","B-VP","B-NP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,-2,-1,4,2,4,7,8,4,10,8,-2]
+,"deprels":["discourse",null,"root","nsubj","ccomp","dobj","det","npadvmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (INTJ (RB Well)) (, ,) (VP (VB let) (S (NP (PRP me)) (VP (VB tell) (NP (PRP you)) (PP (NP (DT a) (JJ little)) (IN about) (NP (DT that) (NN pig)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef06\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eee3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["You","see","that","barge","down","there","on","the","river","?"]
+,"lemmas":["you","see","that","barge","down","there","on","the","river","?"]
+,"posTags":["PRP","VBP","IN","NN","IN","RB","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","B-ADVP","I-ADVP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,2,1,4,1,8,6,-2]
+,"deprels":["nsubj","root","prep","pobj","advmod","advmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP You)) (VP (VBP see) (PP (IN that) (NP (NN barge))) (ADVP (IN down) (RB there)) (PP (IN on) (NP (DT the) (NN river)))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eedf\"},\"m2\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"VEH\",\"subtype\":\"Water\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeb3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["You","see","that","barge","down","there","on","the","river","?"]
+,"lemmas":["you","see","that","barge","down","there","on","the","river","?"]
+,"posTags":["PRP","VBP","IN","NN","IN","RB","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","B-ADVP","I-ADVP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,2,1,4,1,8,6,-2]
+,"deprels":["nsubj","root","prep","pobj","advmod","advmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP You)) (VP (VBP see) (PP (IN that) (NP (NN barge))) (ADVP (IN down) (RB there)) (PP (IN on) (NP (DT the) (NN river)))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eedf\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"LOC\",\"subtype\":\"Water-Body\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["You","see","that","barge","down","there","on","the","river","?"]
+,"lemmas":["you","see","that","barge","down","there","on","the","river","?"]
+,"posTags":["PRP","VBP","IN","NN","IN","RB","IN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","B-ADVP","I-ADVP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,2,1,4,1,8,6,-2]
+,"deprels":["nsubj","root","prep","pobj","advmod","advmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP You)) (VP (VBP see) (PP (IN that) (NP (NN barge))) (ADVP (IN down) (RB there)) (PP (IN on) (NP (DT the) (NN river)))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"VEH\",\"subtype\":\"Water\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeb3\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"LOC\",\"subtype\":\"Water-Body\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["Now","that","dredge","brings","me","in","about","$","120,000","every","year","."]
+,"lemmas":["now","that","dredge","bring","I","in","about","$","120,000","every","year","."]
+,"posTags":["RB","IN","NN","VBZ","PRP","IN","IN","$","CD","DT","NN","."]
+,"chunks":["B-ADVP","B-SBAR","B-NP","B-VP","B-NP","B-PP","I-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[-1,3,3,0,3,6,3,6,7,10,7,-2]
+,"deprels":["root","mark","nsubj","dep","dobj","dep","prep","pobj","num","det","dep",null]
+,"naryTree":"((ROOT (FRAG (ADVP (RB Now)) (SBAR (IN that) (S (NP (NN dredge)) (VP (VBZ brings) (NP (PRP me)) (PP (IN in) (IN about) (NP (NP ($ $) (CD 120,000)) (NP (DT every) (NN year))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"VEH\",\"subtype\":\"Water\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeb5\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef07\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","night","a","couple","of","years","ago","I","got","to","drinking","and","I","guess","I","had","more","than","I","should","have","."]
+,"lemmas":["one","night","a","couple","of","year","ago","I","get","to","drinking","and","I","guess","I","have","more","than","I","should","have","."]
+,"posTags":["CD","NN","DT","NN","IN","NNS","IN","PRP","VBD","TO","NN","CC","PRP","VBP","PRP","VBD","RBR","IN","PRP","MD","VB","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-PP","B-NP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-SBAR","B-NP","B-VP","I-VP","O"]
+,"parents":[1,8,3,6,3,4,8,8,-1,8,9,8,13,8,15,13,15,20,20,20,15,-2]
+,"deprels":["num","dep","det","npadvmod","prep","pobj","advmod","nsubj","root","prep","pobj","cc","nsubj","conj","nsubj","ccomp","dobj","mark","nsubj","aux","advcl",null]
+,"naryTree":"((ROOT (S (NP-TMP (CD One) (NN night)) (S (ADVP (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years)))) (IN ago)) (NP (PRP I)) (VP (VBD got) (PP (TO to) (NP (NN drinking))))) (CC and) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (VBD had) (NP (RBR more)) (SBAR (IN than) (S (NP (PRP I)) (VP (MD should) (VP (VB have)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef08\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef09\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","night","a","couple","of","years","ago","I","got","to","drinking","and","I","guess","I","had","more","than","I","should","have","."]
+,"lemmas":["one","night","a","couple","of","year","ago","I","get","to","drinking","and","I","guess","I","have","more","than","I","should","have","."]
+,"posTags":["CD","NN","DT","NN","IN","NNS","IN","PRP","VBD","TO","NN","CC","PRP","VBP","PRP","VBD","RBR","IN","PRP","MD","VB","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-PP","B-NP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-SBAR","B-NP","B-VP","I-VP","O"]
+,"parents":[1,8,3,6,3,4,8,8,-1,8,9,8,13,8,15,13,15,20,20,20,15,-2]
+,"deprels":["num","dep","det","npadvmod","prep","pobj","advmod","nsubj","root","prep","pobj","cc","nsubj","conj","nsubj","ccomp","dobj","mark","nsubj","aux","advcl",null]
+,"naryTree":"((ROOT (S (NP-TMP (CD One) (NN night)) (S (ADVP (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years)))) (IN ago)) (NP (PRP I)) (VP (VBD got) (PP (TO to) (NP (NN drinking))))) (CC and) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (VBD had) (NP (RBR more)) (SBAR (IN than) (S (NP (PRP I)) (VP (MD should) (VP (VB have)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef08\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0a\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","night","a","couple","of","years","ago","I","got","to","drinking","and","I","guess","I","had","more","than","I","should","have","."]
+,"lemmas":["one","night","a","couple","of","year","ago","I","get","to","drinking","and","I","guess","I","have","more","than","I","should","have","."]
+,"posTags":["CD","NN","DT","NN","IN","NNS","IN","PRP","VBD","TO","NN","CC","PRP","VBP","PRP","VBD","RBR","IN","PRP","MD","VB","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-PP","B-NP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-SBAR","B-NP","B-VP","I-VP","O"]
+,"parents":[1,8,3,6,3,4,8,8,-1,8,9,8,13,8,15,13,15,20,20,20,15,-2]
+,"deprels":["num","dep","det","npadvmod","prep","pobj","advmod","nsubj","root","prep","pobj","cc","nsubj","conj","nsubj","ccomp","dobj","mark","nsubj","aux","advcl",null]
+,"naryTree":"((ROOT (S (NP-TMP (CD One) (NN night)) (S (ADVP (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years)))) (IN ago)) (NP (PRP I)) (VP (VBD got) (PP (TO to) (NP (NN drinking))))) (CC and) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (VBD had) (NP (RBR more)) (SBAR (IN than) (S (NP (PRP I)) (VP (MD should) (VP (VB have)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef08\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0b\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","night","a","couple","of","years","ago","I","got","to","drinking","and","I","guess","I","had","more","than","I","should","have","."]
+,"lemmas":["one","night","a","couple","of","year","ago","I","get","to","drinking","and","I","guess","I","have","more","than","I","should","have","."]
+,"posTags":["CD","NN","DT","NN","IN","NNS","IN","PRP","VBD","TO","NN","CC","PRP","VBP","PRP","VBD","RBR","IN","PRP","MD","VB","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-PP","B-NP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-SBAR","B-NP","B-VP","I-VP","O"]
+,"parents":[1,8,3,6,3,4,8,8,-1,8,9,8,13,8,15,13,15,20,20,20,15,-2]
+,"deprels":["num","dep","det","npadvmod","prep","pobj","advmod","nsubj","root","prep","pobj","cc","nsubj","conj","nsubj","ccomp","dobj","mark","nsubj","aux","advcl",null]
+,"naryTree":"((ROOT (S (NP-TMP (CD One) (NN night)) (S (ADVP (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years)))) (IN ago)) (NP (PRP I)) (VP (VBD got) (PP (TO to) (NP (NN drinking))))) (CC and) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (VBD had) (NP (RBR more)) (SBAR (IN than) (S (NP (PRP I)) (VP (MD should) (VP (VB have)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef09\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0a\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","night","a","couple","of","years","ago","I","got","to","drinking","and","I","guess","I","had","more","than","I","should","have","."]
+,"lemmas":["one","night","a","couple","of","year","ago","I","get","to","drinking","and","I","guess","I","have","more","than","I","should","have","."]
+,"posTags":["CD","NN","DT","NN","IN","NNS","IN","PRP","VBD","TO","NN","CC","PRP","VBP","PRP","VBD","RBR","IN","PRP","MD","VB","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-PP","B-NP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-SBAR","B-NP","B-VP","I-VP","O"]
+,"parents":[1,8,3,6,3,4,8,8,-1,8,9,8,13,8,15,13,15,20,20,20,15,-2]
+,"deprels":["num","dep","det","npadvmod","prep","pobj","advmod","nsubj","root","prep","pobj","cc","nsubj","conj","nsubj","ccomp","dobj","mark","nsubj","aux","advcl",null]
+,"naryTree":"((ROOT (S (NP-TMP (CD One) (NN night)) (S (ADVP (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years)))) (IN ago)) (NP (PRP I)) (VP (VBD got) (PP (TO to) (NP (NN drinking))))) (CC and) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (VBD had) (NP (RBR more)) (SBAR (IN than) (S (NP (PRP I)) (VP (MD should) (VP (VB have)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef09\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0b\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["One","night","a","couple","of","years","ago","I","got","to","drinking","and","I","guess","I","had","more","than","I","should","have","."]
+,"lemmas":["one","night","a","couple","of","year","ago","I","get","to","drinking","and","I","guess","I","have","more","than","I","should","have","."]
+,"posTags":["CD","NN","DT","NN","IN","NNS","IN","PRP","VBD","TO","NN","CC","PRP","VBP","PRP","VBD","RBR","IN","PRP","MD","VB","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","B-ADVP","B-NP","B-VP","B-PP","B-NP","O","B-NP","B-VP","B-NP","B-VP","B-NP","B-SBAR","B-NP","B-VP","I-VP","O"]
+,"parents":[1,8,3,6,3,4,8,8,-1,8,9,8,13,8,15,13,15,20,20,20,15,-2]
+,"deprels":["num","dep","det","npadvmod","prep","pobj","advmod","nsubj","root","prep","pobj","cc","nsubj","conj","nsubj","ccomp","dobj","mark","nsubj","aux","advcl",null]
+,"naryTree":"((ROOT (S (NP-TMP (CD One) (NN night)) (S (ADVP (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNS years)))) (IN ago)) (NP (PRP I)) (VP (VBD got) (PP (TO to) (NP (NN drinking))))) (CC and) (S (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (PRP I)) (VP (VBD had) (NP (RBR more)) (SBAR (IN than) (S (NP (PRP I)) (VP (MD should) (VP (VB have)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0a\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0b\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","came","in","the","back","door",",","got","the","wife","and","kid","out",",","roused","me","up","and","got","me","out","."]
+,"lemmas":["he","come","in","the","back","door",",","get","the","wife","and","kid","out",",","rouse","I","up","and","get","I","out","."]
+,"posTags":["PRP","VBD","IN","DT","JJ","NN",",","VBD","DT","NN","CC","NN","RB",",","VBD","PRP","RP","CC","VBD","PRP","RP","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","O","B-VP","B-NP","B-PRT","O","B-VP","B-NP","B-PRT","O"]
+,"parents":[1,-1,1,5,5,2,-2,1,9,7,9,9,7,-2,1,14,14,1,1,18,18,-2]
+,"deprels":["nsubj","root","prep","det","amod","pobj",null,"conj","det","dobj","cc","conj","advmod",null,"conj","dobj","prt","cc","conj","dobj","prt",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD came) (PP (IN in) (NP (DT the) (JJ back) (NN door)))) (, ,) (VP (VBD got) (NP (DT the) (NN wife) (CC and) (NN kid)) (ADVP (RB out))) (, ,) (VP (VBD roused) (NP (PRP me)) (PRT (RP up))) (CC and) (VP (VBD got) (NP (PRP me)) (PRT (RP out)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec7\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeb9\"}}]"
+,"relLabels":["PER-SOC-Family(Arg-1,Arg-1)"]}
+
+{"words":["He","came","in","the","back","door",",","got","the","wife","and","kid","out",",","roused","me","up","and","got","me","out","."]
+,"lemmas":["he","come","in","the","back","door",",","get","the","wife","and","kid","out",",","rouse","I","up","and","get","I","out","."]
+,"posTags":["PRP","VBD","IN","DT","JJ","NN",",","VBD","DT","NN","CC","NN","RB",",","VBD","PRP","RP","CC","VBD","PRP","RP","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","O","B-VP","B-NP","B-PRT","O","B-VP","B-NP","B-PRT","O"]
+,"parents":[1,-1,1,5,5,2,-2,1,9,7,9,9,7,-2,1,14,14,1,1,18,18,-2]
+,"deprels":["nsubj","root","prep","det","amod","pobj",null,"conj","det","dobj","cc","conj","advmod",null,"conj","dobj","prt","cc","conj","dobj","prt",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD came) (PP (IN in) (NP (DT the) (JJ back) (NN door)))) (, ,) (VP (VBD got) (NP (DT the) (NN wife) (CC and) (NN kid)) (ADVP (RB out))) (, ,) (VP (VBD roused) (NP (PRP me)) (PRT (RP up))) (CC and) (VP (VBD got) (NP (PRP me)) (PRT (RP out)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec7\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","came","in","the","back","door",",","got","the","wife","and","kid","out",",","roused","me","up","and","got","me","out","."]
+,"lemmas":["he","come","in","the","back","door",",","get","the","wife","and","kid","out",",","rouse","I","up","and","get","I","out","."]
+,"posTags":["PRP","VBD","IN","DT","JJ","NN",",","VBD","DT","NN","CC","NN","RB",",","VBD","PRP","RP","CC","VBD","PRP","RP","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","O","B-VP","B-NP","B-PRT","O","B-VP","B-NP","B-PRT","O"]
+,"parents":[1,-1,1,5,5,2,-2,1,9,7,9,9,7,-2,1,14,14,1,1,18,18,-2]
+,"deprels":["nsubj","root","prep","det","amod","pobj",null,"conj","det","dobj","cc","conj","advmod",null,"conj","dobj","prt","cc","conj","dobj","prt",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD came) (PP (IN in) (NP (DT the) (JJ back) (NN door)))) (, ,) (VP (VBD got) (NP (DT the) (NN wife) (CC and) (NN kid)) (ADVP (RB out))) (, ,) (VP (VBD roused) (NP (PRP me)) (PRT (RP up))) (CC and) (VP (VBD got) (NP (PRP me)) (PRT (RP out)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eec7\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0e\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","came","in","the","back","door",",","got","the","wife","and","kid","out",",","roused","me","up","and","got","me","out","."]
+,"lemmas":["he","come","in","the","back","door",",","get","the","wife","and","kid","out",",","rouse","I","up","and","get","I","out","."]
+,"posTags":["PRP","VBD","IN","DT","JJ","NN",",","VBD","DT","NN","CC","NN","RB",",","VBD","PRP","RP","CC","VBD","PRP","RP","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","O","B-VP","B-NP","B-PRT","O","B-VP","B-NP","B-PRT","O"]
+,"parents":[1,-1,1,5,5,2,-2,1,9,7,9,9,7,-2,1,14,14,1,1,18,18,-2]
+,"deprels":["nsubj","root","prep","det","amod","pobj",null,"conj","det","dobj","cc","conj","advmod",null,"conj","dobj","prt","cc","conj","dobj","prt",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD came) (PP (IN in) (NP (DT the) (JJ back) (NN door)))) (, ,) (VP (VBD got) (NP (DT the) (NN wife) (CC and) (NN kid)) (ADVP (RB out))) (, ,) (VP (VBD roused) (NP (PRP me)) (PRT (RP up))) (CC and) (VP (VBD got) (NP (PRP me)) (PRT (RP out)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeb9\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","came","in","the","back","door",",","got","the","wife","and","kid","out",",","roused","me","up","and","got","me","out","."]
+,"lemmas":["he","come","in","the","back","door",",","get","the","wife","and","kid","out",",","rouse","I","up","and","get","I","out","."]
+,"posTags":["PRP","VBD","IN","DT","JJ","NN",",","VBD","DT","NN","CC","NN","RB",",","VBD","PRP","RP","CC","VBD","PRP","RP","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","O","B-VP","B-NP","B-PRT","O","B-VP","B-NP","B-PRT","O"]
+,"parents":[1,-1,1,5,5,2,-2,1,9,7,9,9,7,-2,1,14,14,1,1,18,18,-2]
+,"deprels":["nsubj","root","prep","det","amod","pobj",null,"conj","det","dobj","cc","conj","advmod",null,"conj","dobj","prt","cc","conj","dobj","prt",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD came) (PP (IN in) (NP (DT the) (JJ back) (NN door)))) (, ,) (VP (VBD got) (NP (DT the) (NN wife) (CC and) (NN kid)) (ADVP (RB out))) (, ,) (VP (VBD roused) (NP (PRP me)) (PRT (RP up))) (CC and) (VP (VBD got) (NP (PRP me)) (PRT (RP out)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeb9\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0e\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["He","came","in","the","back","door",",","got","the","wife","and","kid","out",",","roused","me","up","and","got","me","out","."]
+,"lemmas":["he","come","in","the","back","door",",","get","the","wife","and","kid","out",",","rouse","I","up","and","get","I","out","."]
+,"posTags":["PRP","VBD","IN","DT","JJ","NN",",","VBD","DT","NN","CC","NN","RB",",","VBD","PRP","RP","CC","VBD","PRP","RP","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","O","B-VP","B-NP","B-PRT","O","B-VP","B-NP","B-PRT","O"]
+,"parents":[1,-1,1,5,5,2,-2,1,9,7,9,9,7,-2,1,14,14,1,1,18,18,-2]
+,"deprels":["nsubj","root","prep","det","amod","pobj",null,"conj","det","dobj","cc","conj","advmod",null,"conj","dobj","prt","cc","conj","dobj","prt",null]
+,"naryTree":"((ROOT (S (NP (PRP He)) (VP (VP (VBD came) (PP (IN in) (NP (DT the) (JJ back) (NN door)))) (, ,) (VP (VBD got) (NP (DT the) (NN wife) (CC and) (NN kid)) (ADVP (RB out))) (, ,) (VP (VBD roused) (NP (PRP me)) (PRT (RP up))) (CC and) (VP (VBD got) (NP (PRP me)) (PRT (RP out)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0d\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0e\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["``","There","is","no","question","about","it","-","that","night","old","Caesar","saved","all","our","lives","and","you","know","that","is","not","the","sort","of","thing","a","man","is","going","to","forget","too","easily","."]
+,"lemmas":["``","there","be","no","question","about","it","-","that","night","old","Caesar","save","all","we","life","and","you","know","that","be","not","the","sort","of","thing","a","man","be","go","to","forget","too","easily","."]
+,"posTags":["``","EX","VBZ","DT","NN","IN","PRP",":","IN","NN","JJ","NNP","VBD","PDT","PRP$","NNS","CC","PRP","VBP","DT","VBZ","RB","DT","NN","IN","NN","DT","NN","VBZ","VBG","TO","VB","RB","RB","."]
+,"chunks":["O","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","O","B-SBAR","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","I-ADVP","O"]
+,"parents":[-2,2,-1,4,2,4,5,-2,12,12,11,12,29,15,15,12,12,18,12,23,23,23,23,18,23,24,27,29,29,2,31,29,33,31,-2]
+,"deprels":[null,"expl","root","neg","nsubj","prep","pobj",null,"mark","tmod","amod","nsubj","advcl","predet","poss","dobj","cc","nsubj","conj","nsubj","cop","neg","det","ccomp","prep","pobj","det","nsubj","aux","parataxis","aux","xcomp","advmod","advmod",null]
+,"naryTree":"((ROOT (S (`` ``) (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT no) (NN question)) (PP (IN about) (NP (PRP it)))))) (: -) (S (SBAR (IN that) (S (S (NP-TMP (NN night)) (NP (JJ old) (NNP Caesar)) (VP (VBD saved) (NP (PDT all) (PRP$ our) (NNS lives)))) (CC and) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (DT that)) (VP (VBZ is) (RB not) (NP (NP (DT the) (NN sort)) (PP (IN of) (NP (NN thing))))))))))) (NP (DT a) (NN man)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB forget) (ADVP (RB too) (RB easily)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eebb\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeed\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["``","There","is","no","question","about","it","-","that","night","old","Caesar","saved","all","our","lives","and","you","know","that","is","not","the","sort","of","thing","a","man","is","going","to","forget","too","easily","."]
+,"lemmas":["``","there","be","no","question","about","it","-","that","night","old","Caesar","save","all","we","life","and","you","know","that","be","not","the","sort","of","thing","a","man","be","go","to","forget","too","easily","."]
+,"posTags":["``","EX","VBZ","DT","NN","IN","PRP",":","IN","NN","JJ","NNP","VBD","PDT","PRP$","NNS","CC","PRP","VBP","DT","VBZ","RB","DT","NN","IN","NN","DT","NN","VBZ","VBG","TO","VB","RB","RB","."]
+,"chunks":["O","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","O","B-SBAR","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","I-ADVP","O"]
+,"parents":[-2,2,-1,4,2,4,5,-2,12,12,11,12,29,15,15,12,12,18,12,23,23,23,23,18,23,24,27,29,29,2,31,29,33,31,-2]
+,"deprels":[null,"expl","root","neg","nsubj","prep","pobj",null,"mark","tmod","amod","nsubj","advcl","predet","poss","dobj","cc","nsubj","conj","nsubj","cop","neg","det","ccomp","prep","pobj","det","nsubj","aux","parataxis","aux","xcomp","advmod","advmod",null]
+,"naryTree":"((ROOT (S (`` ``) (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT no) (NN question)) (PP (IN about) (NP (PRP it)))))) (: -) (S (SBAR (IN that) (S (S (NP-TMP (NN night)) (NP (JJ old) (NNP Caesar)) (VP (VBD saved) (NP (PDT all) (PRP$ our) (NNS lives)))) (CC and) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (DT that)) (VP (VBZ is) (RB not) (NP (NP (DT the) (NN sort)) (PP (IN of) (NP (NN thing))))))))))) (NP (DT a) (NN man)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB forget) (ADVP (RB too) (RB easily)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eebb\"},\"m2\":{\"start\":26,\"end\":28,\"head\":27,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeff\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["``","There","is","no","question","about","it","-","that","night","old","Caesar","saved","all","our","lives","and","you","know","that","is","not","the","sort","of","thing","a","man","is","going","to","forget","too","easily","."]
+,"lemmas":["``","there","be","no","question","about","it","-","that","night","old","Caesar","save","all","we","life","and","you","know","that","be","not","the","sort","of","thing","a","man","be","go","to","forget","too","easily","."]
+,"posTags":["``","EX","VBZ","DT","NN","IN","PRP",":","IN","NN","JJ","NNP","VBD","PDT","PRP$","NNS","CC","PRP","VBP","DT","VBZ","RB","DT","NN","IN","NN","DT","NN","VBZ","VBG","TO","VB","RB","RB","."]
+,"chunks":["O","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","O","B-SBAR","B-NP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","B-VP","O","B-NP","I-NP","B-PP","B-NP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-ADVP","I-ADVP","O"]
+,"parents":[-2,2,-1,4,2,4,5,-2,12,12,11,12,29,15,15,12,12,18,12,23,23,23,23,18,23,24,27,29,29,2,31,29,33,31,-2]
+,"deprels":[null,"expl","root","neg","nsubj","prep","pobj",null,"mark","tmod","amod","nsubj","advcl","predet","poss","dobj","cc","nsubj","conj","nsubj","cop","neg","det","ccomp","prep","pobj","det","nsubj","aux","parataxis","aux","xcomp","advmod","advmod",null]
+,"naryTree":"((ROOT (S (`` ``) (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT no) (NN question)) (PP (IN about) (NP (PRP it)))))) (: -) (S (SBAR (IN that) (S (S (NP-TMP (NN night)) (NP (JJ old) (NNP Caesar)) (VP (VBD saved) (NP (PDT all) (PRP$ our) (NNS lives)))) (CC and) (S (NP (PRP you)) (VP (VBP know) (SBAR (S (NP (DT that)) (VP (VBZ is) (RB not) (NP (NP (DT the) (NN sort)) (PP (IN of) (NP (NN thing))))))))))) (NP (DT a) (NN man)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB forget) (ADVP (RB too) (RB easily)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeed\"},\"m2\":{\"start\":26,\"end\":28,\"head\":27,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeff\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["''","The","farmer","laughed","and","said",",","``","Well",",","naturally",",","when","you","have","a","pig","that","smart",",","you","do","n't","want","to","eat","him","all","at","one","time","!"]
+,"lemmas":["''","the","farmer","laugh","and","say",",","``","well",",","naturally",",","when","you","have","a","pig","that","smart",",","you","do","not","want","to","eat","he","all","at","one","time","!"]
+,"posTags":["''","DT","NN","VBD","CC","VBD",",","``","UH",",","RB",",","WRB","PRP","VBP","DT","NN","WDT","JJ",",","PRP","VBP","RB","VB","TO","VB","PRP","DT","IN","CD","NN","."]
+,"chunks":["O","B-NP","I-NP","B-VP","I-VP","I-VP","O","B-INTJ","I-INTJ","O","B-ADVP","O","B-ADVP","B-NP","B-VP","B-NP","I-NP","B-NP","B-ADJP","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","B-PP","I-PP","B-NP","I-NP","O"]
+,"parents":[-2,2,3,-1,3,3,-2,-2,10,-2,3,-2,14,14,3,16,14,25,23,-2,23,23,23,16,25,23,25,28,25,30,28,-2]
+,"deprels":[null,"det","nsubj","root","cc","conj",null,null,"discourse",null,"dep",null,"advmod","nsubj","advcl","det","dobj","dobj","ccomp",null,"nsubj","aux","neg","rcmod","aux","xcomp","dobj","dep","prep","num","pobj",null]
+,"naryTree":"((ROOT (S ('' '') (NP (DT The) (NN farmer)) (VP (VBD laughed) (CC and) (VBD said) (, ,) (FRAG (INTJ (`` ``) (UH Well)) (, ,) (ADVP (RB naturally))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT a) (NN pig)) (SBAR (WHNP (WDT that)) (S (S (ADJP (JJ smart))) (, ,) (NP (PRP you)) (VP (VBP do) (RB n't) (VP (VB want) (S (VP (TO to) (VP (VB eat) (NP (PRP him)) (PP (DT all) (IN at) (NP (CD one) (NN time))))))))))))))) (. !))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0f\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeb7\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["''","The","farmer","laughed","and","said",",","``","Well",",","naturally",",","when","you","have","a","pig","that","smart",",","you","do","n't","want","to","eat","him","all","at","one","time","!"]
+,"lemmas":["''","the","farmer","laugh","and","say",",","``","well",",","naturally",",","when","you","have","a","pig","that","smart",",","you","do","not","want","to","eat","he","all","at","one","time","!"]
+,"posTags":["''","DT","NN","VBD","CC","VBD",",","``","UH",",","RB",",","WRB","PRP","VBP","DT","NN","WDT","JJ",",","PRP","VBP","RB","VB","TO","VB","PRP","DT","IN","CD","NN","."]
+,"chunks":["O","B-NP","I-NP","B-VP","I-VP","I-VP","O","B-INTJ","I-INTJ","O","B-ADVP","O","B-ADVP","B-NP","B-VP","B-NP","I-NP","B-NP","B-ADJP","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","B-PP","I-PP","B-NP","I-NP","O"]
+,"parents":[-2,2,3,-1,3,3,-2,-2,10,-2,3,-2,14,14,3,16,14,25,23,-2,23,23,23,16,25,23,25,28,25,30,28,-2]
+,"deprels":[null,"det","nsubj","root","cc","conj",null,null,"discourse",null,"dep",null,"advmod","nsubj","advcl","det","dobj","dobj","ccomp",null,"nsubj","aux","neg","rcmod","aux","xcomp","dobj","dep","prep","num","pobj",null]
+,"naryTree":"((ROOT (S ('' '') (NP (DT The) (NN farmer)) (VP (VBD laughed) (CC and) (VBD said) (, ,) (FRAG (INTJ (`` ``) (UH Well)) (, ,) (ADVP (RB naturally))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT a) (NN pig)) (SBAR (WHNP (WDT that)) (S (S (ADJP (JJ smart))) (, ,) (NP (PRP you)) (VP (VBP do) (RB n't) (VP (VB want) (S (VP (TO to) (VP (VB eat) (NP (PRP him)) (PP (DT all) (IN at) (NP (CD one) (NN time))))))))))))))) (. !))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"1fffc29d-2022-7efa-7539-00006657ef0f\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eebe\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["''","The","farmer","laughed","and","said",",","``","Well",",","naturally",",","when","you","have","a","pig","that","smart",",","you","do","n't","want","to","eat","him","all","at","one","time","!"]
+,"lemmas":["''","the","farmer","laugh","and","say",",","``","well",",","naturally",",","when","you","have","a","pig","that","smart",",","you","do","not","want","to","eat","he","all","at","one","time","!"]
+,"posTags":["''","DT","NN","VBD","CC","VBD",",","``","UH",",","RB",",","WRB","PRP","VBP","DT","NN","WDT","JJ",",","PRP","VBP","RB","VB","TO","VB","PRP","DT","IN","CD","NN","."]
+,"chunks":["O","B-NP","I-NP","B-VP","I-VP","I-VP","O","B-INTJ","I-INTJ","O","B-ADVP","O","B-ADVP","B-NP","B-VP","B-NP","I-NP","B-NP","B-ADJP","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","B-PP","I-PP","B-NP","I-NP","O"]
+,"parents":[-2,2,3,-1,3,3,-2,-2,10,-2,3,-2,14,14,3,16,14,25,23,-2,23,23,23,16,25,23,25,28,25,30,28,-2]
+,"deprels":[null,"det","nsubj","root","cc","conj",null,null,"discourse",null,"dep",null,"advmod","nsubj","advcl","det","dobj","dobj","ccomp",null,"nsubj","aux","neg","rcmod","aux","xcomp","dobj","dep","prep","num","pobj",null]
+,"naryTree":"((ROOT (S ('' '') (NP (DT The) (NN farmer)) (VP (VBD laughed) (CC and) (VBD said) (, ,) (FRAG (INTJ (`` ``) (UH Well)) (, ,) (ADVP (RB naturally))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT a) (NN pig)) (SBAR (WHNP (WDT that)) (S (S (ADJP (JJ smart))) (, ,) (NP (PRP you)) (VP (VBP do) (RB n't) (VP (VB want) (S (VP (TO to) (VP (VB eat) (NP (PRP him)) (PP (DT all) (IN at) (NP (CD one) (NN time))))))))))))))) (. !))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eeb7\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"1fffc29d-2022-7efa-7539-00006657eebe\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+

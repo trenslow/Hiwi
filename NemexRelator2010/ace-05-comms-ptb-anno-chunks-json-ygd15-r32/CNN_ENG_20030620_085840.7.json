@@ -1,0 +1,290 @@
+{"words":["convicted","rapist","and","max","factor","heir","andrew","luster","is","back","in","california","."]
+,"lemmas":["convict","rapist","and","max","factor","heir","andrew","luster","be","back","in","californium","."]
+,"posTags":["VBN","NN","CC","NN","NN","NN","NN","NN","VBZ","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,8,1,7,7,7,7,1,-1,8,8,10,-2]
+,"deprels":["amod","nsubj","cc","nn","nn","nn","nn","conj","root","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (VBN convicted) (NN rapist)) (CC and) (NP (NN max) (NN factor) (NN heir) (NN andrew) (NN luster))) (VP (VBZ is) (ADVP (RB back)) (PP (IN in) (NP (NN california)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc18c\"},\"m2\":{\"start\":0,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc185\"}}]"
+,"relLabels":["ORG-AFF-Investor-Shareholder(Arg-2,Arg-1)"]}
+
+{"words":["convicted","rapist","and","max","factor","heir","andrew","luster","is","back","in","california","."]
+,"lemmas":["convict","rapist","and","max","factor","heir","andrew","luster","be","back","in","californium","."]
+,"posTags":["VBN","NN","CC","NN","NN","NN","NN","NN","VBZ","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,8,1,7,7,7,7,1,-1,8,8,10,-2]
+,"deprels":["amod","nsubj","cc","nn","nn","nn","nn","conj","root","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (VBN convicted) (NN rapist)) (CC and) (NP (NN max) (NN factor) (NN heir) (NN andrew) (NN luster))) (VP (VBZ is) (ADVP (RB back)) (PP (IN in) (NP (NN california)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc184\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc194\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["convicted","rapist","and","max","factor","heir","andrew","luster","is","back","in","california","."]
+,"lemmas":["convict","rapist","and","max","factor","heir","andrew","luster","be","back","in","californium","."]
+,"posTags":["VBN","NN","CC","NN","NN","NN","NN","NN","VBZ","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,8,1,7,7,7,7,1,-1,8,8,10,-2]
+,"deprels":["amod","nsubj","cc","nn","nn","nn","nn","conj","root","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (VBN convicted) (NN rapist)) (CC and) (NP (NN max) (NN factor) (NN heir) (NN andrew) (NN luster))) (VP (VBZ is) (ADVP (RB back)) (PP (IN in) (NP (NN california)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc183\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc18c\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["convicted","rapist","and","max","factor","heir","andrew","luster","is","back","in","california","."]
+,"lemmas":["convict","rapist","and","max","factor","heir","andrew","luster","be","back","in","californium","."]
+,"posTags":["VBN","NN","CC","NN","NN","NN","NN","NN","VBZ","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,8,1,7,7,7,7,1,-1,8,8,10,-2]
+,"deprels":["amod","nsubj","cc","nn","nn","nn","nn","conj","root","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (VBN convicted) (NN rapist)) (CC and) (NP (NN max) (NN factor) (NN heir) (NN andrew) (NN luster))) (VP (VBZ is) (ADVP (RB back)) (PP (IN in) (NP (NN california)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc183\"},\"m2\":{\"start\":0,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc185\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["convicted","rapist","and","max","factor","heir","andrew","luster","is","back","in","california","."]
+,"lemmas":["convict","rapist","and","max","factor","heir","andrew","luster","be","back","in","californium","."]
+,"posTags":["VBN","NN","CC","NN","NN","NN","NN","NN","VBZ","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,8,1,7,7,7,7,1,-1,8,8,10,-2]
+,"deprels":["amod","nsubj","cc","nn","nn","nn","nn","conj","root","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (VBN convicted) (NN rapist)) (CC and) (NP (NN max) (NN factor) (NN heir) (NN andrew) (NN luster))) (VP (VBZ is) (ADVP (RB back)) (PP (IN in) (NP (NN california)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc183\"},\"m2\":{\"start\":0,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc184\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["convicted","rapist","and","max","factor","heir","andrew","luster","is","back","in","california","."]
+,"lemmas":["convict","rapist","and","max","factor","heir","andrew","luster","be","back","in","californium","."]
+,"posTags":["VBN","NN","CC","NN","NN","NN","NN","NN","VBZ","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,8,1,7,7,7,7,1,-1,8,8,10,-2]
+,"deprels":["amod","nsubj","cc","nn","nn","nn","nn","conj","root","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (VBN convicted) (NN rapist)) (CC and) (NP (NN max) (NN factor) (NN heir) (NN andrew) (NN luster))) (VP (VBZ is) (ADVP (RB back)) (PP (IN in) (NP (NN california)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc183\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc194\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["convicted","rapist","and","max","factor","heir","andrew","luster","is","back","in","california","."]
+,"lemmas":["convict","rapist","and","max","factor","heir","andrew","luster","be","back","in","californium","."]
+,"posTags":["VBN","NN","CC","NN","NN","NN","NN","NN","VBZ","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,8,1,7,7,7,7,1,-1,8,8,10,-2]
+,"deprels":["amod","nsubj","cc","nn","nn","nn","nn","conj","root","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (VBN convicted) (NN rapist)) (CC and) (NP (NN max) (NN factor) (NN heir) (NN andrew) (NN luster))) (VP (VBZ is) (ADVP (RB back)) (PP (IN in) (NP (NN california)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc18c\"},\"m2\":{\"start\":0,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc184\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["convicted","rapist","and","max","factor","heir","andrew","luster","is","back","in","california","."]
+,"lemmas":["convict","rapist","and","max","factor","heir","andrew","luster","be","back","in","californium","."]
+,"posTags":["VBN","NN","CC","NN","NN","NN","NN","NN","VBZ","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,8,1,7,7,7,7,1,-1,8,8,10,-2]
+,"deprels":["amod","nsubj","cc","nn","nn","nn","nn","conj","root","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (VBN convicted) (NN rapist)) (CC and) (NP (NN max) (NN factor) (NN heir) (NN andrew) (NN luster))) (VP (VBZ is) (ADVP (RB back)) (PP (IN in) (NP (NN california)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc18c\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc194\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["convicted","rapist","and","max","factor","heir","andrew","luster","is","back","in","california","."]
+,"lemmas":["convict","rapist","and","max","factor","heir","andrew","luster","be","back","in","californium","."]
+,"posTags":["VBN","NN","CC","NN","NN","NN","NN","NN","VBZ","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,8,1,7,7,7,7,1,-1,8,8,10,-2]
+,"deprels":["amod","nsubj","cc","nn","nn","nn","nn","conj","root","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (VBN convicted) (NN rapist)) (CC and) (NP (NN max) (NN factor) (NN heir) (NN andrew) (NN luster))) (VP (VBZ is) (ADVP (RB back)) (PP (IN in) (NP (NN california)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc185\"},\"m2\":{\"start\":0,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc184\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["convicted","rapist","and","max","factor","heir","andrew","luster","is","back","in","california","."]
+,"lemmas":["convict","rapist","and","max","factor","heir","andrew","luster","be","back","in","californium","."]
+,"posTags":["VBN","NN","CC","NN","NN","NN","NN","NN","VBZ","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,8,1,7,7,7,7,1,-1,8,8,10,-2]
+,"deprels":["amod","nsubj","cc","nn","nn","nn","nn","conj","root","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (VBN convicted) (NN rapist)) (CC and) (NP (NN max) (NN factor) (NN heir) (NN andrew) (NN luster))) (VP (VBZ is) (ADVP (RB back)) (PP (IN in) (NP (NN california)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc185\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc194\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc192\"},\"m2\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc19a\"}}]"
+,"relLabels":["GEN-AFF-Citizen-Resident-Religion-Ethnicity(Arg-2,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc186\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc196\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc186\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc198\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc186\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc187\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc186\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc192\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc186\"},\"m2\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc19a\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc196\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc198\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc196\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc187\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc196\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc192\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc196\"},\"m2\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc19a\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc198\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc187\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc198\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc192\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc198\"},\"m2\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc19a\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc187\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc192\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","returned","to","los","angeles","yesterday","from","mexico","following","his","capture","tuesday","by","american","bounlty","hunters","."]
+,"lemmas":["luster","return","to","lo","angele","yesterday","from","mexico","follow","he","capture","tuesday","by","american","bounlty","hunter","."]
+,"posTags":["NN","VBD","TO","NNS","NNS","NN","IN","NN","VBG","PRP$","NN","NNP","IN","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,1,1,6,7,10,8,10,10,15,15,12,-2]
+,"deprels":["nsubj","root","prep","nn","pobj","tmod","prep","pobj","prep","poss","pobj","tmod","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD returned) (PP (TO to) (NP (NNS los) (NNS angeles))) (NP-TMP (NN yesterday)) (PP (IN from) (NP (NP (NN mexico)) (PP (VBG following) (NP (NP (PRP$ his) (NN capture)) (NP-TMP (NNP tuesday)) (PP (IN by) (NP (JJ american) (NN bounlty) (NNS hunters)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc187\"},\"m2\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc19a\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","skipped","bail","during","his","trial","in","january","for","raping","and","drugging","three","women","."]
+,"lemmas":["luster","skip","bail","during","he","trial","in","january","for","rape","and","drug","three","woman","."]
+,"posTags":["NN","VBD","NN","IN","PRP$","NN","IN","NNP","IN","VBG","CC","VBG","CD","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-PP","B-VP","I-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,1,5,3,5,6,1,8,9,9,13,9,-2]
+,"deprels":["nsubj","root","dobj","prep","poss","pobj","prep","pobj","prep","pcomp","cc","conj","num","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD skipped) (NP (NN bail)) (PP (IN during) (NP (NP (PRP$ his) (NN trial)) (PP (IN in) (NP (NNP january))))) (PP (IN for) (S (VP (VBG raping) (CC and) (VBG drugging) (NP (CD three) (NNS women)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc188\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc189\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","skipped","bail","during","his","trial","in","january","for","raping","and","drugging","three","women","."]
+,"lemmas":["luster","skip","bail","during","he","trial","in","january","for","rape","and","drug","three","woman","."]
+,"posTags":["NN","VBD","NN","IN","PRP$","NN","IN","NNP","IN","VBG","CC","VBG","CD","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-PP","B-VP","I-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,1,5,3,5,6,1,8,9,9,13,9,-2]
+,"deprels":["nsubj","root","dobj","prep","poss","pobj","prep","pobj","prep","pcomp","cc","conj","num","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD skipped) (NP (NN bail)) (PP (IN during) (NP (NP (PRP$ his) (NN trial)) (PP (IN in) (NP (NNP january))))) (PP (IN for) (S (VP (VBG raping) (CC and) (VBG drugging) (NP (CD three) (NNS women)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc188\"},\"m2\":{\"start\":12,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc190\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["luster","skipped","bail","during","his","trial","in","january","for","raping","and","drugging","three","women","."]
+,"lemmas":["luster","skip","bail","during","he","trial","in","january","for","rape","and","drug","three","woman","."]
+,"posTags":["NN","VBD","NN","IN","PRP$","NN","IN","NNP","IN","VBG","CC","VBG","CD","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-PP","B-VP","I-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,1,5,3,5,6,1,8,9,9,13,9,-2]
+,"deprels":["nsubj","root","dobj","prep","poss","pobj","prep","pobj","prep","pcomp","cc","conj","num","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN luster)) (VP (VBD skipped) (NP (NN bail)) (PP (IN during) (NP (NP (PRP$ his) (NN trial)) (PP (IN in) (NP (NNP january))))) (PP (IN for) (S (VP (VBG raping) (CC and) (VBG drugging) (NP (CD three) (NNS women)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc189\"},\"m2\":{\"start\":12,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc190\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["he","was","sentenced","in","an","sten","shah","to","124","years","in","prison","."]
+,"lemmas":["he","be","sentence","in","a","sten","shah","to","124","year","in","prison","."]
+,"posTags":["PRP","VBD","VBN","IN","DT","NN","NN","TO","CD","NNS","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,2,6,6,3,2,9,7,9,10,-2]
+,"deprels":["nsubjpass","auxpass","root","prep","det","nn","pobj","prep","num","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (VP (VBN sentenced) (PP (IN in) (NP (DT an) (NN sten) (NN shah))) (PP (TO to) (NP (NP (CD 124) (NNS years)) (PP (IN in) (NP (NN prison))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc18a\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"b3692d03-b3ce-7cfe-9672-0000070dc18e\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+

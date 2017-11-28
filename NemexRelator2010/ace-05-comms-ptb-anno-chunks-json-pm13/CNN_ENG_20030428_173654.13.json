@@ -1,0 +1,350 @@
+{"words":["another","six","executives","from","enron","could","be","charged","with","securities","fraud","and","other","crimes","."]
+,"lemmas":["another","six","executive","from","enron","could","be","charge","with","security","fraud","and","other","crime","."]
+,"posTags":["DT","CD","NNS","IN","NN","MD","VB","VBN","IN","NNS","NN","CC","JJ","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","O"]
+,"parents":[2,2,7,2,3,7,7,-1,7,10,8,10,13,10,-2]
+,"deprels":["det","num","nsubjpass","prep","pobj","aux","auxpass","root","prep","nn","pobj","cc","amod","conj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT another) (CD six) (NNS executives)) (PP (IN from) (NP (NN enron)))) (VP (MD could) (VP (VB be) (VP (VBN charged) (PP (IN with) (NP (NP (NNS securities) (NN fraud)) (CC and) (NP (JJ other) (NNS crimes))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626afd\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aeb\"}}]"
+,"relLabels":["ORG-AFF(Arg-1,Arg-2)"]}
+
+{"words":["federal","prosecutors","notified","the","former","employees","that","they","could","face","charges","as","early","as","this","week","."]
+,"lemmas":["federal","prosecutor","notify","the","former","employee","that","they","could","face","charge","as","early","as","this","week","."]
+,"posTags":["JJ","NNS","VBN","DT","JJ","NNS","IN","PRP","MD","VB","NNS","RB","RB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-SBAR","B-NP","B-VP","I-VP","B-NP","B-ADVP","I-ADVP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,5,5,2,9,9,9,2,9,12,9,9,15,13,-2]
+,"deprels":["amod","nsubj","root","det","amod","dep","mark","nsubj","aux","ccomp","dobj","advmod","advmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ federal) (NNS prosecutors)) (VP (VBN notified) (S (NP (DT the) (JJ former) (NNS employees))) (SBAR (IN that) (S (NP (PRP they)) (VP (MD could) (VP (VB face) (NP (NNS charges)) (ADVP (RB as) (RB early)) (PP (IN as) (NP (DT this) (NN week)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae6\"},\"m2\":{\"start\":3,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626afe\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["federal","prosecutors","notified","the","former","employees","that","they","could","face","charges","as","early","as","this","week","."]
+,"lemmas":["federal","prosecutor","notify","the","former","employee","that","they","could","face","charge","as","early","as","this","week","."]
+,"posTags":["JJ","NNS","VBN","DT","JJ","NNS","IN","PRP","MD","VB","NNS","RB","RB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-SBAR","B-NP","B-VP","I-VP","B-NP","B-ADVP","I-ADVP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,5,5,2,9,9,9,2,9,12,9,9,15,13,-2]
+,"deprels":["amod","nsubj","root","det","amod","dep","mark","nsubj","aux","ccomp","dobj","advmod","advmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ federal) (NNS prosecutors)) (VP (VBN notified) (S (NP (DT the) (JJ former) (NNS employees))) (SBAR (IN that) (S (NP (PRP they)) (VP (MD could) (VP (VB face) (NP (NNS charges)) (ADVP (RB as) (RB early)) (PP (IN as) (NP (DT this) (NN week)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae6\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aff\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["federal","prosecutors","notified","the","former","employees","that","they","could","face","charges","as","early","as","this","week","."]
+,"lemmas":["federal","prosecutor","notify","the","former","employee","that","they","could","face","charge","as","early","as","this","week","."]
+,"posTags":["JJ","NNS","VBN","DT","JJ","NNS","IN","PRP","MD","VB","NNS","RB","RB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","B-SBAR","B-NP","B-VP","I-VP","B-NP","B-ADVP","I-ADVP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,5,5,2,9,9,9,2,9,12,9,9,15,13,-2]
+,"deprels":["amod","nsubj","root","det","amod","dep","mark","nsubj","aux","ccomp","dobj","advmod","advmod","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ federal) (NNS prosecutors)) (VP (VBN notified) (S (NP (DT the) (JJ former) (NNS employees))) (SBAR (IN that) (S (NP (PRP they)) (VP (MD could) (VP (VB face) (NP (NNS charges)) (ADVP (RB as) (RB early)) (PP (IN as) (NP (DT this) (NN week)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626afe\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aff\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626b00\"},\"m2\":{\"start\":3,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626b00\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626b00\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626b00\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aec\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af2\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af2\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af2\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aec\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af2\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae4\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae4\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aec\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae4\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae4\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae8\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aec\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae8\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae8\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626ae8\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aec\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aec\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aec\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af8\"},\"m2\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af8\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","would","join","seven","other","executives","already","charged","abe","our","enron","corporate","america","score","board","sets","50","executives","now","charged","in","america","."]
+,"lemmas":["they","would","join","seven","other","executive","already","charge","abe","we","enron","corporate","america","score","board","set","50","executive","now","charge","in","america","."]
+,"posTags":["PRP","MD","VB","CD","JJ","NNS","RB","VBN","NN","PRP$","NN","JJ","NN","NN","NN","VBZ","CD","NNS","RB","VBN","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,5,5,2,7,5,7,14,14,14,14,14,15,8,17,15,19,17,19,20,-2]
+,"deprels":["nsubj","aux","root","num","amod","dobj","advmod","vmod","dobj","poss","nn","amod","nn","nn","nsubj","rcmod","num","dobj","advmod","vmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (VP (MD would) (VP (VB join) (NP (NP (CD seven) (JJ other) (NNS executives)) (VP (ADVP (RB already)) (VBN charged) (NP (NP (NN abe)) (SBAR (S (NP (PRP$ our) (NN enron) (JJ corporate) (NN america) (NN score) (NN board)) (VP (VBZ sets) (NP (NP (CD 50) (NNS executives)) (VP (ADVP (RB now)) (VBN charged) (PP (IN in) (NP (NN america))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af0\"},\"m2\":{\"start\":21,\"end\":22,\"head\":21,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["seven","of","them",",","as","i","said",",","at","enron","."]
+,"lemmas":["seven","of","they",",","as","i","say",",","at","enron","."]
+,"posTags":["CD","IN","PRP",",","IN","FW","VBD",",","IN","NN","."]
+,"chunks":["B-NP","B-PP","B-NP","O","B-PP","B-NP","B-VP","O","B-PP","B-NP","O"]
+,"parents":[6,0,1,-2,0,4,-1,-2,6,8,-2]
+,"deprels":["nsubj","prep","pobj",null,"prep","pobj","root",null,"prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD seven)) (PP (IN of) (NP (PRP them))) (, ,) (PP (IN as) (NP (FW i)))) (VP (VBD said) (, ,) (PP (IN at) (NP (NN enron)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af3\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aed\"}}]"
+,"relLabels":["ORG-AFF(Arg-1,Arg-2)"]}
+
+{"words":["seven","of","them",",","as","i","said",",","at","enron","."]
+,"lemmas":["seven","of","they",",","as","i","say",",","at","enron","."]
+,"posTags":["CD","IN","PRP",",","IN","FW","VBD",",","IN","NN","."]
+,"chunks":["B-NP","B-PP","B-NP","O","B-PP","B-NP","B-VP","O","B-PP","B-NP","O"]
+,"parents":[6,0,1,-2,0,4,-1,-2,6,8,-2]
+,"deprels":["nsubj","prep","pobj",null,"prep","pobj","root",null,"prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD seven)) (PP (IN of) (NP (PRP them))) (, ,) (PP (IN as) (NP (FW i)))) (VP (VBD said) (, ,) (PP (IN at) (NP (NN enron)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af3\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aef\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["seven","of","them",",","as","i","said",",","at","enron","."]
+,"lemmas":["seven","of","they",",","as","i","say",",","at","enron","."]
+,"posTags":["CD","IN","PRP",",","IN","FW","VBD",",","IN","NN","."]
+,"chunks":["B-NP","B-PP","B-NP","O","B-PP","B-NP","B-VP","O","B-PP","B-NP","O"]
+,"parents":[6,0,1,-2,0,4,-1,-2,6,8,-2]
+,"deprels":["nsubj","prep","pobj",null,"prep","pobj","root",null,"prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD seven)) (PP (IN of) (NP (PRP them))) (, ,) (PP (IN as) (NP (FW i)))) (VP (VBD said) (, ,) (PP (IN at) (NP (NN enron)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af3\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626b02\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["seven","of","them",",","as","i","said",",","at","enron","."]
+,"lemmas":["seven","of","they",",","as","i","say",",","at","enron","."]
+,"posTags":["CD","IN","PRP",",","IN","FW","VBD",",","IN","NN","."]
+,"chunks":["B-NP","B-PP","B-NP","O","B-PP","B-NP","B-VP","O","B-PP","B-NP","O"]
+,"parents":[6,0,1,-2,0,4,-1,-2,6,8,-2]
+,"deprels":["nsubj","prep","pobj",null,"prep","pobj","root",null,"prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD seven)) (PP (IN of) (NP (PRP them))) (, ,) (PP (IN as) (NP (FW i)))) (VP (VBD said) (, ,) (PP (IN at) (NP (NN enron)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aef\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626b02\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["seven","of","them",",","as","i","said",",","at","enron","."]
+,"lemmas":["seven","of","they",",","as","i","say",",","at","enron","."]
+,"posTags":["CD","IN","PRP",",","IN","FW","VBD",",","IN","NN","."]
+,"chunks":["B-NP","B-PP","B-NP","O","B-PP","B-NP","B-VP","O","B-PP","B-NP","O"]
+,"parents":[6,0,1,-2,0,4,-1,-2,6,8,-2]
+,"deprels":["nsubj","prep","pobj",null,"prep","pobj","root",null,"prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD seven)) (PP (IN of) (NP (PRP them))) (, ,) (PP (IN as) (NP (FW i)))) (VP (VBD said) (, ,) (PP (IN at) (NP (NN enron)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aef\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aed\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["seven","of","them",",","as","i","said",",","at","enron","."]
+,"lemmas":["seven","of","they",",","as","i","say",",","at","enron","."]
+,"posTags":["CD","IN","PRP",",","IN","FW","VBD",",","IN","NN","."]
+,"chunks":["B-NP","B-PP","B-NP","O","B-PP","B-NP","B-VP","O","B-PP","B-NP","O"]
+,"parents":[6,0,1,-2,0,4,-1,-2,6,8,-2]
+,"deprels":["nsubj","prep","pobj",null,"prep","pobj","root",null,"prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD seven)) (PP (IN of) (NP (PRP them))) (, ,) (PP (IN as) (NP (FW i)))) (VP (VBD said) (, ,) (PP (IN at) (NP (NN enron)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626b02\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626aed\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["no","one",",","no","one","is","sent","to","prison","."]
+,"lemmas":["no","one",",","no","one","be","send","to","prison","."]
+,"posTags":["DT","NN",",","DT","NN","VBZ","VBN","TO","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[1,6,-2,4,1,6,-1,6,7,-2]
+,"deprels":["neg","nsubjpass",null,"neg","appos","auxpass","root","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT no) (NN one)) (, ,) (NP (DT no) (NN one))) (VP (VBZ is) (VP (VBN sent) (PP (TO to) (NP (NN prison))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af6\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["no","one",",","no","one","is","sent","to","prison","."]
+,"lemmas":["no","one",",","no","one","be","send","to","prison","."]
+,"posTags":["DT","NN",",","DT","NN","VBZ","VBN","TO","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[1,6,-2,4,1,6,-1,6,7,-2]
+,"deprels":["neg","nsubjpass",null,"neg","appos","auxpass","root","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT no) (NN one)) (, ,) (NP (DT no) (NN one))) (VP (VBZ is) (VP (VBN sent) (PP (TO to) (NP (NN prison))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af6\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626afb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["no","one",",","no","one","is","sent","to","prison","."]
+,"lemmas":["no","one",",","no","one","be","send","to","prison","."]
+,"posTags":["DT","NN",",","DT","NN","VBZ","VBN","TO","NN","."]
+,"chunks":["B-NP","I-NP","O","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","O"]
+,"parents":[1,6,-2,4,1,6,-1,6,7,-2]
+,"deprels":["neg","nsubjpass",null,"neg","appos","auxpass","root","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT no) (NN one)) (, ,) (NP (DT no) (NN one))) (VP (VBZ is) (VP (VBN sent) (PP (TO to) (NP (NN prison))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626af5\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"2985cbff-5b8d-451a-49b0-000074626afb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

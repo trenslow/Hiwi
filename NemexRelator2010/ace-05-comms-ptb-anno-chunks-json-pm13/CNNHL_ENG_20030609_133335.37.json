@@ -1,0 +1,880 @@
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742e8\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742ec\"}}]"
+,"relLabels":["PER-SOC(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432d\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742ec\"}}]"
+,"relLabels":["GEN-AFF(Arg-2,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":21,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f1\"},\"m2\":{\"start\":21,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74313\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742e8\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74331\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742e8\"},\"m2\":{\"start\":7,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74323\"}}]"
+,"relLabels":["PER-SOC(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7430e\"},\"m2\":{\"start\":21,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74313\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432d\"},\"m2\":{\"start\":7,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74323\"}}]"
+,"relLabels":["GEN-AFF(Arg-2,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742e8\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432d\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74331\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432d\"},\"m2\":{\"start\":18,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7430e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742ec\"},\"m2\":{\"start\":7,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74323\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742ec\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74331\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742ec\"},\"m2\":{\"start\":18,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7430e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742ec\"},\"m2\":{\"start\":21,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742ec\"},\"m2\":{\"start\":21,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74313\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74323\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74331\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74323\"},\"m2\":{\"start\":18,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7430e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74323\"},\"m2\":{\"start\":21,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74323\"},\"m2\":{\"start\":21,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74313\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74331\"},\"m2\":{\"start\":18,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7430e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74331\"},\"m2\":{\"start\":21,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74331\"},\"m2\":{\"start\":21,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74313\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["there","was","a","time","when","offspring","of","london","'s","rich","and","famous","were","rolled","through","hyde","park","by","black-clad","nannies","pushing","silver","cross","prams","."]
+,"lemmas":["there","be","a","time","when","offspring","of","london","'s","rich","and","famous","be","roll","through","hyde","park","by","black-clad","nanny","push","silver","cross","pram","."]
+,"posTags":["EX","VBD","DT","NN","WRB","NN","IN","NNP","POS","JJ","CC","JJ","VBD","VBN","IN","NN","NN","IN","JJ","NNS","VBG","NN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-ADVP","B-NP","B-PP","B-NP","B-NP","B-ADJP","I-ADJP","I-ADJP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,3,1,13,13,5,6,7,5,9,9,13,3,13,16,14,13,19,17,19,23,23,20,-2]
+,"deprels":["expl","root","det","nsubj","advmod","nsubjpass","prep","pobj","possessive","amod","cc","conj","auxpass","rcmod","prep","nn","pobj","prep","amod","pobj","vmod","nn","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (NP (NN offspring)) (PP (IN of) (NP (NNP london) (POS 's))) (ADJP (JJ rich) (CC and) (JJ famous))) (VP (VBD were) (VP (VBN rolled) (PP (IN through) (NP (NN hyde) (NN park))) (PP (IN by) (NP (NP (JJ black-clad) (NNS nannies)) (VP (VBG pushing) (NP (NN silver) (NN cross) (NNS prams))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7430e\"},\"m2\":{\"start\":21,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","high-end","baby","carriage","company","went","bust","last","year","."]
+,"lemmas":["the","high-end","baby","carriage","company","go","bust","last","year","."]
+,"posTags":["DT","JJ","NN","NN","NN","VBD","NN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,5,8,5,-2]
+,"deprels":["det","amod","nn","nn","nsubj","root","dobj","amod","tmod",null]
+,"naryTree":"((ROOT (S (NP (DT the) (JJ high-end) (NN baby) (NN carriage) (NN company)) (VP (VBD went) (NP (NN bust)) (NP-TMP (JJ last) (NN year))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74325\"},\"m2\":{\"start\":2,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74314\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["the","high-end","baby","carriage","company","went","bust","last","year","."]
+,"lemmas":["the","high-end","baby","carriage","company","go","bust","last","year","."]
+,"posTags":["DT","JJ","NN","NN","NN","VBD","NN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,5,8,5,-2]
+,"deprels":["det","amod","nn","nn","nsubj","root","dobj","amod","tmod",null]
+,"naryTree":"((ROOT (S (NP (DT the) (JJ high-end) (NN baby) (NN carriage) (NN company)) (VP (VBD went) (NP (NN bust)) (NP-TMP (JJ last) (NN year))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74314\"},\"m2\":{\"start\":0,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f2\"}}]"
+,"relLabels":["ART(Arg-2,Arg-1)"]}
+
+{"words":["the","high-end","baby","carriage","company","went","bust","last","year","."]
+,"lemmas":["the","high-end","baby","carriage","company","go","bust","last","year","."]
+,"posTags":["DT","JJ","NN","NN","NN","VBD","NN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[4,4,4,4,5,-1,5,8,5,-2]
+,"deprels":["det","amod","nn","nn","nsubj","root","dobj","amod","tmod",null]
+,"naryTree":"((ROOT (S (NP (DT the) (JJ high-end) (NN baby) (NN carriage) (NN company)) (VP (VBD went) (NP (NN bust)) (NP-TMP (JJ last) (NN year))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74325\"},\"m2\":{\"start\":0,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"lemmas":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"posTags":["CC","DT","NN","CC","CD","NN","POS","NN","VBP","VBN","DT","NN","NN","NN","RB","IN","DT","NN","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[9,2,9,2,5,7,5,2,9,-1,13,13,13,9,9,9,18,18,15,-2]
+,"deprels":["cc","det","nsubj","cc","num","poss","possessive","conj","aux","root","det","nn","nn","dobj","advmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (CC but) (NP (NP (DT a) (NN toymaker)) (CC and) (NP (NP (CD one) (NN man) (POS 's)) (NN dream))) (VP (VBP have) (VP (VBN put) (NP (DT the) (NN silver) (NN cross) (NN pram)) (ADVP (RB back)) (PP (IN on) (NP (DT the) (NN stroller) (NN circuit))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74321\"},\"m2\":{\"start\":10,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74315\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"lemmas":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"posTags":["CC","DT","NN","CC","CD","NN","POS","NN","VBP","VBN","DT","NN","NN","NN","RB","IN","DT","NN","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[9,2,9,2,5,7,5,2,9,-1,13,13,13,9,9,9,18,18,15,-2]
+,"deprels":["cc","det","nsubj","cc","num","poss","possessive","conj","aux","root","det","nn","nn","dobj","advmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (CC but) (NP (NP (DT a) (NN toymaker)) (CC and) (NP (NP (CD one) (NN man) (POS 's)) (NN dream))) (VP (VBP have) (VP (VBN put) (NP (DT the) (NN silver) (NN cross) (NN pram)) (ADVP (RB back)) (PP (IN on) (NP (DT the) (NN stroller) (NN circuit))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432a\"},\"m2\":{\"start\":10,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74315\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"lemmas":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"posTags":["CC","DT","NN","CC","CD","NN","POS","NN","VBP","VBN","DT","NN","NN","NN","RB","IN","DT","NN","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[9,2,9,2,5,7,5,2,9,-1,13,13,13,9,9,9,18,18,15,-2]
+,"deprels":["cc","det","nsubj","cc","num","poss","possessive","conj","aux","root","det","nn","nn","dobj","advmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (CC but) (NP (NP (DT a) (NN toymaker)) (CC and) (NP (NP (CD one) (NN man) (POS 's)) (NN dream))) (VP (VBP have) (VP (VBN put) (NP (DT the) (NN silver) (NN cross) (NN pram)) (ADVP (RB back)) (PP (IN on) (NP (DT the) (NN stroller) (NN circuit))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f3\"},\"m2\":{\"start\":10,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74315\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"lemmas":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"posTags":["CC","DT","NN","CC","CD","NN","POS","NN","VBP","VBN","DT","NN","NN","NN","RB","IN","DT","NN","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[9,2,9,2,5,7,5,2,9,-1,13,13,13,9,9,9,18,18,15,-2]
+,"deprels":["cc","det","nsubj","cc","num","poss","possessive","conj","aux","root","det","nn","nn","dobj","advmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (CC but) (NP (NP (DT a) (NN toymaker)) (CC and) (NP (NP (CD one) (NN man) (POS 's)) (NN dream))) (VP (VBP have) (VP (VBN put) (NP (DT the) (NN silver) (NN cross) (NN pram)) (ADVP (RB back)) (PP (IN on) (NP (DT the) (NN stroller) (NN circuit))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432a\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74321\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"lemmas":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"posTags":["CC","DT","NN","CC","CD","NN","POS","NN","VBP","VBN","DT","NN","NN","NN","RB","IN","DT","NN","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[9,2,9,2,5,7,5,2,9,-1,13,13,13,9,9,9,18,18,15,-2]
+,"deprels":["cc","det","nsubj","cc","num","poss","possessive","conj","aux","root","det","nn","nn","dobj","advmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (CC but) (NP (NP (DT a) (NN toymaker)) (CC and) (NP (NP (CD one) (NN man) (POS 's)) (NN dream))) (VP (VBP have) (VP (VBN put) (NP (DT the) (NN silver) (NN cross) (NN pram)) (ADVP (RB back)) (PP (IN on) (NP (DT the) (NN stroller) (NN circuit))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432a\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"lemmas":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"posTags":["CC","DT","NN","CC","CD","NN","POS","NN","VBP","VBN","DT","NN","NN","NN","RB","IN","DT","NN","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[9,2,9,2,5,7,5,2,9,-1,13,13,13,9,9,9,18,18,15,-2]
+,"deprels":["cc","det","nsubj","cc","num","poss","possessive","conj","aux","root","det","nn","nn","dobj","advmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (CC but) (NP (NP (DT a) (NN toymaker)) (CC and) (NP (NP (CD one) (NN man) (POS 's)) (NN dream))) (VP (VBP have) (VP (VBN put) (NP (DT the) (NN silver) (NN cross) (NN pram)) (ADVP (RB back)) (PP (IN on) (NP (DT the) (NN stroller) (NN circuit))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432a\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74317\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"lemmas":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"posTags":["CC","DT","NN","CC","CD","NN","POS","NN","VBP","VBN","DT","NN","NN","NN","RB","IN","DT","NN","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[9,2,9,2,5,7,5,2,9,-1,13,13,13,9,9,9,18,18,15,-2]
+,"deprels":["cc","det","nsubj","cc","num","poss","possessive","conj","aux","root","det","nn","nn","dobj","advmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (CC but) (NP (NP (DT a) (NN toymaker)) (CC and) (NP (NP (CD one) (NN man) (POS 's)) (NN dream))) (VP (VBP have) (VP (VBN put) (NP (DT the) (NN silver) (NN cross) (NN pram)) (ADVP (RB back)) (PP (IN on) (NP (DT the) (NN stroller) (NN circuit))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74321\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"lemmas":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"posTags":["CC","DT","NN","CC","CD","NN","POS","NN","VBP","VBN","DT","NN","NN","NN","RB","IN","DT","NN","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[9,2,9,2,5,7,5,2,9,-1,13,13,13,9,9,9,18,18,15,-2]
+,"deprels":["cc","det","nsubj","cc","num","poss","possessive","conj","aux","root","det","nn","nn","dobj","advmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (CC but) (NP (NP (DT a) (NN toymaker)) (CC and) (NP (NP (CD one) (NN man) (POS 's)) (NN dream))) (VP (VBP have) (VP (VBN put) (NP (DT the) (NN silver) (NN cross) (NN pram)) (ADVP (RB back)) (PP (IN on) (NP (DT the) (NN stroller) (NN circuit))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74321\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74317\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"lemmas":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"posTags":["CC","DT","NN","CC","CD","NN","POS","NN","VBP","VBN","DT","NN","NN","NN","RB","IN","DT","NN","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[9,2,9,2,5,7,5,2,9,-1,13,13,13,9,9,9,18,18,15,-2]
+,"deprels":["cc","det","nsubj","cc","num","poss","possessive","conj","aux","root","det","nn","nn","dobj","advmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (CC but) (NP (NP (DT a) (NN toymaker)) (CC and) (NP (NP (CD one) (NN man) (POS 's)) (NN dream))) (VP (VBP have) (VP (VBN put) (NP (DT the) (NN silver) (NN cross) (NN pram)) (ADVP (RB back)) (PP (IN on) (NP (DT the) (NN stroller) (NN circuit))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f3\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74317\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"lemmas":["but","a","toymaker","and","one","man","'s","dream","have","put","the","silver","cross","pram","back","on","the","stroller","circuit","."]
+,"posTags":["CC","DT","NN","CC","CD","NN","POS","NN","VBP","VBN","DT","NN","NN","NN","RB","IN","DT","NN","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[9,2,9,2,5,7,5,2,9,-1,13,13,13,9,9,9,18,18,15,-2]
+,"deprels":["cc","det","nsubj","cc","num","poss","possessive","conj","aux","root","det","nn","nn","dobj","advmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (CC but) (NP (NP (DT a) (NN toymaker)) (CC and) (NP (NP (CD one) (NN man) (POS 's)) (NN dream))) (VP (VBP have) (VP (VBN put) (NP (DT the) (NN silver) (NN cross) (NN pram)) (ADVP (RB back)) (PP (IN on) (NP (DT the) (NN stroller) (NN circuit))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74315\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74317\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["reporter",":","a","well-heeled","baby","like","princess",",","seen","."]
+,"lemmas":["reporter",":","a","well-heeled","baby","like","princess",",","see","."]
+,"posTags":["NN",":","DT","JJ","NN","IN","NN",",","VBN","."]
+,"chunks":["B-NP","O","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","O"]
+,"parents":[-1,-2,4,4,0,4,5,-2,4,-2]
+,"deprels":["root",null,"det","amod","dep","prep","pobj",null,"vmod",null]
+,"naryTree":"((ROOT (NP (NP (NN reporter)) (: :) (NP (NP (DT a) (JJ well-heeled) (NN baby)) (PP (IN like) (NP (NN princess))) (, ,) (VP (VBN seen))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7430b\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7430a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","distinctive","karbages","stroll","tlued","london","'s","fashionable","parks","way","nanny","at","the","ready","."]
+,"lemmas":["the","distinctive","karbage","stroll","tlue","london","'s","fashionable","park","way","nanny","at","the","ready","."]
+,"posTags":["DT","JJ","NNS","VBP","VBN","NNP","POS","JJ","NNS","NN","NN","IN","DT","JJ","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,10,5,10,10,10,4,4,13,11,-2]
+,"deprels":["det","amod","nsubj","root","dep","poss","possessive","amod","nn","nn","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (JJ distinctive) (NNS karbages)) (VP (VBP stroll) (VP (VBN tlued) (NP (NP (NNP london) (POS 's)) (JJ fashionable) (NNS parks) (NN way) (NN nanny)) (PP (IN at) (NP (DT the) (JJ ready))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432c\"},\"m2\":{\"start\":5,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742ea\"}}]"
+,"relLabels":["PART-WHOLE(Arg-2,Arg-1)"]}
+
+{"words":["the","distinctive","karbages","stroll","tlued","london","'s","fashionable","parks","way","nanny","at","the","ready","."]
+,"lemmas":["the","distinctive","karbage","stroll","tlue","london","'s","fashionable","park","way","nanny","at","the","ready","."]
+,"posTags":["DT","JJ","NNS","VBP","VBN","NNP","POS","JJ","NNS","NN","NN","IN","DT","JJ","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,10,5,10,10,10,4,4,13,11,-2]
+,"deprels":["det","amod","nsubj","root","dep","poss","possessive","amod","nn","nn","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (JJ distinctive) (NNS karbages)) (VP (VBP stroll) (VP (VBN tlued) (NP (NP (NNP london) (POS 's)) (JJ fashionable) (NNS parks) (NN way) (NN nanny)) (PP (IN at) (NP (DT the) (JJ ready))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742ea\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7430d\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["the","distinctive","karbages","stroll","tlued","london","'s","fashionable","parks","way","nanny","at","the","ready","."]
+,"lemmas":["the","distinctive","karbage","stroll","tlue","london","'s","fashionable","park","way","nanny","at","the","ready","."]
+,"posTags":["DT","JJ","NNS","VBP","VBN","NNP","POS","JJ","NNS","NN","NN","IN","DT","JJ","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,10,5,10,10,10,4,4,13,11,-2]
+,"deprels":["det","amod","nsubj","root","dep","poss","possessive","amod","nn","nn","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (JJ distinctive) (NNS karbages)) (VP (VBP stroll) (VP (VBN tlued) (NP (NP (NNP london) (POS 's)) (JJ fashionable) (NNS parks) (NN way) (NN nanny)) (PP (IN at) (NP (DT the) (JJ ready))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74310\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","distinctive","karbages","stroll","tlued","london","'s","fashionable","parks","way","nanny","at","the","ready","."]
+,"lemmas":["the","distinctive","karbage","stroll","tlue","london","'s","fashionable","park","way","nanny","at","the","ready","."]
+,"posTags":["DT","JJ","NNS","VBP","VBN","NNP","POS","JJ","NNS","NN","NN","IN","DT","JJ","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,10,5,10,10,10,4,4,13,11,-2]
+,"deprels":["det","amod","nsubj","root","dep","poss","possessive","amod","nn","nn","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (JJ distinctive) (NNS karbages)) (VP (VBP stroll) (VP (VBN tlued) (NP (NP (NNP london) (POS 's)) (JJ fashionable) (NNS parks) (NN way) (NN nanny)) (PP (IN at) (NP (DT the) (JJ ready))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74310\"},\"m2\":{\"start\":5,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742ea\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","distinctive","karbages","stroll","tlued","london","'s","fashionable","parks","way","nanny","at","the","ready","."]
+,"lemmas":["the","distinctive","karbage","stroll","tlue","london","'s","fashionable","park","way","nanny","at","the","ready","."]
+,"posTags":["DT","JJ","NNS","VBP","VBN","NNP","POS","JJ","NNS","NN","NN","IN","DT","JJ","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,10,5,10,10,10,4,4,13,11,-2]
+,"deprels":["det","amod","nsubj","root","dep","poss","possessive","amod","nn","nn","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (JJ distinctive) (NNS karbages)) (VP (VBP stroll) (VP (VBN tlued) (NP (NP (NNP london) (POS 's)) (JJ fashionable) (NNS parks) (NN way) (NN nanny)) (PP (IN at) (NP (DT the) (JJ ready))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74310\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7430d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","distinctive","karbages","stroll","tlued","london","'s","fashionable","parks","way","nanny","at","the","ready","."]
+,"lemmas":["the","distinctive","karbage","stroll","tlue","london","'s","fashionable","park","way","nanny","at","the","ready","."]
+,"posTags":["DT","JJ","NNS","VBP","VBN","NNP","POS","JJ","NNS","NN","NN","IN","DT","JJ","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,10,5,10,10,10,4,4,13,11,-2]
+,"deprels":["det","amod","nsubj","root","dep","poss","possessive","amod","nn","nn","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (JJ distinctive) (NNS karbages)) (VP (VBP stroll) (VP (VBN tlued) (NP (NP (NNP london) (POS 's)) (JJ fashionable) (NNS parks) (NN way) (NN nanny)) (PP (IN at) (NP (DT the) (JJ ready))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432c\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7430d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["a","toy","company","bought","the","silver","cross","name","so","they","could","make","toy","versions","."]
+,"lemmas":["a","toy","company","buy","the","silver","cross","name","so","they","could","make","toy","version","."]
+,"posTags":["DT","NN","NN","VBD","DT","NN","NN","NN","IN","PRP","MD","VB","NN","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","B-SBAR","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,7,7,7,3,11,11,11,3,13,11,-2]
+,"deprels":["det","nn","nsubj","root","det","nn","nn","dobj","mark","nsubj","aux","advcl","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN toy) (NN company)) (VP (VBD bought) (NP (DT the) (NN silver) (NN cross) (NN name)) (SBAR (IN so) (S (NP (PRP they)) (VP (MD could) (VP (VB make) (NP (NN toy) (NNS versions))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74327\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742ef\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["a","toy","company","bought","the","silver","cross","name","so","they","could","make","toy","versions","."]
+,"lemmas":["a","toy","company","buy","the","silver","cross","name","so","they","could","make","toy","version","."]
+,"posTags":["DT","NN","NN","VBD","DT","NN","NN","NN","IN","PRP","MD","VB","NN","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","B-SBAR","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,7,7,7,3,11,11,11,3,13,11,-2]
+,"deprels":["det","nn","nsubj","root","det","nn","nn","dobj","mark","nsubj","aux","advcl","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN toy) (NN company)) (VP (VBD bought) (NP (DT the) (NN silver) (NN cross) (NN name)) (SBAR (IN so) (S (NP (PRP they)) (VP (MD could) (VP (VB make) (NP (NN toy) (NNS versions))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74327\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74328\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["a","toy","company","bought","the","silver","cross","name","so","they","could","make","toy","versions","."]
+,"lemmas":["a","toy","company","buy","the","silver","cross","name","so","they","could","make","toy","version","."]
+,"posTags":["DT","NN","NN","VBD","DT","NN","NN","NN","IN","PRP","MD","VB","NN","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","B-SBAR","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,7,7,7,3,11,11,11,3,13,11,-2]
+,"deprels":["det","nn","nsubj","root","det","nn","nn","dobj","mark","nsubj","aux","advcl","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN toy) (NN company)) (VP (VBD bought) (NP (DT the) (NN silver) (NN cross) (NN name)) (SBAR (IN so) (S (NP (PRP they)) (VP (MD could) (VP (VB make) (NP (NN toy) (NNS versions))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742ef\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74328\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["then","one","former","worker","persuaded","the","company","to","let","him","make","the","real","ones","again","."]
+,"lemmas":["then","one","former","worker","persuade","the","company","to","let","he","make","the","real","one","again","."]
+,"posTags":["RB","CD","JJ","NN","VBD","DT","NN","TO","VB","PRP","VB","DT","JJ","NNS","RB","."]
+,"chunks":["B-ADVP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-ADVP","O"]
+,"parents":[4,3,3,4,-1,6,4,8,6,10,8,13,13,10,10,-2]
+,"deprels":["advmod","num","amod","nsubj","root","det","dobj","aux","vmod","nsubj","ccomp","det","amod","dobj","advmod",null]
+,"naryTree":"((ROOT (S (ADVP (RB then)) (NP (CD one) (JJ former) (NN worker)) (VP (VBD persuaded) (NP (DT the) (NN company) (S (VP (TO to) (VP (VB let) (S (NP (PRP him)) (VP (VB make) (NP (DT the) (JJ real) (NNS ones)) (ADVP (RB again))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431a\"},\"m2\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74311\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["then","one","former","worker","persuaded","the","company","to","let","him","make","the","real","ones","again","."]
+,"lemmas":["then","one","former","worker","persuade","the","company","to","let","he","make","the","real","one","again","."]
+,"posTags":["RB","CD","JJ","NN","VBD","DT","NN","TO","VB","PRP","VB","DT","JJ","NNS","RB","."]
+,"chunks":["B-ADVP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-ADVP","O"]
+,"parents":[4,3,3,4,-1,6,4,8,6,10,8,13,13,10,10,-2]
+,"deprels":["advmod","num","amod","nsubj","root","det","dobj","aux","vmod","nsubj","ccomp","det","amod","dobj","advmod",null]
+,"naryTree":"((ROOT (S (ADVP (RB then)) (NP (CD one) (JJ former) (NN worker)) (VP (VBD persuaded) (NP (DT the) (NN company) (S (VP (TO to) (VP (VB let) (S (NP (PRP him)) (VP (VB make) (NP (DT the) (JJ real) (NNS ones)) (ADVP (RB again))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74319\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74329\"}}]"
+,"relLabels":["ORG-AFF(Arg-1,Arg-2)"]}
+
+{"words":["then","one","former","worker","persuaded","the","company","to","let","him","make","the","real","ones","again","."]
+,"lemmas":["then","one","former","worker","persuade","the","company","to","let","he","make","the","real","one","again","."]
+,"posTags":["RB","CD","JJ","NN","VBD","DT","NN","TO","VB","PRP","VB","DT","JJ","NNS","RB","."]
+,"chunks":["B-ADVP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-ADVP","O"]
+,"parents":[4,3,3,4,-1,6,4,8,6,10,8,13,13,10,10,-2]
+,"deprels":["advmod","num","amod","nsubj","root","det","dobj","aux","vmod","nsubj","ccomp","det","amod","dobj","advmod",null]
+,"naryTree":"((ROOT (S (ADVP (RB then)) (NP (CD one) (JJ former) (NN worker)) (VP (VBD persuaded) (NP (DT the) (NN company) (S (VP (TO to) (VP (VB let) (S (NP (PRP him)) (VP (VB make) (NP (DT the) (JJ real) (NNS ones)) (ADVP (RB again))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74319\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["then","one","former","worker","persuaded","the","company","to","let","him","make","the","real","ones","again","."]
+,"lemmas":["then","one","former","worker","persuade","the","company","to","let","he","make","the","real","one","again","."]
+,"posTags":["RB","CD","JJ","NN","VBD","DT","NN","TO","VB","PRP","VB","DT","JJ","NNS","RB","."]
+,"chunks":["B-ADVP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-ADVP","O"]
+,"parents":[4,3,3,4,-1,6,4,8,6,10,8,13,13,10,10,-2]
+,"deprels":["advmod","num","amod","nsubj","root","det","dobj","aux","vmod","nsubj","ccomp","det","amod","dobj","advmod",null]
+,"naryTree":"((ROOT (S (ADVP (RB then)) (NP (CD one) (JJ former) (NN worker)) (VP (VBD persuaded) (NP (DT the) (NN company) (S (VP (TO to) (VP (VB let) (S (NP (PRP him)) (VP (VB make) (NP (DT the) (JJ real) (NNS ones)) (ADVP (RB again))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74319\"},\"m2\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74311\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["then","one","former","worker","persuaded","the","company","to","let","him","make","the","real","ones","again","."]
+,"lemmas":["then","one","former","worker","persuade","the","company","to","let","he","make","the","real","one","again","."]
+,"posTags":["RB","CD","JJ","NN","VBD","DT","NN","TO","VB","PRP","VB","DT","JJ","NNS","RB","."]
+,"chunks":["B-ADVP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-ADVP","O"]
+,"parents":[4,3,3,4,-1,6,4,8,6,10,8,13,13,10,10,-2]
+,"deprels":["advmod","num","amod","nsubj","root","det","dobj","aux","vmod","nsubj","ccomp","det","amod","dobj","advmod",null]
+,"naryTree":"((ROOT (S (ADVP (RB then)) (NP (CD one) (JJ former) (NN worker)) (VP (VBD persuaded) (NP (DT the) (NN company) (S (VP (TO to) (VP (VB let) (S (NP (PRP him)) (VP (VB make) (NP (DT the) (JJ real) (NNS ones)) (ADVP (RB again))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74329\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["then","one","former","worker","persuaded","the","company","to","let","him","make","the","real","ones","again","."]
+,"lemmas":["then","one","former","worker","persuade","the","company","to","let","he","make","the","real","one","again","."]
+,"posTags":["RB","CD","JJ","NN","VBD","DT","NN","TO","VB","PRP","VB","DT","JJ","NNS","RB","."]
+,"chunks":["B-ADVP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-NP","B-VP","B-NP","I-NP","I-NP","B-ADVP","O"]
+,"parents":[4,3,3,4,-1,6,4,8,6,10,8,13,13,10,10,-2]
+,"deprels":["advmod","num","amod","nsubj","root","det","dobj","aux","vmod","nsubj","ccomp","det","amod","dobj","advmod",null]
+,"naryTree":"((ROOT (S (ADVP (RB then)) (NP (CD one) (JJ former) (NN worker)) (VP (VBD persuaded) (NP (DT the) (NN company) (S (VP (TO to) (VP (VB let) (S (NP (PRP him)) (VP (VB make) (NP (DT the) (JJ real) (NNS ones)) (ADVP (RB again))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74329\"},\"m2\":{\"start\":11,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74311\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","went","away","for","two","weeks",",","reflected","on","my","future","and","feel","i","could","n't","convince","myself","until","it","was","over","."]
+,"lemmas":["i","go","away","for","two","week",",","reflect","on","my","future","and","feel","i","could","not","convince","myself","until","it","be","over","."]
+,"posTags":["LS","VBD","RB","IN","CD","NNS",",","VBN","IN","PRP$","NN","CC","VB","FW","MD","RB","VB","PRP","IN","PRP","VBD","RB","."]
+,"chunks":["O","B-VP","B-ADVP","B-PP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O","B-VP","B-NP","B-VP","I-VP","I-VP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","O"]
+,"parents":[1,-1,1,1,5,3,-2,5,7,10,8,7,7,16,16,16,12,16,20,20,16,20,-2]
+,"deprels":["nsubj","root","advmod","prep","num","pobj",null,"dep","prep","poss","pobj","cc","conj","nsubj","aux","neg","ccomp","dobj","mark","nsubj","advcl","advmod",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VBD went) (ADVP (RB away)) (PP (IN for) (NP (NP (CD two) (NNS weeks)) (, ,) (VP (VP (VBN reflected) (PP (IN on) (NP (PRP$ my) (NN future)))) (CC and) (VP (VB feel) (SBAR (S (NP (FW i)) (VP (MD could) (RB n't) (VP (VB convince) (NP (PRP myself)) (SBAR (IN until) (S (NP (PRP it)) (VP (VBD was) (ADVP (RB over)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431b\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","went","away","for","two","weeks",",","reflected","on","my","future","and","feel","i","could","n't","convince","myself","until","it","was","over","."]
+,"lemmas":["i","go","away","for","two","week",",","reflect","on","my","future","and","feel","i","could","not","convince","myself","until","it","be","over","."]
+,"posTags":["LS","VBD","RB","IN","CD","NNS",",","VBN","IN","PRP$","NN","CC","VB","FW","MD","RB","VB","PRP","IN","PRP","VBD","RB","."]
+,"chunks":["O","B-VP","B-ADVP","B-PP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O","B-VP","B-NP","B-VP","I-VP","I-VP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","O"]
+,"parents":[1,-1,1,1,5,3,-2,5,7,10,8,7,7,16,16,16,12,16,20,20,16,20,-2]
+,"deprels":["nsubj","root","advmod","prep","num","pobj",null,"dep","prep","poss","pobj","cc","conj","nsubj","aux","neg","ccomp","dobj","mark","nsubj","advcl","advmod",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VBD went) (ADVP (RB away)) (PP (IN for) (NP (NP (CD two) (NNS weeks)) (, ,) (VP (VP (VBN reflected) (PP (IN on) (NP (PRP$ my) (NN future)))) (CC and) (VP (VB feel) (SBAR (S (NP (FW i)) (VP (MD could) (RB n't) (VP (VB convince) (NP (PRP myself)) (SBAR (IN until) (S (NP (PRP it)) (VP (VBD was) (ADVP (RB over)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431b\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","went","away","for","two","weeks",",","reflected","on","my","future","and","feel","i","could","n't","convince","myself","until","it","was","over","."]
+,"lemmas":["i","go","away","for","two","week",",","reflect","on","my","future","and","feel","i","could","not","convince","myself","until","it","be","over","."]
+,"posTags":["LS","VBD","RB","IN","CD","NNS",",","VBN","IN","PRP$","NN","CC","VB","FW","MD","RB","VB","PRP","IN","PRP","VBD","RB","."]
+,"chunks":["O","B-VP","B-ADVP","B-PP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O","B-VP","B-NP","B-VP","I-VP","I-VP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","O"]
+,"parents":[1,-1,1,1,5,3,-2,5,7,10,8,7,7,16,16,16,12,16,20,20,16,20,-2]
+,"deprels":["nsubj","root","advmod","prep","num","pobj",null,"dep","prep","poss","pobj","cc","conj","nsubj","aux","neg","ccomp","dobj","mark","nsubj","advcl","advmod",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VBD went) (ADVP (RB away)) (PP (IN for) (NP (NP (CD two) (NNS weeks)) (, ,) (VP (VP (VBN reflected) (PP (IN on) (NP (PRP$ my) (NN future)))) (CC and) (VP (VB feel) (SBAR (S (NP (FW i)) (VP (MD could) (RB n't) (VP (VB convince) (NP (PRP myself)) (SBAR (IN until) (S (NP (PRP it)) (VP (VBD was) (ADVP (RB over)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431b\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","went","away","for","two","weeks",",","reflected","on","my","future","and","feel","i","could","n't","convince","myself","until","it","was","over","."]
+,"lemmas":["i","go","away","for","two","week",",","reflect","on","my","future","and","feel","i","could","not","convince","myself","until","it","be","over","."]
+,"posTags":["LS","VBD","RB","IN","CD","NNS",",","VBN","IN","PRP$","NN","CC","VB","FW","MD","RB","VB","PRP","IN","PRP","VBD","RB","."]
+,"chunks":["O","B-VP","B-ADVP","B-PP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O","B-VP","B-NP","B-VP","I-VP","I-VP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","O"]
+,"parents":[1,-1,1,1,5,3,-2,5,7,10,8,7,7,16,16,16,12,16,20,20,16,20,-2]
+,"deprels":["nsubj","root","advmod","prep","num","pobj",null,"dep","prep","poss","pobj","cc","conj","nsubj","aux","neg","ccomp","dobj","mark","nsubj","advcl","advmod",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VBD went) (ADVP (RB away)) (PP (IN for) (NP (NP (CD two) (NNS weeks)) (, ,) (VP (VP (VBN reflected) (PP (IN on) (NP (PRP$ my) (NN future)))) (CC and) (VP (VB feel) (SBAR (S (NP (FW i)) (VP (MD could) (RB n't) (VP (VB convince) (NP (PRP myself)) (SBAR (IN until) (S (NP (PRP it)) (VP (VBD was) (ADVP (RB over)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431e\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","went","away","for","two","weeks",",","reflected","on","my","future","and","feel","i","could","n't","convince","myself","until","it","was","over","."]
+,"lemmas":["i","go","away","for","two","week",",","reflect","on","my","future","and","feel","i","could","not","convince","myself","until","it","be","over","."]
+,"posTags":["LS","VBD","RB","IN","CD","NNS",",","VBN","IN","PRP$","NN","CC","VB","FW","MD","RB","VB","PRP","IN","PRP","VBD","RB","."]
+,"chunks":["O","B-VP","B-ADVP","B-PP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O","B-VP","B-NP","B-VP","I-VP","I-VP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","O"]
+,"parents":[1,-1,1,1,5,3,-2,5,7,10,8,7,7,16,16,16,12,16,20,20,16,20,-2]
+,"deprels":["nsubj","root","advmod","prep","num","pobj",null,"dep","prep","poss","pobj","cc","conj","nsubj","aux","neg","ccomp","dobj","mark","nsubj","advcl","advmod",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VBD went) (ADVP (RB away)) (PP (IN for) (NP (NP (CD two) (NNS weeks)) (, ,) (VP (VP (VBN reflected) (PP (IN on) (NP (PRP$ my) (NN future)))) (CC and) (VP (VB feel) (SBAR (S (NP (FW i)) (VP (MD could) (RB n't) (VP (VB convince) (NP (PRP myself)) (SBAR (IN until) (S (NP (PRP it)) (VP (VBD was) (ADVP (RB over)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431e\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","went","away","for","two","weeks",",","reflected","on","my","future","and","feel","i","could","n't","convince","myself","until","it","was","over","."]
+,"lemmas":["i","go","away","for","two","week",",","reflect","on","my","future","and","feel","i","could","not","convince","myself","until","it","be","over","."]
+,"posTags":["LS","VBD","RB","IN","CD","NNS",",","VBN","IN","PRP$","NN","CC","VB","FW","MD","RB","VB","PRP","IN","PRP","VBD","RB","."]
+,"chunks":["O","B-VP","B-ADVP","B-PP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","O","B-VP","B-NP","B-VP","I-VP","I-VP","B-NP","B-SBAR","B-NP","B-VP","B-ADVP","O"]
+,"parents":[1,-1,1,1,5,3,-2,5,7,10,8,7,7,16,16,16,12,16,20,20,16,20,-2]
+,"deprels":["nsubj","root","advmod","prep","num","pobj",null,"dep","prep","poss","pobj","cc","conj","nsubj","aux","neg","ccomp","dobj","mark","nsubj","advcl","advmod",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VBD went) (ADVP (RB away)) (PP (IN for) (NP (NP (CD two) (NNS weeks)) (, ,) (VP (VP (VBN reflected) (PP (IN on) (NP (PRP$ my) (NN future)))) (CC and) (VP (VB feel) (SBAR (S (NP (FW i)) (VP (MD could) (RB n't) (VP (VB convince) (NP (PRP myself)) (SBAR (IN until) (S (NP (PRP it)) (VP (VBD was) (ADVP (RB over)))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431c\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","felt","t7ire","was","something","else","too",",","much","history","behind","silver","cross","to","end","is","now","."]
+,"lemmas":["i","feel","t7ire","be","something","else","too",",","much","history","behind","silver","cross","to","end","be","now","."]
+,"posTags":["LS","VBD","NN","VBD","NN","RB","RB",",","JJ","NN","IN","JJ","NN","TO","VB","VBZ","RB","."]
+,"chunks":["O","B-VP","B-NP","B-VP","B-NP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","B-ADVP","O"]
+,"parents":[1,15,4,4,1,6,4,-2,9,15,9,12,10,14,12,-1,15,-2]
+,"deprels":["dep","advcl","nsubj","cop","ccomp","advmod","advmod",null,"amod","nsubj","prep","amod","pobj","aux","vmod","root","advmod",null]
+,"naryTree":"((ROOT (S (SBAR (LS i) (S (VP (VBD felt) (SBAR (S (NP (NN t7ire)) (VP (VBD was) (NP (NN something)) (ADVP (RB else) (RB too)))))))) (, ,) (NP (NP (JJ much) (NN history)) (PP (IN behind) (NP (JJ silver) (NN cross) (S (VP (TO to) (VP (VB end))))))) (VP (VBZ is) (ADVP (RB now))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7431d\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["reporter",":","he","bought","the","machinery",",","moved","to","a","new","factory",",","rehired","some","of","the","old","workers","and","started","heritage","programs","."]
+,"lemmas":["reporter",":","he","buy","the","machinery",",","move","to","a","new","factory",",","rehire","some","of","the","old","worker","and","start","heritage","program","."]
+,"posTags":["NN",":","PRP","VBD","DT","NN",",","VBD","TO","DT","JJ","NN",",","VBD","DT","IN","DT","JJ","NNS","CC","VBD","NN","NNS","."]
+,"chunks":["B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-NP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","O"]
+,"parents":[-1,-2,3,0,5,3,-2,3,7,11,11,8,-2,3,13,14,18,18,15,3,3,22,20,-2]
+,"deprels":["root",null,"nsubj","dep","det","dobj",null,"conj","prep","det","amod","pobj",null,"conj","dobj","prep","det","amod","pobj","cc","conj","nn","dobj",null]
+,"naryTree":"((ROOT (FRAG (NP (NN reporter)) (: :) (S (NP (PRP he)) (VP (VP (VBD bought) (NP (DT the) (NN machinery))) (, ,) (VP (VBD moved) (PP (TO to) (NP (DT a) (JJ new) (NN factory)))) (, ,) (VP (VBD rehired) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (JJ old) (NNS workers))))) (CC and) (VP (VBD started) (NP (NN heritage) (NNS programs))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74320\"},\"m2\":{\"start\":14,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f7\"}}]"
+,"relLabels":["PER-SOC(Arg-1,Arg-1)"]}
+
+{"words":["reporter",":","he","bought","the","machinery",",","moved","to","a","new","factory",",","rehired","some","of","the","old","workers","and","started","heritage","programs","."]
+,"lemmas":["reporter",":","he","buy","the","machinery",",","move","to","a","new","factory",",","rehire","some","of","the","old","worker","and","start","heritage","program","."]
+,"posTags":["NN",":","PRP","VBD","DT","NN",",","VBD","TO","DT","JJ","NN",",","VBD","DT","IN","DT","JJ","NNS","CC","VBD","NN","NNS","."]
+,"chunks":["B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-NP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","O"]
+,"parents":[-1,-2,3,0,5,3,-2,3,7,11,11,8,-2,3,13,14,18,18,15,3,3,22,20,-2]
+,"deprels":["root",null,"nsubj","dep","det","dobj",null,"conj","prep","det","amod","pobj",null,"conj","dobj","prep","det","amod","pobj","cc","conj","nn","dobj",null]
+,"naryTree":"((ROOT (FRAG (NP (NN reporter)) (: :) (S (NP (PRP he)) (VP (VP (VBD bought) (NP (DT the) (NN machinery))) (, ,) (VP (VBD moved) (PP (TO to) (NP (DT a) (JJ new) (NN factory)))) (, ,) (VP (VBD rehired) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (JJ old) (NNS workers))))) (CC and) (VP (VBD started) (NP (NN heritage) (NNS programs))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74320\"},\"m2\":{\"start\":9,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["reporter",":","he","bought","the","machinery",",","moved","to","a","new","factory",",","rehired","some","of","the","old","workers","and","started","heritage","programs","."]
+,"lemmas":["reporter",":","he","buy","the","machinery",",","move","to","a","new","factory",",","rehire","some","of","the","old","worker","and","start","heritage","program","."]
+,"posTags":["NN",":","PRP","VBD","DT","NN",",","VBD","TO","DT","JJ","NN",",","VBD","DT","IN","DT","JJ","NNS","CC","VBD","NN","NNS","."]
+,"chunks":["B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-NP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","O"]
+,"parents":[-1,-2,3,0,5,3,-2,3,7,11,11,8,-2,3,13,14,18,18,15,3,3,22,20,-2]
+,"deprels":["root",null,"nsubj","dep","det","dobj",null,"conj","prep","det","amod","pobj",null,"conj","dobj","prep","det","amod","pobj","cc","conj","nn","dobj",null]
+,"naryTree":"((ROOT (FRAG (NP (NN reporter)) (: :) (S (NP (PRP he)) (VP (VP (VBD bought) (NP (DT the) (NN machinery))) (, ,) (VP (VBD moved) (PP (TO to) (NP (DT a) (JJ new) (NN factory)))) (, ,) (VP (VBD rehired) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (JJ old) (NNS workers))))) (CC and) (VP (VBD started) (NP (NN heritage) (NNS programs))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f5\"},\"m2\":{\"start\":14,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","'s","been","near","lay","year","since","the","last","programme","was","manufactured","at","the","old","factory","."]
+,"lemmas":["it","be","be","near","lay","year","since","the","last","programme","be","manufacture","at","the","old","factory","."]
+,"posTags":["PRP","VBZ","VBN","IN","JJ","NN","IN","DT","JJ","NN","VBD","VBN","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,11,9,9,11,11,2,11,15,15,12,-2]
+,"deprels":["nsubjpass","auxpass","root","prep","amod","pobj","mark","det","amod","nsubjpass","auxpass","advcl","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBZ 's) (VP (VBN been) (PP (IN near) (NP (JJ lay) (NN year))) (SBAR (IN since) (S (NP (DT the) (JJ last) (NN programme)) (VP (VBD was) (VP (VBN manufactured) (PP (IN at) (NP (DT the) (JJ old) (NN factory))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74312\"},\"m2\":{\"start\":13,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742f9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","one","is","bellmore","oh","1",",","the","first","to","cull","off","the","new","line","and","destined","for","harrod","'s","."]
+,"lemmas":["this","one","be","bellmore","oh","1",",","the","first","to","cull","off","the","new","line","and","destine","for","harrod","'s","."]
+,"posTags":["DT","CD","VBZ","NN","UH","CD",",","DT","JJ","TO","VB","RP","DT","JJ","NN","CC","VBN","IN","NN","POS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-INTJ","B-NP","O","B-NP","I-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,-2,8,3,10,8,10,14,14,10,10,10,16,17,18,-2]
+,"deprels":["det","nsubj","cop","root","discourse","dep",null,"det","dobj","aux","dep","prt","det","amod","dobj","cc","conj","prep","pobj","possessive",null]
+,"naryTree":"((ROOT (S (NP (DT this) (CD one)) (VP (VP (VBZ is) (NP (NN bellmore)) (NP (INTJ (UH oh)) (NP (CD 1)))) (, ,) (NP (DT the) (JJ first) (S (VP (TO to) (VP (VP (VB cull) (PRT (RP off)) (NP (DT the) (JJ new) (NN line))) (CC and) (VP (VBN destined) (PP (IN for) (NP (NN harrod) (POS 's))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742fb\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742fe\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","one","is","bellmore","oh","1",",","the","first","to","cull","off","the","new","line","and","destined","for","harrod","'s","."]
+,"lemmas":["this","one","be","bellmore","oh","1",",","the","first","to","cull","off","the","new","line","and","destine","for","harrod","'s","."]
+,"posTags":["DT","CD","VBZ","NN","UH","CD",",","DT","JJ","TO","VB","RP","DT","JJ","NN","CC","VBN","IN","NN","POS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-INTJ","B-NP","O","B-NP","I-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,-2,8,3,10,8,10,14,14,10,10,10,16,17,18,-2]
+,"deprels":["det","nsubj","cop","root","discourse","dep",null,"det","dobj","aux","dep","prt","det","amod","dobj","cc","conj","prep","pobj","possessive",null]
+,"naryTree":"((ROOT (S (NP (DT this) (CD one)) (VP (VP (VBZ is) (NP (NN bellmore)) (NP (INTJ (UH oh)) (NP (CD 1)))) (, ,) (NP (DT the) (JJ first) (S (VP (TO to) (VP (VP (VB cull) (PRT (RP off)) (NP (DT the) (JJ new) (NN line))) (CC and) (VP (VBN destined) (PP (IN for) (NP (NN harrod) (POS 's))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742fb\"},\"m2\":{\"start\":18,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74300\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["this","one","is","bellmore","oh","1",",","the","first","to","cull","off","the","new","line","and","destined","for","harrod","'s","."]
+,"lemmas":["this","one","be","bellmore","oh","1",",","the","first","to","cull","off","the","new","line","and","destine","for","harrod","'s","."]
+,"posTags":["DT","CD","VBZ","NN","UH","CD",",","DT","JJ","TO","VB","RP","DT","JJ","NN","CC","VBN","IN","NN","POS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-INTJ","B-NP","O","B-NP","I-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,-2,8,3,10,8,10,14,14,10,10,10,16,17,18,-2]
+,"deprels":["det","nsubj","cop","root","discourse","dep",null,"det","dobj","aux","dep","prt","det","amod","dobj","cc","conj","prep","pobj","possessive",null]
+,"naryTree":"((ROOT (S (NP (DT this) (CD one)) (VP (VP (VBZ is) (NP (NN bellmore)) (NP (INTJ (UH oh)) (NP (CD 1)))) (, ,) (NP (DT the) (JJ first) (S (VP (TO to) (VP (VP (VB cull) (PRT (RP off)) (NP (DT the) (JJ new) (NN line))) (CC and) (VP (VBN destined) (PP (IN for) (NP (NN harrod) (POS 's))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742fe\"},\"m2\":{\"start\":18,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74300\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742fc\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74301\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742fc\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74302\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742fc\"},\"m2\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74305\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742fc\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74306\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74301\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74302\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74301\"},\"m2\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74305\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74301\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74306\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74301\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74307\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74302\"},\"m2\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74305\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74302\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74306\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74302\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74307\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74302\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742fd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74305\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74306\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74305\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74307\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74305\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742fd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74305\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74306\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74307\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74306\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742fd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74306\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74307\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742fd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed74307\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["it","was","hand","delivered","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","n't","trust","its","futcher","to","anyone","else","."]
+,"lemmas":["it","be","hand","deliver","to","harrod","harrod","'s","by","the","new","chief","executive","nick","paxton","who","would","not","trust","its","futcher","to","anyone","else","."]
+,"posTags":["PRP","VBD","NN","VBN","TO","NN","NN","POS","IN","DT","JJ","JJ","NN","NN","NN","WP","MD","RB","VB","PRP$","NN","TO","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","B-NP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,4,5,6,3,14,14,14,14,14,8,18,18,18,14,20,18,18,21,22,-2]
+,"deprels":["nsubjpass","auxpass","advmod","root","prep","pobj","poss","possessive","prep","det","amod","amod","nn","nn","pobj","nsubj","aux","neg","rcmod","poss","dobj","prep","pobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP it)) (VP (VBD was) (ADVP (NN hand)) (VP (VBN delivered) (PP (TO to) (NP (NP (NN harrod)) (NP (NN harrod) (POS 's)))) (PP (IN by) (NP (NP (DT the) (JJ new) (JJ chief) (NN executive) (NN nick) (NN paxton)) (SBAR (WHNP (WP who)) (S (VP (MD would) (RB n't) (VP (VB trust) (NP (PRP$ its) (NN futcher)) (PP (TO to) (NP (NN anyone) (RB else))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":19,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed742fd\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"52ee7522-9dc5-0159-4ec8-00005ed7432f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

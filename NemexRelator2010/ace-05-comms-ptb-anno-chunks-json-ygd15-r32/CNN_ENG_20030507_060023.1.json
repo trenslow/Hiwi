@@ -1,0 +1,320 @@
+{"words":["a","new","al","qaeda","videotape",",","no","doubt","chilling","to","the","families","of","the","victims","."]
+,"lemmas":["a","new","al","qaeda","videotape",",","no","doubt","chill","to","the","family","of","the","victim","."]
+,"posTags":["DT","JJ","NNP","NN","NN",",","DT","NN","VBG","TO","DT","NNS","IN","DT","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,-2,7,4,7,7,11,9,7,14,12,-2]
+,"deprels":["det","amod","nn","nn","root",null,"neg","appos","amod","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT a) (JJ new) (NNP al) (NN qaeda) (NN videotape)) (, ,) (NP (NP (DT no) (NN doubt) (VBG chilling)) (PP (TO to) (NP (DT the) (NNS families))) (PP (IN of) (NP (DT the) (NNS victims)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a501\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a520\"}}]"
+,"relLabels":["PER-SOC-Family(Arg-1,Arg-1)"]}
+
+{"words":["a","new","al","qaeda","videotape",",","no","doubt","chilling","to","the","families","of","the","victims","."]
+,"lemmas":["a","new","al","qaeda","videotape",",","no","doubt","chill","to","the","family","of","the","victim","."]
+,"posTags":["DT","JJ","NNP","NN","NN",",","DT","NN","VBG","TO","DT","NNS","IN","DT","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,-2,7,4,7,7,11,9,7,14,12,-2]
+,"deprels":["det","amod","nn","nn","root",null,"neg","appos","amod","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT a) (JJ new) (NNP al) (NN qaeda) (NN videotape)) (, ,) (NP (NP (DT no) (NN doubt) (VBG chilling)) (PP (TO to) (NP (DT the) (NNS families))) (PP (IN of) (NP (DT the) (NNS victims)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a503\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a501\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["a","new","al","qaeda","videotape",",","no","doubt","chilling","to","the","families","of","the","victims","."]
+,"lemmas":["a","new","al","qaeda","videotape",",","no","doubt","chill","to","the","family","of","the","victim","."]
+,"posTags":["DT","JJ","NNP","NN","NN",",","DT","NN","VBG","TO","DT","NNS","IN","DT","NNS","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,-2,7,4,7,7,11,9,7,14,12,-2]
+,"deprels":["det","amod","nn","nn","root",null,"neg","appos","amod","prep","det","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (NP (NP (DT a) (JJ new) (NNP al) (NN qaeda) (NN videotape)) (, ,) (NP (NP (DT no) (NN doubt) (VBG chilling)) (PP (TO to) (NP (DT the) (NNS families))) (PP (IN of) (NP (DT the) (NNS victims)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a503\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a520\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50d\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a510\"}}]"
+,"relLabels":["PART-WHOLE-Geographical(Arg-1,Arg-2)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a522\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50d\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a508\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50b\"}}]"
+,"relLabels":["ART-User-Owner-Inventor-Manufacturer(Arg-1,Arg-2)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a522\"},\"m2\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a507\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a522\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a508\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a522\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50b\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a522\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a510\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a507\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a508\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a507\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50b\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a507\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a507\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a510\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a508\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a508\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a510\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50b\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["two","of","the","four","pilots","who","took","control","of","the","planes","on","9/11","attended","a","wedding","party","in","hamburg",",","germany",",","four","years","ago","1999","this","is","."]
+,"lemmas":["two","of","the","four","pilot","who","take","control","of","the","plane","on","9/11","attend","a","wedding","party","in","hamburg",",","germany",",","four","year","ago","1999","this","be","."]
+,"posTags":["CD","IN","DT","CD","NNS","WP","VBD","NN","IN","DT","NNS","IN","CD","VBD","DT","NN","NN","IN","NN",",","NN",",","CD","NNS","IN","CD","DT","VBZ","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","O","B-NP","I-NP","B-ADVP","B-NP","B-NP","B-VP","O"]
+,"parents":[13,0,4,4,1,6,4,6,7,10,8,6,11,27,16,16,13,13,17,-2,27,-2,23,24,20,20,20,-1,-2]
+,"deprels":["nsubj","prep","det","num","pobj","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj","ccomp","det","nn","dobj","prep","pobj",null,"nsubj",null,"num","npadvmod","advmod","dep","dep","root",null]
+,"naryTree":"((ROOT (S (S (NP (NP (CD two)) (PP (IN of) (NP (NP (DT the) (CD four) (NNS pilots)) (SBAR (WHNP (WP who)) (S (VP (VBD took) (NP (NP (NN control)) (PP (IN of) (NP (DT the) (NNS planes)))) (PP (IN on) (NP (CD 9/11))))))))) (VP (VBD attended) (NP (DT a) (NN wedding) (NN party)) (PP (IN in) (NP (NN hamburg))))) (, ,) (NP (NP (NN germany)) (, ,) (ADVP (NP (CD four) (NNS years)) (IN ago)) (NP (CD 1999)) (DT this)) (VP (VBZ is)) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50b\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a510\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["another","one","of","the","pilots",",","mohammed","atta",",","also","believed","to","be","present","at","this","meeting","."]
+,"lemmas":["another","one","of","the","pilot",",","mohamm","atta",",","also","believe","to","be","present","at","this","meeting","."]
+,"posTags":["DT","CD","IN","DT","NNS",",","VBN","NN",",","RB","VBN","TO","VB","JJ","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-ADJP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,-2,1,6,-2,10,7,13,13,10,13,16,14,-2]
+,"deprels":["quantmod","root","prep","det","pobj",null,"vmod","dobj",null,"advmod","vmod","aux","cop","xcomp","prep","det","pobj",null]
+,"naryTree":"((ROOT (NP (NP (QP (DT another) (CD one))) (PP (IN of) (NP (DT the) (NNS pilots))) (, ,) (VP (VBN mohammed) (NP (NP (NN atta)) (, ,) (VP (ADVP (RB also)) (VBN believed) (S (VP (TO to) (VP (VB be) (ADJP (JJ present) (PP (IN at) (NP (DT this) (NN meeting)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a512\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a509\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["another","one","of","the","pilots",",","mohammed","atta",",","also","believed","to","be","present","at","this","meeting","."]
+,"lemmas":["another","one","of","the","pilot",",","mohamm","atta",",","also","believe","to","be","present","at","this","meeting","."]
+,"posTags":["DT","CD","IN","DT","NNS",",","VBN","NN",",","RB","VBN","TO","VB","JJ","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-ADJP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,-2,1,6,-2,10,7,13,13,10,13,16,14,-2]
+,"deprels":["quantmod","root","prep","det","pobj",null,"vmod","dobj",null,"advmod","vmod","aux","cop","xcomp","prep","det","pobj",null]
+,"naryTree":"((ROOT (NP (NP (QP (DT another) (CD one))) (PP (IN of) (NP (DT the) (NNS pilots))) (, ,) (VP (VBN mohammed) (NP (NP (NN atta)) (, ,) (VP (ADVP (RB also)) (VBN believed) (S (VP (TO to) (VP (VB be) (ADJP (JJ present) (PP (IN at) (NP (DT this) (NN meeting)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a512\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a513\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["another","one","of","the","pilots",",","mohammed","atta",",","also","believed","to","be","present","at","this","meeting","."]
+,"lemmas":["another","one","of","the","pilot",",","mohamm","atta",",","also","believe","to","be","present","at","this","meeting","."]
+,"posTags":["DT","CD","IN","DT","NNS",",","VBN","NN",",","RB","VBN","TO","VB","JJ","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-ADJP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,-2,1,6,-2,10,7,13,13,10,13,16,14,-2]
+,"deprels":["quantmod","root","prep","det","pobj",null,"vmod","dobj",null,"advmod","vmod","aux","cop","xcomp","prep","det","pobj",null]
+,"naryTree":"((ROOT (NP (NP (QP (DT another) (CD one))) (PP (IN of) (NP (DT the) (NNS pilots))) (, ,) (VP (VBN mohammed) (NP (NP (NN atta)) (, ,) (VP (ADVP (RB also)) (VBN believed) (S (VP (TO to) (VP (VB be) (ADJP (JJ present) (PP (IN at) (NP (DT this) (NN meeting)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a509\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a513\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["what","'s","believed","to","be","the","terror","cell","responsible","for","9/11","."]
+,"lemmas":["what","be","believe","to","be","the","terror","cell","responsible","for","9/11","."]
+,"posTags":["WP","VBZ","VBN","TO","VB","DT","NN","NN","JJ","IN","CD","."]
+,"chunks":["B-NP","O","B-VP","B-VP","I-VP","B-NP","I-NP","I-NP","B-ADJP","B-PP","B-NP","O"]
+,"parents":[2,2,-1,7,7,7,7,2,7,8,9,-2]
+,"deprels":["nsubjpass","auxpass","root","aux","cop","det","nn","xcomp","amod","prep","pobj",null]
+,"naryTree":"((ROOT (SBARQ (WHNP (WP what)) (SQ (VBZ 's) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (NP (NP (DT the) (NN terror) (NN cell)) (ADJP (JJ responsible) (PP (IN for) (NP (CD 9/11)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"PRO\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a519\"},\"m2\":{\"start\":5,\"end\":8,\"head\":7,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a51a\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["many","members","on","that","tape","working","together","through","a","cell","in","germany","known","as","the","hamburg","cell","seen","in","the","same","room","at","the","same","time","."]
+,"lemmas":["many","member","on","that","tape","work","together","through","a","cell","in","germany","know","as","the","hamburg","cell","see","in","the","same","room","at","the","same","time","."]
+,"posTags":["JJ","NNS","IN","DT","NN","VBG","RB","IN","DT","NN","IN","NN","VBN","IN","DT","NN","NN","VBN","IN","DT","JJ","NN","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,4,5,5,9,7,1,10,1,12,16,16,13,16,17,21,21,18,21,25,25,22,-2]
+,"deprels":["amod","root","prep","det","pobj","vmod","advmod","prep","det","pobj","prep","pobj","vmod","prep","det","nn","pobj","vmod","prep","det","amod","pobj","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (JJ many) (NNS members)) (PP (IN on) (NP (NP (DT that) (NN tape)) (VP (VBG working) (ADVP (RB together)) (PP (IN through) (NP (DT a) (NN cell)))))) (PP (IN in) (NP (NN germany))) (VP (VBN known) (PP (IN as) (NP (NP (DT the) (NN hamburg) (NN cell)) (VP (VBN seen) (PP (IN in) (NP (NP (DT the) (JJ same) (NN room)) (PP (IN at) (NP (DT the) (JJ same) (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a517\"},\"m2\":{\"start\":19,\"end\":22,\"head\":21,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a515\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["many","members","on","that","tape","working","together","through","a","cell","in","germany","known","as","the","hamburg","cell","seen","in","the","same","room","at","the","same","time","."]
+,"lemmas":["many","member","on","that","tape","work","together","through","a","cell","in","germany","know","as","the","hamburg","cell","see","in","the","same","room","at","the","same","time","."]
+,"posTags":["JJ","NNS","IN","DT","NN","VBG","RB","IN","DT","NN","IN","NN","VBN","IN","DT","NN","NN","VBN","IN","DT","JJ","NN","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,4,5,5,9,7,1,10,1,12,16,16,13,16,17,21,21,18,21,25,25,22,-2]
+,"deprels":["amod","root","prep","det","pobj","vmod","advmod","prep","det","pobj","prep","pobj","vmod","prep","det","nn","pobj","vmod","prep","det","amod","pobj","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (JJ many) (NNS members)) (PP (IN on) (NP (NP (DT that) (NN tape)) (VP (VBG working) (ADVP (RB together)) (PP (IN through) (NP (DT a) (NN cell)))))) (PP (IN in) (NP (NN germany))) (VP (VBN known) (PP (IN as) (NP (NP (DT the) (NN hamburg) (NN cell)) (VP (VBN seen) (PP (IN in) (NP (NP (DT the) (JJ same) (NN room)) (PP (IN at) (NP (DT the) (JJ same) (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a517\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a51b\"}}]"
+,"relLabels":["ORG-AFF-Membership(Arg-1,Arg-2)"]}
+
+{"words":["many","members","on","that","tape","working","together","through","a","cell","in","germany","known","as","the","hamburg","cell","seen","in","the","same","room","at","the","same","time","."]
+,"lemmas":["many","member","on","that","tape","work","together","through","a","cell","in","germany","know","as","the","hamburg","cell","see","in","the","same","room","at","the","same","time","."]
+,"posTags":["JJ","NNS","IN","DT","NN","VBG","RB","IN","DT","NN","IN","NN","VBN","IN","DT","NN","NN","VBN","IN","DT","JJ","NN","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,4,5,5,9,7,1,10,1,12,16,16,13,16,17,21,21,18,21,25,25,22,-2]
+,"deprels":["amod","root","prep","det","pobj","vmod","advmod","prep","det","pobj","prep","pobj","vmod","prep","det","nn","pobj","vmod","prep","det","amod","pobj","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (JJ many) (NNS members)) (PP (IN on) (NP (NP (DT that) (NN tape)) (VP (VBG working) (ADVP (RB together)) (PP (IN through) (NP (DT a) (NN cell)))))) (PP (IN in) (NP (NN germany))) (VP (VBN known) (PP (IN as) (NP (NP (DT the) (NN hamburg) (NN cell)) (VP (VBN seen) (PP (IN in) (NP (NP (DT the) (JJ same) (NN room)) (PP (IN at) (NP (DT the) (JJ same) (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a51b\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50f\"}}]"
+,"relLabels":["GEN-AFF-Org-Location(Arg-1,Arg-2)"]}
+
+{"words":["many","members","on","that","tape","working","together","through","a","cell","in","germany","known","as","the","hamburg","cell","seen","in","the","same","room","at","the","same","time","."]
+,"lemmas":["many","member","on","that","tape","work","together","through","a","cell","in","germany","know","as","the","hamburg","cell","see","in","the","same","room","at","the","same","time","."]
+,"posTags":["JJ","NNS","IN","DT","NN","VBG","RB","IN","DT","NN","IN","NN","VBN","IN","DT","NN","NN","VBN","IN","DT","JJ","NN","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,4,5,5,9,7,1,10,1,12,16,16,13,16,17,21,21,18,21,25,25,22,-2]
+,"deprels":["amod","root","prep","det","pobj","vmod","advmod","prep","det","pobj","prep","pobj","vmod","prep","det","nn","pobj","vmod","prep","det","amod","pobj","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (JJ many) (NNS members)) (PP (IN on) (NP (NP (DT that) (NN tape)) (VP (VBG working) (ADVP (RB together)) (PP (IN through) (NP (DT a) (NN cell)))))) (PP (IN in) (NP (NN germany))) (VP (VBN known) (PP (IN as) (NP (NP (DT the) (NN hamburg) (NN cell)) (VP (VBN seen) (PP (IN in) (NP (NP (DT the) (JJ same) (NN room)) (PP (IN at) (NP (DT the) (JJ same) (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a517\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50f\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["many","members","on","that","tape","working","together","through","a","cell","in","germany","known","as","the","hamburg","cell","seen","in","the","same","room","at","the","same","time","."]
+,"lemmas":["many","member","on","that","tape","work","together","through","a","cell","in","germany","know","as","the","hamburg","cell","see","in","the","same","room","at","the","same","time","."]
+,"posTags":["JJ","NNS","IN","DT","NN","VBG","RB","IN","DT","NN","IN","NN","VBN","IN","DT","NN","NN","VBN","IN","DT","JJ","NN","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,4,5,5,9,7,1,10,1,12,16,16,13,16,17,21,21,18,21,25,25,22,-2]
+,"deprels":["amod","root","prep","det","pobj","vmod","advmod","prep","det","pobj","prep","pobj","vmod","prep","det","nn","pobj","vmod","prep","det","amod","pobj","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (JJ many) (NNS members)) (PP (IN on) (NP (NP (DT that) (NN tape)) (VP (VBG working) (ADVP (RB together)) (PP (IN through) (NP (DT a) (NN cell)))))) (PP (IN in) (NP (NN germany))) (VP (VBN known) (PP (IN as) (NP (NP (DT the) (NN hamburg) (NN cell)) (VP (VBN seen) (PP (IN in) (NP (NP (DT the) (JJ same) (NN room)) (PP (IN at) (NP (DT the) (JJ same) (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a517\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a51c\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["many","members","on","that","tape","working","together","through","a","cell","in","germany","known","as","the","hamburg","cell","seen","in","the","same","room","at","the","same","time","."]
+,"lemmas":["many","member","on","that","tape","work","together","through","a","cell","in","germany","know","as","the","hamburg","cell","see","in","the","same","room","at","the","same","time","."]
+,"posTags":["JJ","NNS","IN","DT","NN","VBG","RB","IN","DT","NN","IN","NN","VBN","IN","DT","NN","NN","VBN","IN","DT","JJ","NN","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,4,5,5,9,7,1,10,1,12,16,16,13,16,17,21,21,18,21,25,25,22,-2]
+,"deprels":["amod","root","prep","det","pobj","vmod","advmod","prep","det","pobj","prep","pobj","vmod","prep","det","nn","pobj","vmod","prep","det","amod","pobj","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (JJ many) (NNS members)) (PP (IN on) (NP (NP (DT that) (NN tape)) (VP (VBG working) (ADVP (RB together)) (PP (IN through) (NP (DT a) (NN cell)))))) (PP (IN in) (NP (NN germany))) (VP (VBN known) (PP (IN as) (NP (NP (DT the) (NN hamburg) (NN cell)) (VP (VBN seen) (PP (IN in) (NP (NP (DT the) (JJ same) (NN room)) (PP (IN at) (NP (DT the) (JJ same) (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a51b\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a51c\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["many","members","on","that","tape","working","together","through","a","cell","in","germany","known","as","the","hamburg","cell","seen","in","the","same","room","at","the","same","time","."]
+,"lemmas":["many","member","on","that","tape","work","together","through","a","cell","in","germany","know","as","the","hamburg","cell","see","in","the","same","room","at","the","same","time","."]
+,"posTags":["JJ","NNS","IN","DT","NN","VBG","RB","IN","DT","NN","IN","NN","VBN","IN","DT","NN","NN","VBN","IN","DT","JJ","NN","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,4,5,5,9,7,1,10,1,12,16,16,13,16,17,21,21,18,21,25,25,22,-2]
+,"deprels":["amod","root","prep","det","pobj","vmod","advmod","prep","det","pobj","prep","pobj","vmod","prep","det","nn","pobj","vmod","prep","det","amod","pobj","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (JJ many) (NNS members)) (PP (IN on) (NP (NP (DT that) (NN tape)) (VP (VBG working) (ADVP (RB together)) (PP (IN through) (NP (DT a) (NN cell)))))) (PP (IN in) (NP (NN germany))) (VP (VBN known) (PP (IN as) (NP (NP (DT the) (NN hamburg) (NN cell)) (VP (VBN seen) (PP (IN in) (NP (NP (DT the) (JJ same) (NN room)) (PP (IN at) (NP (DT the) (JJ same) (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a51b\"},\"m2\":{\"start\":19,\"end\":22,\"head\":21,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a515\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["many","members","on","that","tape","working","together","through","a","cell","in","germany","known","as","the","hamburg","cell","seen","in","the","same","room","at","the","same","time","."]
+,"lemmas":["many","member","on","that","tape","work","together","through","a","cell","in","germany","know","as","the","hamburg","cell","see","in","the","same","room","at","the","same","time","."]
+,"posTags":["JJ","NNS","IN","DT","NN","VBG","RB","IN","DT","NN","IN","NN","VBN","IN","DT","NN","NN","VBN","IN","DT","JJ","NN","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,4,5,5,9,7,1,10,1,12,16,16,13,16,17,21,21,18,21,25,25,22,-2]
+,"deprels":["amod","root","prep","det","pobj","vmod","advmod","prep","det","pobj","prep","pobj","vmod","prep","det","nn","pobj","vmod","prep","det","amod","pobj","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (JJ many) (NNS members)) (PP (IN on) (NP (NP (DT that) (NN tape)) (VP (VBG working) (ADVP (RB together)) (PP (IN through) (NP (DT a) (NN cell)))))) (PP (IN in) (NP (NN germany))) (VP (VBN known) (PP (IN as) (NP (NP (DT the) (NN hamburg) (NN cell)) (VP (VBN seen) (PP (IN in) (NP (NP (DT the) (JJ same) (NN room)) (PP (IN at) (NP (DT the) (JJ same) (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50f\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a51c\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["many","members","on","that","tape","working","together","through","a","cell","in","germany","known","as","the","hamburg","cell","seen","in","the","same","room","at","the","same","time","."]
+,"lemmas":["many","member","on","that","tape","work","together","through","a","cell","in","germany","know","as","the","hamburg","cell","see","in","the","same","room","at","the","same","time","."]
+,"posTags":["JJ","NNS","IN","DT","NN","VBG","RB","IN","DT","NN","IN","NN","VBN","IN","DT","NN","NN","VBN","IN","DT","JJ","NN","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,4,5,5,9,7,1,10,1,12,16,16,13,16,17,21,21,18,21,25,25,22,-2]
+,"deprels":["amod","root","prep","det","pobj","vmod","advmod","prep","det","pobj","prep","pobj","vmod","prep","det","nn","pobj","vmod","prep","det","amod","pobj","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (JJ many) (NNS members)) (PP (IN on) (NP (NP (DT that) (NN tape)) (VP (VBG working) (ADVP (RB together)) (PP (IN through) (NP (DT a) (NN cell)))))) (PP (IN in) (NP (NN germany))) (VP (VBN known) (PP (IN as) (NP (NP (DT the) (NN hamburg) (NN cell)) (VP (VBN seen) (PP (IN in) (NP (NP (DT the) (JJ same) (NN room)) (PP (IN at) (NP (DT the) (JJ same) (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a50f\"},\"m2\":{\"start\":19,\"end\":22,\"head\":21,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a515\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["many","members","on","that","tape","working","together","through","a","cell","in","germany","known","as","the","hamburg","cell","seen","in","the","same","room","at","the","same","time","."]
+,"lemmas":["many","member","on","that","tape","work","together","through","a","cell","in","germany","know","as","the","hamburg","cell","see","in","the","same","room","at","the","same","time","."]
+,"posTags":["JJ","NNS","IN","DT","NN","VBG","RB","IN","DT","NN","IN","NN","VBN","IN","DT","NN","NN","VBN","IN","DT","JJ","NN","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,4,2,4,5,5,9,7,1,10,1,12,16,16,13,16,17,21,21,18,21,25,25,22,-2]
+,"deprels":["amod","root","prep","det","pobj","vmod","advmod","prep","det","pobj","prep","pobj","vmod","prep","det","nn","pobj","vmod","prep","det","amod","pobj","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (NP (NP (JJ many) (NNS members)) (PP (IN on) (NP (NP (DT that) (NN tape)) (VP (VBG working) (ADVP (RB together)) (PP (IN through) (NP (DT a) (NN cell)))))) (PP (IN in) (NP (NN germany))) (VP (VBN known) (PP (IN as) (NP (NP (DT the) (NN hamburg) (NN cell)) (VP (VBN seen) (PP (IN in) (NP (NP (DT the) (JJ same) (NN room)) (PP (IN at) (NP (DT the) (JJ same) (NN time))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":17,\"head\":16,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a51c\"},\"m2\":{\"start\":19,\"end\":22,\"head\":21,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"fa1b519c-07cc-8c4b-3f7c-00000419a515\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+

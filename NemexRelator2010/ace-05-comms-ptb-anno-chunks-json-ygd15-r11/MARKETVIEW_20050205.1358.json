@@ -1,0 +1,420 @@
+{"words":["I","really","miss","the","days","when","a","major","international","oil","company","could","basically","buy","some","tiny",",","ill-established","foreign","government","to","get","at","its","natural","resources","."]
+,"lemmas":["I","really","miss","the","day","when","a","major","international","oil","company","could","basically","buy","some","tiny",",","ill-established","foreign","government","to","get","at","its","natural","resource","."]
+,"posTags":["PRP","RB","VBP","DT","NNS","WRB","DT","JJ","JJ","NN","NN","MD","RB","VB","DT","JJ",",","JJ","JJ","NN","TO","VB","IN","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,13,10,10,10,10,13,13,13,2,19,19,-2,19,19,13,21,13,21,25,25,22,-2]
+,"deprels":["nsubj","advmod","root","det","tmod","advmod","det","amod","amod","nn","nsubj","aux","advmod","advcl","det","amod",null,"amod","amod","dobj","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP miss) (NP (DT the) (NNS days)) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ major) (JJ international) (NN oil) (NN company)) (VP (MD could) (ADVP (RB basically)) (VP (VB buy) (NP (DT some) (JJ tiny) (, ,) (JJ ill-established) (JJ foreign) (NN government)) (S (VP (TO to) (VP (VB get) (PP (IN at) (NP (PRP$ its) (JJ natural) (NNS resources))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":11,\"head\":10,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d0\"},\"m2\":{\"start\":14,\"end\":20,\"head\":19,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709da\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["I","really","miss","the","days","when","a","major","international","oil","company","could","basically","buy","some","tiny",",","ill-established","foreign","government","to","get","at","its","natural","resources","."]
+,"lemmas":["I","really","miss","the","day","when","a","major","international","oil","company","could","basically","buy","some","tiny",",","ill-established","foreign","government","to","get","at","its","natural","resource","."]
+,"posTags":["PRP","RB","VBP","DT","NNS","WRB","DT","JJ","JJ","NN","NN","MD","RB","VB","DT","JJ",",","JJ","JJ","NN","TO","VB","IN","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,13,10,10,10,10,13,13,13,2,19,19,-2,19,19,13,21,13,21,25,25,22,-2]
+,"deprels":["nsubj","advmod","root","det","tmod","advmod","det","amod","amod","nn","nsubj","aux","advmod","advcl","det","amod",null,"amod","amod","dobj","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP miss) (NP (DT the) (NNS days)) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ major) (JJ international) (NN oil) (NN company)) (VP (MD could) (ADVP (RB basically)) (VP (VB buy) (NP (DT some) (JJ tiny) (, ,) (JJ ill-established) (JJ foreign) (NN government)) (S (VP (TO to) (VP (VB get) (PP (IN at) (NP (PRP$ its) (JJ natural) (NNS resources))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709cd\"},\"m2\":{\"start\":6,\"end\":11,\"head\":10,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["I","really","miss","the","days","when","a","major","international","oil","company","could","basically","buy","some","tiny",",","ill-established","foreign","government","to","get","at","its","natural","resources","."]
+,"lemmas":["I","really","miss","the","day","when","a","major","international","oil","company","could","basically","buy","some","tiny",",","ill-established","foreign","government","to","get","at","its","natural","resource","."]
+,"posTags":["PRP","RB","VBP","DT","NNS","WRB","DT","JJ","JJ","NN","NN","MD","RB","VB","DT","JJ",",","JJ","JJ","NN","TO","VB","IN","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,13,10,10,10,10,13,13,13,2,19,19,-2,19,19,13,21,13,21,25,25,22,-2]
+,"deprels":["nsubj","advmod","root","det","tmod","advmod","det","amod","amod","nn","nsubj","aux","advmod","advcl","det","amod",null,"amod","amod","dobj","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP miss) (NP (DT the) (NNS days)) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ major) (JJ international) (NN oil) (NN company)) (VP (MD could) (ADVP (RB basically)) (VP (VB buy) (NP (DT some) (JJ tiny) (, ,) (JJ ill-established) (JJ foreign) (NN government)) (S (VP (TO to) (VP (VB get) (PP (IN at) (NP (PRP$ its) (JJ natural) (NNS resources))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709cd\"},\"m2\":{\"start\":14,\"end\":20,\"head\":19,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709da\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["I","really","miss","the","days","when","a","major","international","oil","company","could","basically","buy","some","tiny",",","ill-established","foreign","government","to","get","at","its","natural","resources","."]
+,"lemmas":["I","really","miss","the","day","when","a","major","international","oil","company","could","basically","buy","some","tiny",",","ill-established","foreign","government","to","get","at","its","natural","resource","."]
+,"posTags":["PRP","RB","VBP","DT","NNS","WRB","DT","JJ","JJ","NN","NN","MD","RB","VB","DT","JJ",",","JJ","JJ","NN","TO","VB","IN","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,13,10,10,10,10,13,13,13,2,19,19,-2,19,19,13,21,13,21,25,25,22,-2]
+,"deprels":["nsubj","advmod","root","det","tmod","advmod","det","amod","amod","nn","nsubj","aux","advmod","advcl","det","amod",null,"amod","amod","dobj","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP miss) (NP (DT the) (NNS days)) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ major) (JJ international) (NN oil) (NN company)) (VP (MD could) (ADVP (RB basically)) (VP (VB buy) (NP (DT some) (JJ tiny) (, ,) (JJ ill-established) (JJ foreign) (NN government)) (S (VP (TO to) (VP (VB get) (PP (IN at) (NP (PRP$ its) (JJ natural) (NNS resources))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709cd\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["I","really","miss","the","days","when","a","major","international","oil","company","could","basically","buy","some","tiny",",","ill-established","foreign","government","to","get","at","its","natural","resources","."]
+,"lemmas":["I","really","miss","the","day","when","a","major","international","oil","company","could","basically","buy","some","tiny",",","ill-established","foreign","government","to","get","at","its","natural","resource","."]
+,"posTags":["PRP","RB","VBP","DT","NNS","WRB","DT","JJ","JJ","NN","NN","MD","RB","VB","DT","JJ",",","JJ","JJ","NN","TO","VB","IN","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,13,10,10,10,10,13,13,13,2,19,19,-2,19,19,13,21,13,21,25,25,22,-2]
+,"deprels":["nsubj","advmod","root","det","tmod","advmod","det","amod","amod","nn","nsubj","aux","advmod","advcl","det","amod",null,"amod","amod","dobj","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP miss) (NP (DT the) (NNS days)) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ major) (JJ international) (NN oil) (NN company)) (VP (MD could) (ADVP (RB basically)) (VP (VB buy) (NP (DT some) (JJ tiny) (, ,) (JJ ill-established) (JJ foreign) (NN government)) (S (VP (TO to) (VP (VB get) (PP (IN at) (NP (PRP$ its) (JJ natural) (NNS resources))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":11,\"head\":10,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d0\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["I","really","miss","the","days","when","a","major","international","oil","company","could","basically","buy","some","tiny",",","ill-established","foreign","government","to","get","at","its","natural","resources","."]
+,"lemmas":["I","really","miss","the","day","when","a","major","international","oil","company","could","basically","buy","some","tiny",",","ill-established","foreign","government","to","get","at","its","natural","resource","."]
+,"posTags":["PRP","RB","VBP","DT","NNS","WRB","DT","JJ","JJ","NN","NN","MD","RB","VB","DT","JJ",",","JJ","JJ","NN","TO","VB","IN","PRP$","JJ","NNS","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,13,10,10,10,10,13,13,13,2,19,19,-2,19,19,13,21,13,21,25,25,22,-2]
+,"deprels":["nsubj","advmod","root","det","tmod","advmod","det","amod","amod","nn","nsubj","aux","advmod","advcl","det","amod",null,"amod","amod","dobj","aux","vmod","prep","poss","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP I)) (ADVP (RB really)) (VP (VBP miss) (NP (DT the) (NNS days)) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ major) (JJ international) (NN oil) (NN company)) (VP (MD could) (ADVP (RB basically)) (VP (VB buy) (NP (DT some) (JJ tiny) (, ,) (JJ ill-established) (JJ foreign) (NN government)) (S (VP (TO to) (VP (VB get) (PP (IN at) (NP (PRP$ its) (JJ natural) (NNS resources))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":20,\"head\":19,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709da\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d9\"},\"m2\":{\"start\":16,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c7\"}}]"
+,"relLabels":["PART-WHOLE(Arg-2,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"GPE\",\"subtype\":\"GPE-Cluster\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709dc\"},\"m2\":{\"start\":10,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d6\"}}]"
+,"relLabels":["PART-WHOLE(Arg-2,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c3\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"GPE\",\"subtype\":\"GPE-Cluster\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709dc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c3\"},\"m2\":{\"start\":10,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c3\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c3\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c3\"},\"m2\":{\"start\":16,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c3\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"GPE\",\"subtype\":\"GPE-Cluster\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709dc\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"GPE\",\"subtype\":\"GPE-Cluster\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709dc\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"GPE\",\"subtype\":\"GPE-Cluster\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709dc\"},\"m2\":{\"start\":16,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"GPE\",\"subtype\":\"GPE-Cluster\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709dc\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d6\"},\"m2\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d6\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d6\"},\"m2\":{\"start\":16,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d6\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d7\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d7\"},\"m2\":{\"start\":16,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d7\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d9\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["We","'ve","progressed","a","bit","since","then",":","Now",",","the","third","world","countries","all","have","their","own","state","oil","companies",",","who","are","picking","apart","the","carcasses","of","once-private","concerns","."]
+,"lemmas":["we","have","progress","a","bit","since","then",":","now",",","the","third","world","country","all","have","they","own","state","oil","company",",","who","be","pick","apart","the","carcass","of","once-private","concern","."]
+,"posTags":["PRP","VBP","VBN","DT","NN","IN","RB",":","RB",",","DT","JJ","NN","NNS","DT","VBP","PRP$","JJ","NN","NN","NNS",",","WP","VBP","VBG","RP","DT","NNS","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O","B-ADVP","O","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,2,5,-2,15,-2,13,13,13,15,15,2,20,20,20,20,15,-2,24,24,20,24,27,24,27,30,28,-2]
+,"deprels":["nsubj","aux","root","det","dobj","prep","pobj",null,"advmod",null,"det","amod","nn","nsubj","advmod","parataxis","poss","amod","nn","nn","dobj",null,"nsubj","aux","rcmod","prt","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (PRP We)) (VP (VBP 've) (VP (VBN progressed) (NP (DT a) (NN bit)) (PP (IN since) (NP (RB then)))))) (: :) (S (ADVP (RB Now)) (, ,) (NP (DT the) (JJ third) (NN world) (NNS countries)) (ADVP (DT all)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN state) (NN oil) (NNS companies)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBP are) (VP (VBG picking) (PRT (RP apart)) (NP (NP (DT the) (NNS carcasses)) (PP (IN of) (NP (JJ once-private) (NNS concerns))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":16,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c7\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"PRO\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709ca\"},\"m2\":{\"start\":13,\"end\":18,\"head\":17,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709de\"}}]"
+,"relLabels":["PART-WHOLE(Arg-2,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d2\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d2\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709cb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d2\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709ca\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d2\"},\"m2\":{\"start\":13,\"end\":18,\"head\":17,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709de\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d2\"},\"m2\":{\"start\":24,\"end\":25,\"head\":24,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d4\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709cb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d4\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709ca\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d4\"},\"m2\":{\"start\":13,\"end\":18,\"head\":17,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709de\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709d4\"},\"m2\":{\"start\":24,\"end\":25,\"head\":24,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709cb\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709ca\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709cb\"},\"m2\":{\"start\":13,\"end\":18,\"head\":17,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709de\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709cb\"},\"m2\":{\"start\":24,\"end\":25,\"head\":24,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709ca\"},\"m2\":{\"start\":24,\"end\":25,\"head\":24,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["The","Capital","Spectator","reports","on","the","latest",":","Not","only","China",",","but","India","'s","state","oil","company","has","decided","to","get","into","the","Yukos-dismemberment","trade","."]
+,"lemmas":["the","Capital","Spectator","report","on","the","latest",":","not","only","China",",","but","India","'s","state","oil","company","have","decide","to","get","into","the","yukos-dismemberment","trade","."]
+,"posTags":["DT","NNP","NNP","VBZ","IN","DT","JJS",":","RB","RB","NNP",",","CC","NNP","POS","NN","NN","NN","VBZ","VBN","TO","VB","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","O","B-ADVP","B-NP","O","O","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,3,-1,3,6,4,-2,3,10,3,-2,3,17,13,17,17,19,19,3,21,19,21,25,25,22,-2]
+,"deprels":["det","nn","nsubj","root","prep","det","pobj",null,"neg","advmod","parataxis",null,"cc","poss","possessive","nn","nn","nsubj","aux","conj","aux","xcomp","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (S (NP (DT The) (NNP Capital) (NNP Spectator)) (VP (VBZ reports) (PP (IN on) (NP (DT the) (JJS latest))))) (: :) (RB Not) (S (ADVP (RB only)) (NP (NNP China)))) (, ,) (CC but) (S (NP (NP (NNP India) (POS 's)) (NN state) (NN oil) (NN company)) (VP (VBZ has) (VP (VBN decided) (S (VP (TO to) (VP (VB get) (PP (IN into) (NP (DT the) (NN Yukos-dismemberment) (NN trade))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":18,\"head\":17,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709de\"},\"m2\":{\"start\":24,\"end\":25,\"head\":24,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"aee1ac6c-2443-36fd-cd09-00004c6709c5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

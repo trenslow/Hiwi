@@ -1,0 +1,660 @@
+{"words":["well",",","security","is","tight","as","exxon","mobil","shareholders","meet","today","in","dallas","."]
+,"lemmas":["well",",","security","be","tight","as","exxon","mobil","shareholder","meet","today","in","dallas","."]
+,"posTags":["RB",",","NN","VBZ","JJ","IN","NN","NN","NNS","VBP","NN","IN","NNP","."]
+,"chunks":["B-ADVP","O","B-NP","B-VP","B-ADJP","B-SBAR","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[4,-2,4,4,-1,9,8,8,9,4,9,9,11,-2]
+,"deprels":["advmod",null,"nsubj","cop","root","mark","nn","nn","nsubj","advcl","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB well)) (, ,) (NP (NN security)) (VP (VBZ is) (ADJP (JJ tight)) (SBAR (IN as) (S (NP (NN exxon) (NN mobil) (NNS shareholders)) (VP (VBP meet) (NP-TMP (NN today)) (PP (IN in) (NP (NNP dallas))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325317\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530e\"}}]"
+,"relLabels":["ORG-AFF"]}
+
+{"words":["well",",","security","is","tight","as","exxon","mobil","shareholders","meet","today","in","dallas","."]
+,"lemmas":["well",",","security","be","tight","as","exxon","mobil","shareholder","meet","today","in","dallas","."]
+,"posTags":["RB",",","NN","VBZ","JJ","IN","NN","NN","NNS","VBP","NN","IN","NNP","."]
+,"chunks":["B-ADVP","O","B-NP","B-VP","B-ADJP","B-SBAR","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[4,-2,4,4,-1,9,8,8,9,4,9,9,11,-2]
+,"deprels":["advmod",null,"nsubj","cop","root","mark","nn","nn","nsubj","advcl","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB well)) (, ,) (NP (NN security)) (VP (VBZ is) (ADJP (JJ tight)) (SBAR (IN as) (S (NP (NN exxon) (NN mobil) (NNS shareholders)) (VP (VBP meet) (NP-TMP (NN today)) (PP (IN in) (NP (NNP dallas))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530e\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325322\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["well",",","security","is","tight","as","exxon","mobil","shareholders","meet","today","in","dallas","."]
+,"lemmas":["well",",","security","be","tight","as","exxon","mobil","shareholder","meet","today","in","dallas","."]
+,"posTags":["RB",",","NN","VBZ","JJ","IN","NN","NN","NNS","VBP","NN","IN","NNP","."]
+,"chunks":["B-ADVP","O","B-NP","B-VP","B-ADJP","B-SBAR","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[4,-2,4,4,-1,9,8,8,9,4,9,9,11,-2]
+,"deprels":["advmod",null,"nsubj","cop","root","mark","nn","nn","nsubj","advcl","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB well)) (, ,) (NP (NN security)) (VP (VBZ is) (ADJP (JJ tight)) (SBAR (IN as) (S (NP (NN exxon) (NN mobil) (NNS shareholders)) (VP (VBP meet) (NP-TMP (NN today)) (PP (IN in) (NP (NNP dallas))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325317\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325322\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["allan","chernoff","live","from","the","new","york","stock","exchange","to","tell","us","what","'s","behind","the","precautions","."]
+,"lemmas":["allan","chernoff","live","from","the","new","york","stock","exchange","to","tell","we","what","be","behind","the","precaution","."]
+,"posTags":["JJ","NN","VB","IN","DT","JJ","NN","NN","NN","TO","VB","PRP","WP","VBZ","IN","DT","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,2,8,8,8,8,3,10,2,10,13,10,13,16,14,-2]
+,"deprels":["amod","nsubj","root","prep","det","amod","nn","nn","pobj","aux","xcomp","dobj","nsubj","ccomp","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ allan) (NN chernoff)) (VP (VB live) (PP (IN from) (NP (DT the) (JJ new) (NN york) (NN stock) (NN exchange))) (S (VP (TO to) (VP (VB tell) (NP (PRP us)) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (PP (IN behind) (NP (DT the) (NNS precautions)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f7\"},\"m2\":{\"start\":4,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325308\"}}]"
+,"relLabels":["PHYS"]}
+
+{"words":["allan","chernoff","live","from","the","new","york","stock","exchange","to","tell","us","what","'s","behind","the","precautions","."]
+,"lemmas":["allan","chernoff","live","from","the","new","york","stock","exchange","to","tell","we","what","be","behind","the","precaution","."]
+,"posTags":["JJ","NN","VB","IN","DT","JJ","NN","NN","NN","TO","VB","PRP","WP","VBZ","IN","DT","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,2,8,8,8,8,3,10,2,10,13,10,13,16,14,-2]
+,"deprels":["amod","nsubj","root","prep","det","amod","nn","nn","pobj","aux","xcomp","dobj","nsubj","ccomp","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ allan) (NN chernoff)) (VP (VB live) (PP (IN from) (NP (DT the) (JJ new) (NN york) (NN stock) (NN exchange))) (S (VP (TO to) (VP (VB tell) (NP (PRP us)) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (PP (IN behind) (NP (DT the) (NNS precautions)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f7\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325325\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["allan","chernoff","live","from","the","new","york","stock","exchange","to","tell","us","what","'s","behind","the","precautions","."]
+,"lemmas":["allan","chernoff","live","from","the","new","york","stock","exchange","to","tell","we","what","be","behind","the","precaution","."]
+,"posTags":["JJ","NN","VB","IN","DT","JJ","NN","NN","NN","TO","VB","PRP","WP","VBZ","IN","DT","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-NP","B-NP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,2,8,8,8,8,3,10,2,10,13,10,13,16,14,-2]
+,"deprels":["amod","nsubj","root","prep","det","amod","nn","nn","pobj","aux","xcomp","dobj","nsubj","ccomp","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ allan) (NN chernoff)) (VP (VB live) (PP (IN from) (NP (DT the) (JJ new) (NN york) (NN stock) (NN exchange))) (S (VP (TO to) (VP (VB tell) (NP (PRP us)) (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (PP (IN behind) (NP (DT the) (NNS precautions)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325308\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325325\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["exxon","mobil","shareholder","set","to","vote","on","resolutions","dealing","with","steps","to","promote","global","energy","and","the","risks","of","global","warming","."]
+,"lemmas":["exxon","mobil","shareholder","set","to","vote","on","resolution","deal","with","step","to","promote","global","energy","and","the","risk","of","global","warming","."]
+,"posTags":["NN","NN","NN","VBN","TO","VB","IN","NNS","VBG","IN","NNS","TO","VB","JJ","NN","CC","DT","NNS","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","B-VP","I-VP","B-PP","B-NP","B-VP","B-PP","B-NP","B-VP","I-VP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,3,-1,5,3,5,6,7,8,9,12,8,14,12,14,17,14,17,20,18,-2]
+,"deprels":["nn","nn","nsubj","root","aux","xcomp","prep","pobj","vmod","prep","pobj","aux","xcomp","amod","dobj","cc","det","conj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN exxon) (NN mobil) (NN shareholder)) (VP (VBN set) (S (VP (TO to) (VP (VB vote) (PP (IN on) (NP (NP (NNS resolutions)) (VP (VBG dealing) (PP (IN with) (NP (NNS steps))) (S (VP (TO to) (VP (VB promote) (NP (NP (JJ global) (NN energy)) (CC and) (NP (NP (DT the) (NNS risks)) (PP (IN of) (NP (JJ global) (NN warming))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325318\"},\"m2\":{\"start\":0,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530f\"}}]"
+,"relLabels":["ORG-AFF"]}
+
+{"words":["environmentalists","are","pressuring","the","oil","giant","not","to","drop","it","'s","greenhouse","emissions","limits","."]
+,"lemmas":["environmentalist","be","pressure","the","oil","giant","not","to","drop","it","be","greenhouse","emission","limit","."]
+,"posTags":["NNS","VBP","VBG","DT","NN","NN","RB","TO","VB","PRP","VBZ","NN","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-VP","I-VP","B-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,5,5,2,8,8,2,13,13,13,13,8,-2]
+,"deprels":["nsubj","aux","root","det","nn","dobj","neg","aux","xcomp","nsubj","cop","nn","nn","ccomp",null]
+,"naryTree":"((ROOT (S (NP (NNS environmentalists)) (VP (VBP are) (VP (VBG pressuring) (NP (DT the) (NN oil) (NN giant)) (S (RB not) (VP (TO to) (VP (VB drop) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NN greenhouse) (NNS emissions) (NNS limits)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325311\"},\"m2\":{\"start\":3,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325319\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["environmentalists","are","pressuring","the","oil","giant","not","to","drop","it","'s","greenhouse","emissions","limits","."]
+,"lemmas":["environmentalist","be","pressure","the","oil","giant","not","to","drop","it","be","greenhouse","emission","limit","."]
+,"posTags":["NNS","VBP","VBG","DT","NN","NN","RB","TO","VB","PRP","VBZ","NN","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-VP","I-VP","B-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,5,5,2,8,8,2,13,13,13,13,8,-2]
+,"deprels":["nsubj","aux","root","det","nn","dobj","neg","aux","xcomp","nsubj","cop","nn","nn","ccomp",null]
+,"naryTree":"((ROOT (S (NP (NNS environmentalists)) (VP (VBP are) (VP (VBG pressuring) (NP (DT the) (NN oil) (NN giant)) (S (RB not) (VP (TO to) (VP (VB drop) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NN greenhouse) (NNS emissions) (NNS limits)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325311\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-00005232531a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["environmentalists","are","pressuring","the","oil","giant","not","to","drop","it","'s","greenhouse","emissions","limits","."]
+,"lemmas":["environmentalist","be","pressure","the","oil","giant","not","to","drop","it","be","greenhouse","emission","limit","."]
+,"posTags":["NNS","VBP","VBG","DT","NN","NN","RB","TO","VB","PRP","VBZ","NN","NNS","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-VP","I-VP","B-NP","B-VP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,-1,5,5,2,8,8,2,13,13,13,13,8,-2]
+,"deprels":["nsubj","aux","root","det","nn","dobj","neg","aux","xcomp","nsubj","cop","nn","nn","ccomp",null]
+,"naryTree":"((ROOT (S (NP (NNS environmentalists)) (VP (VBP are) (VP (VBG pressuring) (NP (DT the) (NN oil) (NN giant)) (S (RB not) (VP (TO to) (VP (VB drop) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (NP (NN greenhouse) (NNS emissions) (NNS limits)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325319\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-00005232531a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["yesterday",",","protesters","blocked","the","entrance","to","protest","what","they","claim","is","the","company","'s","inaction","against","global","warming","."]
+,"lemmas":["yesterday",",","protester","block","the","entrance","to","protest","what","they","claim","be","the","company","'s","inaction","against","global","warming","."]
+,"posTags":["NN",",","NNS","VBD","DT","NN","TO","VB","WP","PRP","VBP","VBZ","DT","NN","POS","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","O","B-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-NP","B-NP","B-VP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,-2,3,-1,5,15,7,5,10,10,7,15,13,15,13,3,15,18,16,-2]
+,"deprels":["tmod",null,"nsubj","root","det","nsubj","aux","vmod","dobj","nsubj","ccomp","cop","det","poss","possessive","ccomp","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP-TMP (NN yesterday)) (, ,) (NP (NNS protesters)) (VP (VBD blocked) (SBAR (S (NP (DT the) (NN entrance) (S (VP (TO to) (VP (VB protest) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP claim)))))))) (VP (VBZ is) (NP (NP (NP (DT the) (NN company) (POS 's)) (NN inaction)) (PP (IN against) (NP (JJ global) (NN warming)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232531d\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-00005232531c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["yesterday",",","protesters","blocked","the","entrance","to","protest","what","they","claim","is","the","company","'s","inaction","against","global","warming","."]
+,"lemmas":["yesterday",",","protester","block","the","entrance","to","protest","what","they","claim","be","the","company","'s","inaction","against","global","warming","."]
+,"posTags":["NN",",","NNS","VBD","DT","NN","TO","VB","WP","PRP","VBP","VBZ","DT","NN","POS","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","O","B-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-NP","B-NP","B-VP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,-2,3,-1,5,15,7,5,10,10,7,15,13,15,13,3,15,18,16,-2]
+,"deprels":["tmod",null,"nsubj","root","det","nsubj","aux","vmod","dobj","nsubj","ccomp","cop","det","poss","possessive","ccomp","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP-TMP (NN yesterday)) (, ,) (NP (NNS protesters)) (VP (VBD blocked) (SBAR (S (NP (DT the) (NN entrance) (S (VP (TO to) (VP (VB protest) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP claim)))))))) (VP (VBZ is) (NP (NP (NP (DT the) (NN company) (POS 's)) (NN inaction)) (PP (IN against) (NP (JJ global) (NN warming)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232531d\"},\"m2\":{\"start\":12,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325313\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["yesterday",",","protesters","blocked","the","entrance","to","protest","what","they","claim","is","the","company","'s","inaction","against","global","warming","."]
+,"lemmas":["yesterday",",","protester","block","the","entrance","to","protest","what","they","claim","be","the","company","'s","inaction","against","global","warming","."]
+,"posTags":["NN",",","NNS","VBD","DT","NN","TO","VB","WP","PRP","VBP","VBZ","DT","NN","POS","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","O","B-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-NP","B-NP","B-VP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,-2,3,-1,5,15,7,5,10,10,7,15,13,15,13,3,15,18,16,-2]
+,"deprels":["tmod",null,"nsubj","root","det","nsubj","aux","vmod","dobj","nsubj","ccomp","cop","det","poss","possessive","ccomp","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP-TMP (NN yesterday)) (, ,) (NP (NNS protesters)) (VP (VBD blocked) (SBAR (S (NP (DT the) (NN entrance) (S (VP (TO to) (VP (VB protest) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP claim)))))))) (VP (VBZ is) (NP (NP (NP (DT the) (NN company) (POS 's)) (NN inaction)) (PP (IN against) (NP (JJ global) (NN warming)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-00005232531c\"},\"m2\":{\"start\":12,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325313\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["exxon","mobil","maintains","it","does","take","the","issue","skreersly","and","it","is","being","targeted","unfairly","zblen","ron","also","engaging","in","a","blame","game","."]
+,"lemmas":["exxon","mobil","maintain","it","do","take","the","issue","skreersly","and","it","be","be","target","unfairly","zblen","ron","also","engage","in","a","blame","game","."]
+,"posTags":["NN","NN","VBZ","PRP","VBZ","VB","DT","NN","RB","CC","PRP","VBZ","VBG","VBN","RB","VBN","NN","RB","VBG","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,5,5,2,7,5,5,2,13,13,13,2,15,13,15,18,16,18,22,22,19,-2]
+,"deprels":["nn","nsubj","root","nsubj","aux","ccomp","det","dobj","advmod","cc","nsubjpass","aux","auxpass","conj","advmod","ccomp","dobj","advmod","vmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NN exxon) (NN mobil)) (VP (VBZ maintains) (SBAR (S (NP (PRP it)) (VP (VBZ does) (VP (VB take) (NP (DT the) (NN issue)) (ADVP (RB skreersly)))))))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (VBG being) (VP (VBN targeted) (S (VP (ADVP (RB unfairly)) (VBN zblen) (NP (NP (NN ron)) (VP (ADVP (RB also)) (VBG engaging) (PP (IN in) (NP (DT a) (NN blame) (NN game))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325314\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325315\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["exxon","mobil","maintains","it","does","take","the","issue","skreersly","and","it","is","being","targeted","unfairly","zblen","ron","also","engaging","in","a","blame","game","."]
+,"lemmas":["exxon","mobil","maintain","it","do","take","the","issue","skreersly","and","it","be","be","target","unfairly","zblen","ron","also","engage","in","a","blame","game","."]
+,"posTags":["NN","NN","VBZ","PRP","VBZ","VB","DT","NN","RB","CC","PRP","VBZ","VBG","VBN","RB","VBN","NN","RB","VBG","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,5,5,2,7,5,5,2,13,13,13,2,15,13,15,18,16,18,22,22,19,-2]
+,"deprels":["nn","nsubj","root","nsubj","aux","ccomp","det","dobj","advmod","cc","nsubjpass","aux","auxpass","conj","advmod","ccomp","dobj","advmod","vmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NN exxon) (NN mobil)) (VP (VBZ maintains) (SBAR (S (NP (PRP it)) (VP (VBZ does) (VP (VB take) (NP (DT the) (NN issue)) (ADVP (RB skreersly)))))))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (VBG being) (VP (VBN targeted) (S (VP (ADVP (RB unfairly)) (VBN zblen) (NP (NP (NN ron)) (VP (ADVP (RB also)) (VBG engaging) (PP (IN in) (NP (DT a) (NN blame) (NN game))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325314\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325316\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["exxon","mobil","maintains","it","does","take","the","issue","skreersly","and","it","is","being","targeted","unfairly","zblen","ron","also","engaging","in","a","blame","game","."]
+,"lemmas":["exxon","mobil","maintain","it","do","take","the","issue","skreersly","and","it","be","be","target","unfairly","zblen","ron","also","engage","in","a","blame","game","."]
+,"posTags":["NN","NN","VBZ","PRP","VBZ","VB","DT","NN","RB","CC","PRP","VBZ","VBG","VBN","RB","VBN","NN","RB","VBG","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,5,5,2,7,5,5,2,13,13,13,2,15,13,15,18,16,18,22,22,19,-2]
+,"deprels":["nn","nsubj","root","nsubj","aux","ccomp","det","dobj","advmod","cc","nsubjpass","aux","auxpass","conj","advmod","ccomp","dobj","advmod","vmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NN exxon) (NN mobil)) (VP (VBZ maintains) (SBAR (S (NP (PRP it)) (VP (VBZ does) (VP (VB take) (NP (DT the) (NN issue)) (ADVP (RB skreersly)))))))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (VBG being) (VP (VBN targeted) (S (VP (ADVP (RB unfairly)) (VBN zblen) (NP (NP (NN ron)) (VP (ADVP (RB also)) (VBG engaging) (PP (IN in) (NP (DT a) (NN blame) (NN game))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325314\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["exxon","mobil","maintains","it","does","take","the","issue","skreersly","and","it","is","being","targeted","unfairly","zblen","ron","also","engaging","in","a","blame","game","."]
+,"lemmas":["exxon","mobil","maintain","it","do","take","the","issue","skreersly","and","it","be","be","target","unfairly","zblen","ron","also","engage","in","a","blame","game","."]
+,"posTags":["NN","NN","VBZ","PRP","VBZ","VB","DT","NN","RB","CC","PRP","VBZ","VBG","VBN","RB","VBN","NN","RB","VBG","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,5,5,2,7,5,5,2,13,13,13,2,15,13,15,18,16,18,22,22,19,-2]
+,"deprels":["nn","nsubj","root","nsubj","aux","ccomp","det","dobj","advmod","cc","nsubjpass","aux","auxpass","conj","advmod","ccomp","dobj","advmod","vmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NN exxon) (NN mobil)) (VP (VBZ maintains) (SBAR (S (NP (PRP it)) (VP (VBZ does) (VP (VB take) (NP (DT the) (NN issue)) (ADVP (RB skreersly)))))))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (VBG being) (VP (VBN targeted) (S (VP (ADVP (RB unfairly)) (VBN zblen) (NP (NP (NN ron)) (VP (ADVP (RB also)) (VBG engaging) (PP (IN in) (NP (DT a) (NN blame) (NN game))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325315\"},\"m2\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325316\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["exxon","mobil","maintains","it","does","take","the","issue","skreersly","and","it","is","being","targeted","unfairly","zblen","ron","also","engaging","in","a","blame","game","."]
+,"lemmas":["exxon","mobil","maintain","it","do","take","the","issue","skreersly","and","it","be","be","target","unfairly","zblen","ron","also","engage","in","a","blame","game","."]
+,"posTags":["NN","NN","VBZ","PRP","VBZ","VB","DT","NN","RB","CC","PRP","VBZ","VBG","VBN","RB","VBN","NN","RB","VBG","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,5,5,2,7,5,5,2,13,13,13,2,15,13,15,18,16,18,22,22,19,-2]
+,"deprels":["nn","nsubj","root","nsubj","aux","ccomp","det","dobj","advmod","cc","nsubjpass","aux","auxpass","conj","advmod","ccomp","dobj","advmod","vmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NN exxon) (NN mobil)) (VP (VBZ maintains) (SBAR (S (NP (PRP it)) (VP (VBZ does) (VP (VB take) (NP (DT the) (NN issue)) (ADVP (RB skreersly)))))))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (VBG being) (VP (VBN targeted) (S (VP (ADVP (RB unfairly)) (VBN zblen) (NP (NP (NN ron)) (VP (ADVP (RB also)) (VBG engaging) (PP (IN in) (NP (DT a) (NN blame) (NN game))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325315\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["exxon","mobil","maintains","it","does","take","the","issue","skreersly","and","it","is","being","targeted","unfairly","zblen","ron","also","engaging","in","a","blame","game","."]
+,"lemmas":["exxon","mobil","maintain","it","do","take","the","issue","skreersly","and","it","be","be","target","unfairly","zblen","ron","also","engage","in","a","blame","game","."]
+,"posTags":["NN","NN","VBZ","PRP","VBZ","VB","DT","NN","RB","CC","PRP","VBZ","VBG","VBN","RB","VBN","NN","RB","VBG","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","B-ADVP","O","B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,5,5,2,7,5,5,2,13,13,13,2,15,13,15,18,16,18,22,22,19,-2]
+,"deprels":["nn","nsubj","root","nsubj","aux","ccomp","det","dobj","advmod","cc","nsubjpass","aux","auxpass","conj","advmod","ccomp","dobj","advmod","vmod","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (S (NP (NN exxon) (NN mobil)) (VP (VBZ maintains) (SBAR (S (NP (PRP it)) (VP (VBZ does) (VP (VB take) (NP (DT the) (NN issue)) (ADVP (RB skreersly)))))))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (VBG being) (VP (VBN targeted) (S (VP (ADVP (RB unfairly)) (VBN zblen) (NP (NP (NN ron)) (VP (ADVP (RB also)) (VBG engaging) (PP (IN in) (NP (DT a) (NN blame) (NN game))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325316\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f9\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["who","is","the","latest","target","?"]
+,"lemmas":["who","be","the","latest","target","?"]
+,"posTags":["WP","VBZ","DT","JJS","NN","."]
+,"chunks":["B-NP","O","B-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,4,4,0,-2]
+,"deprels":["root","cop","det","amod","nsubj",null]
+,"naryTree":"((ROOT (SBARQ (WHNP (WP who)) (SQ (VBZ is) (NP (DT the) (JJS latest) (NN target))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-00005232531f\"},\"m2\":{\"start\":2,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325320\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fc\"},\"m2\":{\"start\":8,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530b\"}}]"
+,"relLabels":["ORG-AFF"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325306\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325324\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325306\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fb\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325306\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fc\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325324\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fb\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325324\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fc\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325324\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fd\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325324\"},\"m2\":{\"start\":8,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530b\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fb\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fc\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fb\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fd\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fb\"},\"m2\":{\"start\":8,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530b\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fb\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fe\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fc\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fd\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fc\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fe\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fd\"},\"m2\":{\"start\":8,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530b\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fd\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fe\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","source","tell","us","enron","is","considering","suing","its","own","investment","bankers","for","giving","it","bad","financial","advice","."]
+,"lemmas":["a","source","tell","we","enron","be","consider","sue","its","own","investment","banker","for","give","it","bad","financial","advice","."]
+,"posTags":["DT","NN","VB","PRP","NN","VBZ","VBG","VBG","PRP$","JJ","NN","NNS","IN","VBG","PRP","JJ","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-NP","B-VP","I-VP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-VP","B-NP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,6,1,2,2,6,-1,6,11,11,11,7,7,12,13,17,17,13,-2]
+,"deprels":["det","nsubj","dep","iobj","dobj","aux","root","vmod","poss","amod","nn","dobj","prep","pcomp","iobj","amod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (NN source) (S (VP (VB tell) (NP (PRP us)) (NP (NN enron))))) (VP (VBZ is) (VP (VBG considering) (S (VP (VBG suing) (NP (PRP$ its) (JJ own) (NN investment) (NNS bankers)) (PP (IN for) (S (VP (VBG giving) (NP (PRP it)) (NP (JJ bad) (JJ financial) (NN advice))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530b\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252fe\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["of","course",",","the","notorious","energy","trader","is","the","subject","of","a","slew","of","investigations","for","alleged","financial","trickery","."]
+,"lemmas":["of","course",",","the","notorious","energy","trader","be","the","subject","of","a","slew","of","investigation","for","alleged","financial","trickery","."]
+,"posTags":["IN","NN",",","DT","JJ","NN","NN","VBZ","DT","NN","IN","DT","NN","IN","NNS","IN","JJ","JJ","NN","."]
+,"chunks":["B-PP","B-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[9,0,-2,6,6,6,9,9,9,-1,9,12,10,12,13,14,18,18,15,-2]
+,"deprels":["prep","pobj",null,"det","amod","nn","nsubj","cop","det","root","prep","det","pobj","prep","pobj","prep","amod","amod","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN of) (NP (NN course))) (, ,) (NP (DT the) (JJ notorious) (NN energy) (NN trader)) (VP (VBZ is) (NP (NP (DT the) (NN subject)) (PP (IN of) (NP (NP (DT a) (NN slew)) (PP (IN of) (NP (NP (NNS investigations)) (PP (IN for) (NP (JJ alleged) (JJ financial) (NN trickery))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252ff\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325300\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325302\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530c\"}}]"
+,"relLabels":["ORG-AFF"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325301\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325302\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325301\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530c\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325301\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f1\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325301\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f4\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325302\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f1\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325302\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f4\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325302\"},\"m2\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325303\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530c\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f1\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530c\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f4\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530c\"},\"m2\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325303\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f1\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f4\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f1\"},\"m2\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325303\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["enron","may","actually","try","to","blame","its","bankers",",","including","jpmorgan","chase","and","citigroup",",","for","dishing","out","advice","that","actually","helped","the","company","'s","downfall","."]
+,"lemmas":["enron","may","actually","try","to","blame","its","banker",",","include","jpmorgan","chase","and","citigroup",",","for","dish","out","advice","that","actually","help","the","company","'s","downfall","."]
+,"posTags":["NN","MD","RB","VB","TO","VB","PRP$","NNS",",","VBG","JJ","NN","CC","NN",",","IN","VBG","RP","NN","WDT","RB","VBD","DT","NN","POS","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-VP","I-VP","B-NP","I-NP","O","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-PP","B-VP","B-PRT","B-NP","B-NP","B-ADVP","B-VP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,5,3,7,5,-2,3,11,9,11,11,-2,3,15,16,16,21,21,18,23,25,23,21,-2]
+,"deprels":["nsubj","aux","advmod","root","aux","xcomp","poss","dobj",null,"prep","amod","pobj","cc","conj",null,"prep","pcomp","prt","dobj","nsubj","advmod","rcmod","det","poss","possessive","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN enron)) (VP (MD may) (ADVP (RB actually)) (VP (VB try) (S (VP (TO to) (VP (VB blame) (NP (PRP$ its) (NNS bankers))))) (, ,) (PP (VBG including) (NP (JJ jpmorgan) (NN chase) (CC and) (NN citigroup))) (, ,) (PP (IN for) (S (VP (VBG dishing) (PRT (RP out)) (NP (NP (NN advice)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBD helped) (NP (NP (DT the) (NN company) (POS 's)) (NN downfall))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f4\"},\"m2\":{\"start\":22,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325303\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["the","latest","move","here","is","part","of","a","new","bush","by","enron","'s","new","chief","executive","to","settle","pending","litigation","."]
+,"lemmas":["the","latest","move","here","be","part","of","a","new","bush","by","enron","'s","new","chief","executive","to","settle","pend","litigation","."]
+,"posTags":["DT","JJS","NN","RB","VBZ","NN","IN","DT","JJ","NN","IN","NN","POS","JJ","JJ","NN","TO","VB","VBG","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-ADVP","B-VP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[2,2,5,5,5,-1,5,9,9,6,9,15,11,15,15,10,17,5,19,17,-2]
+,"deprels":["det","amod","nsubj","advmod","cop","root","prep","det","amod","pobj","prep","poss","possessive","amod","amod","pobj","aux","vmod","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (JJS latest) (NN move)) (ADVP (RB here)) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (JJ new) (NN bush)) (PP (IN by) (NP (NP (NN enron) (POS 's)) (JJ new) (JJ chief) (NN executive))))) (S (VP (TO to) (VP (VB settle) (NP (VBG pending) (NN litigation))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325304\"},\"m2\":{\"start\":11,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252ed\"}}]"
+,"relLabels":["ORG-AFF"]}
+
+{"words":["jpmorgan",",","citigroup",",","and","other","advisers","have","already","been","sued","by","shareholders","and","they","also","face","regulatory","investigations","."]
+,"lemmas":["jpmorgan",",","citigroup",",","and","other","adviser","have","already","be","sue","by","shareholder","and","they","also","face","regulatory","investigation","."]
+,"posTags":["NN",",","NN",",","CC","JJ","NNS","VBP","RB","VBN","VBN","IN","NNS","CC","PRP","RB","VBP","JJ","NNS","."]
+,"chunks":["B-NP","O","B-NP","O","O","B-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","B-NP","I-NP","O"]
+,"parents":[10,-2,0,-2,0,6,0,10,10,10,-1,10,11,10,16,16,10,18,16,-2]
+,"deprels":["nsubjpass",null,"conj",null,"cc","amod","conj","aux","advmod","auxpass","root","prep","pobj","cc","nsubj","advmod","conj","amod","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NN jpmorgan)) (, ,) (NP (NN citigroup)) (, ,) (CC and) (NP (JJ other) (NNS advisers))) (VP (VBP have) (ADVP (RB already)) (VP (VBN been) (VP (VBN sued) (PP (IN by) (NP (NNS shareholders))))))) (CC and) (S (NP (PRP they)) (ADVP (RB also)) (VP (VBP face) (NP (JJ regulatory) (NNS investigations)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f2\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f5\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["jpmorgan",",","citigroup",",","and","other","advisers","have","already","been","sued","by","shareholders","and","they","also","face","regulatory","investigations","."]
+,"lemmas":["jpmorgan",",","citigroup",",","and","other","adviser","have","already","be","sue","by","shareholder","and","they","also","face","regulatory","investigation","."]
+,"posTags":["NN",",","NN",",","CC","JJ","NNS","VBP","RB","VBN","VBN","IN","NNS","CC","PRP","RB","VBP","JJ","NNS","."]
+,"chunks":["B-NP","O","B-NP","O","O","B-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","B-NP","I-NP","O"]
+,"parents":[10,-2,0,-2,0,6,0,10,10,10,-1,10,11,10,16,16,10,18,16,-2]
+,"deprels":["nsubjpass",null,"conj",null,"cc","amod","conj","aux","advmod","auxpass","root","prep","pobj","cc","nsubj","advmod","conj","amod","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NN jpmorgan)) (, ,) (NP (NN citigroup)) (, ,) (CC and) (NP (JJ other) (NNS advisers))) (VP (VBP have) (ADVP (RB already)) (VP (VBN been) (VP (VBN sued) (PP (IN by) (NP (NNS shareholders))))))) (CC and) (S (NP (PRP they)) (ADVP (RB also)) (VP (VBP face) (NP (JJ regulatory) (NNS investigations)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f2\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252ef\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["jpmorgan",",","citigroup",",","and","other","advisers","have","already","been","sued","by","shareholders","and","they","also","face","regulatory","investigations","."]
+,"lemmas":["jpmorgan",",","citigroup",",","and","other","adviser","have","already","be","sue","by","shareholder","and","they","also","face","regulatory","investigation","."]
+,"posTags":["NN",",","NN",",","CC","JJ","NNS","VBP","RB","VBN","VBN","IN","NNS","CC","PRP","RB","VBP","JJ","NNS","."]
+,"chunks":["B-NP","O","B-NP","O","O","B-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","B-NP","I-NP","O"]
+,"parents":[10,-2,0,-2,0,6,0,10,10,10,-1,10,11,10,16,16,10,18,16,-2]
+,"deprels":["nsubjpass",null,"conj",null,"cc","amod","conj","aux","advmod","auxpass","root","prep","pobj","cc","nsubj","advmod","conj","amod","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NN jpmorgan)) (, ,) (NP (NN citigroup)) (, ,) (CC and) (NP (JJ other) (NNS advisers))) (VP (VBP have) (ADVP (RB already)) (VP (VBN been) (VP (VBN sued) (PP (IN by) (NP (NNS shareholders))))))) (CC and) (S (NP (PRP they)) (ADVP (RB also)) (VP (VBP face) (NP (JJ regulatory) (NNS investigations)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f2\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325327\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["jpmorgan",",","citigroup",",","and","other","advisers","have","already","been","sued","by","shareholders","and","they","also","face","regulatory","investigations","."]
+,"lemmas":["jpmorgan",",","citigroup",",","and","other","adviser","have","already","be","sue","by","shareholder","and","they","also","face","regulatory","investigation","."]
+,"posTags":["NN",",","NN",",","CC","JJ","NNS","VBP","RB","VBN","VBN","IN","NNS","CC","PRP","RB","VBP","JJ","NNS","."]
+,"chunks":["B-NP","O","B-NP","O","O","B-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","B-NP","I-NP","O"]
+,"parents":[10,-2,0,-2,0,6,0,10,10,10,-1,10,11,10,16,16,10,18,16,-2]
+,"deprels":["nsubjpass",null,"conj",null,"cc","amod","conj","aux","advmod","auxpass","root","prep","pobj","cc","nsubj","advmod","conj","amod","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NN jpmorgan)) (, ,) (NP (NN citigroup)) (, ,) (CC and) (NP (JJ other) (NNS advisers))) (VP (VBP have) (ADVP (RB already)) (VP (VBN been) (VP (VBN sued) (PP (IN by) (NP (NNS shareholders))))))) (CC and) (S (NP (PRP they)) (ADVP (RB also)) (VP (VBP face) (NP (JJ regulatory) (NNS investigations)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f2\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["jpmorgan",",","citigroup",",","and","other","advisers","have","already","been","sued","by","shareholders","and","they","also","face","regulatory","investigations","."]
+,"lemmas":["jpmorgan",",","citigroup",",","and","other","adviser","have","already","be","sue","by","shareholder","and","they","also","face","regulatory","investigation","."]
+,"posTags":["NN",",","NN",",","CC","JJ","NNS","VBP","RB","VBN","VBN","IN","NNS","CC","PRP","RB","VBP","JJ","NNS","."]
+,"chunks":["B-NP","O","B-NP","O","O","B-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","B-NP","I-NP","O"]
+,"parents":[10,-2,0,-2,0,6,0,10,10,10,-1,10,11,10,16,16,10,18,16,-2]
+,"deprels":["nsubjpass",null,"conj",null,"cc","amod","conj","aux","advmod","auxpass","root","prep","pobj","cc","nsubj","advmod","conj","amod","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NN jpmorgan)) (, ,) (NP (NN citigroup)) (, ,) (CC and) (NP (JJ other) (NNS advisers))) (VP (VBP have) (ADVP (RB already)) (VP (VBN been) (VP (VBN sued) (PP (IN by) (NP (NNS shareholders))))))) (CC and) (S (NP (PRP they)) (ADVP (RB also)) (VP (VBP face) (NP (JJ regulatory) (NNS investigations)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f5\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252ef\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["jpmorgan",",","citigroup",",","and","other","advisers","have","already","been","sued","by","shareholders","and","they","also","face","regulatory","investigations","."]
+,"lemmas":["jpmorgan",",","citigroup",",","and","other","adviser","have","already","be","sue","by","shareholder","and","they","also","face","regulatory","investigation","."]
+,"posTags":["NN",",","NN",",","CC","JJ","NNS","VBP","RB","VBN","VBN","IN","NNS","CC","PRP","RB","VBP","JJ","NNS","."]
+,"chunks":["B-NP","O","B-NP","O","O","B-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","B-NP","I-NP","O"]
+,"parents":[10,-2,0,-2,0,6,0,10,10,10,-1,10,11,10,16,16,10,18,16,-2]
+,"deprels":["nsubjpass",null,"conj",null,"cc","amod","conj","aux","advmod","auxpass","root","prep","pobj","cc","nsubj","advmod","conj","amod","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NN jpmorgan)) (, ,) (NP (NN citigroup)) (, ,) (CC and) (NP (JJ other) (NNS advisers))) (VP (VBP have) (ADVP (RB already)) (VP (VBN been) (VP (VBN sued) (PP (IN by) (NP (NNS shareholders))))))) (CC and) (S (NP (PRP they)) (ADVP (RB also)) (VP (VBP face) (NP (JJ regulatory) (NNS investigations)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f5\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325327\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["jpmorgan",",","citigroup",",","and","other","advisers","have","already","been","sued","by","shareholders","and","they","also","face","regulatory","investigations","."]
+,"lemmas":["jpmorgan",",","citigroup",",","and","other","adviser","have","already","be","sue","by","shareholder","and","they","also","face","regulatory","investigation","."]
+,"posTags":["NN",",","NN",",","CC","JJ","NNS","VBP","RB","VBN","VBN","IN","NNS","CC","PRP","RB","VBP","JJ","NNS","."]
+,"chunks":["B-NP","O","B-NP","O","O","B-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","B-NP","I-NP","O"]
+,"parents":[10,-2,0,-2,0,6,0,10,10,10,-1,10,11,10,16,16,10,18,16,-2]
+,"deprels":["nsubjpass",null,"conj",null,"cc","amod","conj","aux","advmod","auxpass","root","prep","pobj","cc","nsubj","advmod","conj","amod","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NN jpmorgan)) (, ,) (NP (NN citigroup)) (, ,) (CC and) (NP (JJ other) (NNS advisers))) (VP (VBP have) (ADVP (RB already)) (VP (VBN been) (VP (VBN sued) (PP (IN by) (NP (NNS shareholders))))))) (CC and) (S (NP (PRP they)) (ADVP (RB also)) (VP (VBP face) (NP (JJ regulatory) (NNS investigations)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252f5\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["jpmorgan",",","citigroup",",","and","other","advisers","have","already","been","sued","by","shareholders","and","they","also","face","regulatory","investigations","."]
+,"lemmas":["jpmorgan",",","citigroup",",","and","other","adviser","have","already","be","sue","by","shareholder","and","they","also","face","regulatory","investigation","."]
+,"posTags":["NN",",","NN",",","CC","JJ","NNS","VBP","RB","VBN","VBN","IN","NNS","CC","PRP","RB","VBP","JJ","NNS","."]
+,"chunks":["B-NP","O","B-NP","O","O","B-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","B-NP","I-NP","O"]
+,"parents":[10,-2,0,-2,0,6,0,10,10,10,-1,10,11,10,16,16,10,18,16,-2]
+,"deprels":["nsubjpass",null,"conj",null,"cc","amod","conj","aux","advmod","auxpass","root","prep","pobj","cc","nsubj","advmod","conj","amod","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NN jpmorgan)) (, ,) (NP (NN citigroup)) (, ,) (CC and) (NP (JJ other) (NNS advisers))) (VP (VBP have) (ADVP (RB already)) (VP (VBN been) (VP (VBN sued) (PP (IN by) (NP (NNS shareholders))))))) (CC and) (S (NP (PRP they)) (ADVP (RB also)) (VP (VBP face) (NP (JJ regulatory) (NNS investigations)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252ef\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325327\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["jpmorgan",",","citigroup",",","and","other","advisers","have","already","been","sued","by","shareholders","and","they","also","face","regulatory","investigations","."]
+,"lemmas":["jpmorgan",",","citigroup",",","and","other","adviser","have","already","be","sue","by","shareholder","and","they","also","face","regulatory","investigation","."]
+,"posTags":["NN",",","NN",",","CC","JJ","NNS","VBP","RB","VBN","VBN","IN","NNS","CC","PRP","RB","VBP","JJ","NNS","."]
+,"chunks":["B-NP","O","B-NP","O","O","B-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","B-NP","I-NP","O"]
+,"parents":[10,-2,0,-2,0,6,0,10,10,10,-1,10,11,10,16,16,10,18,16,-2]
+,"deprels":["nsubjpass",null,"conj",null,"cc","amod","conj","aux","advmod","auxpass","root","prep","pobj","cc","nsubj","advmod","conj","amod","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NN jpmorgan)) (, ,) (NP (NN citigroup)) (, ,) (CC and) (NP (JJ other) (NNS advisers))) (VP (VBP have) (ADVP (RB already)) (VP (VBN been) (VP (VBN sued) (PP (IN by) (NP (NNS shareholders))))))) (CC and) (S (NP (PRP they)) (ADVP (RB also)) (VP (VBP face) (NP (JJ regulatory) (NNS investigations)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-0000523252ef\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["jpmorgan",",","citigroup",",","and","other","advisers","have","already","been","sued","by","shareholders","and","they","also","face","regulatory","investigations","."]
+,"lemmas":["jpmorgan",",","citigroup",",","and","other","adviser","have","already","be","sue","by","shareholder","and","they","also","face","regulatory","investigation","."]
+,"posTags":["NN",",","NN",",","CC","JJ","NNS","VBP","RB","VBN","VBN","IN","NNS","CC","PRP","RB","VBP","JJ","NNS","."]
+,"chunks":["B-NP","O","B-NP","O","O","B-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","O","B-NP","B-ADVP","B-VP","B-NP","I-NP","O"]
+,"parents":[10,-2,0,-2,0,6,0,10,10,10,-1,10,11,10,16,16,10,18,16,-2]
+,"deprels":["nsubjpass",null,"conj",null,"cc","amod","conj","aux","advmod","auxpass","root","prep","pobj","cc","nsubj","advmod","conj","amod","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NP (NN jpmorgan)) (, ,) (NP (NN citigroup)) (, ,) (CC and) (NP (JJ other) (NNS advisers))) (VP (VBP have) (ADVP (RB already)) (VP (VBN been) (VP (VBN sued) (PP (IN by) (NP (NNS shareholders))))))) (CC and) (S (NP (PRP they)) (ADVP (RB also)) (VP (VBP face) (NP (JJ regulatory) (NNS investigations)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325327\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-00005232530a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["let","'s","turn","our","attention","to","wall","street","."]
+,"lemmas":["let","'s","turn","we","attention","to","wall","street","."]
+,"posTags":["VB","POS","VB","PRP$","NN","TO","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[-1,2,0,4,2,2,7,5,-2]
+,"deprels":["root","nsubj","ccomp","poss","dobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB let) (S (NP (POS 's)) (VP (VB turn) (NP (PRP$ our) (NN attention)) (PP (TO to) (NP (NN wall) (NN street)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325329\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-00005232532a\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["let","'s","turn","our","attention","to","wall","street","."]
+,"lemmas":["let","'s","turn","we","attention","to","wall","street","."]
+,"posTags":["VB","POS","VB","PRP$","NN","TO","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[-1,2,0,4,2,2,7,5,-2]
+,"deprels":["root","nsubj","ccomp","poss","dobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB let) (S (NP (POS 's)) (VP (VB turn) (NP (PRP$ our) (NN attention)) (PP (TO to) (NP (NN wall) (NN street)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-000052325329\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325333\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["let","'s","turn","our","attention","to","wall","street","."]
+,"lemmas":["let","'s","turn","we","attention","to","wall","street","."]
+,"posTags":["VB","POS","VB","PRP$","NN","TO","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[-1,2,0,4,2,2,7,5,-2]
+,"deprels":["root","nsubj","ccomp","poss","dobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB let) (S (NP (POS 's)) (VP (VB turn) (NP (PRP$ our) (NN attention)) (PP (TO to) (NP (NN wall) (NN street)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"609bb048-93b8-6dcb-a380-00005232532a\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"609bb048-93b8-6dcb-a380-000052325333\"}}]"
+,"relLabels":["NO_RELATION"]}
+

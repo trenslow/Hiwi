@@ -1,0 +1,80 @@
+{"words":["two","southwest","airline","pilots","were","reportedly","fired","for","stripping","down","."]
+,"lemmas":["two","southwest","airline","pilot","be","reportedly","fire","for","strip","down","."]
+,"posTags":["CD","JJ","NN","NNS","VBD","RB","VBN","IN","VBG","RP","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-VP","B-PRT","O"]
+,"parents":[3,3,3,6,6,6,-1,6,7,8,-2]
+,"deprels":["num","amod","nn","nsubjpass","auxpass","advmod","root","prep","pcomp","prt",null]
+,"naryTree":"((ROOT (S (NP (CD two) (JJ southwest) (NN airline) (NNS pilots)) (VP (VBD were) (ADVP (RB reportedly)) (VP (VBN fired) (PP (IN for) (S (VP (VBG stripping) (PRT (RP down))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070c3\"},\"m2\":{\"start\":0,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070c7\"}}]"
+,"relLabels":["ORG-AFF-Employment(Arg-2,Arg-1)"]}
+
+{"words":["``","usa","today","''","says","the","pilots","were","dismissed","for","allegedly","taking","off","all","or","most","of","their","clothes","in","the","cockpit","."]
+,"lemmas":["``","usa","today","''","say","the","pilot","be","dismiss","for","allegedly","take","off","all","or","most","of","they","clothes","in","the","cockpit","."]
+,"posTags":["``","NN","NN","''","VBZ","DT","NNS","VBD","VBN","IN","RB","VBG","RP","DT","CC","JJS","IN","PRP$","NNS","IN","DT","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","I-VP","B-PRT","B-NP","O","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[-2,2,4,-2,-1,6,8,8,4,8,11,9,11,11,13,13,15,18,16,18,21,19,-2]
+,"deprels":[null,"nn","nsubj",null,"root","det","nsubjpass","auxpass","ccomp","prep","advmod","pcomp","prt","dobj","cc","conj","prep","poss","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (`` ``) (NP (NN usa) (NN today)) ('' '') (VP (VBZ says) (SBAR (S (NP (DT the) (NNS pilots)) (VP (VBD were) (VP (VBN dismissed) (PP (IN for) (S (VP (ADVP (RB allegedly)) (VBG taking) (PRT (RP off)) (NP (NP (DT all)) (CC or) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ their) (NNS clothes)) (PP (IN in) (NP (DT the) (NN cockpit))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070c8\"},\"m2\":{\"start\":20,\"end\":22,\"head\":21,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070bf\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["``","usa","today","''","says","the","pilots","were","dismissed","for","allegedly","taking","off","all","or","most","of","their","clothes","in","the","cockpit","."]
+,"lemmas":["``","usa","today","''","say","the","pilot","be","dismiss","for","allegedly","take","off","all","or","most","of","they","clothes","in","the","cockpit","."]
+,"posTags":["``","NN","NN","''","VBZ","DT","NNS","VBD","VBN","IN","RB","VBG","RP","DT","CC","JJS","IN","PRP$","NNS","IN","DT","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","I-VP","B-PRT","B-NP","O","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[-2,2,4,-2,-1,6,8,8,4,8,11,9,11,11,13,13,15,18,16,18,21,19,-2]
+,"deprels":[null,"nn","nsubj",null,"root","det","nsubjpass","auxpass","ccomp","prep","advmod","pcomp","prt","dobj","cc","conj","prep","poss","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (`` ``) (NP (NN usa) (NN today)) ('' '') (VP (VBZ says) (SBAR (S (NP (DT the) (NNS pilots)) (VP (VBD were) (VP (VBN dismissed) (PP (IN for) (S (VP (ADVP (RB allegedly)) (VBG taking) (PRT (RP off)) (NP (NP (DT all)) (CC or) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ their) (NNS clothes)) (PP (IN in) (NP (DT the) (NN cockpit))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070c9\"},\"m2\":{\"start\":20,\"end\":22,\"head\":21,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070bf\"}}]"
+,"relLabels":["ART-User-Owner-Inventor-Manufacturer(Arg-1,Arg-2)"]}
+
+{"words":["``","usa","today","''","says","the","pilots","were","dismissed","for","allegedly","taking","off","all","or","most","of","their","clothes","in","the","cockpit","."]
+,"lemmas":["``","usa","today","''","say","the","pilot","be","dismiss","for","allegedly","take","off","all","or","most","of","they","clothes","in","the","cockpit","."]
+,"posTags":["``","NN","NN","''","VBZ","DT","NNS","VBD","VBN","IN","RB","VBG","RP","DT","CC","JJS","IN","PRP$","NNS","IN","DT","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","I-VP","B-PRT","B-NP","O","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[-2,2,4,-2,-1,6,8,8,4,8,11,9,11,11,13,13,15,18,16,18,21,19,-2]
+,"deprels":[null,"nn","nsubj",null,"root","det","nsubjpass","auxpass","ccomp","prep","advmod","pcomp","prt","dobj","cc","conj","prep","poss","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (`` ``) (NP (NN usa) (NN today)) ('' '') (VP (VBZ says) (SBAR (S (NP (DT the) (NNS pilots)) (VP (VBD were) (VP (VBN dismissed) (PP (IN for) (S (VP (ADVP (RB allegedly)) (VBG taking) (PRT (RP off)) (NP (NP (DT all)) (CC or) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ their) (NNS clothes)) (PP (IN in) (NP (DT the) (NN cockpit))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070c5\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070c8\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["``","usa","today","''","says","the","pilots","were","dismissed","for","allegedly","taking","off","all","or","most","of","their","clothes","in","the","cockpit","."]
+,"lemmas":["``","usa","today","''","say","the","pilot","be","dismiss","for","allegedly","take","off","all","or","most","of","they","clothes","in","the","cockpit","."]
+,"posTags":["``","NN","NN","''","VBZ","DT","NNS","VBD","VBN","IN","RB","VBG","RP","DT","CC","JJS","IN","PRP$","NNS","IN","DT","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","I-VP","B-PRT","B-NP","O","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[-2,2,4,-2,-1,6,8,8,4,8,11,9,11,11,13,13,15,18,16,18,21,19,-2]
+,"deprels":[null,"nn","nsubj",null,"root","det","nsubjpass","auxpass","ccomp","prep","advmod","pcomp","prt","dobj","cc","conj","prep","poss","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (`` ``) (NP (NN usa) (NN today)) ('' '') (VP (VBZ says) (SBAR (S (NP (DT the) (NNS pilots)) (VP (VBD were) (VP (VBN dismissed) (PP (IN for) (S (VP (ADVP (RB allegedly)) (VBG taking) (PRT (RP off)) (NP (NP (DT all)) (CC or) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ their) (NNS clothes)) (PP (IN in) (NP (DT the) (NN cockpit))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070c5\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070c9\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["``","usa","today","''","says","the","pilots","were","dismissed","for","allegedly","taking","off","all","or","most","of","their","clothes","in","the","cockpit","."]
+,"lemmas":["``","usa","today","''","say","the","pilot","be","dismiss","for","allegedly","take","off","all","or","most","of","they","clothes","in","the","cockpit","."]
+,"posTags":["``","NN","NN","''","VBZ","DT","NNS","VBD","VBN","IN","RB","VBG","RP","DT","CC","JJS","IN","PRP$","NNS","IN","DT","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","I-VP","B-PRT","B-NP","O","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[-2,2,4,-2,-1,6,8,8,4,8,11,9,11,11,13,13,15,18,16,18,21,19,-2]
+,"deprels":[null,"nn","nsubj",null,"root","det","nsubjpass","auxpass","ccomp","prep","advmod","pcomp","prt","dobj","cc","conj","prep","poss","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (`` ``) (NP (NN usa) (NN today)) ('' '') (VP (VBZ says) (SBAR (S (NP (DT the) (NNS pilots)) (VP (VBD were) (VP (VBN dismissed) (PP (IN for) (S (VP (ADVP (RB allegedly)) (VBG taking) (PRT (RP off)) (NP (NP (DT all)) (CC or) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ their) (NNS clothes)) (PP (IN in) (NP (DT the) (NN cockpit))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070c5\"},\"m2\":{\"start\":20,\"end\":22,\"head\":21,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070bf\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["``","usa","today","''","says","the","pilots","were","dismissed","for","allegedly","taking","off","all","or","most","of","their","clothes","in","the","cockpit","."]
+,"lemmas":["``","usa","today","''","say","the","pilot","be","dismiss","for","allegedly","take","off","all","or","most","of","they","clothes","in","the","cockpit","."]
+,"posTags":["``","NN","NN","''","VBZ","DT","NNS","VBD","VBN","IN","RB","VBG","RP","DT","CC","JJS","IN","PRP$","NNS","IN","DT","NN","."]
+,"chunks":["O","B-NP","I-NP","O","B-VP","B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","I-VP","B-PRT","B-NP","O","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[-2,2,4,-2,-1,6,8,8,4,8,11,9,11,11,13,13,15,18,16,18,21,19,-2]
+,"deprels":[null,"nn","nsubj",null,"root","det","nsubjpass","auxpass","ccomp","prep","advmod","pcomp","prt","dobj","cc","conj","prep","poss","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (`` ``) (NP (NN usa) (NN today)) ('' '') (VP (VBZ says) (SBAR (S (NP (DT the) (NNS pilots)) (VP (VBD were) (VP (VBN dismissed) (PP (IN for) (S (VP (ADVP (RB allegedly)) (VBG taking) (PRT (RP off)) (NP (NP (DT all)) (CC or) (NP (NP (JJS most)) (PP (IN of) (NP (NP (PRP$ their) (NNS clothes)) (PP (IN in) (NP (DT the) (NN cockpit))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070c8\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070c9\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["the","pilots","are","calling","the","sdebt","--","incident","a","misunderstanding","and","appealing","their","termination","."]
+,"lemmas":["the","pilot","be","call","the","sdebt","--","incident","a","misunderstanding","and","appeal","they","termination","."]
+,"posTags":["DT","NNS","VBP","VBG","DT","NN",":","NN","DT","NN","CC","VBG","PRP$","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","B-NP","I-NP","O","B-VP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,7,7,-2,3,9,3,3,3,13,11,-2]
+,"deprels":["det","nsubj","aux","root","det","nn",null,"iobj","det","dobj","cc","conj","poss","dobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NNS pilots)) (VP (VBP are) (VP (VP (VBG calling) (NP (DT the) (NN sdebt) (: --) (NN incident)) (NP (DT a) (NN misunderstanding))) (CC and) (VP (VBG appealing) (NP (PRP$ their) (NN termination))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070ca\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"952b4b72-4829-cde5-a0d6-000069b070cb\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+

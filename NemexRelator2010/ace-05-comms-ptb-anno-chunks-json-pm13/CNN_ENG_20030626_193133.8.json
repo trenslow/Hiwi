@@ -1,0 +1,1010 @@
+{"words":["so","what","are","the","clintons",",","ford","and","arnold","schwarzenegger","and","the","cast","of","``","friends","''","have","in","common","?"]
+,"lemmas":["so","what","be","the","clinton",",","ford","and","arnold","schwarzenegger","and","the","cast","of","``","friend","''","have","in","common","?"]
+,"posTags":["RB","WP","VBP","DT","NNS",",","NN","CC","NN","NN","CC","DT","NN","IN","``","NNS","''","VBP","IN","JJ","."]
+,"chunks":["B-ADVP","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","O","B-NP","O","B-VP","B-PP","B-NP","O"]
+,"parents":[-1,9,9,9,9,-2,4,4,4,0,9,12,9,12,-2,13,-2,18,15,18,-2]
+,"deprels":["root","nsubj","cop","det","nn",null,"conj","cc","conj","dep","cc","det","conj","prep",null,"pobj",null,"aux","rcmod","pobj",null]
+,"naryTree":"((ROOT (FRAG (ADVP (RB so)) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT the) (NNS clintons) (, ,) (NN ford) (CC and) (NN arnold) (NN schwarzenegger)) (CC and) (NP (NP (DT the) (NN cast)) (PP (IN of) (NP (`` ``) (NP (NNS friends)) ('' '') (SBAR (S (VP (VBP have) (VP (PP (IN in) (NP (JJ common)))))))))))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb4e\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb52\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["so","what","are","the","clintons",",","ford","and","arnold","schwarzenegger","and","the","cast","of","``","friends","''","have","in","common","?"]
+,"lemmas":["so","what","be","the","clinton",",","ford","and","arnold","schwarzenegger","and","the","cast","of","``","friend","''","have","in","common","?"]
+,"posTags":["RB","WP","VBP","DT","NNS",",","NN","CC","NN","NN","CC","DT","NN","IN","``","NNS","''","VBP","IN","JJ","."]
+,"chunks":["B-ADVP","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","O","B-NP","O","B-VP","B-PP","B-NP","O"]
+,"parents":[-1,9,9,9,9,-2,4,4,4,0,9,12,9,12,-2,13,-2,18,15,18,-2]
+,"deprels":["root","nsubj","cop","det","nn",null,"conj","cc","conj","dep","cc","det","conj","prep",null,"pobj",null,"aux","rcmod","pobj",null]
+,"naryTree":"((ROOT (FRAG (ADVP (RB so)) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT the) (NNS clintons) (, ,) (NN ford) (CC and) (NN arnold) (NN schwarzenegger)) (CC and) (NP (NP (DT the) (NN cast)) (PP (IN of) (NP (`` ``) (NP (NNS friends)) ('' '') (SBAR (S (VP (VBP have) (VP (PP (IN in) (NP (JJ common)))))))))))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb4e\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcae9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["so","what","are","the","clintons",",","ford","and","arnold","schwarzenegger","and","the","cast","of","``","friends","''","have","in","common","?"]
+,"lemmas":["so","what","be","the","clinton",",","ford","and","arnold","schwarzenegger","and","the","cast","of","``","friend","''","have","in","common","?"]
+,"posTags":["RB","WP","VBP","DT","NNS",",","NN","CC","NN","NN","CC","DT","NN","IN","``","NNS","''","VBP","IN","JJ","."]
+,"chunks":["B-ADVP","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","O","B-NP","O","B-VP","B-PP","B-NP","O"]
+,"parents":[-1,9,9,9,9,-2,4,4,4,0,9,12,9,12,-2,13,-2,18,15,18,-2]
+,"deprels":["root","nsubj","cop","det","nn",null,"conj","cc","conj","dep","cc","det","conj","prep",null,"pobj",null,"aux","rcmod","pobj",null]
+,"naryTree":"((ROOT (FRAG (ADVP (RB so)) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT the) (NNS clintons) (, ,) (NN ford) (CC and) (NN arnold) (NN schwarzenegger)) (CC and) (NP (NP (DT the) (NN cast)) (PP (IN of) (NP (`` ``) (NP (NNS friends)) ('' '') (SBAR (S (VP (VBP have) (VP (PP (IN in) (NP (JJ common)))))))))))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb4e\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb40\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["so","what","are","the","clintons",",","ford","and","arnold","schwarzenegger","and","the","cast","of","``","friends","''","have","in","common","?"]
+,"lemmas":["so","what","be","the","clinton",",","ford","and","arnold","schwarzenegger","and","the","cast","of","``","friend","''","have","in","common","?"]
+,"posTags":["RB","WP","VBP","DT","NNS",",","NN","CC","NN","NN","CC","DT","NN","IN","``","NNS","''","VBP","IN","JJ","."]
+,"chunks":["B-ADVP","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","O","B-NP","O","B-VP","B-PP","B-NP","O"]
+,"parents":[-1,9,9,9,9,-2,4,4,4,0,9,12,9,12,-2,13,-2,18,15,18,-2]
+,"deprels":["root","nsubj","cop","det","nn",null,"conj","cc","conj","dep","cc","det","conj","prep",null,"pobj",null,"aux","rcmod","pobj",null]
+,"naryTree":"((ROOT (FRAG (ADVP (RB so)) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT the) (NNS clintons) (, ,) (NN ford) (CC and) (NN arnold) (NN schwarzenegger)) (CC and) (NP (NP (DT the) (NN cast)) (PP (IN of) (NP (`` ``) (NP (NNS friends)) ('' '') (SBAR (S (VP (VBP have) (VP (PP (IN in) (NP (JJ common)))))))))))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb52\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcae9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["so","what","are","the","clintons",",","ford","and","arnold","schwarzenegger","and","the","cast","of","``","friends","''","have","in","common","?"]
+,"lemmas":["so","what","be","the","clinton",",","ford","and","arnold","schwarzenegger","and","the","cast","of","``","friend","''","have","in","common","?"]
+,"posTags":["RB","WP","VBP","DT","NNS",",","NN","CC","NN","NN","CC","DT","NN","IN","``","NNS","''","VBP","IN","JJ","."]
+,"chunks":["B-ADVP","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","O","B-NP","O","B-VP","B-PP","B-NP","O"]
+,"parents":[-1,9,9,9,9,-2,4,4,4,0,9,12,9,12,-2,13,-2,18,15,18,-2]
+,"deprels":["root","nsubj","cop","det","nn",null,"conj","cc","conj","dep","cc","det","conj","prep",null,"pobj",null,"aux","rcmod","pobj",null]
+,"naryTree":"((ROOT (FRAG (ADVP (RB so)) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT the) (NNS clintons) (, ,) (NN ford) (CC and) (NN arnold) (NN schwarzenegger)) (CC and) (NP (NP (DT the) (NN cast)) (PP (IN of) (NP (`` ``) (NP (NNS friends)) ('' '') (SBAR (S (VP (VBP have) (VP (PP (IN in) (NP (JJ common)))))))))))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb52\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb40\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["so","what","are","the","clintons",",","ford","and","arnold","schwarzenegger","and","the","cast","of","``","friends","''","have","in","common","?"]
+,"lemmas":["so","what","be","the","clinton",",","ford","and","arnold","schwarzenegger","and","the","cast","of","``","friend","''","have","in","common","?"]
+,"posTags":["RB","WP","VBP","DT","NNS",",","NN","CC","NN","NN","CC","DT","NN","IN","``","NNS","''","VBP","IN","JJ","."]
+,"chunks":["B-ADVP","B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","O","B-NP","O","B-VP","B-PP","B-NP","O"]
+,"parents":[-1,9,9,9,9,-2,4,4,4,0,9,12,9,12,-2,13,-2,18,15,18,-2]
+,"deprels":["root","nsubj","cop","det","nn",null,"conj","cc","conj","dep","cc","det","conj","prep",null,"pobj",null,"aux","rcmod","pobj",null]
+,"naryTree":"((ROOT (FRAG (ADVP (RB so)) (SBAR (WHNP (WP what)) (S (VP (VBP are) (NP (NP (DT the) (NNS clintons) (, ,) (NN ford) (CC and) (NN arnold) (NN schwarzenegger)) (CC and) (NP (NP (DT the) (NN cast)) (PP (IN of) (NP (`` ``) (NP (NNS friends)) ('' '') (SBAR (S (VP (VBP have) (VP (PP (IN in) (NP (JJ common)))))))))))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcae9\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb40\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["they","all","love","california","."]
+,"lemmas":["they","all","love","californium","."]
+,"posTags":["PRP","DT","VBP","NN","."]
+,"chunks":["B-NP","B-ADVP","B-VP","B-NP","O"]
+,"parents":[2,2,-1,2,-2]
+,"deprels":["nsubj","advmod","root","dobj",null]
+,"naryTree":"((ROOT (S (NP (PRP they)) (ADVP (DT all)) (VP (VBP love) (NP (NN california))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb48\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb4a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","is","certainly","true","and","know","aaron","tonkin","and","according","to","to","``","vanity","fair",",","''","he","'s","at","the","heart","of","half","a","dozen","investigations","with","fraud","and","angry","investor","lawsuits","a-plenty","."]
+,"lemmas":["that","be","certainly","true","and","know","aaron","tonkin","and","accord","to","to","``","vanity","fair",",","''","he","be","at","the","heart","of","half","a","dozen","investigation","with","fraud","and","angry","investor","lawsuit","a-plenty","."]
+,"posTags":["DT","VBZ","RB","JJ","CC","VB","NN","NN","CC","VBG","TO","TO","``","NN","JJ",",","''","PRP","VBZ","IN","DT","NN","IN","PDT","DT","NN","NNS","IN","NN","CC","JJ","NN","NNS","NN","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-ADJP","O","B-VP","B-NP","I-NP","O","B-PP","B-PP","B-PP","O","B-NP","I-NP","O","O","B-NP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[3,3,3,18,3,3,7,5,7,7,9,3,-2,11,13,-2,-2,18,-1,18,21,19,21,25,25,26,22,18,27,28,33,33,33,28,-2]
+,"deprels":["nsubj","cop","advmod","ccomp","cc","conj","nn","dobj","cc","conj","pcomp","prep",null,"pobj","amod",null,null,"nsubj","root","prep","det","pobj","prep","quantmod","quantmod","num","pobj","prep","pobj","cc","amod","nn","nn","conj",null]
+,"naryTree":"((ROOT (S (S (NP (DT that)) (VP (VP (VBZ is) (ADVP (RB certainly)) (ADJP (JJ true))) (CC and) (VP (VB know) (UCP (NP (NN aaron) (NN tonkin)) (CC and) (PP (VBG according) (PP (TO to))))) (PP (TO to) (`` ``) (NP (NN vanity) (JJ fair))))) (, ,) ('' '') (NP (PRP he)) (VP (VBZ 's) (PP (IN at) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (QP (PDT half) (DT a) (NN dozen)) (NNS investigations))))) (PP (IN with) (NP (NP (NN fraud)) (CC and) (NP (JJ angry) (NN investor) (NNS lawsuits) (NN a-plenty))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb07\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb50\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","is","certainly","true","and","know","aaron","tonkin","and","according","to","to","``","vanity","fair",",","''","he","'s","at","the","heart","of","half","a","dozen","investigations","with","fraud","and","angry","investor","lawsuits","a-plenty","."]
+,"lemmas":["that","be","certainly","true","and","know","aaron","tonkin","and","accord","to","to","``","vanity","fair",",","''","he","be","at","the","heart","of","half","a","dozen","investigation","with","fraud","and","angry","investor","lawsuit","a-plenty","."]
+,"posTags":["DT","VBZ","RB","JJ","CC","VB","NN","NN","CC","VBG","TO","TO","``","NN","JJ",",","''","PRP","VBZ","IN","DT","NN","IN","PDT","DT","NN","NNS","IN","NN","CC","JJ","NN","NNS","NN","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-ADJP","O","B-VP","B-NP","I-NP","O","B-PP","B-PP","B-PP","O","B-NP","I-NP","O","O","B-NP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[3,3,3,18,3,3,7,5,7,7,9,3,-2,11,13,-2,-2,18,-1,18,21,19,21,25,25,26,22,18,27,28,33,33,33,28,-2]
+,"deprels":["nsubj","cop","advmod","ccomp","cc","conj","nn","dobj","cc","conj","pcomp","prep",null,"pobj","amod",null,null,"nsubj","root","prep","det","pobj","prep","quantmod","quantmod","num","pobj","prep","pobj","cc","amod","nn","nn","conj",null]
+,"naryTree":"((ROOT (S (S (NP (DT that)) (VP (VP (VBZ is) (ADVP (RB certainly)) (ADJP (JJ true))) (CC and) (VP (VB know) (UCP (NP (NN aaron) (NN tonkin)) (CC and) (PP (VBG according) (PP (TO to))))) (PP (TO to) (`` ``) (NP (NN vanity) (JJ fair))))) (, ,) ('' '') (NP (PRP he)) (VP (VBZ 's) (PP (IN at) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (QP (PDT half) (DT a) (NN dozen)) (NNS investigations))))) (PP (IN with) (NP (NP (NN fraud)) (CC and) (NP (JJ angry) (NN investor) (NNS lawsuits) (NN a-plenty))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb07\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb08\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","is","certainly","true","and","know","aaron","tonkin","and","according","to","to","``","vanity","fair",",","''","he","'s","at","the","heart","of","half","a","dozen","investigations","with","fraud","and","angry","investor","lawsuits","a-plenty","."]
+,"lemmas":["that","be","certainly","true","and","know","aaron","tonkin","and","accord","to","to","``","vanity","fair",",","''","he","be","at","the","heart","of","half","a","dozen","investigation","with","fraud","and","angry","investor","lawsuit","a-plenty","."]
+,"posTags":["DT","VBZ","RB","JJ","CC","VB","NN","NN","CC","VBG","TO","TO","``","NN","JJ",",","''","PRP","VBZ","IN","DT","NN","IN","PDT","DT","NN","NNS","IN","NN","CC","JJ","NN","NNS","NN","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-ADJP","O","B-VP","B-NP","I-NP","O","B-PP","B-PP","B-PP","O","B-NP","I-NP","O","O","B-NP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[3,3,3,18,3,3,7,5,7,7,9,3,-2,11,13,-2,-2,18,-1,18,21,19,21,25,25,26,22,18,27,28,33,33,33,28,-2]
+,"deprels":["nsubj","cop","advmod","ccomp","cc","conj","nn","dobj","cc","conj","pcomp","prep",null,"pobj","amod",null,null,"nsubj","root","prep","det","pobj","prep","quantmod","quantmod","num","pobj","prep","pobj","cc","amod","nn","nn","conj",null]
+,"naryTree":"((ROOT (S (S (NP (DT that)) (VP (VP (VBZ is) (ADVP (RB certainly)) (ADJP (JJ true))) (CC and) (VP (VB know) (UCP (NP (NN aaron) (NN tonkin)) (CC and) (PP (VBG according) (PP (TO to))))) (PP (TO to) (`` ``) (NP (NN vanity) (JJ fair))))) (, ,) ('' '') (NP (PRP he)) (VP (VBZ 's) (PP (IN at) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (QP (PDT half) (DT a) (NN dozen)) (NNS investigations))))) (PP (IN with) (NP (NP (NN fraud)) (CC and) (NP (JJ angry) (NN investor) (NNS lawsuits) (NN a-plenty))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb07\"},\"m2\":{\"start\":30,\"end\":32,\"head\":31,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb12\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","is","certainly","true","and","know","aaron","tonkin","and","according","to","to","``","vanity","fair",",","''","he","'s","at","the","heart","of","half","a","dozen","investigations","with","fraud","and","angry","investor","lawsuits","a-plenty","."]
+,"lemmas":["that","be","certainly","true","and","know","aaron","tonkin","and","accord","to","to","``","vanity","fair",",","''","he","be","at","the","heart","of","half","a","dozen","investigation","with","fraud","and","angry","investor","lawsuit","a-plenty","."]
+,"posTags":["DT","VBZ","RB","JJ","CC","VB","NN","NN","CC","VBG","TO","TO","``","NN","JJ",",","''","PRP","VBZ","IN","DT","NN","IN","PDT","DT","NN","NNS","IN","NN","CC","JJ","NN","NNS","NN","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-ADJP","O","B-VP","B-NP","I-NP","O","B-PP","B-PP","B-PP","O","B-NP","I-NP","O","O","B-NP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[3,3,3,18,3,3,7,5,7,7,9,3,-2,11,13,-2,-2,18,-1,18,21,19,21,25,25,26,22,18,27,28,33,33,33,28,-2]
+,"deprels":["nsubj","cop","advmod","ccomp","cc","conj","nn","dobj","cc","conj","pcomp","prep",null,"pobj","amod",null,null,"nsubj","root","prep","det","pobj","prep","quantmod","quantmod","num","pobj","prep","pobj","cc","amod","nn","nn","conj",null]
+,"naryTree":"((ROOT (S (S (NP (DT that)) (VP (VP (VBZ is) (ADVP (RB certainly)) (ADJP (JJ true))) (CC and) (VP (VB know) (UCP (NP (NN aaron) (NN tonkin)) (CC and) (PP (VBG according) (PP (TO to))))) (PP (TO to) (`` ``) (NP (NN vanity) (JJ fair))))) (, ,) ('' '') (NP (PRP he)) (VP (VBZ 's) (PP (IN at) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (QP (PDT half) (DT a) (NN dozen)) (NNS investigations))))) (PP (IN with) (NP (NP (NN fraud)) (CC and) (NP (JJ angry) (NN investor) (NNS lawsuits) (NN a-plenty))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb50\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb08\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","is","certainly","true","and","know","aaron","tonkin","and","according","to","to","``","vanity","fair",",","''","he","'s","at","the","heart","of","half","a","dozen","investigations","with","fraud","and","angry","investor","lawsuits","a-plenty","."]
+,"lemmas":["that","be","certainly","true","and","know","aaron","tonkin","and","accord","to","to","``","vanity","fair",",","''","he","be","at","the","heart","of","half","a","dozen","investigation","with","fraud","and","angry","investor","lawsuit","a-plenty","."]
+,"posTags":["DT","VBZ","RB","JJ","CC","VB","NN","NN","CC","VBG","TO","TO","``","NN","JJ",",","''","PRP","VBZ","IN","DT","NN","IN","PDT","DT","NN","NNS","IN","NN","CC","JJ","NN","NNS","NN","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-ADJP","O","B-VP","B-NP","I-NP","O","B-PP","B-PP","B-PP","O","B-NP","I-NP","O","O","B-NP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[3,3,3,18,3,3,7,5,7,7,9,3,-2,11,13,-2,-2,18,-1,18,21,19,21,25,25,26,22,18,27,28,33,33,33,28,-2]
+,"deprels":["nsubj","cop","advmod","ccomp","cc","conj","nn","dobj","cc","conj","pcomp","prep",null,"pobj","amod",null,null,"nsubj","root","prep","det","pobj","prep","quantmod","quantmod","num","pobj","prep","pobj","cc","amod","nn","nn","conj",null]
+,"naryTree":"((ROOT (S (S (NP (DT that)) (VP (VP (VBZ is) (ADVP (RB certainly)) (ADJP (JJ true))) (CC and) (VP (VB know) (UCP (NP (NN aaron) (NN tonkin)) (CC and) (PP (VBG according) (PP (TO to))))) (PP (TO to) (`` ``) (NP (NN vanity) (JJ fair))))) (, ,) ('' '') (NP (PRP he)) (VP (VBZ 's) (PP (IN at) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (QP (PDT half) (DT a) (NN dozen)) (NNS investigations))))) (PP (IN with) (NP (NP (NN fraud)) (CC and) (NP (JJ angry) (NN investor) (NNS lawsuits) (NN a-plenty))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb50\"},\"m2\":{\"start\":30,\"end\":32,\"head\":31,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb12\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","is","certainly","true","and","know","aaron","tonkin","and","according","to","to","``","vanity","fair",",","''","he","'s","at","the","heart","of","half","a","dozen","investigations","with","fraud","and","angry","investor","lawsuits","a-plenty","."]
+,"lemmas":["that","be","certainly","true","and","know","aaron","tonkin","and","accord","to","to","``","vanity","fair",",","''","he","be","at","the","heart","of","half","a","dozen","investigation","with","fraud","and","angry","investor","lawsuit","a-plenty","."]
+,"posTags":["DT","VBZ","RB","JJ","CC","VB","NN","NN","CC","VBG","TO","TO","``","NN","JJ",",","''","PRP","VBZ","IN","DT","NN","IN","PDT","DT","NN","NNS","IN","NN","CC","JJ","NN","NNS","NN","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-ADJP","O","B-VP","B-NP","I-NP","O","B-PP","B-PP","B-PP","O","B-NP","I-NP","O","O","B-NP","B-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[3,3,3,18,3,3,7,5,7,7,9,3,-2,11,13,-2,-2,18,-1,18,21,19,21,25,25,26,22,18,27,28,33,33,33,28,-2]
+,"deprels":["nsubj","cop","advmod","ccomp","cc","conj","nn","dobj","cc","conj","pcomp","prep",null,"pobj","amod",null,null,"nsubj","root","prep","det","pobj","prep","quantmod","quantmod","num","pobj","prep","pobj","cc","amod","nn","nn","conj",null]
+,"naryTree":"((ROOT (S (S (NP (DT that)) (VP (VP (VBZ is) (ADVP (RB certainly)) (ADJP (JJ true))) (CC and) (VP (VB know) (UCP (NP (NN aaron) (NN tonkin)) (CC and) (PP (VBG according) (PP (TO to))))) (PP (TO to) (`` ``) (NP (NN vanity) (JJ fair))))) (, ,) ('' '') (NP (PRP he)) (VP (VBZ 's) (PP (IN at) (NP (NP (DT the) (NN heart)) (PP (IN of) (NP (QP (PDT half) (DT a) (NN dozen)) (NNS investigations))))) (PP (IN with) (NP (NP (NN fraud)) (CC and) (NP (JJ angry) (NN investor) (NNS lawsuits) (NN a-plenty))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb08\"},\"m2\":{\"start\":30,\"end\":32,\"head\":31,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb12\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["joining","us","is","brian","burrow","to","explain","it","for","us","."]
+,"lemmas":["join","we","be","brian","burrow","to","explain","it","for","we","."]
+,"posTags":["VBG","PRP","VBZ","JJ","NN","TO","VB","PRP","IN","PRP","."]
+,"chunks":["B-VP","B-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[4,0,4,4,-1,6,4,6,6,8,-2]
+,"deprels":["csubj","dobj","cop","amod","root","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (VP (VBG joining) (NP (PRP us)))) (VP (VBZ is) (NP (JJ brian) (NN burrow) (S (VP (TO to) (VP (VB explain) (NP (PRP it)) (PP (IN for) (NP (PRP us)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb32\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb20\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["joining","us","is","brian","burrow","to","explain","it","for","us","."]
+,"lemmas":["join","we","be","brian","burrow","to","explain","it","for","we","."]
+,"posTags":["VBG","PRP","VBZ","JJ","NN","TO","VB","PRP","IN","PRP","."]
+,"chunks":["B-VP","B-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[4,0,4,4,-1,6,4,6,6,8,-2]
+,"deprels":["csubj","dobj","cop","amod","root","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (VP (VBG joining) (NP (PRP us)))) (VP (VBZ is) (NP (JJ brian) (NN burrow) (S (VP (TO to) (VP (VB explain) (NP (PRP it)) (PP (IN for) (NP (PRP us)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb32\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb33\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["joining","us","is","brian","burrow","to","explain","it","for","us","."]
+,"lemmas":["join","we","be","brian","burrow","to","explain","it","for","we","."]
+,"posTags":["VBG","PRP","VBZ","JJ","NN","TO","VB","PRP","IN","PRP","."]
+,"chunks":["B-VP","B-NP","B-VP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[4,0,4,4,-1,6,4,6,6,8,-2]
+,"deprels":["csubj","dobj","cop","amod","root","aux","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (S (VP (VBG joining) (NP (PRP us)))) (VP (VBZ is) (NP (JJ brian) (NN burrow) (S (VP (TO to) (VP (VB explain) (NP (PRP it)) (PP (IN for) (NP (PRP us)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb20\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb33\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["who","this","guy","?"]
+,"lemmas":["who","this","guy","?"]
+,"posTags":["WP","DT","NN","."]
+,"chunks":["B-NP","B-NP","I-NP","O"]
+,"parents":[-1,2,0,-2]
+,"deprels":["root","det","dep",null]
+,"naryTree":"((ROOT (FRAG (WHNP (WP who) (NP (DT this) (NN guy))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb10\"},\"m2\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafc\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["brian",",","can","you","hear","me","?"]
+,"lemmas":["brian",",","can","you","hear","I","?"]
+,"posTags":["NN",",","MD","PRP","VB","PRP","."]
+,"chunks":["B-NP","O","B-VP","B-NP","B-VP","B-NP","O"]
+,"parents":[2,-2,-1,2,2,4,-2]
+,"deprels":["nsubj",null,"root","dobj","dep","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN brian)) (, ,) (VP (MD can) (NP (PRP you)) (S (VP (VB hear) (NP (PRP me))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb14\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb15\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["brian",",","can","you","hear","me","?"]
+,"lemmas":["brian",",","can","you","hear","I","?"]
+,"posTags":["NN",",","MD","PRP","VB","PRP","."]
+,"chunks":["B-NP","O","B-VP","B-NP","B-VP","B-NP","O"]
+,"parents":[2,-2,-1,2,2,4,-2]
+,"deprels":["nsubj",null,"root","dobj","dep","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN brian)) (, ,) (VP (MD can) (NP (PRP you)) (S (VP (VB hear) (NP (PRP me))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb14\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb22\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["brian",",","can","you","hear","me","?"]
+,"lemmas":["brian",",","can","you","hear","I","?"]
+,"posTags":["NN",",","MD","PRP","VB","PRP","."]
+,"chunks":["B-NP","O","B-VP","B-NP","B-VP","B-NP","O"]
+,"parents":[2,-2,-1,2,2,4,-2]
+,"deprels":["nsubj",null,"root","dobj","dep","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN brian)) (, ,) (VP (MD can) (NP (PRP you)) (S (VP (VB hear) (NP (PRP me))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb15\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb22\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","think","heard","someone","say","something","."]
+,"lemmas":["i","think","hear","someone","say","something","."]
+,"posTags":["FW","VBP","VBN","NN","VBP","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-VP","B-NP","O"]
+,"parents":[1,-1,1,4,2,4,-2]
+,"deprels":["nsubj","root","dep","nsubj","ccomp","dobj",null]
+,"naryTree":"((ROOT (S (NP (FW i)) (VP (VBP think) (VP (VBN heard) (SBAR (S (NP (NN someone)) (VP (VBP say) (NP (NN something))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb16\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcae3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["can","you","hear","me","?"]
+,"lemmas":["can","you","hear","I","?"]
+,"posTags":["MD","PRP","VB","PRP","."]
+,"chunks":["O","B-NP","B-VP","B-NP","O"]
+,"parents":[2,2,-1,2,-2]
+,"deprels":["aux","nsubj","root","dobj",null]
+,"naryTree":"((ROOT (SQ (MD can) (NP (PRP you)) (VP (VB hear) (NP (PRP me))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb17\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb23\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["bliian",",","can","you","hear","me","?"]
+,"lemmas":["bliian",",","can","you","hear","I","?"]
+,"posTags":["NN",",","MD","PRP","VB","PRP","."]
+,"chunks":["B-NP","O","B-VP","B-NP","B-VP","B-NP","O"]
+,"parents":[2,-2,-1,2,2,4,-2]
+,"deprels":["nsubj",null,"root","dobj","dep","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN bliian)) (, ,) (VP (MD can) (NP (PRP you)) (S (VP (VB hear) (NP (PRP me))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb19\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb1a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["bliian",",","can","you","hear","me","?"]
+,"lemmas":["bliian",",","can","you","hear","I","?"]
+,"posTags":["NN",",","MD","PRP","VB","PRP","."]
+,"chunks":["B-NP","O","B-VP","B-NP","B-VP","B-NP","O"]
+,"parents":[2,-2,-1,2,2,4,-2]
+,"deprels":["nsubj",null,"root","dobj","dep","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN bliian)) (, ,) (VP (MD can) (NP (PRP you)) (S (VP (VB hear) (NP (PRP me))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb19\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb24\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["bliian",",","can","you","hear","me","?"]
+,"lemmas":["bliian",",","can","you","hear","I","?"]
+,"posTags":["NN",",","MD","PRP","VB","PRP","."]
+,"chunks":["B-NP","O","B-VP","B-NP","B-VP","B-NP","O"]
+,"parents":[2,-2,-1,2,2,4,-2]
+,"deprels":["nsubj",null,"root","dobj","dep","dobj",null]
+,"naryTree":"((ROOT (S (NP (NN bliian)) (, ,) (VP (MD can) (NP (PRP you)) (S (VP (VB hear) (NP (PRP me))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb1a\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb24\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","can","hear","you","now",",","anderson","."]
+,"lemmas":["i","can","hear","you","now",",","anderson","."]
+,"posTags":["LS","MD","VB","PRP","RB",",","NN","."]
+,"chunks":["O","B-VP","I-VP","B-NP","B-ADVP","O","B-VP","O"]
+,"parents":[2,2,-1,2,2,-2,2,-2]
+,"deprels":["nsubj","aux","root","dobj","advmod",null,"dep",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VP (MD can) (VP (VB hear) (NP (PRP you)) (ADVP (RB now)))) (, ,) (VP (NN anderson))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb1b\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb25\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","can","hear","you","now",",","anderson","."]
+,"lemmas":["i","can","hear","you","now",",","anderson","."]
+,"posTags":["LS","MD","VB","PRP","RB",",","NN","."]
+,"chunks":["O","B-VP","I-VP","B-NP","B-ADVP","O","B-VP","O"]
+,"parents":[2,2,-1,2,2,-2,2,-2]
+,"deprels":["nsubj","aux","root","dobj","advmod",null,"dep",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VP (MD can) (VP (VB hear) (NP (PRP you)) (ADVP (RB now)))) (, ,) (VP (NN anderson))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb1b\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb26\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","can","hear","you","now",",","anderson","."]
+,"lemmas":["i","can","hear","you","now",",","anderson","."]
+,"posTags":["LS","MD","VB","PRP","RB",",","NN","."]
+,"chunks":["O","B-VP","I-VP","B-NP","B-ADVP","O","B-VP","O"]
+,"parents":[2,2,-1,2,2,-2,2,-2]
+,"deprels":["nsubj","aux","root","dobj","advmod",null,"dep",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (VP (VP (MD can) (VP (VB hear) (NP (PRP you)) (ADVP (RB now)))) (, ,) (VP (NN anderson))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb25\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb26\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["jooirx","joining","us",",","brian","burrow","."]
+,"lemmas":["jooirx","join","we",",","brian","burrow","."]
+,"posTags":["NN","VBG","PRP",",","JJ","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","O"]
+,"parents":[-1,0,1,-2,5,2,-2]
+,"deprels":["root","vmod","dobj",null,"amod","appos",null]
+,"naryTree":"((ROOT (NP (NP (NN jooirx)) (VP (VBG joining) (NP (NP (PRP us)) (, ,) (NP (JJ brian) (NN burrow)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb31\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb1d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["who","is","aaron","tonkin","."]
+,"lemmas":["who","be","aaron","tonkin","."]
+,"posTags":["WP","VBZ","NN","NN","."]
+,"chunks":["B-NP","O","B-NP","I-NP","O"]
+,"parents":[-1,0,3,0,-2]
+,"deprels":["root","cop","nn","nsubj",null]
+,"naryTree":"((ROOT (SBARQ (WHNP (WP who)) (SQ (VBZ is) (NP (NN aaron) (NN tonkin))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcae5\"},\"m2\":{\"start\":2,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb00\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","is","one","of","the","biggest","if","not","the","biggest","names","in","the","world","of","hollywood","fund-raisers","."]
+,"lemmas":["he","be","one","of","the","biggest","if","not","the","biggest","name","in","the","world","of","hollywood","fund-raiser","."]
+,"posTags":["PRP","VBZ","CD","IN","DT","JJS","IN","RB","DT","JJS","NNS","IN","DT","NN","IN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-CONJP","I-CONJP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,7,2,10,10,2,10,13,11,13,16,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","dep","cc","det","amod","conj","prep","det","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ is) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS biggest)))) (CONJP (IN if) (RB not)) (NP (NP (DT the) (JJS biggest) (NNS names)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN of) (NP (NN hollywood) (NNS fund-raisers)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0c\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0a\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["he","is","one","of","the","biggest","if","not","the","biggest","names","in","the","world","of","hollywood","fund-raisers","."]
+,"lemmas":["he","be","one","of","the","biggest","if","not","the","biggest","name","in","the","world","of","hollywood","fund-raiser","."]
+,"posTags":["PRP","VBZ","CD","IN","DT","JJS","IN","RB","DT","JJS","NNS","IN","DT","NN","IN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-CONJP","I-CONJP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,7,2,10,10,2,10,13,11,13,16,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","dep","cc","det","amod","conj","prep","det","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ is) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS biggest)))) (CONJP (IN if) (RB not)) (NP (NP (DT the) (JJS biggest) (NNS names)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN of) (NP (NN hollywood) (NNS fund-raisers)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf8\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","is","one","of","the","biggest","if","not","the","biggest","names","in","the","world","of","hollywood","fund-raisers","."]
+,"lemmas":["he","be","one","of","the","biggest","if","not","the","biggest","name","in","the","world","of","hollywood","fund-raiser","."]
+,"posTags":["PRP","VBZ","CD","IN","DT","JJS","IN","RB","DT","JJS","NNS","IN","DT","NN","IN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-CONJP","I-CONJP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,7,2,10,10,2,10,13,11,13,16,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","dep","cc","det","amod","conj","prep","det","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ is) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS biggest)))) (CONJP (IN if) (RB not)) (NP (NP (DT the) (JJS biggest) (NNS names)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN of) (NP (NN hollywood) (NNS fund-raisers)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf8\"},\"m2\":{\"start\":4,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb44\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","is","one","of","the","biggest","if","not","the","biggest","names","in","the","world","of","hollywood","fund-raisers","."]
+,"lemmas":["he","be","one","of","the","biggest","if","not","the","biggest","name","in","the","world","of","hollywood","fund-raiser","."]
+,"posTags":["PRP","VBZ","CD","IN","DT","JJS","IN","RB","DT","JJS","NNS","IN","DT","NN","IN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-CONJP","I-CONJP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,7,2,10,10,2,10,13,11,13,16,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","dep","cc","det","amod","conj","prep","det","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ is) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS biggest)))) (CONJP (IN if) (RB not)) (NP (NP (DT the) (JJS biggest) (NNS names)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN of) (NP (NN hollywood) (NNS fund-raisers)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf8\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","is","one","of","the","biggest","if","not","the","biggest","names","in","the","world","of","hollywood","fund-raisers","."]
+,"lemmas":["he","be","one","of","the","biggest","if","not","the","biggest","name","in","the","world","of","hollywood","fund-raiser","."]
+,"posTags":["PRP","VBZ","CD","IN","DT","JJS","IN","RB","DT","JJS","NNS","IN","DT","NN","IN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-CONJP","I-CONJP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,7,2,10,10,2,10,13,11,13,16,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","dep","cc","det","amod","conj","prep","det","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ is) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS biggest)))) (CONJP (IN if) (RB not)) (NP (NP (DT the) (JJS biggest) (NNS names)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN of) (NP (NN hollywood) (NNS fund-raisers)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf8\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","is","one","of","the","biggest","if","not","the","biggest","names","in","the","world","of","hollywood","fund-raisers","."]
+,"lemmas":["he","be","one","of","the","biggest","if","not","the","biggest","name","in","the","world","of","hollywood","fund-raiser","."]
+,"posTags":["PRP","VBZ","CD","IN","DT","JJS","IN","RB","DT","JJS","NNS","IN","DT","NN","IN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-CONJP","I-CONJP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,7,2,10,10,2,10,13,11,13,16,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","dep","cc","det","amod","conj","prep","det","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ is) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS biggest)))) (CONJP (IN if) (RB not)) (NP (NP (DT the) (JJS biggest) (NNS names)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN of) (NP (NN hollywood) (NNS fund-raisers)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf9\"},\"m2\":{\"start\":4,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb44\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","is","one","of","the","biggest","if","not","the","biggest","names","in","the","world","of","hollywood","fund-raisers","."]
+,"lemmas":["he","be","one","of","the","biggest","if","not","the","biggest","name","in","the","world","of","hollywood","fund-raiser","."]
+,"posTags":["PRP","VBZ","CD","IN","DT","JJS","IN","RB","DT","JJS","NNS","IN","DT","NN","IN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-CONJP","I-CONJP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,7,2,10,10,2,10,13,11,13,16,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","dep","cc","det","amod","conj","prep","det","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ is) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS biggest)))) (CONJP (IN if) (RB not)) (NP (NP (DT the) (JJS biggest) (NNS names)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN of) (NP (NN hollywood) (NNS fund-raisers)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf9\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","is","one","of","the","biggest","if","not","the","biggest","names","in","the","world","of","hollywood","fund-raisers","."]
+,"lemmas":["he","be","one","of","the","biggest","if","not","the","biggest","name","in","the","world","of","hollywood","fund-raiser","."]
+,"posTags":["PRP","VBZ","CD","IN","DT","JJS","IN","RB","DT","JJS","NNS","IN","DT","NN","IN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-CONJP","I-CONJP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,7,2,10,10,2,10,13,11,13,16,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","dep","cc","det","amod","conj","prep","det","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ is) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS biggest)))) (CONJP (IN if) (RB not)) (NP (NP (DT the) (JJS biggest) (NNS names)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN of) (NP (NN hollywood) (NNS fund-raisers)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf9\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","is","one","of","the","biggest","if","not","the","biggest","names","in","the","world","of","hollywood","fund-raisers","."]
+,"lemmas":["he","be","one","of","the","biggest","if","not","the","biggest","name","in","the","world","of","hollywood","fund-raiser","."]
+,"posTags":["PRP","VBZ","CD","IN","DT","JJS","IN","RB","DT","JJS","NNS","IN","DT","NN","IN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-CONJP","I-CONJP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,7,2,10,10,2,10,13,11,13,16,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","dep","cc","det","amod","conj","prep","det","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ is) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS biggest)))) (CONJP (IN if) (RB not)) (NP (NP (DT the) (JJS biggest) (NNS names)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN of) (NP (NN hollywood) (NNS fund-raisers)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb44\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","is","one","of","the","biggest","if","not","the","biggest","names","in","the","world","of","hollywood","fund-raisers","."]
+,"lemmas":["he","be","one","of","the","biggest","if","not","the","biggest","name","in","the","world","of","hollywood","fund-raiser","."]
+,"posTags":["PRP","VBZ","CD","IN","DT","JJS","IN","RB","DT","JJS","NNS","IN","DT","NN","IN","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-CONJP","I-CONJP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,7,2,10,10,2,10,13,11,13,16,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","dep","cc","det","amod","conj","prep","det","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBZ is) (NP (NP (NP (CD one)) (PP (IN of) (NP (DT the) (JJS biggest)))) (CONJP (IN if) (RB not)) (NP (NP (DT the) (JJS biggest) (NNS names)) (PP (IN in) (NP (NP (DT the) (NN world)) (PP (IN of) (NP (NN hollywood) (NNS fund-raisers)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb44\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["a","person","who","would","put","together","celebrities","with","charities","to","raise","a","lot","of","money","."]
+,"lemmas":["a","person","who","would","put","together","celebrity","with","charity","to","raise","a","lot","of","money","."]
+,"posTags":["DT","NN","WP","MD","VB","RB","NNS","IN","NNS","TO","VB","DT","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","B-VP","I-VP","B-PRT","B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,4,4,1,4,4,6,7,10,4,12,10,12,13,-2]
+,"deprels":["det","root","nsubj","aux","ccomp","prt","dobj","prep","pobj","aux","vmod","det","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (NP (DT a) (NN person) (SBAR (WHNP (WP who)) (S (VP (MD would) (VP (VB put) (PRT (RB together)) (NP (NP (NNS celebrities)) (PP (IN with) (NP (NNS charities)))) (S (VP (TO to) (VP (VB raise) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN money))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafa\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["a","person","who","would","put","together","celebrities","with","charities","to","raise","a","lot","of","money","."]
+,"lemmas":["a","person","who","would","put","together","celebrity","with","charity","to","raise","a","lot","of","money","."]
+,"posTags":["DT","NN","WP","MD","VB","RB","NNS","IN","NNS","TO","VB","DT","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","B-VP","I-VP","B-PRT","B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,4,4,1,4,4,6,7,10,4,12,10,12,13,-2]
+,"deprels":["det","root","nsubj","aux","ccomp","prt","dobj","prep","pobj","aux","vmod","det","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (NP (DT a) (NN person) (SBAR (WHNP (WP who)) (S (VP (MD would) (VP (VB put) (PRT (RB together)) (NP (NP (NNS celebrities)) (PP (IN with) (NP (NNS charities)))) (S (VP (TO to) (VP (VB raise) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN money))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafa\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["a","person","who","would","put","together","celebrities","with","charities","to","raise","a","lot","of","money","."]
+,"lemmas":["a","person","who","would","put","together","celebrity","with","charity","to","raise","a","lot","of","money","."]
+,"posTags":["DT","NN","WP","MD","VB","RB","NNS","IN","NNS","TO","VB","DT","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","B-VP","I-VP","B-PRT","B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,4,4,1,4,4,6,7,10,4,12,10,12,13,-2]
+,"deprels":["det","root","nsubj","aux","ccomp","prt","dobj","prep","pobj","aux","vmod","det","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (NP (DT a) (NN person) (SBAR (WHNP (WP who)) (S (VP (MD would) (VP (VB put) (PRT (RB together)) (NP (NP (NNS celebrities)) (PP (IN with) (NP (NNS charities)))) (S (VP (TO to) (VP (VB raise) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN money))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafa\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcae7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["a","person","who","would","put","together","celebrities","with","charities","to","raise","a","lot","of","money","."]
+,"lemmas":["a","person","who","would","put","together","celebrity","with","charity","to","raise","a","lot","of","money","."]
+,"posTags":["DT","NN","WP","MD","VB","RB","NNS","IN","NNS","TO","VB","DT","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","B-VP","I-VP","B-PRT","B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,4,4,1,4,4,6,7,10,4,12,10,12,13,-2]
+,"deprels":["det","root","nsubj","aux","ccomp","prt","dobj","prep","pobj","aux","vmod","det","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (NP (DT a) (NN person) (SBAR (WHNP (WP who)) (S (VP (MD would) (VP (VB put) (PRT (RB together)) (NP (NP (NNS celebrities)) (PP (IN with) (NP (NNS charities)))) (S (VP (TO to) (VP (VB raise) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN money))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafb\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["a","person","who","would","put","together","celebrities","with","charities","to","raise","a","lot","of","money","."]
+,"lemmas":["a","person","who","would","put","together","celebrity","with","charity","to","raise","a","lot","of","money","."]
+,"posTags":["DT","NN","WP","MD","VB","RB","NNS","IN","NNS","TO","VB","DT","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","B-VP","I-VP","B-PRT","B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,4,4,1,4,4,6,7,10,4,12,10,12,13,-2]
+,"deprels":["det","root","nsubj","aux","ccomp","prt","dobj","prep","pobj","aux","vmod","det","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (NP (DT a) (NN person) (SBAR (WHNP (WP who)) (S (VP (MD would) (VP (VB put) (PRT (RB together)) (NP (NP (NNS celebrities)) (PP (IN with) (NP (NNS charities)))) (S (VP (TO to) (VP (VB raise) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN money))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafb\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcae7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["a","person","who","would","put","together","celebrities","with","charities","to","raise","a","lot","of","money","."]
+,"lemmas":["a","person","who","would","put","together","celebrity","with","charity","to","raise","a","lot","of","money","."]
+,"posTags":["DT","NN","WP","MD","VB","RB","NNS","IN","NNS","TO","VB","DT","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-NP","B-VP","I-VP","B-PRT","B-NP","B-PP","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,4,4,1,4,4,6,7,10,4,12,10,12,13,-2]
+,"deprels":["det","root","nsubj","aux","ccomp","prt","dobj","prep","pobj","aux","vmod","det","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (NP (DT a) (NN person) (SBAR (WHNP (WP who)) (S (VP (MD would) (VP (VB put) (PRT (RB together)) (NP (NP (NNS celebrities)) (PP (IN with) (NP (NNS charities)))) (S (VP (TO to) (VP (VB raise) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN money))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3a\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcae7\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","was","perhaps","best","known","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"lemmas":["he","be","perhaps","best","know","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"posTags":["PRP","VBD","RB","RB","VBN","IN","NN","IN","DT","JJ","NN","IN","NN","CC","JJ","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,5,6,10,10,7,10,11,10,15,10,15,19,19,16,-2]
+,"deprels":["nsubjpass","auxpass","advmod","advmod","root","prep","pobj","prep","det","amod","pobj","prep","pobj","cc","amod","conj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (ADVP (RB perhaps)) (VP (ADVP (RB best)) (VBN known) (PP (IN as) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT the) (JJ focal) (NN point)) (PP (IN between) (NP (NN bill)))) (CC and) (NP (NP (JJ hillary) (NN clinton)) (PP (IN in) (NP (DT the) (NN hollywood) (NN community)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3c\"},\"m2\":{\"start\":12,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb42\"}}]"
+,"relLabels":["PER-SOC(Arg-1,Arg-1)"]}
+
+{"words":["he","was","perhaps","best","known","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"lemmas":["he","be","perhaps","best","know","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"posTags":["PRP","VBD","RB","RB","VBN","IN","NN","IN","DT","JJ","NN","IN","NN","CC","JJ","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,5,6,10,10,7,10,11,10,15,10,15,19,19,16,-2]
+,"deprels":["nsubjpass","auxpass","advmod","advmod","root","prep","pobj","prep","det","amod","pobj","prep","pobj","cc","amod","conj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (ADVP (RB perhaps)) (VP (ADVP (RB best)) (VBN known) (PP (IN as) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT the) (JJ focal) (NN point)) (PP (IN between) (NP (NN bill)))) (CC and) (NP (NP (JJ hillary) (NN clinton)) (PP (IN in) (NP (DT the) (NN hollywood) (NN community)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafd\"},\"m2\":{\"start\":8,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafe\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","was","perhaps","best","known","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"lemmas":["he","be","perhaps","best","know","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"posTags":["PRP","VBD","RB","RB","VBN","IN","NN","IN","DT","JJ","NN","IN","NN","CC","JJ","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,5,6,10,10,7,10,11,10,15,10,15,19,19,16,-2]
+,"deprels":["nsubjpass","auxpass","advmod","advmod","root","prep","pobj","prep","det","amod","pobj","prep","pobj","cc","amod","conj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (ADVP (RB perhaps)) (VP (ADVP (RB best)) (VBN known) (PP (IN as) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT the) (JJ focal) (NN point)) (PP (IN between) (NP (NN bill)))) (CC and) (NP (NP (JJ hillary) (NN clinton)) (PP (IN in) (NP (DT the) (NN hollywood) (NN community)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafd\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","was","perhaps","best","known","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"lemmas":["he","be","perhaps","best","know","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"posTags":["PRP","VBD","RB","RB","VBN","IN","NN","IN","DT","JJ","NN","IN","NN","CC","JJ","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,5,6,10,10,7,10,11,10,15,10,15,19,19,16,-2]
+,"deprels":["nsubjpass","auxpass","advmod","advmod","root","prep","pobj","prep","det","amod","pobj","prep","pobj","cc","amod","conj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (ADVP (RB perhaps)) (VP (ADVP (RB best)) (VBN known) (PP (IN as) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT the) (JJ focal) (NN point)) (PP (IN between) (NP (NN bill)))) (CC and) (NP (NP (JJ hillary) (NN clinton)) (PP (IN in) (NP (DT the) (NN hollywood) (NN community)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafd\"},\"m2\":{\"start\":12,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb42\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","was","perhaps","best","known","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"lemmas":["he","be","perhaps","best","know","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"posTags":["PRP","VBD","RB","RB","VBN","IN","NN","IN","DT","JJ","NN","IN","NN","CC","JJ","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,5,6,10,10,7,10,11,10,15,10,15,19,19,16,-2]
+,"deprels":["nsubjpass","auxpass","advmod","advmod","root","prep","pobj","prep","det","amod","pobj","prep","pobj","cc","amod","conj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (ADVP (RB perhaps)) (VP (ADVP (RB best)) (VBN known) (PP (IN as) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT the) (JJ focal) (NN point)) (PP (IN between) (NP (NN bill)))) (CC and) (NP (NP (JJ hillary) (NN clinton)) (PP (IN in) (NP (DT the) (NN hollywood) (NN community)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafe\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","was","perhaps","best","known","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"lemmas":["he","be","perhaps","best","know","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"posTags":["PRP","VBD","RB","RB","VBN","IN","NN","IN","DT","JJ","NN","IN","NN","CC","JJ","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,5,6,10,10,7,10,11,10,15,10,15,19,19,16,-2]
+,"deprels":["nsubjpass","auxpass","advmod","advmod","root","prep","pobj","prep","det","amod","pobj","prep","pobj","cc","amod","conj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (ADVP (RB perhaps)) (VP (ADVP (RB best)) (VBN known) (PP (IN as) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT the) (JJ focal) (NN point)) (PP (IN between) (NP (NN bill)))) (CC and) (NP (NP (JJ hillary) (NN clinton)) (PP (IN in) (NP (DT the) (NN hollywood) (NN community)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafe\"},\"m2\":{\"start\":12,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb42\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","was","perhaps","best","known","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"lemmas":["he","be","perhaps","best","know","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"posTags":["PRP","VBD","RB","RB","VBN","IN","NN","IN","DT","JJ","NN","IN","NN","CC","JJ","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,5,6,10,10,7,10,11,10,15,10,15,19,19,16,-2]
+,"deprels":["nsubjpass","auxpass","advmod","advmod","root","prep","pobj","prep","det","amod","pobj","prep","pobj","cc","amod","conj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (ADVP (RB perhaps)) (VP (ADVP (RB best)) (VBN known) (PP (IN as) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT the) (JJ focal) (NN point)) (PP (IN between) (NP (NN bill)))) (CC and) (NP (NP (JJ hillary) (NN clinton)) (PP (IN in) (NP (DT the) (NN hollywood) (NN community)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafe\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","was","perhaps","best","known","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"lemmas":["he","be","perhaps","best","know","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"posTags":["PRP","VBD","RB","RB","VBN","IN","NN","IN","DT","JJ","NN","IN","NN","CC","JJ","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,5,6,10,10,7,10,11,10,15,10,15,19,19,16,-2]
+,"deprels":["nsubjpass","auxpass","advmod","advmod","root","prep","pobj","prep","det","amod","pobj","prep","pobj","cc","amod","conj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (ADVP (RB perhaps)) (VP (ADVP (RB best)) (VBN known) (PP (IN as) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT the) (JJ focal) (NN point)) (PP (IN between) (NP (NN bill)))) (CC and) (NP (NP (JJ hillary) (NN clinton)) (PP (IN in) (NP (DT the) (NN hollywood) (NN community)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcafe\"},\"m2\":{\"start\":17,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb46\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","was","perhaps","best","known","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"lemmas":["he","be","perhaps","best","know","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"posTags":["PRP","VBD","RB","RB","VBN","IN","NN","IN","DT","JJ","NN","IN","NN","CC","JJ","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,5,6,10,10,7,10,11,10,15,10,15,19,19,16,-2]
+,"deprels":["nsubjpass","auxpass","advmod","advmod","root","prep","pobj","prep","det","amod","pobj","prep","pobj","cc","amod","conj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (ADVP (RB perhaps)) (VP (ADVP (RB best)) (VBN known) (PP (IN as) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT the) (JJ focal) (NN point)) (PP (IN between) (NP (NN bill)))) (CC and) (NP (NP (JJ hillary) (NN clinton)) (PP (IN in) (NP (DT the) (NN hollywood) (NN community)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3c\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","was","perhaps","best","known","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"lemmas":["he","be","perhaps","best","know","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"posTags":["PRP","VBD","RB","RB","VBN","IN","NN","IN","DT","JJ","NN","IN","NN","CC","JJ","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,5,6,10,10,7,10,11,10,15,10,15,19,19,16,-2]
+,"deprels":["nsubjpass","auxpass","advmod","advmod","root","prep","pobj","prep","det","amod","pobj","prep","pobj","cc","amod","conj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (ADVP (RB perhaps)) (VP (ADVP (RB best)) (VBN known) (PP (IN as) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT the) (JJ focal) (NN point)) (PP (IN between) (NP (NN bill)))) (CC and) (NP (NP (JJ hillary) (NN clinton)) (PP (IN in) (NP (DT the) (NN hollywood) (NN community)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3c\"},\"m2\":{\"start\":17,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb46\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","was","perhaps","best","known","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"lemmas":["he","be","perhaps","best","know","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"posTags":["PRP","VBD","RB","RB","VBN","IN","NN","IN","DT","JJ","NN","IN","NN","CC","JJ","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,5,6,10,10,7,10,11,10,15,10,15,19,19,16,-2]
+,"deprels":["nsubjpass","auxpass","advmod","advmod","root","prep","pobj","prep","det","amod","pobj","prep","pobj","cc","amod","conj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (ADVP (RB perhaps)) (VP (ADVP (RB best)) (VBN known) (PP (IN as) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT the) (JJ focal) (NN point)) (PP (IN between) (NP (NN bill)))) (CC and) (NP (NP (JJ hillary) (NN clinton)) (PP (IN in) (NP (DT the) (NN hollywood) (NN community)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb42\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","was","perhaps","best","known","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"lemmas":["he","be","perhaps","best","know","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"posTags":["PRP","VBD","RB","RB","VBN","IN","NN","IN","DT","JJ","NN","IN","NN","CC","JJ","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,5,6,10,10,7,10,11,10,15,10,15,19,19,16,-2]
+,"deprels":["nsubjpass","auxpass","advmod","advmod","root","prep","pobj","prep","det","amod","pobj","prep","pobj","cc","amod","conj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (ADVP (RB perhaps)) (VP (ADVP (RB best)) (VBN known) (PP (IN as) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT the) (JJ focal) (NN point)) (PP (IN between) (NP (NN bill)))) (CC and) (NP (NP (JJ hillary) (NN clinton)) (PP (IN in) (NP (DT the) (NN hollywood) (NN community)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":16,\"head\":15,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb42\"},\"m2\":{\"start\":17,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb46\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["he","was","perhaps","best","known","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"lemmas":["he","be","perhaps","best","know","as","kind","of","the","focal","point","between","bill","and","hillary","clinton","in","the","hollywood","community","."]
+,"posTags":["PRP","VBD","RB","RB","VBN","IN","NN","IN","DT","JJ","NN","IN","NN","CC","JJ","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[4,4,4,4,-1,4,5,6,10,10,7,10,11,10,15,10,15,19,19,16,-2]
+,"deprels":["nsubjpass","auxpass","advmod","advmod","root","prep","pobj","prep","det","amod","pobj","prep","pobj","cc","amod","conj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP he)) (VP (VBD was) (ADVP (RB perhaps)) (VP (ADVP (RB best)) (VBN known) (PP (IN as) (NP (NP (NN kind)) (PP (IN of) (NP (NP (NP (DT the) (JJ focal) (NN point)) (PP (IN between) (NP (NN bill)))) (CC and) (NP (NP (JJ hillary) (NN clinton)) (PP (IN in) (NP (DT the) (NN hollywood) (NN community)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0d\"},\"m2\":{\"start\":17,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb46\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["what","'s","interesting",",","i","mean",",","reading","the","article",",","basically","a","lot","of","the","celebrities","paid","by","him","to","attend","charity","functions","."]
+,"lemmas":["what","be","interesting",",","i","mean",",","read","the","article",",","basically","a","lot","of","the","celebrity","pay","by","he","to","attend","charity","function","."]
+,"posTags":["WP","VBZ","JJ",",","FW","VB",",","VBG","DT","NN",",","RB","DT","NN","IN","DT","NNS","VBN","IN","PRP","TO","VB","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADJP","O","B-NP","B-VP","O","B-VP","B-NP","I-NP","O","B-ADVP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[2,2,5,-2,5,-1,-2,21,9,7,-2,13,13,9,13,16,14,16,17,18,21,5,23,21,-2]
+,"deprels":["nsubj","cop","advcl",null,"nsubj","root",null,"csubj","det","dobj",null,"advmod","det","appos","prep","det","pobj","vmod","prep","pobj","aux","xcomp","nn","dobj",null]
+,"naryTree":"((ROOT (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADJP (JJ interesting))))) (, ,) (NP (FW i)) (VP (VB mean) (, ,) (S (S (VP (VBG reading) (NP (NP (DT the) (NN article)) (, ,) (ADVP (RB basically)) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (DT the) (NNS celebrities)) (VP (VBN paid) (PP (IN by) (NP (PRP him)))))))))) (VP (TO to) (VP (VB attend) (NP (NN charity) (NNS functions)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb27\"},\"m2\":{\"start\":12,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb4c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["what","'s","interesting",",","i","mean",",","reading","the","article",",","basically","a","lot","of","the","celebrities","paid","by","him","to","attend","charity","functions","."]
+,"lemmas":["what","be","interesting",",","i","mean",",","read","the","article",",","basically","a","lot","of","the","celebrity","pay","by","he","to","attend","charity","function","."]
+,"posTags":["WP","VBZ","JJ",",","FW","VB",",","VBG","DT","NN",",","RB","DT","NN","IN","DT","NNS","VBN","IN","PRP","TO","VB","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADJP","O","B-NP","B-VP","O","B-VP","B-NP","I-NP","O","B-ADVP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[2,2,5,-2,5,-1,-2,21,9,7,-2,13,13,9,13,16,14,16,17,18,21,5,23,21,-2]
+,"deprels":["nsubj","cop","advcl",null,"nsubj","root",null,"csubj","det","dobj",null,"advmod","det","appos","prep","det","pobj","vmod","prep","pobj","aux","xcomp","nn","dobj",null]
+,"naryTree":"((ROOT (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADJP (JJ interesting))))) (, ,) (NP (FW i)) (VP (VB mean) (, ,) (S (S (VP (VBG reading) (NP (NP (DT the) (NN article)) (, ,) (ADVP (RB basically)) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (DT the) (NNS celebrities)) (VP (VBN paid) (PP (IN by) (NP (PRP him)))))))))) (VP (TO to) (VP (VB attend) (NP (NN charity) (NNS functions)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb27\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaff\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["what","'s","interesting",",","i","mean",",","reading","the","article",",","basically","a","lot","of","the","celebrities","paid","by","him","to","attend","charity","functions","."]
+,"lemmas":["what","be","interesting",",","i","mean",",","read","the","article",",","basically","a","lot","of","the","celebrity","pay","by","he","to","attend","charity","function","."]
+,"posTags":["WP","VBZ","JJ",",","FW","VB",",","VBG","DT","NN",",","RB","DT","NN","IN","DT","NNS","VBN","IN","PRP","TO","VB","NN","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADJP","O","B-NP","B-VP","O","B-VP","B-NP","I-NP","O","B-ADVP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[2,2,5,-2,5,-1,-2,21,9,7,-2,13,13,9,13,16,14,16,17,18,21,5,23,21,-2]
+,"deprels":["nsubj","cop","advcl",null,"nsubj","root",null,"csubj","det","dobj",null,"advmod","det","appos","prep","det","pobj","vmod","prep","pobj","aux","xcomp","nn","dobj",null]
+,"naryTree":"((ROOT (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (ADJP (JJ interesting))))) (, ,) (NP (FW i)) (VP (VB mean) (, ,) (S (S (VP (VBG reading) (NP (NP (DT the) (NN article)) (, ,) (ADVP (RB basically)) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (DT the) (NNS celebrities)) (VP (VBN paid) (PP (IN by) (NP (PRP him)))))))))) (VP (TO to) (VP (VB attend) (NP (NN charity) (NNS functions)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":12,\"end\":17,\"head\":16,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb4c\"},\"m2\":{\"start\":19,\"end\":20,\"head\":19,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaff\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb1e\"},\"m2\":{\"start\":29,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb1e\"},\"m2\":{\"start\":29,\"end\":32,\"head\":31,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb1e\"},\"m2\":{\"start\":33,\"end\":35,\"head\":34,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb54\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb1e\"},\"m2\":{\"start\":33,\"end\":36,\"head\":35,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb53\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":29,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3e\"},\"m2\":{\"start\":29,\"end\":32,\"head\":31,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":29,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3e\"},\"m2\":{\"start\":33,\"end\":35,\"head\":34,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb54\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":29,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3e\"},\"m2\":{\"start\":33,\"end\":36,\"head\":35,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb53\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":29,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3e\"},\"m2\":{\"start\":38,\"end\":39,\"head\":38,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb06\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":29,\"end\":31,\"head\":30,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3e\"},\"m2\":{\"start\":38,\"end\":40,\"head\":39,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb01\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":29,\"end\":32,\"head\":31,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3d\"},\"m2\":{\"start\":33,\"end\":35,\"head\":34,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb54\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":29,\"end\":32,\"head\":31,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3d\"},\"m2\":{\"start\":33,\"end\":36,\"head\":35,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb53\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":29,\"end\":32,\"head\":31,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3d\"},\"m2\":{\"start\":38,\"end\":39,\"head\":38,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb06\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":29,\"end\":32,\"head\":31,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb3d\"},\"m2\":{\"start\":38,\"end\":40,\"head\":39,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb01\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":33,\"end\":35,\"head\":34,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb54\"},\"m2\":{\"start\":33,\"end\":36,\"head\":35,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb53\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":33,\"end\":35,\"head\":34,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb54\"},\"m2\":{\"start\":38,\"end\":39,\"head\":38,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb06\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":33,\"end\":35,\"head\":34,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb54\"},\"m2\":{\"start\":38,\"end\":40,\"head\":39,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb01\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":33,\"end\":35,\"head\":34,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb54\"},\"m2\":{\"start\":41,\"end\":44,\"head\":43,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb2c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":33,\"end\":36,\"head\":35,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb53\"},\"m2\":{\"start\":38,\"end\":39,\"head\":38,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb06\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":33,\"end\":36,\"head\":35,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb53\"},\"m2\":{\"start\":38,\"end\":40,\"head\":39,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb01\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":33,\"end\":36,\"head\":35,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb53\"},\"m2\":{\"start\":41,\"end\":44,\"head\":43,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb2c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":38,\"end\":39,\"head\":38,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb06\"},\"m2\":{\"start\":38,\"end\":40,\"head\":39,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb01\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":38,\"end\":39,\"head\":38,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb06\"},\"m2\":{\"start\":41,\"end\":44,\"head\":43,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb2c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["that","'s","one","of","the","things","that","was","most","surprising","to","me","was","in","learning","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honoring","former","president","clinton",",","former","president","ford","paid","by","mr.","tonkin","and","sylvester","stl","loan","was","paid","."]
+,"lemmas":["that","be","one","of","the","thing","that","be","most","surprising","to","I","be","in","learn","that","in","one","of","the","--","one","major","fund-raiser",",","for","instance",",","honor","former","president","clinton",",","former","president","ford","pay","by","mr.","tonkin","and","sylvester","stl","loan","be","pay","."]
+,"posTags":["DT","VBZ","CD","IN","DT","NNS","WDT","VBD","RBS","JJ","TO","PRP","VBD","IN","VBG","IN","IN","CD","IN","DT",":","CD","JJ","NN",",","IN","NN",",","VBG","JJ","NN","NN",",","JJ","NN","NN","VBN","IN","NN","NN","CC","NN","NN","NN","VBD","VBN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","B-VP","B-ADJP","I-ADJP","O","B-NP","B-VP","B-PP","B-VP","B-SBAR","B-PP","B-NP","B-PP","O","O","B-NP","B-NP","I-NP","O","B-PP","B-NP","O","B-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-VP","I-VP","O"]
+,"parents":[2,2,-1,2,5,3,9,9,9,5,12,12,9,12,13,45,45,28,17,23,-2,23,23,18,-2,28,25,-2,16,31,31,28,-2,35,35,45,35,36,39,37,39,43,43,39,45,14,-2]
+,"deprels":["nsubj","cop","root","prep","det","pobj","nsubj","cop","advmod","rcmod","dep","nsubj","ccomp","prep","pcomp","mark","prep","nsubj","prep","det",null,"dep","amod","pobj",null,"prep","pobj",null,"pcomp","amod","nn","dobj",null,"amod","nn","nsubjpass","vmod","prep","nn","pobj","cc","nn","nn","conj","auxpass","ccomp",null]
+,"naryTree":"((ROOT (S (NP (DT that)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (NNS things)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (ADJP (ADJP (RBS most) (JJ surprising)) (SBAR (X (TO to)) (S (NP (PRP me)) (VP (VBD was) (PP (IN in) (S (VP (VBG learning) (SBAR (IN that) (S (PP (IN in) (S (NP (NP (CD one)) (PP (IN of) (NP (DT the) (PRN (: --) (NP (CD one))) (JJ major) (NN fund-raiser)))) (, ,) (PP (IN for) (NP (NN instance))) (, ,) (VP (VBG honoring) (NP (JJ former) (NN president) (NN clinton))))) (, ,) (NP (NP (JJ former) (NN president) (NN ford)) (VP (VBN paid) (PP (IN by) (NP (NP (NN mr.) (NN tonkin)) (CC and) (NP (NN sylvester) (NN stl) (NN loan)))))) (VP (VBD was) (VP (VBN paid))))))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":38,\"end\":40,\"head\":39,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb01\"},\"m2\":{\"start\":41,\"end\":44,\"head\":43,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb2c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","guess","apparently","not","and","a","lot","of","the","celebrities","making","money","from","this","."]
+,"lemmas":["i","guess","apparently","not","and","a","lot","of","the","celebrity","make","money","from","this","."]
+,"posTags":["LS","NN","RB","RB","CC","DT","NN","IN","DT","NNS","VBG","NN","IN","DT","."]
+,"chunks":["B-NP","I-NP","B-ADVP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,6,6,3,3,1,6,9,7,1,10,10,12,-2]
+,"deprels":["dep","root","advmod","nn","cc","conj","rcmod","prep","det","pobj","vmod","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (NP (NP (NP (LS i) (NN guess)) (RRC (ADVP (RB apparently)) (NP (NP (RB not) (CC and) (DT a) (NN lot)) (PP (IN of) (NP (DT the) (NNS celebrities)))))) (VP (VBG making) (NP (NN money)) (PP (IN from) (NP (DT this)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb28\"},\"m2\":{\"start\":5,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb37\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["are","they","reporting","it","to","the","irs","."]
+,"lemmas":["be","they","report","it","to","the","ir","."]
+,"posTags":["VBP","PRP","VBG","PRP","TO","DT","NNS","."]
+,"chunks":["O","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,2,6,4,-2]
+,"deprels":["aux","nsubj","root","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (SQ (VBP are) (NP (PRP they)) (VP (VBG reporting) (NP (PRP it)) (PP (TO to) (NP (DT the) (NNS irs)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb38\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaeb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","guess","at","least","one","irs","investigation","about","this","."]
+,"lemmas":["i","guess","at","least","one","ir","investigation","about","this","."]
+,"posTags":["LS","NN","IN","JJS","CD","NNS","NN","IN","DT","."]
+,"chunks":["B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,4,2,6,6,1,6,7,-2]
+,"deprels":["dep","root","quantmod","mwe","num","nn","dep","prep","pobj",null]
+,"naryTree":"((ROOT (NP (NP (LS i) (NN guess)) (NP (NP (QP (IN at) (JJS least) (CD one)) (NNS irs) (NN investigation)) (PP (IN about) (NP (DT this)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb29\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaec\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["right","now",",","aaron","tonkin","factors","in","no","fewer","than","seven","different","federal","and","state","investigations","."]
+,"lemmas":["right","now",",","aaron","tonkin","factor","in","no","fewer","than","seven","different","federal","and","state","investigation","."]
+,"posTags":["RB","RB",",","NN","NN","NNS","IN","DT","JJR","IN","CD","JJ","JJ","CC","NN","NNS","."]
+,"chunks":["B-ADVP","I-ADVP","O","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,5,-2,5,5,-1,5,10,10,10,15,15,15,12,12,6,-2]
+,"deprels":["advmod","dep",null,"nn","nn","root","prep","quantmod","quantmod","quantmod","num","amod","amod","cc","conj","pobj",null]
+,"naryTree":"((ROOT (X (ADVP (RB right) (RB now)) (, ,) (NP (NP (NN aaron) (NN tonkin) (NNS factors)) (PP (IN in) (NP (QP (DT no) (JJR fewer) (IN than) (CD seven)) (JJ different) (UCP (JJ federal) (CC and) (NN state)) (NNS investigations)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb02\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaef\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["one","of","them","being","an","irs","investigation","into","several","million","dollars","worth","of","cash","and","gift","that","is","he","gave","to","many","many","hollywood","celebrities","."]
+,"lemmas":["one","of","they","be","a","irs","investigation","into","several","million","dollar","worth","of","cash","and","gift","that","be","he","give","to","many","many","hollywood","celebrity","."]
+,"posTags":["CD","IN","PRP","VBG","DT","JJ","NN","IN","JJ","CD","NNS","NN","IN","NN","CC","NN","WDT","VBZ","PRP","VBD","TO","JJ","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[19,0,6,6,6,6,1,6,9,11,11,7,11,12,13,13,18,18,6,-1,19,24,24,24,20,-2]
+,"deprels":["nsubj","prep","nsubj","cop","det","amod","pcomp","prep","quantmod","num","nn","pobj","prep","pobj","cc","conj","nsubj","cop","rcmod","root","prep","amod","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD one)) (PP (IN of) (S (NP (PRP them)) (VP (VBG being) (NP (NP (DT an) (JJ irs) (NN investigation)) (PP (IN into) (NP (NP (QP (JJ several) (CD million)) (NNS dollars) (NN worth)) (PP (IN of) (NP (NN cash) (CC and) (NN gift))))) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (PRP he)))))))))) (VP (VBD gave) (PP (TO to) (NP (JJ many) (JJ many) (NN hollywood) (NNS celebrities)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0e\"},\"m2\":{\"start\":21,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf1\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["one","of","them","being","an","irs","investigation","into","several","million","dollars","worth","of","cash","and","gift","that","is","he","gave","to","many","many","hollywood","celebrities","."]
+,"lemmas":["one","of","they","be","a","irs","investigation","into","several","million","dollar","worth","of","cash","and","gift","that","be","he","give","to","many","many","hollywood","celebrity","."]
+,"posTags":["CD","IN","PRP","VBG","DT","JJ","NN","IN","JJ","CD","NNS","NN","IN","NN","CC","NN","WDT","VBZ","PRP","VBD","TO","JJ","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[19,0,6,6,6,6,1,6,9,11,11,7,11,12,13,13,18,18,6,-1,19,24,24,24,20,-2]
+,"deprels":["nsubj","prep","nsubj","cop","det","amod","pcomp","prep","quantmod","num","nn","pobj","prep","pobj","cc","conj","nsubj","cop","rcmod","root","prep","amod","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD one)) (PP (IN of) (S (NP (PRP them)) (VP (VBG being) (NP (NP (DT an) (JJ irs) (NN investigation)) (PP (IN into) (NP (NP (QP (JJ several) (CD million)) (NNS dollars) (NN worth)) (PP (IN of) (NP (NN cash) (CC and) (NN gift))))) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (PRP he)))))))))) (VP (VBD gave) (PP (TO to) (NP (JJ many) (JJ many) (NN hollywood) (NNS celebrities)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaed\"},\"m2\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb03\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["one","of","them","being","an","irs","investigation","into","several","million","dollars","worth","of","cash","and","gift","that","is","he","gave","to","many","many","hollywood","celebrities","."]
+,"lemmas":["one","of","they","be","a","irs","investigation","into","several","million","dollar","worth","of","cash","and","gift","that","be","he","give","to","many","many","hollywood","celebrity","."]
+,"posTags":["CD","IN","PRP","VBG","DT","JJ","NN","IN","JJ","CD","NNS","NN","IN","NN","CC","NN","WDT","VBZ","PRP","VBD","TO","JJ","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[19,0,6,6,6,6,1,6,9,11,11,7,11,12,13,13,18,18,6,-1,19,24,24,24,20,-2]
+,"deprels":["nsubj","prep","nsubj","cop","det","amod","pcomp","prep","quantmod","num","nn","pobj","prep","pobj","cc","conj","nsubj","cop","rcmod","root","prep","amod","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD one)) (PP (IN of) (S (NP (PRP them)) (VP (VBG being) (NP (NP (DT an) (JJ irs) (NN investigation)) (PP (IN into) (NP (NP (QP (JJ several) (CD million)) (NNS dollars) (NN worth)) (PP (IN of) (NP (NN cash) (CC and) (NN gift))))) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (PRP he)))))))))) (VP (VBD gave) (PP (TO to) (NP (JJ many) (JJ many) (NN hollywood) (NNS celebrities)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaed\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["one","of","them","being","an","irs","investigation","into","several","million","dollars","worth","of","cash","and","gift","that","is","he","gave","to","many","many","hollywood","celebrities","."]
+,"lemmas":["one","of","they","be","a","irs","investigation","into","several","million","dollar","worth","of","cash","and","gift","that","be","he","give","to","many","many","hollywood","celebrity","."]
+,"posTags":["CD","IN","PRP","VBG","DT","JJ","NN","IN","JJ","CD","NNS","NN","IN","NN","CC","NN","WDT","VBZ","PRP","VBD","TO","JJ","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[19,0,6,6,6,6,1,6,9,11,11,7,11,12,13,13,18,18,6,-1,19,24,24,24,20,-2]
+,"deprels":["nsubj","prep","nsubj","cop","det","amod","pcomp","prep","quantmod","num","nn","pobj","prep","pobj","cc","conj","nsubj","cop","rcmod","root","prep","amod","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD one)) (PP (IN of) (S (NP (PRP them)) (VP (VBG being) (NP (NP (DT an) (JJ irs) (NN investigation)) (PP (IN into) (NP (NP (QP (JJ several) (CD million)) (NNS dollars) (NN worth)) (PP (IN of) (NP (NN cash) (CC and) (NN gift))))) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (PRP he)))))))))) (VP (VBD gave) (PP (TO to) (NP (JJ many) (JJ many) (NN hollywood) (NNS celebrities)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaed\"},\"m2\":{\"start\":21,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["one","of","them","being","an","irs","investigation","into","several","million","dollars","worth","of","cash","and","gift","that","is","he","gave","to","many","many","hollywood","celebrities","."]
+,"lemmas":["one","of","they","be","a","irs","investigation","into","several","million","dollar","worth","of","cash","and","gift","that","be","he","give","to","many","many","hollywood","celebrity","."]
+,"posTags":["CD","IN","PRP","VBG","DT","JJ","NN","IN","JJ","CD","NNS","NN","IN","NN","CC","NN","WDT","VBZ","PRP","VBD","TO","JJ","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[19,0,6,6,6,6,1,6,9,11,11,7,11,12,13,13,18,18,6,-1,19,24,24,24,20,-2]
+,"deprels":["nsubj","prep","nsubj","cop","det","amod","pcomp","prep","quantmod","num","nn","pobj","prep","pobj","cc","conj","nsubj","cop","rcmod","root","prep","amod","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD one)) (PP (IN of) (S (NP (PRP them)) (VP (VBG being) (NP (NP (DT an) (JJ irs) (NN investigation)) (PP (IN into) (NP (NP (QP (JJ several) (CD million)) (NNS dollars) (NN worth)) (PP (IN of) (NP (NN cash) (CC and) (NN gift))))) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (PRP he)))))))))) (VP (VBD gave) (PP (TO to) (NP (JJ many) (JJ many) (NN hollywood) (NNS celebrities)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb03\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb0e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["one","of","them","being","an","irs","investigation","into","several","million","dollars","worth","of","cash","and","gift","that","is","he","gave","to","many","many","hollywood","celebrities","."]
+,"lemmas":["one","of","they","be","a","irs","investigation","into","several","million","dollar","worth","of","cash","and","gift","that","be","he","give","to","many","many","hollywood","celebrity","."]
+,"posTags":["CD","IN","PRP","VBG","DT","JJ","NN","IN","JJ","CD","NNS","NN","IN","NN","CC","NN","WDT","VBZ","PRP","VBD","TO","JJ","JJ","NN","NNS","."]
+,"chunks":["B-NP","B-PP","B-NP","B-VP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-VP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[19,0,6,6,6,6,1,6,9,11,11,7,11,12,13,13,18,18,6,-1,19,24,24,24,20,-2]
+,"deprels":["nsubj","prep","nsubj","cop","det","amod","pcomp","prep","quantmod","num","nn","pobj","prep","pobj","cc","conj","nsubj","cop","rcmod","root","prep","amod","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (CD one)) (PP (IN of) (S (NP (PRP them)) (VP (VBG being) (NP (NP (DT an) (JJ irs) (NN investigation)) (PP (IN into) (NP (NP (QP (JJ several) (CD million)) (NNS dollars) (NN worth)) (PP (IN of) (NP (NN cash) (CC and) (NN gift))))) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (PRP he)))))))))) (VP (VBD gave) (PP (TO to) (NP (JJ many) (JJ many) (NN hollywood) (NNS celebrities)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":18,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb03\"},\"m2\":{\"start\":21,\"end\":25,\"head\":24,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["now",",","his","attorney","gave","us","a","statement","i","'ll","put","it","on","the","screen","."]
+,"lemmas":["now",",","he","attorney","give","we","a","statement","i","'ll","put","it","on","the","screen","."]
+,"posTags":["RB",",","PRP$","NN","VBD","PRP","DT","NN","FW","MD","VB","PRP","IN","DT","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,-2,3,4,-1,4,7,4,10,10,7,10,10,14,12,-2]
+,"deprels":["advmod",null,"poss","nsubj","root","iobj","det","dobj","nsubj","aux","rcmod","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (, ,) (NP (PRP$ his) (NN attorney)) (VP (VBD gave) (NP (PRP us)) (NP (NP (DT a) (NN statement)) (SBAR (S (NP (FW i)) (VP (MD 'll) (VP (VB put) (NP (PRP it)) (PP (IN on) (NP (DT the) (NN screen))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb04\"},\"m2\":{\"start\":2,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf3\"}}]"
+,"relLabels":["PER-SOC(Arg-1,Arg-1)"]}
+
+{"words":["now",",","his","attorney","gave","us","a","statement","i","'ll","put","it","on","the","screen","."]
+,"lemmas":["now",",","he","attorney","give","we","a","statement","i","'ll","put","it","on","the","screen","."]
+,"posTags":["RB",",","PRP$","NN","VBD","PRP","DT","NN","FW","MD","VB","PRP","IN","DT","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,-2,3,4,-1,4,7,4,10,10,7,10,10,14,12,-2]
+,"deprels":["advmod",null,"poss","nsubj","root","iobj","det","dobj","nsubj","aux","rcmod","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (, ,) (NP (PRP$ his) (NN attorney)) (VP (VBD gave) (NP (PRP us)) (NP (NP (DT a) (NN statement)) (SBAR (S (NP (FW i)) (VP (MD 'll) (VP (VB put) (NP (PRP it)) (PP (IN on) (NP (DT the) (NN screen))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb04\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb35\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["now",",","his","attorney","gave","us","a","statement","i","'ll","put","it","on","the","screen","."]
+,"lemmas":["now",",","he","attorney","give","we","a","statement","i","'ll","put","it","on","the","screen","."]
+,"posTags":["RB",",","PRP$","NN","VBD","PRP","DT","NN","FW","MD","VB","PRP","IN","DT","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,-2,3,4,-1,4,7,4,10,10,7,10,10,14,12,-2]
+,"deprels":["advmod",null,"poss","nsubj","root","iobj","det","dobj","nsubj","aux","rcmod","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (, ,) (NP (PRP$ his) (NN attorney)) (VP (VBD gave) (NP (PRP us)) (NP (NP (DT a) (NN statement)) (SBAR (S (NP (FW i)) (VP (MD 'll) (VP (VB put) (NP (PRP it)) (PP (IN on) (NP (DT the) (NN screen))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb04\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb2a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["now",",","his","attorney","gave","us","a","statement","i","'ll","put","it","on","the","screen","."]
+,"lemmas":["now",",","he","attorney","give","we","a","statement","i","'ll","put","it","on","the","screen","."]
+,"posTags":["RB",",","PRP$","NN","VBD","PRP","DT","NN","FW","MD","VB","PRP","IN","DT","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,-2,3,4,-1,4,7,4,10,10,7,10,10,14,12,-2]
+,"deprels":["advmod",null,"poss","nsubj","root","iobj","det","dobj","nsubj","aux","rcmod","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (, ,) (NP (PRP$ his) (NN attorney)) (VP (VBD gave) (NP (PRP us)) (NP (NP (DT a) (NN statement)) (SBAR (S (NP (FW i)) (VP (MD 'll) (VP (VB put) (NP (PRP it)) (PP (IN on) (NP (DT the) (NN screen))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf3\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb35\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["now",",","his","attorney","gave","us","a","statement","i","'ll","put","it","on","the","screen","."]
+,"lemmas":["now",",","he","attorney","give","we","a","statement","i","'ll","put","it","on","the","screen","."]
+,"posTags":["RB",",","PRP$","NN","VBD","PRP","DT","NN","FW","MD","VB","PRP","IN","DT","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,-2,3,4,-1,4,7,4,10,10,7,10,10,14,12,-2]
+,"deprels":["advmod",null,"poss","nsubj","root","iobj","det","dobj","nsubj","aux","rcmod","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (, ,) (NP (PRP$ his) (NN attorney)) (VP (VBD gave) (NP (PRP us)) (NP (NP (DT a) (NN statement)) (SBAR (S (NP (FW i)) (VP (MD 'll) (VP (VB put) (NP (PRP it)) (PP (IN on) (NP (DT the) (NN screen))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcaf3\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb2a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["now",",","his","attorney","gave","us","a","statement","i","'ll","put","it","on","the","screen","."]
+,"lemmas":["now",",","he","attorney","give","we","a","statement","i","'ll","put","it","on","the","screen","."]
+,"posTags":["RB",",","PRP$","NN","VBD","PRP","DT","NN","FW","MD","VB","PRP","IN","DT","NN","."]
+,"chunks":["B-ADVP","O","B-NP","I-NP","B-VP","B-NP","B-NP","I-NP","B-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,-2,3,4,-1,4,7,4,10,10,7,10,10,14,12,-2]
+,"deprels":["advmod",null,"poss","nsubj","root","iobj","det","dobj","nsubj","aux","rcmod","dobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (, ,) (NP (PRP$ his) (NN attorney)) (VP (VBD gave) (NP (PRP us)) (NP (NP (DT a) (NN statement)) (SBAR (S (NP (FW i)) (VP (MD 'll) (VP (VB put) (NP (PRP it)) (PP (IN on) (NP (DT the) (NN screen))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb35\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"95f28e93-f042-ef4d-c62e-0000634fcb2a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

@@ -1,0 +1,180 @@
+{"words":["yasser","arafat","backed","abu","mazen","as","prime","minister","."]
+,"lemmas":["yasser","arafat","back","abu","mazen","as","prime","minister","."]
+,"posTags":["NN","NN","VBD","NN","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,2,7,5,-2]
+,"deprels":["nn","nsubj","root","nn","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN yasser) (NN arafat)) (VP (VBD backed) (NP (NN abu) (NN mazen)) (PP (IN as) (NP (JJ prime) (NN minister)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e1c\"},\"m2\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e1f\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["yasser","arafat","backed","abu","mazen","as","prime","minister","."]
+,"lemmas":["yasser","arafat","back","abu","mazen","as","prime","minister","."]
+,"posTags":["NN","NN","VBD","NN","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,2,7,5,-2]
+,"deprels":["nn","nsubj","root","nn","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN yasser) (NN arafat)) (VP (VBD backed) (NP (NN abu) (NN mazen)) (PP (IN as) (NP (JJ prime) (NN minister)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e1c\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e21\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["yasser","arafat","backed","abu","mazen","as","prime","minister","."]
+,"lemmas":["yasser","arafat","back","abu","mazen","as","prime","minister","."]
+,"posTags":["NN","NN","VBD","NN","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,4,2,2,7,5,-2]
+,"deprels":["nn","nsubj","root","nn","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN yasser) (NN arafat)) (VP (VBD backed) (NP (NN abu) (NN mazen)) (PP (IN as) (NP (JJ prime) (NN minister)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":5,\"head\":4,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e1f\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e21\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["a","first","step","he","says","toward","peace","with","israel","."]
+,"lemmas":["a","first","step","he","say","toward","peace","with","israel","."]
+,"posTags":["DT","JJ","NN","PRP","VBZ","IN","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","B-VP","B-PP","B-NP","B-PP","B-NP","O"]
+,"parents":[2,2,4,4,-1,4,5,4,7,-2]
+,"deprels":["det","amod","nsubj","nsubj","root","prep","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT a) (JJ first) (NN step)) (NP (PRP he)) (VP (VBZ says) (PP (IN toward) (NP (NN peace))) (PP (IN with) (NP (NN israel)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e1d\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e23\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e1a\"},\"m2\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e25\"}}]"
+,"relLabels":["GEN-AFF"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e1a\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e17\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e1a\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e12\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e1a\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e13\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e25\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e17\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e25\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e12\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e25\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e13\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e25\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e20\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e17\"},\"m2\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e12\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e17\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e13\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e17\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e20\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e12\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e13\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":11,\"head\":10,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e12\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e20\"}}]"
+,"relLabels":["NO_RELATION"]}
+
+{"words":["now","palestinian","leaders","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","is","presenting","."]
+,"lemmas":["now","palestinian","leader","must","vote","on","whether","to","september","24-member","cabinet","that","mazen","be","present","."]
+,"posTags":["RB","JJ","NNS","MD","VB","IN","IN","TO","NNP","JJ","NN","WDT","NN","VBZ","VBG","."]
+,"chunks":["B-ADVP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","B-NP","B-NP","B-VP","I-VP","O"]
+,"parents":[4,2,4,4,-1,4,5,4,10,10,7,14,14,14,4,-2]
+,"deprels":["advmod","amod","nsubj","aux","root","prep","pobj","prep","nn","amod","pobj","dobj","nsubj","aux","ccomp",null]
+,"naryTree":"((ROOT (S (ADVP (RB now)) (NP (JJ palestinian) (NNS leaders)) (VP (MD must) (VP (VB vote) (PP (IN on) (NP (IN whether))) (PP (TO to) (NP (NNP september) (JJ 24-member) (NN cabinet))) (SBAR (WHNP (WDT that)) (S (NP (NN mazen)) (VP (VBZ is) (VP (VBG presenting))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e13\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"03503b57-8220-26d1-89e6-00007feb7e20\"}}]"
+,"relLabels":["NO_RELATION"]}
+

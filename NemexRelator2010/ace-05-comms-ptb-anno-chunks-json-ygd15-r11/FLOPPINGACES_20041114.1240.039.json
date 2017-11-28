@@ -1,0 +1,450 @@
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb24\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":\"WEA\",\"subtype\":\"Nuclear\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb21\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb23\"},\"m2\":{\"start\":5,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb28\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb2a\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb23\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb2a\"},\"m2\":{\"start\":5,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb28\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb2a\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb24\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb2a\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":\"WEA\",\"subtype\":\"Nuclear\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb21\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb2a\"},\"m2\":{\"start\":25,\"end\":27,\"head\":26,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb2a\"},\"m2\":{\"start\":28,\"end\":29,\"head\":28,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb19\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb23\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb24\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb23\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":\"WEA\",\"subtype\":\"Nuclear\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb21\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb23\"},\"m2\":{\"start\":25,\"end\":27,\"head\":26,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb23\"},\"m2\":{\"start\":28,\"end\":29,\"head\":28,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb19\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb28\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb24\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb28\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":\"WEA\",\"subtype\":\"Nuclear\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb21\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb28\"},\"m2\":{\"start\":25,\"end\":27,\"head\":26,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb28\"},\"m2\":{\"start\":28,\"end\":29,\"head\":28,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb19\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb24\"},\"m2\":{\"start\":25,\"end\":27,\"head\":26,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb24\"},\"m2\":{\"start\":28,\"end\":29,\"head\":28,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb19\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":23,\"end\":24,\"head\":23,\"type\":\"WEA\",\"subtype\":\"Nuclear\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb21\"},\"m2\":{\"start\":25,\"end\":27,\"head\":26,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":23,\"end\":24,\"head\":23,\"type\":\"WEA\",\"subtype\":\"Nuclear\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb21\"},\"m2\":{\"start\":28,\"end\":29,\"head\":28,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb19\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Time","is","reporting","today","that","a","al-Qaeda","operative","was","captured","and","is","spitting","out","that","they","have","plans","in","the","work","to","smuggle","nukes","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"lemmas":["Time","be","report","today","that","a","al-Qaeda","operative","be","capture","and","be","spit","out","that","they","have","plan","in","the","work","to","smuggle","nuke","into","the","US","from","Mexico",",","see","the","article","here","."]
+,"posTags":["NNP","VBZ","VBG","NN","IN","DT","NNP","NN","VBD","VBN","CC","VBZ","VBG","RP","IN","PRP","VBP","NNS","IN","DT","NN","TO","VB","NNS","IN","DT","NNP","IN","NNP",",","VBP","DT","NN","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-NP","B-SBAR","B-NP","I-NP","I-NP","B-VP","I-VP","O","B-VP","I-VP","B-PRT","B-SBAR","B-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-ADVP","O"]
+,"parents":[2,2,-1,2,9,7,7,9,9,2,2,12,2,12,16,16,12,16,17,20,18,22,20,22,22,26,24,22,27,-2,2,32,30,30,-2]
+,"deprels":["nsubj","aux","root","tmod","mark","det","nn","nsubjpass","auxpass","ccomp","cc","aux","conj","prt","mark","nsubj","ccomp","dobj","prep","det","pobj","aux","vmod","dobj","prep","det","pobj","prep","pobj",null,"dep","det","dobj","advmod",null]
+,"naryTree":"((ROOT (S (NP (NNP Time)) (VP (VP (VBZ is) (VP (VBG reporting) (NP-TMP (NN today)) (SBAR (IN that) (S (NP (DT a) (NNP al-Qaeda) (NN operative)) (VP (VBD was) (VP (VBN captured))))))) (CC and) (VP (VBZ is) (VP (VBG spitting) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS plans)) (PP (IN in) (NP (DT the) (NN work) (S (VP (TO to) (VP (VB smuggle) (NP (NNS nukes)) (PP (IN into) (NP (DT the) (NNP US))) (PP (IN from) (NP (NNP Mexico)))))))))))))) (, ,) (VP (VBP see) (NP (DT the) (NN article)) (ADVP (RB here)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":25,\"end\":27,\"head\":26,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1b\"},\"m2\":{\"start\":28,\"end\":29,\"head\":28,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb19\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1c\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb15\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb12\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb14\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb12\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb12\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb15\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb12\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb2d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb12\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb16\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb12\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb14\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1c\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb14\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb15\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb14\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb2d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb14\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb16\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb14\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1c\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb2d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1c\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb16\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1c\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb15\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb2d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb15\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb16\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb15\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb2d\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb16\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb2d\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["Thank","god","Bush","is","still","our","president",",","although","I","strongly","disagree","with","him","on","his","new","immigration","policy","."]
+,"lemmas":["thank","god","Bush","be","still","we","president",",","although","I","strongly","disagree","with","he","on","he","new","immigration","policy","."]
+,"posTags":["VB","NN","NNP","VBZ","RB","PRP$","NN",",","IN","PRP","RB","VBP","IN","PRP","IN","PRP$","JJ","NN","NN","."]
+,"chunks":["B-VP","B-NP","B-NP","B-VP","B-ADVP","B-NP","I-NP","O","B-SBAR","B-NP","B-ADVP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[-1,0,6,6,6,6,0,-2,11,11,11,6,11,12,11,18,18,18,14,-2]
+,"deprels":["root","dobj","nsubj","cop","advmod","poss","dep",null,"mark","nsubj","advmod","advcl","prep","pobj","prep","poss","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB Thank) (NP (NN god)) (SBAR (S (NP (NNP Bush)) (VP (VBZ is) (ADVP (RB still)) (NP (PRP$ our) (NN president)) (, ,) (SBAR (IN although) (S (NP (PRP I)) (ADVP (RB strongly)) (VP (VBP disagree) (PP (IN with) (NP (PRP him))) (PP (IN on) (NP (PRP$ his) (JJ new) (NN immigration) (NN policy)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb16\"},\"m2\":{\"start\":15,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["This","policy","would","just","make","it","easier","for","the","enemy","to","get","within","our","borders","."]
+,"lemmas":["this","policy","would","just","make","it","easier","for","the","enemy","to","get","within","we","border","."]
+,"posTags":["DT","NN","MD","RB","VB","PRP","JJR","IN","DT","NN","TO","VB","IN","PRP$","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","B-ADJP","B-PP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,6,4,6,9,7,11,9,11,14,12,-2]
+,"deprels":["det","nsubj","aux","advmod","root","nsubj","xcomp","prep","det","pobj","aux","vmod","prep","poss","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT This) (NN policy)) (VP (MD would) (ADVP (RB just)) (VP (VB make) (S (NP (PRP it)) (ADJP (JJR easier) (PP (IN for) (NP (DT the) (NN enemy) (S (VP (TO to) (VP (VB get) (PP (IN within) (NP (PRP$ our) (NNS borders)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1f\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"LOC\",\"subtype\":\"Boundary\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb26\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["This","policy","would","just","make","it","easier","for","the","enemy","to","get","within","our","borders","."]
+,"lemmas":["this","policy","would","just","make","it","easier","for","the","enemy","to","get","within","we","border","."]
+,"posTags":["DT","NN","MD","RB","VB","PRP","JJR","IN","DT","NN","TO","VB","IN","PRP$","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","B-ADJP","B-PP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,6,4,6,9,7,11,9,11,14,12,-2]
+,"deprels":["det","nsubj","aux","advmod","root","nsubj","xcomp","prep","det","pobj","aux","vmod","prep","poss","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT This) (NN policy)) (VP (MD would) (ADVP (RB just)) (VP (VB make) (S (NP (PRP it)) (ADJP (JJR easier) (PP (IN for) (NP (DT the) (NN enemy) (S (VP (TO to) (VP (VB get) (PP (IN within) (NP (PRP$ our) (NNS borders)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1d\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"LOC\",\"subtype\":\"Boundary\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb26\"}}]"
+,"relLabels":["PART-WHOLE(Arg-2,Arg-1)"]}
+
+{"words":["This","policy","would","just","make","it","easier","for","the","enemy","to","get","within","our","borders","."]
+,"lemmas":["this","policy","would","just","make","it","easier","for","the","enemy","to","get","within","we","border","."]
+,"posTags":["DT","NN","MD","RB","VB","PRP","JJR","IN","DT","NN","TO","VB","IN","PRP$","NNS","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","B-ADJP","B-PP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,6,4,6,9,7,11,9,11,14,12,-2]
+,"deprels":["det","nsubj","aux","advmod","root","nsubj","xcomp","prep","det","pobj","aux","vmod","prep","poss","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT This) (NN policy)) (VP (MD would) (ADVP (RB just)) (VP (VB make) (S (NP (PRP it)) (ADJP (JJR easier) (PP (IN for) (NP (DT the) (NN enemy) (S (VP (TO to) (VP (VB get) (PP (IN within) (NP (PRP$ our) (NNS borders)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"NOM\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1f\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"58ea044f-4a88-c9e7-1664-0000634eeb1d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

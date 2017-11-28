@@ -1,0 +1,820 @@
+{"words":["i","just","want","to","update","you","on","kofi","annan","'s","remarks","."]
+,"lemmas":["i","just","want","to","update","you","on","kofus","annan","'s","remark","."]
+,"posTags":["LS","RB","VB","TO","VB","PRP","IN","NN","NN","POS","NNS","."]
+,"chunks":["O","B-ADVP","B-VP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,4,4,8,10,8,6,-2]
+,"deprels":["nsubj","advmod","root","aux","xcomp","dobj","prep","nn","poss","possessive","pobj",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (ADVP (RB just)) (VP (VB want) (S (VP (TO to) (VP (VB update) (NP (PRP you)) (PP (IN on) (NP (NP (NN kofi) (NN annan) (POS 's)) (NNS remarks))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc11\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc05\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","just","want","to","update","you","on","kofi","annan","'s","remarks","."]
+,"lemmas":["i","just","want","to","update","you","on","kofus","annan","'s","remark","."]
+,"posTags":["LS","RB","VB","TO","VB","PRP","IN","NN","NN","POS","NNS","."]
+,"chunks":["O","B-ADVP","B-VP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,4,4,8,10,8,6,-2]
+,"deprels":["nsubj","advmod","root","aux","xcomp","dobj","prep","nn","poss","possessive","pobj",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (ADVP (RB just)) (VP (VB want) (S (VP (TO to) (VP (VB update) (NP (PRP you)) (PP (IN on) (NP (NP (NN kofi) (NN annan) (POS 's)) (NNS remarks))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc11\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbff\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["i","just","want","to","update","you","on","kofi","annan","'s","remarks","."]
+,"lemmas":["i","just","want","to","update","you","on","kofus","annan","'s","remark","."]
+,"posTags":["LS","RB","VB","TO","VB","PRP","IN","NN","NN","POS","NNS","."]
+,"chunks":["O","B-ADVP","B-VP","B-VP","I-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,4,4,8,10,8,6,-2]
+,"deprels":["nsubj","advmod","root","aux","xcomp","dobj","prep","nn","poss","possessive","pobj",null]
+,"naryTree":"((ROOT (S (NP (LS i)) (ADVP (RB just)) (VP (VB want) (S (VP (TO to) (VP (VB update) (NP (PRP you)) (PP (IN on) (NP (NP (NN kofi) (NN annan) (POS 's)) (NNS remarks))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc05\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbff\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","u.n.","secretary-general","did","not","answer","questions","on","iraq","as","a","result","."]
+,"lemmas":["the","u.n.","secretary-general","do","not","answer","question","on","iraq","as","a","result","."]
+,"posTags":["DT","NNP","NN","VBD","RB","VB","NNS","IN","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,5,5,5,-1,5,6,7,5,11,9,-2]
+,"deprels":["det","nn","nsubj","aux","neg","root","dobj","prep","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NNP u.n.) (NN secretary-general)) (VP (VBD did) (RB not) (VP (VB answer) (NP (NP (NNS questions)) (PP (IN on) (NP (NN iraq)))) (PP (IN as) (NP (DT a) (NN result))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0b\"},\"m2\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc00\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["the","u.n.","secretary-general","did","not","answer","questions","on","iraq","as","a","result","."]
+,"lemmas":["the","u.n.","secretary-general","do","not","answer","question","on","iraq","as","a","result","."]
+,"posTags":["DT","NNP","NN","VBD","RB","VB","NNS","IN","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,5,5,5,-1,5,6,7,5,11,9,-2]
+,"deprels":["det","nn","nsubj","aux","neg","root","dobj","prep","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NNP u.n.) (NN secretary-general)) (VP (VBD did) (RB not) (VP (VB answer) (NP (NP (NNS questions)) (PP (IN on) (NP (NN iraq)))) (PP (IN as) (NP (DT a) (NN result))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0b\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc09\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","u.n.","secretary-general","did","not","answer","questions","on","iraq","as","a","result","."]
+,"lemmas":["the","u.n.","secretary-general","do","not","answer","question","on","iraq","as","a","result","."]
+,"posTags":["DT","NNP","NN","VBD","RB","VB","NNS","IN","NN","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,5,5,5,-1,5,6,7,5,11,9,-2]
+,"deprels":["det","nn","nsubj","aux","neg","root","dobj","prep","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NNP u.n.) (NN secretary-general)) (VP (VBD did) (RB not) (VP (VB answer) (NP (NP (NNS questions)) (PP (IN on) (NP (NN iraq)))) (PP (IN as) (NP (DT a) (NN result))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc00\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc09\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc25\"},\"m2\":{\"start\":6,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf0\"}}]"
+,"relLabels":["PART-WHOLE(Arg-2,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe3\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc25\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe3\"},\"m2\":{\"start\":6,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe3\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe3\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe3\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc25\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc25\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"LOC\",\"subtype\":\"Region-General\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc25\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf0\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf0\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf0\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf1\"},\"m2\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf2\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf1\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","have","just","gotten","word","from","the","ninth","circuit","court","of","appeals","that","that","court","has","now","put","on","hold","its","ruling","banning","the","pledge","of","allegiance","in","public","classrooms","."]
+,"lemmas":["we","have","just","get","word","from","the","ninth","circuit","court","of","appeal","that","that","court","have","now","put","on","hold","its","ruling","ban","the","pledge","of","allegiance","in","public","classroom","."]
+,"posTags":["PRP","VBP","RB","VBN","NN","IN","DT","JJ","NN","NN","IN","NNS","IN","DT","NN","VBZ","RB","VBN","IN","NN","PRP$","NN","VBG","DT","NN","IN","NN","IN","JJ","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-SBAR","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,3,9,9,9,5,9,10,17,14,17,17,17,3,17,21,21,18,17,24,22,24,25,22,29,27,-2]
+,"deprels":["nsubj","aux","advmod","root","dobj","prep","det","amod","nn","pobj","prep","pobj","mark","det","nsubj","aux","advmod","ccomp","prep","nn","poss","pobj","xcomp","det","dobj","prep","pobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (VBP have) (VP (ADVP (RB just)) (VBN gotten) (NP (NN word)) (PP (IN from) (NP (NP (DT the) (JJ ninth) (NN circuit) (NN court)) (PP (IN of) (NP (NNS appeals))))) (SBAR (IN that) (S (NP (DT that) (NN court)) (VP (VBZ has) (ADVP (RB now)) (VP (VBN put) (PP (IN on) (NP (NN hold) (PRP$ its) (NN ruling))) (S (VP (VBG banning) (NP (NP (DT the) (NN pledge)) (PP (IN of) (NP (NN allegiance)))) (PP (IN in) (NP (JJ public) (NNS classrooms))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":20,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf2\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":\"FAC\",\"subtype\":\"Subarea-Facility\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["schools","in","nine","western","states","would","have","been","prohibited","from","having","students","say","the","pledge","starting","monday","."]
+,"lemmas":["school","in","nine","western","state","would","have","be","prohibit","from","have","student","say","the","pledge","start","monday","."]
+,"posTags":["NNS","IN","CD","JJ","NNS","MD","VB","VBN","VBN","IN","VBG","NNS","VBP","DT","NN","VBG","NNP","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-VP","B-NP","O"]
+,"parents":[8,0,4,4,1,8,8,8,-1,8,9,12,10,14,12,14,15,-2]
+,"deprels":["nsubjpass","prep","num","amod","pobj","aux","aux","auxpass","root","prep","pcomp","nsubj","ccomp","det","dobj","vmod","tmod",null]
+,"naryTree":"((ROOT (S (NP (NP (NNS schools)) (PP (IN in) (NP (CD nine) (JJ western) (NNS states)))) (VP (MD would) (VP (VB have) (VP (VBN been) (VP (VBN prohibited) (PP (IN from) (S (VP (VBG having) (S (NP (NNS students)) (VP (VBP say) (NP (NP (DT the) (NN pledge)) (VP (VBG starting) (NP-TMP (NNP monday))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Educational\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc20\"},\"m2\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc13\"}}]"
+,"relLabels":["GEN-AFF(Arg-1,Arg-2)"]}
+
+{"words":["schools","in","nine","western","states","would","have","been","prohibited","from","having","students","say","the","pledge","starting","monday","."]
+,"lemmas":["school","in","nine","western","state","would","have","be","prohibit","from","have","student","say","the","pledge","start","monday","."]
+,"posTags":["NNS","IN","CD","JJ","NNS","MD","VB","VBN","VBN","IN","VBG","NNS","VBP","DT","NN","VBG","NNP","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-VP","B-NP","O"]
+,"parents":[8,0,4,4,1,8,8,8,-1,8,9,12,10,14,12,14,15,-2]
+,"deprels":["nsubjpass","prep","num","amod","pobj","aux","aux","auxpass","root","prep","pcomp","nsubj","ccomp","det","dobj","vmod","tmod",null]
+,"naryTree":"((ROOT (S (NP (NP (NNS schools)) (PP (IN in) (NP (CD nine) (JJ western) (NNS states)))) (VP (MD would) (VP (VB have) (VP (VBN been) (VP (VBN prohibited) (PP (IN from) (S (VP (VBG having) (S (NP (NNS students)) (VP (VBP say) (NP (NP (DT the) (NN pledge)) (VP (VBG starting) (NP-TMP (NNP monday))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Educational\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc20\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc27\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["schools","in","nine","western","states","would","have","been","prohibited","from","having","students","say","the","pledge","starting","monday","."]
+,"lemmas":["school","in","nine","western","state","would","have","be","prohibit","from","have","student","say","the","pledge","start","monday","."]
+,"posTags":["NNS","IN","CD","JJ","NNS","MD","VB","VBN","VBN","IN","VBG","NNS","VBP","DT","NN","VBG","NNP","."]
+,"chunks":["B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","I-VP","I-VP","I-VP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-VP","B-NP","O"]
+,"parents":[8,0,4,4,1,8,8,8,-1,8,9,12,10,14,12,14,15,-2]
+,"deprels":["nsubjpass","prep","num","amod","pobj","aux","aux","auxpass","root","prep","pcomp","nsubj","ccomp","det","dobj","vmod","tmod",null]
+,"naryTree":"((ROOT (S (NP (NP (NNS schools)) (PP (IN in) (NP (CD nine) (JJ western) (NNS states)))) (VP (MD would) (VP (VB have) (VP (VBN been) (VP (VBN prohibited) (PP (IN from) (S (VP (VBG having) (S (NP (NNS students)) (VP (VBP say) (NP (NP (DT the) (NN pledge)) (VP (VBG starting) (NP-TMP (NNP monday))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc13\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc27\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","stay","was","granted","to","give","the","school","districts","involved","in","the","initial","cases","90","days","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"lemmas":["the","stay","be","grant","to","give","the","school","district","involve","in","the","initial","case","90","day","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"posTags":["DT","NN","VBD","VBN","TO","VB","DT","NN","NNS","VBN","IN","DT","JJ","NNS","CD","NNS","TO","VB","TO","DT","JJ","NN","NN","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,7,5,5,8,9,13,13,10,15,8,17,8,17,22,22,22,18,24,17,24,-2]
+,"deprels":["det","nsubjpass","auxpass","root","aux","xcomp","det","iobj","dobj","vmod","prep","det","amod","pobj","num","tmod","aux","vmod","prep","det","amod","nn","pobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN stay)) (VP (VBD was) (VP (VBN granted) (S (VP (TO to) (VP (VB give) (NP (DT the) (NN school)) (NP (NP (NP (NNS districts)) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ initial) (NNS cases))))) (NP-TMP (CD 90) (NNS days)) (S (VP (TO to) (VP (VB appeal) (PP (TO to) (NP (DT the) (JJ u.s.) (NN supreme) (NN court))) (PP (ADVP (RB here)) (IN in) (NP (NN washington)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"ORG\",\"subtype\":\"Educational\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1f\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc07\"}}]"
+,"relLabels":["PART-WHOLE(Arg-1,Arg-2)"]}
+
+{"words":["the","stay","was","granted","to","give","the","school","districts","involved","in","the","initial","cases","90","days","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"lemmas":["the","stay","be","grant","to","give","the","school","district","involve","in","the","initial","case","90","day","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"posTags":["DT","NN","VBD","VBN","TO","VB","DT","NN","NNS","VBN","IN","DT","JJ","NNS","CD","NNS","TO","VB","TO","DT","JJ","NN","NN","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,7,5,5,8,9,13,13,10,15,8,17,8,17,22,22,22,18,24,17,24,-2]
+,"deprels":["det","nsubjpass","auxpass","root","aux","xcomp","det","iobj","dobj","vmod","prep","det","amod","pobj","num","tmod","aux","vmod","prep","det","amod","nn","pobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN stay)) (VP (VBD was) (VP (VBN granted) (S (VP (TO to) (VP (VB give) (NP (DT the) (NN school)) (NP (NP (NP (NNS districts)) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ initial) (NNS cases))))) (NP-TMP (CD 90) (NNS days)) (S (VP (TO to) (VP (VB appeal) (PP (TO to) (NP (DT the) (JJ u.s.) (NN supreme) (NN court))) (PP (ADVP (RB here)) (IN in) (NP (NN washington)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":19,\"end\":23,\"head\":22,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbfb\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc23\"}}]"
+,"relLabels":["GEN-AFF(Arg-1,Arg-2)"]}
+
+{"words":["the","stay","was","granted","to","give","the","school","districts","involved","in","the","initial","cases","90","days","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"lemmas":["the","stay","be","grant","to","give","the","school","district","involve","in","the","initial","case","90","day","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"posTags":["DT","NN","VBD","VBN","TO","VB","DT","NN","NNS","VBN","IN","DT","JJ","NNS","CD","NNS","TO","VB","TO","DT","JJ","NN","NN","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,7,5,5,8,9,13,13,10,15,8,17,8,17,22,22,22,18,24,17,24,-2]
+,"deprels":["det","nsubjpass","auxpass","root","aux","xcomp","det","iobj","dobj","vmod","prep","det","amod","pobj","num","tmod","aux","vmod","prep","det","amod","nn","pobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN stay)) (VP (VBD was) (VP (VBN granted) (S (VP (TO to) (VP (VB give) (NP (DT the) (NN school)) (NP (NP (NP (NNS districts)) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ initial) (NNS cases))))) (NP-TMP (CD 90) (NNS days)) (S (VP (TO to) (VP (VB appeal) (PP (TO to) (NP (DT the) (JJ u.s.) (NN supreme) (NN court))) (PP (ADVP (RB here)) (IN in) (NP (NN washington)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"ORG\",\"subtype\":\"Educational\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1f\"},\"m2\":{\"start\":19,\"end\":23,\"head\":22,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbfb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","stay","was","granted","to","give","the","school","districts","involved","in","the","initial","cases","90","days","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"lemmas":["the","stay","be","grant","to","give","the","school","district","involve","in","the","initial","case","90","day","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"posTags":["DT","NN","VBD","VBN","TO","VB","DT","NN","NNS","VBN","IN","DT","JJ","NNS","CD","NNS","TO","VB","TO","DT","JJ","NN","NN","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,7,5,5,8,9,13,13,10,15,8,17,8,17,22,22,22,18,24,17,24,-2]
+,"deprels":["det","nsubjpass","auxpass","root","aux","xcomp","det","iobj","dobj","vmod","prep","det","amod","pobj","num","tmod","aux","vmod","prep","det","amod","nn","pobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN stay)) (VP (VBD was) (VP (VBN granted) (S (VP (TO to) (VP (VB give) (NP (DT the) (NN school)) (NP (NP (NP (NNS districts)) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ initial) (NNS cases))))) (NP-TMP (CD 90) (NNS days)) (S (VP (TO to) (VP (VB appeal) (PP (TO to) (NP (DT the) (JJ u.s.) (NN supreme) (NN court))) (PP (ADVP (RB here)) (IN in) (NP (NN washington)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"ORG\",\"subtype\":\"Educational\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1f\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc23\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","stay","was","granted","to","give","the","school","districts","involved","in","the","initial","cases","90","days","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"lemmas":["the","stay","be","grant","to","give","the","school","district","involve","in","the","initial","case","90","day","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"posTags":["DT","NN","VBD","VBN","TO","VB","DT","NN","NNS","VBN","IN","DT","JJ","NNS","CD","NNS","TO","VB","TO","DT","JJ","NN","NN","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,7,5,5,8,9,13,13,10,15,8,17,8,17,22,22,22,18,24,17,24,-2]
+,"deprels":["det","nsubjpass","auxpass","root","aux","xcomp","det","iobj","dobj","vmod","prep","det","amod","pobj","num","tmod","aux","vmod","prep","det","amod","nn","pobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN stay)) (VP (VBD was) (VP (VBN granted) (S (VP (TO to) (VP (VB give) (NP (DT the) (NN school)) (NP (NP (NP (NNS districts)) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ initial) (NNS cases))))) (NP-TMP (CD 90) (NNS days)) (S (VP (TO to) (VP (VB appeal) (PP (TO to) (NP (DT the) (JJ u.s.) (NN supreme) (NN court))) (PP (ADVP (RB here)) (IN in) (NP (NN washington)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"ORG\",\"subtype\":\"Educational\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1f\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc22\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","stay","was","granted","to","give","the","school","districts","involved","in","the","initial","cases","90","days","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"lemmas":["the","stay","be","grant","to","give","the","school","district","involve","in","the","initial","case","90","day","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"posTags":["DT","NN","VBD","VBN","TO","VB","DT","NN","NNS","VBN","IN","DT","JJ","NNS","CD","NNS","TO","VB","TO","DT","JJ","NN","NN","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,7,5,5,8,9,13,13,10,15,8,17,8,17,22,22,22,18,24,17,24,-2]
+,"deprels":["det","nsubjpass","auxpass","root","aux","xcomp","det","iobj","dobj","vmod","prep","det","amod","pobj","num","tmod","aux","vmod","prep","det","amod","nn","pobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN stay)) (VP (VBD was) (VP (VBN granted) (S (VP (TO to) (VP (VB give) (NP (DT the) (NN school)) (NP (NP (NP (NNS districts)) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ initial) (NNS cases))))) (NP-TMP (CD 90) (NNS days)) (S (VP (TO to) (VP (VB appeal) (PP (TO to) (NP (DT the) (JJ u.s.) (NN supreme) (NN court))) (PP (ADVP (RB here)) (IN in) (NP (NN washington)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc07\"},\"m2\":{\"start\":19,\"end\":23,\"head\":22,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbfb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","stay","was","granted","to","give","the","school","districts","involved","in","the","initial","cases","90","days","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"lemmas":["the","stay","be","grant","to","give","the","school","district","involve","in","the","initial","case","90","day","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"posTags":["DT","NN","VBD","VBN","TO","VB","DT","NN","NNS","VBN","IN","DT","JJ","NNS","CD","NNS","TO","VB","TO","DT","JJ","NN","NN","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,7,5,5,8,9,13,13,10,15,8,17,8,17,22,22,22,18,24,17,24,-2]
+,"deprels":["det","nsubjpass","auxpass","root","aux","xcomp","det","iobj","dobj","vmod","prep","det","amod","pobj","num","tmod","aux","vmod","prep","det","amod","nn","pobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN stay)) (VP (VBD was) (VP (VBN granted) (S (VP (TO to) (VP (VB give) (NP (DT the) (NN school)) (NP (NP (NP (NNS districts)) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ initial) (NNS cases))))) (NP-TMP (CD 90) (NNS days)) (S (VP (TO to) (VP (VB appeal) (PP (TO to) (NP (DT the) (JJ u.s.) (NN supreme) (NN court))) (PP (ADVP (RB here)) (IN in) (NP (NN washington)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc07\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc23\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","stay","was","granted","to","give","the","school","districts","involved","in","the","initial","cases","90","days","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"lemmas":["the","stay","be","grant","to","give","the","school","district","involve","in","the","initial","case","90","day","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"posTags":["DT","NN","VBD","VBN","TO","VB","DT","NN","NNS","VBN","IN","DT","JJ","NNS","CD","NNS","TO","VB","TO","DT","JJ","NN","NN","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,7,5,5,8,9,13,13,10,15,8,17,8,17,22,22,22,18,24,17,24,-2]
+,"deprels":["det","nsubjpass","auxpass","root","aux","xcomp","det","iobj","dobj","vmod","prep","det","amod","pobj","num","tmod","aux","vmod","prep","det","amod","nn","pobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN stay)) (VP (VBD was) (VP (VBN granted) (S (VP (TO to) (VP (VB give) (NP (DT the) (NN school)) (NP (NP (NP (NNS districts)) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ initial) (NNS cases))))) (NP-TMP (CD 90) (NNS days)) (S (VP (TO to) (VP (VB appeal) (PP (TO to) (NP (DT the) (JJ u.s.) (NN supreme) (NN court))) (PP (ADVP (RB here)) (IN in) (NP (NN washington)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc07\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc22\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","stay","was","granted","to","give","the","school","districts","involved","in","the","initial","cases","90","days","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"lemmas":["the","stay","be","grant","to","give","the","school","district","involve","in","the","initial","case","90","day","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"posTags":["DT","NN","VBD","VBN","TO","VB","DT","NN","NNS","VBN","IN","DT","JJ","NNS","CD","NNS","TO","VB","TO","DT","JJ","NN","NN","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,7,5,5,8,9,13,13,10,15,8,17,8,17,22,22,22,18,24,17,24,-2]
+,"deprels":["det","nsubjpass","auxpass","root","aux","xcomp","det","iobj","dobj","vmod","prep","det","amod","pobj","num","tmod","aux","vmod","prep","det","amod","nn","pobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN stay)) (VP (VBD was) (VP (VBN granted) (S (VP (TO to) (VP (VB give) (NP (DT the) (NN school)) (NP (NP (NP (NNS districts)) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ initial) (NNS cases))))) (NP-TMP (CD 90) (NNS days)) (S (VP (TO to) (VP (VB appeal) (PP (TO to) (NP (DT the) (JJ u.s.) (NN supreme) (NN court))) (PP (ADVP (RB here)) (IN in) (NP (NN washington)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":19,\"end\":23,\"head\":22,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbfb\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc22\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","stay","was","granted","to","give","the","school","districts","involved","in","the","initial","cases","90","days","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"lemmas":["the","stay","be","grant","to","give","the","school","district","involve","in","the","initial","case","90","day","to","appeal","to","the","u.s.","supreme","court","here","in","washington","."]
+,"posTags":["DT","NN","VBD","VBN","TO","VB","DT","NN","NNS","VBN","IN","DT","JJ","NNS","CD","NNS","TO","VB","TO","DT","JJ","NN","NN","RB","IN","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[1,3,3,-1,5,3,7,5,5,8,9,13,13,10,15,8,17,8,17,22,22,22,18,24,17,24,-2]
+,"deprels":["det","nsubjpass","auxpass","root","aux","xcomp","det","iobj","dobj","vmod","prep","det","amod","pobj","num","tmod","aux","vmod","prep","det","amod","nn","pobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN stay)) (VP (VBD was) (VP (VBN granted) (S (VP (TO to) (VP (VB give) (NP (DT the) (NN school)) (NP (NP (NP (NNS districts)) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ initial) (NNS cases))))) (NP-TMP (CD 90) (NNS days)) (S (VP (TO to) (VP (VB appeal) (PP (TO to) (NP (DT the) (JJ u.s.) (NN supreme) (NN court))) (PP (ADVP (RB here)) (IN in) (NP (NN washington)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":23,\"end\":24,\"head\":23,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc23\"},\"m2\":{\"start\":25,\"end\":26,\"head\":25,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc22\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["we","'ll","continue","to","follow","this","court","ruling","as","well","."]
+,"lemmas":["we","'ll","continue","to","follow","this","court","ruling","as","well","."]
+,"posTags":["PRP","MD","VB","TO","VB","DT","NN","NN","RB","RB","."]
+,"chunks":["B-NP","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","B-ADVP","I-ADVP","O"]
+,"parents":[2,2,-1,4,2,7,7,4,9,4,-2]
+,"deprels":["nsubj","aux","root","aux","xcomp","det","nn","dobj","advmod","advmod",null]
+,"naryTree":"((ROOT (S (NP (PRP we)) (VP (MD 'll) (VP (VB continue) (S (VP (TO to) (VP (VB follow) (NP (DT this) (NN court) (NN ruling)) (ADVP (RB as) (RB well))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe0\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbef\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["here","'s","how","you","'re","weighing","in","on","our","web","question","of","the","day","."]
+,"lemmas":["here","'s","how","you","be","weigh","in","on","we","web","question","of","the","day","."]
+,"posTags":["RB","POS","WRB","PRP","VBP","VBG","IN","IN","PRP$","NN","NN","IN","DT","NN","."]
+,"chunks":["B-ADVP","B-NP","B-VP","I-VP","I-VP","I-VP","B-PP","I-PP","B-NP","I-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[5,5,5,5,5,-1,7,5,10,10,7,10,13,11,-2]
+,"deprels":["advmod","nsubj","advmod","advmod","aux","root","dep","prep","poss","nn","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (ADVP (RB here)) (NP (POS 's)) (VP (ADVP (WRB how)) (VP (ADVP (PRP you)) (VBP 're) (VP (VBG weighing) (PP (IN in) (IN on) (NP (NP (PRP$ our) (NN web) (NN question)) (PP (IN of) (NP (DT the) (NN day)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc03\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["remember","when","we","'ve","been","asking","you","this","question","."]
+,"lemmas":["remember","when","we","have","be","ask","you","this","question","."]
+,"posTags":["VB","WRB","PRP","VBP","VBN","VBG","PRP","DT","NN","."]
+,"chunks":["B-VP","B-ADVP","B-NP","B-VP","I-VP","I-VP","B-NP","B-NP","I-NP","O"]
+,"parents":[-1,5,5,5,5,0,5,8,5,-2]
+,"deprels":["root","advmod","nsubj","aux","aux","advcl","iobj","det","dobj",null]
+,"naryTree":"((ROOT (S (VP (VB remember) (SBAR (WHADVP (WRB when)) (S (NP (PRP we)) (VP (VBP 've) (VP (VBN been) (VP (VBG asking) (NP (PRP you)) (NP (DT this) (NN question)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe2\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc04\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["who","is","the","number","one","threat","facing","the","u.s.","?"]
+,"lemmas":["who","be","the","number","one","threat","face","the","u.s.","?"]
+,"posTags":["WP","VBZ","DT","NN","CD","NN","VBG","DT","NN","."]
+,"chunks":["B-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[-1,0,5,5,5,0,5,8,6,-2]
+,"deprels":["root","cop","det","nn","num","nsubj","dep","det","dobj",null]
+,"naryTree":"((ROOT (SBARQ (WHNP (WP who)) (SQ (VBZ is) (NP (NP (DT the) (NN number) (CD one) (NN threat)) (S (VP (VBG facing) (NP (DT the) (NN u.s.)))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf4\"},\"m2\":{\"start\":2,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["who","is","the","number","one","threat","facing","the","u.s.","?"]
+,"lemmas":["who","be","the","number","one","threat","face","the","u.s.","?"]
+,"posTags":["WP","VBZ","DT","NN","CD","NN","VBG","DT","NN","."]
+,"chunks":["B-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[-1,0,5,5,5,0,5,8,6,-2]
+,"deprels":["root","cop","det","nn","num","nsubj","dep","det","dobj",null]
+,"naryTree":"((ROOT (SBARQ (WHNP (WP who)) (SQ (VBZ is) (NP (NP (DT the) (NN number) (CD one) (NN threat)) (S (VP (VBG facing) (NP (DT the) (NN u.s.)))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf4\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbfd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["who","is","the","number","one","threat","facing","the","u.s.","?"]
+,"lemmas":["who","be","the","number","one","threat","face","the","u.s.","?"]
+,"posTags":["WP","VBZ","DT","NN","CD","NN","VBG","DT","NN","."]
+,"chunks":["B-NP","O","B-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[-1,0,5,5,5,0,5,8,6,-2]
+,"deprels":["root","cop","det","nn","num","nsubj","dep","det","dobj",null]
+,"naryTree":"((ROOT (SBARQ (WHNP (WP who)) (SQ (VBZ is) (NP (NP (DT the) (NN number) (CD one) (NN threat)) (S (VP (VBG facing) (NP (DT the) (NN u.s.)))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf5\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbfd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["is","it","saddam","hussein",",","kim","jong","il","or","osama","bin","laden","?"]
+,"lemmas":["be","it","saddam","hussein",",","kim","jong","il","or","osama","bin","laden","?"]
+,"posTags":["VBZ","PRP","NN","NN",",","NN","NN","NN","CC","NN","NN","JJ","."]
+,"chunks":["O","B-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-ADJP","O"]
+,"parents":[11,11,3,1,-2,7,7,3,3,10,3,-1,-2]
+,"deprels":["cop","nsubj","nn","dep",null,"nn","nn","conj","cc","nn","conj","root",null]
+,"naryTree":"((ROOT (SQ (VBZ is) (NP (NP (PRP it)) (NP (NP (NN saddam) (NN hussein)) (, ,) (NP (NN kim) (NN jong) (NN il)) (CC or) (NP (NN osama) (NN bin)))) (ADJP (JJ laden)) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf7\"},\"m2\":{\"start\":5,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["is","it","saddam","hussein",",","kim","jong","il","or","osama","bin","laden","?"]
+,"lemmas":["be","it","saddam","hussein",",","kim","jong","il","or","osama","bin","laden","?"]
+,"posTags":["VBZ","PRP","NN","NN",",","NN","NN","NN","CC","NN","NN","JJ","."]
+,"chunks":["O","B-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-ADJP","O"]
+,"parents":[11,11,3,1,-2,7,7,3,3,10,3,-1,-2]
+,"deprels":["cop","nsubj","nn","dep",null,"nn","nn","conj","cc","nn","conj","root",null]
+,"naryTree":"((ROOT (SQ (VBZ is) (NP (NP (PRP it)) (NP (NP (NN saddam) (NN hussein)) (, ,) (NP (NN kim) (NN jong) (NN il)) (CC or) (NP (NN osama) (NN bin)))) (ADJP (JJ laden)) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf7\"},\"m2\":{\"start\":9,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc15\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["is","it","saddam","hussein",",","kim","jong","il","or","osama","bin","laden","?"]
+,"lemmas":["be","it","saddam","hussein",",","kim","jong","il","or","osama","bin","laden","?"]
+,"posTags":["VBZ","PRP","NN","NN",",","NN","NN","NN","CC","NN","NN","JJ","."]
+,"chunks":["O","B-NP","B-NP","I-NP","O","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-ADJP","O"]
+,"parents":[11,11,3,1,-2,7,7,3,3,10,3,-1,-2]
+,"deprels":["cop","nsubj","nn","dep",null,"nn","nn","conj","cc","nn","conj","root",null]
+,"naryTree":"((ROOT (SQ (VBZ is) (NP (NP (PRP it)) (NP (NP (NN saddam) (NN hussein)) (, ,) (NP (NN kim) (NN jong) (NN il)) (CC or) (NP (NN osama) (NN bin)))) (ADJP (JJ laden)) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0d\"},\"m2\":{\"start\":9,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc15\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["13","%","%","of","you","say","saddam","hussein","."]
+,"lemmas":["13","%","%","of","you","say","saddam","hussein","."]
+,"posTags":["CD","NN","NN","IN","PRP","VBP","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[1,2,5,2,3,-1,7,5,-2]
+,"deprels":["number","num","nsubj","prep","pobj","root","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (QP (CD 13) (NN %)) (NN %)) (PP (IN of) (NP (PRP you)))) (VP (VBP say) (NP (NN saddam) (NN hussein))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1c\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbea\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["13","%","%","of","you","say","saddam","hussein","."]
+,"lemmas":["13","%","%","of","you","say","saddam","hussein","."]
+,"posTags":["CD","NN","NN","IN","PRP","VBP","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[1,2,5,2,3,-1,7,5,-2]
+,"deprels":["number","num","nsubj","prep","pobj","root","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (QP (CD 13) (NN %)) (NN %)) (PP (IN of) (NP (PRP you)))) (VP (VBP say) (NP (NN saddam) (NN hussein))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1c\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["13","%","%","of","you","say","saddam","hussein","."]
+,"lemmas":["13","%","%","of","you","say","saddam","hussein","."]
+,"posTags":["CD","NN","NN","IN","PRP","VBP","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","B-NP","B-VP","B-NP","I-NP","O"]
+,"parents":[1,2,5,2,3,-1,7,5,-2]
+,"deprels":["number","num","nsubj","prep","pobj","root","nn","dobj",null]
+,"naryTree":"((ROOT (S (NP (NP (QP (CD 13) (NN %)) (NN %)) (PP (IN of) (NP (PRP you)))) (VP (VBP say) (NP (NN saddam) (NN hussein))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbea\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe5\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbeb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe5\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbec\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe5\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe5\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc19\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe5\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc16\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbeb\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbec\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbeb\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbeb\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc19\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbeb\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc16\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbec\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbec\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc19\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbec\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc16\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0e\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc19\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0e\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc16\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["14","%","of","you","who","voted","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"lemmas":["14","%","of","you","who","vote","say","kim","jong","il",",","41","%","say","osama","bin","laden","."]
+,"posTags":["CD","NN","IN","PRP","WP","VBD","VB","NN","NN","NN",",","CD","NN","VBP","NN","NN","JJ","."]
+,"chunks":["B-NP","I-NP","B-PP","B-NP","B-NP","B-VP","I-VP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-VP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,13,1,2,5,1,5,9,9,6,-2,12,9,-1,15,16,13,-2]
+,"deprels":["num","nsubj","prep","pobj","nsubj","rcmod","xcomp","nn","nn","dobj",null,"num","appos","root","nn","nsubj","xcomp",null]
+,"naryTree":"((ROOT (S (NP (NP (CD 14) (NN %)) (PP (IN of) (NP (PRP you))) (SBAR (WHNP (WP who)) (S (VP (VBD voted) (VP (VB say) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (CD 41) (NN %)))))))) (VP (VBP say) (S (NP (NN osama) (NN bin)) (ADJP (JJ laden)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc19\"},\"m2\":{\"start\":14,\"end\":17,\"head\":16,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc16\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc02\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1d\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc02\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc02\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc02\"},\"m2\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc02\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Indeterminate\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc02\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1d\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1d\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1d\"},\"m2\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1d\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1d\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf9\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf9\"},\"m2\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf9\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbf9\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe6\"},\"m2\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe6\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dbe6\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0f\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc0f\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["you","see","them",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"lemmas":["you","see","they",",","13","%","for","saddam","hussein",",","46","%","for","kim","jong","il",",","41","%","for","osama","bin","laden","."]
+,"posTags":["PRP","VBP","PRP",",","CD","NN","IN","NN","NN",",","CD","NN","IN","NN","NN","NN",",","CD","NN","IN","NN","NN","JJ","."]
+,"chunks":["B-NP","B-VP","B-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-PP","B-NP","I-NP","B-ADJP","O"]
+,"parents":[1,-1,5,-2,5,1,5,8,6,-2,11,22,11,15,15,12,-2,18,15,18,21,19,5,-2]
+,"deprels":["nsubj","root","dep",null,"num","dep","prep","nn","pobj",null,"num","dep","prep","nn","nn","pobj",null,"num","appos","prep","nn","pobj","parataxis",null]
+,"naryTree":"((ROOT (S (NP (PRP you)) (VP (VBP see) (S (S (NP (PRP them)) (, ,) (NP (NP (CD 13) (NN %)) (PP (IN for) (NP (NN saddam) (NN hussein))))) (, ,) (S (NP (NP (CD 46) (NN %)) (PP (IN for) (NP (NP (NN kim) (NN jong) (NN il)) (, ,) (NP (NP (CD 41) (NN %)) (PP (IN for) (NP (NN osama) (NN bin))))))) (ADJP (JJ laden))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc1a\"},\"m2\":{\"start\":20,\"end\":23,\"head\":22,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"9a0794cb-e7d1-f8f3-d8c2-00007444dc17\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

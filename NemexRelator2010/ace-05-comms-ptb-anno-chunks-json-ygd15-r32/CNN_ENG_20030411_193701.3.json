@@ -1,0 +1,310 @@
+{"words":["a","michigan","teen","who","disappeared","with","a","convicted","killer","and","went","on","a","three-week","oddysey","is","in","trouble","with","the","law","tonight","."]
+,"lemmas":["a","michigan","teen","who","disappear","with","a","convict","killer","and","go","on","a","three-week","oddysey","be","in","trouble","with","the","law","tonight","."]
+,"posTags":["DT","JJ","NN","WP","VBD","IN","DT","VBN","NN","CC","VBD","IN","DT","JJ","NN","VBZ","IN","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,15,4,2,4,8,8,5,4,4,10,14,14,11,-1,15,16,17,21,21,18,-2]
+,"deprels":["det","amod","nsubj","nsubj","rcmod","prep","det","amod","pobj","cc","conj","prep","det","amod","pobj","root","prep","pobj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT a) (JJ michigan) (NN teen)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD disappeared) (PP (IN with) (NP (DT a) (VBN convicted) (NN killer)))) (CC and) (VP (VBD went) (PP (IN on) (NP (DT a) (JJ three-week) (NN oddysey)))))))) (VP (VBZ is) (PP (IN in) (NP (NP (NN trouble)) (PP (IN with) (NP (DT the) (NN law) (NN tonight)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004996\"},\"m2\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498c\"}}]"
+,"relLabels":["GEN-AFF-Citizen-Resident-Religion-Ethnicity(Arg-2,Arg-1)"]}
+
+{"words":["a","michigan","teen","who","disappeared","with","a","convicted","killer","and","went","on","a","three-week","oddysey","is","in","trouble","with","the","law","tonight","."]
+,"lemmas":["a","michigan","teen","who","disappear","with","a","convict","killer","and","go","on","a","three-week","oddysey","be","in","trouble","with","the","law","tonight","."]
+,"posTags":["DT","JJ","NN","WP","VBD","IN","DT","VBN","NN","CC","VBD","IN","DT","JJ","NN","VBZ","IN","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,15,4,2,4,8,8,5,4,4,10,14,14,11,-1,15,16,17,21,21,18,-2]
+,"deprels":["det","amod","nsubj","nsubj","rcmod","prep","det","amod","pobj","cc","conj","prep","det","amod","pobj","root","prep","pobj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT a) (JJ michigan) (NN teen)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD disappeared) (PP (IN with) (NP (DT a) (VBN convicted) (NN killer)))) (CC and) (VP (VBD went) (PP (IN on) (NP (DT a) (JJ three-week) (NN oddysey)))))))) (VP (VBZ is) (PP (IN in) (NP (NP (NN trouble)) (PP (IN with) (NP (DT the) (NN law) (NN tonight)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004996\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498e\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["a","michigan","teen","who","disappeared","with","a","convicted","killer","and","went","on","a","three-week","oddysey","is","in","trouble","with","the","law","tonight","."]
+,"lemmas":["a","michigan","teen","who","disappear","with","a","convict","killer","and","go","on","a","three-week","oddysey","be","in","trouble","with","the","law","tonight","."]
+,"posTags":["DT","JJ","NN","WP","VBD","IN","DT","VBN","NN","CC","VBD","IN","DT","JJ","NN","VBZ","IN","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,15,4,2,4,8,8,5,4,4,10,14,14,11,-1,15,16,17,21,21,18,-2]
+,"deprels":["det","amod","nsubj","nsubj","rcmod","prep","det","amod","pobj","cc","conj","prep","det","amod","pobj","root","prep","pobj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT a) (JJ michigan) (NN teen)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD disappeared) (PP (IN with) (NP (DT a) (VBN convicted) (NN killer)))) (CC and) (VP (VBD went) (PP (IN on) (NP (DT a) (JJ three-week) (NN oddysey)))))))) (VP (VBZ is) (PP (IN in) (NP (NP (NN trouble)) (PP (IN with) (NP (DT the) (NN law) (NN tonight)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004996\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004994\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["a","michigan","teen","who","disappeared","with","a","convicted","killer","and","went","on","a","three-week","oddysey","is","in","trouble","with","the","law","tonight","."]
+,"lemmas":["a","michigan","teen","who","disappear","with","a","convict","killer","and","go","on","a","three-week","oddysey","be","in","trouble","with","the","law","tonight","."]
+,"posTags":["DT","JJ","NN","WP","VBD","IN","DT","VBN","NN","CC","VBD","IN","DT","JJ","NN","VBZ","IN","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,15,4,2,4,8,8,5,4,4,10,14,14,11,-1,15,16,17,21,21,18,-2]
+,"deprels":["det","amod","nsubj","nsubj","rcmod","prep","det","amod","pobj","cc","conj","prep","det","amod","pobj","root","prep","pobj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT a) (JJ michigan) (NN teen)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD disappeared) (PP (IN with) (NP (DT a) (VBN convicted) (NN killer)))) (CC and) (VP (VBD went) (PP (IN on) (NP (DT a) (JJ three-week) (NN oddysey)))))))) (VP (VBZ is) (PP (IN in) (NP (NP (NN trouble)) (PP (IN with) (NP (DT the) (NN law) (NN tonight)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004996\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004980\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["a","michigan","teen","who","disappeared","with","a","convicted","killer","and","went","on","a","three-week","oddysey","is","in","trouble","with","the","law","tonight","."]
+,"lemmas":["a","michigan","teen","who","disappear","with","a","convict","killer","and","go","on","a","three-week","oddysey","be","in","trouble","with","the","law","tonight","."]
+,"posTags":["DT","JJ","NN","WP","VBD","IN","DT","VBN","NN","CC","VBD","IN","DT","JJ","NN","VBZ","IN","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,15,4,2,4,8,8,5,4,4,10,14,14,11,-1,15,16,17,21,21,18,-2]
+,"deprels":["det","amod","nsubj","nsubj","rcmod","prep","det","amod","pobj","cc","conj","prep","det","amod","pobj","root","prep","pobj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT a) (JJ michigan) (NN teen)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD disappeared) (PP (IN with) (NP (DT a) (VBN convicted) (NN killer)))) (CC and) (VP (VBD went) (PP (IN on) (NP (DT a) (JJ three-week) (NN oddysey)))))))) (VP (VBZ is) (PP (IN in) (NP (NP (NN trouble)) (PP (IN with) (NP (DT the) (NN law) (NN tonight)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498c\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498e\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["a","michigan","teen","who","disappeared","with","a","convicted","killer","and","went","on","a","three-week","oddysey","is","in","trouble","with","the","law","tonight","."]
+,"lemmas":["a","michigan","teen","who","disappear","with","a","convict","killer","and","go","on","a","three-week","oddysey","be","in","trouble","with","the","law","tonight","."]
+,"posTags":["DT","JJ","NN","WP","VBD","IN","DT","VBN","NN","CC","VBD","IN","DT","JJ","NN","VBZ","IN","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,15,4,2,4,8,8,5,4,4,10,14,14,11,-1,15,16,17,21,21,18,-2]
+,"deprels":["det","amod","nsubj","nsubj","rcmod","prep","det","amod","pobj","cc","conj","prep","det","amod","pobj","root","prep","pobj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT a) (JJ michigan) (NN teen)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD disappeared) (PP (IN with) (NP (DT a) (VBN convicted) (NN killer)))) (CC and) (VP (VBD went) (PP (IN on) (NP (DT a) (JJ three-week) (NN oddysey)))))))) (VP (VBZ is) (PP (IN in) (NP (NP (NN trouble)) (PP (IN with) (NP (DT the) (NN law) (NN tonight)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498c\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004994\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["a","michigan","teen","who","disappeared","with","a","convicted","killer","and","went","on","a","three-week","oddysey","is","in","trouble","with","the","law","tonight","."]
+,"lemmas":["a","michigan","teen","who","disappear","with","a","convict","killer","and","go","on","a","three-week","oddysey","be","in","trouble","with","the","law","tonight","."]
+,"posTags":["DT","JJ","NN","WP","VBD","IN","DT","VBN","NN","CC","VBD","IN","DT","JJ","NN","VBZ","IN","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,15,4,2,4,8,8,5,4,4,10,14,14,11,-1,15,16,17,21,21,18,-2]
+,"deprels":["det","amod","nsubj","nsubj","rcmod","prep","det","amod","pobj","cc","conj","prep","det","amod","pobj","root","prep","pobj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT a) (JJ michigan) (NN teen)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD disappeared) (PP (IN with) (NP (DT a) (VBN convicted) (NN killer)))) (CC and) (VP (VBD went) (PP (IN on) (NP (DT a) (JJ three-week) (NN oddysey)))))))) (VP (VBZ is) (PP (IN in) (NP (NP (NN trouble)) (PP (IN with) (NP (DT the) (NN law) (NN tonight)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498c\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004980\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["a","michigan","teen","who","disappeared","with","a","convicted","killer","and","went","on","a","three-week","oddysey","is","in","trouble","with","the","law","tonight","."]
+,"lemmas":["a","michigan","teen","who","disappear","with","a","convict","killer","and","go","on","a","three-week","oddysey","be","in","trouble","with","the","law","tonight","."]
+,"posTags":["DT","JJ","NN","WP","VBD","IN","DT","VBN","NN","CC","VBD","IN","DT","JJ","NN","VBZ","IN","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,15,4,2,4,8,8,5,4,4,10,14,14,11,-1,15,16,17,21,21,18,-2]
+,"deprels":["det","amod","nsubj","nsubj","rcmod","prep","det","amod","pobj","cc","conj","prep","det","amod","pobj","root","prep","pobj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT a) (JJ michigan) (NN teen)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD disappeared) (PP (IN with) (NP (DT a) (VBN convicted) (NN killer)))) (CC and) (VP (VBD went) (PP (IN on) (NP (DT a) (JJ three-week) (NN oddysey)))))))) (VP (VBZ is) (PP (IN in) (NP (NP (NN trouble)) (PP (IN with) (NP (DT the) (NN law) (NN tonight)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498e\"},\"m2\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004994\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["a","michigan","teen","who","disappeared","with","a","convicted","killer","and","went","on","a","three-week","oddysey","is","in","trouble","with","the","law","tonight","."]
+,"lemmas":["a","michigan","teen","who","disappear","with","a","convict","killer","and","go","on","a","three-week","oddysey","be","in","trouble","with","the","law","tonight","."]
+,"posTags":["DT","JJ","NN","WP","VBD","IN","DT","VBN","NN","CC","VBD","IN","DT","JJ","NN","VBZ","IN","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,15,4,2,4,8,8,5,4,4,10,14,14,11,-1,15,16,17,21,21,18,-2]
+,"deprels":["det","amod","nsubj","nsubj","rcmod","prep","det","amod","pobj","cc","conj","prep","det","amod","pobj","root","prep","pobj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT a) (JJ michigan) (NN teen)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD disappeared) (PP (IN with) (NP (DT a) (VBN convicted) (NN killer)))) (CC and) (VP (VBD went) (PP (IN on) (NP (DT a) (JJ three-week) (NN oddysey)))))))) (VP (VBZ is) (PP (IN in) (NP (NP (NN trouble)) (PP (IN with) (NP (DT the) (NN law) (NN tonight)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498e\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004980\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["a","michigan","teen","who","disappeared","with","a","convicted","killer","and","went","on","a","three-week","oddysey","is","in","trouble","with","the","law","tonight","."]
+,"lemmas":["a","michigan","teen","who","disappear","with","a","convict","killer","and","go","on","a","three-week","oddysey","be","in","trouble","with","the","law","tonight","."]
+,"posTags":["DT","JJ","NN","WP","VBD","IN","DT","VBN","NN","CC","VBD","IN","DT","JJ","NN","VBZ","IN","NN","IN","DT","NN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","B-VP","B-PP","B-NP","I-NP","I-NP","O","B-VP","B-PP","B-NP","I-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[2,2,15,4,2,4,8,8,5,4,4,10,14,14,11,-1,15,16,17,21,21,18,-2]
+,"deprels":["det","amod","nsubj","nsubj","rcmod","prep","det","amod","pobj","cc","conj","prep","det","amod","pobj","root","prep","pobj","prep","det","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT a) (JJ michigan) (NN teen)) (SBAR (WHNP (WP who)) (S (VP (VP (VBD disappeared) (PP (IN with) (NP (DT a) (VBN convicted) (NN killer)))) (CC and) (VP (VBD went) (PP (IN on) (NP (DT a) (JJ three-week) (NN oddysey)))))))) (VP (VBZ is) (PP (IN in) (NP (NP (NN trouble)) (PP (IN with) (NP (DT the) (NN law) (NN tonight)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004994\"},\"m2\":{\"start\":19,\"end\":21,\"head\":20,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004980\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004982\"},\"m2\":{\"start\":8,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004984\"}}]"
+,"relLabels":["ART-User-Owner-Inventor-Manufacturer(Arg-1,Arg-2)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498f\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"WEA\",\"subtype\":\"Shooting\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004998\"}}]"
+,"relLabels":["ART-User-Owner-Inventor-Manufacturer(Arg-1,Arg-2)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004990\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004982\"}}]"
+,"relLabels":["PER-SOC-Family(Arg-1,Arg-1)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600499a\"},\"m2\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498f\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600499a\"},\"m2\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"WEA\",\"subtype\":\"Shooting\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004998\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600499a\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004990\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600499a\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004982\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600499a\"},\"m2\":{\"start\":8,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004984\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498f\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004990\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498f\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004982\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498f\"},\"m2\":{\"start\":8,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004984\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"WEA\",\"subtype\":\"Shooting\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004998\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004990\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"WEA\",\"subtype\":\"Shooting\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004998\"},\"m2\":{\"start\":8,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004982\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"WEA\",\"subtype\":\"Shooting\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004998\"},\"m2\":{\"start\":8,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004984\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["prosecutors","charge","lindsey","ryan","with","stealing","firearms","from","her","parents","'","home","."]
+,"lemmas":["prosecutor","charge","lindsey","ryan","with","steal","firearm","from","she","parent","'","home","."]
+,"posTags":["NNS","VBP","NN","NN","IN","VBG","NNS","IN","PRP$","NNS","POS","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","B-PP","B-VP","B-NP","B-PP","B-NP","I-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,3,1,1,4,5,5,9,11,-2,7,-2]
+,"deprels":["nsubj","root","nn","dobj","prep","pcomp","dobj","prep","poss","poss",null,"pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS prosecutors)) (VP (VBP charge) (NP (NN lindsey) (NN ryan)) (PP (IN with) (S (VP (VBG stealing) (NP (NNS firearms)) (PP (IN from) (NP (NP (PRP$ her) (NNS parents) (POS ')) (NN home))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004990\"},\"m2\":{\"start\":8,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004984\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["police","caught","up","with","the","two","in","california","."]
+,"lemmas":["police","catch","up","with","the","two","in","californium","."]
+,"posTags":["NN","VBD","RP","IN","DT","CD","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,1,1,5,3,1,6,-2]
+,"deprels":["nsubj","root","prt","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN police)) (VP (VBD caught) (PRT (RP up)) (PP (IN with) (NP (DT the) (CD two))) (PP (IN in) (NP (NN california)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004988\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498a\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["police","caught","up","with","the","two","in","california","."]
+,"lemmas":["police","catch","up","with","the","two","in","californium","."]
+,"posTags":["NN","VBD","RP","IN","DT","CD","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,1,1,5,3,1,6,-2]
+,"deprels":["nsubj","root","prt","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN police)) (VP (VBD caught) (PRT (RP up)) (PP (IN with) (NP (DT the) (CD two))) (PP (IN in) (NP (NN california)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004986\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NAM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498a\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["police","caught","up","with","the","two","in","california","."]
+,"lemmas":["police","catch","up","with","the","two","in","californium","."]
+,"posTags":["NN","VBD","RP","IN","DT","CD","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-PRT","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,1,1,5,3,1,6,-2]
+,"deprels":["nsubj","root","prt","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NN police)) (VP (VBD caught) (PRT (RP up)) (PP (IN with) (NP (DT the) (CD two))) (PP (IN in) (NP (NN california)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004986\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004988\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["56-year-old","forry","drake","has","been","charged","with","interstate","transport","of","a","minor","."]
+,"lemmas":["56-year-old","forry","drake","have","be","charge","with","interstate","transport","of","a","minor","."]
+,"posTags":["JJ","NN","NN","VBZ","VBN","VBN","IN","JJ","NN","IN","DT","JJ","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,5,5,5,-1,5,8,6,8,11,9,-2]
+,"deprels":["amod","nn","nsubjpass","aux","auxpass","root","prep","amod","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ 56-year-old) (NN forry) (NN drake)) (VP (VBZ has) (VP (VBN been) (VP (VBN charged) (PP (IN with) (NP (NP (JJ interstate) (NN transport)) (PP (IN of) (NP (DT a) (JJ minor)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600497e\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004992\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["56-year-old","forry","drake","has","been","charged","with","interstate","transport","of","a","minor","."]
+,"lemmas":["56-year-old","forry","drake","have","be","charge","with","interstate","transport","of","a","minor","."]
+,"posTags":["JJ","NN","NN","VBZ","VBN","VBN","IN","JJ","NN","IN","DT","JJ","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,5,5,5,-1,5,8,6,8,11,9,-2]
+,"deprels":["amod","nn","nsubjpass","aux","auxpass","root","prep","amod","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ 56-year-old) (NN forry) (NN drake)) (VP (VBZ has) (VP (VBN been) (VP (VBN charged) (PP (IN with) (NP (NP (JJ interstate) (NN transport)) (PP (IN of) (NP (DT a) (JJ minor)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600497e\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["56-year-old","forry","drake","has","been","charged","with","interstate","transport","of","a","minor","."]
+,"lemmas":["56-year-old","forry","drake","have","be","charge","with","interstate","transport","of","a","minor","."]
+,"posTags":["JJ","NN","NN","VBZ","VBN","VBN","IN","JJ","NN","IN","DT","JJ","."]
+,"chunks":["B-NP","I-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,5,5,5,-1,5,8,6,8,11,9,-2]
+,"deprels":["amod","nn","nsubjpass","aux","auxpass","root","prep","amod","pobj","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ 56-year-old) (NN forry) (NN drake)) (VP (VBZ has) (VP (VBN been) (VP (VBN charged) (PP (IN with) (NP (NP (JJ interstate) (NN transport)) (PP (IN of) (NP (DT a) (JJ minor)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"GPE\",\"subtype\":\"State-or-Province\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-000016004992\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"215fc5de-b74b-03b6-c82f-00001600498d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+

@@ -1,0 +1,570 @@
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee7\"},\"m2\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef6\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef0\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee0\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee5\"},\"m2\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef0\"}}]"
+,"relLabels":["GEN-AFF(Arg-2,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee7\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee7\"},\"m2\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee7\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef6\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef6\"},\"m2\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef6\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef6\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee5\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee5\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee5\"},\"m2\":{\"start\":18,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef0\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":7,\"head\":6,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef0\"},\"m2\":{\"start\":18,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef1\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee0\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef1\"},\"m2\":{\"start\":18,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["german","police","say","a","teenage","lebanese","gunman",",","who","hijacked","a","bus","today",",","was","hoping","to","free","a","key","september","11th","suspect","."]
+,"lemmas":["german","police","say","a","teenage","lebanese","gunman",",","who","hijack","a","bus","today",",","be","hope","to","free","a","key","september","11th","suspect","."]
+,"posTags":["JJ","NNS","VBP","DT","JJ","JJ","NN",",","WP","VBD","DT","NN","NN",",","VBD","VBG","TO","VB","DT","JJ","NNP","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","B-NP","I-NP","B-NP","O","B-VP","I-VP","B-VP","I-VP","B-NP","I-NP","I-NP","I-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,15,-2,9,6,11,9,9,-2,15,2,17,15,22,22,22,22,17,-2]
+,"deprels":["amod","nsubj","root","det","amod","amod","nsubj",null,"nsubj","rcmod","det","dobj","tmod",null,"aux","ccomp","aux","xcomp","det","amod","nn","amod","dobj",null]
+,"naryTree":"((ROOT (S (NP (JJ german) (NNS police)) (VP (VBP say) (SBAR (S (NP (NP (DT a) (JJ teenage) (JJ lebanese) (NN gunman)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD hijacked) (NP (DT a) (NN bus)) (NP-TMP (NN today))))) (, ,)) (VP (VBD was) (VP (VBG hoping) (S (VP (TO to) (VP (VB free) (NP (DT a) (JJ key) (NNP september) (JJ 11th) (NN suspect)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee0\"},\"m2\":{\"start\":18,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef2\"},\"m2\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eeb\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef2\"},\"m2\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eeb\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef2\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef2\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef2\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eec\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee1\"},\"m2\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef4\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee1\"},\"m2\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eeb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee1\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eec\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee1\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef4\"},\"m2\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eeb\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef4\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eec\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef4\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef4\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":10,\"end\":12,\"head\":11,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef4\"},\"m2\":{\"start\":26,\"end\":28,\"head\":27,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372efa\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eeb\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eec\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eeb\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eeb\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":9,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eeb\"},\"m2\":{\"start\":26,\"end\":28,\"head\":27,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372efa\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eec\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eec\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eec\"},\"m2\":{\"start\":26,\"end\":28,\"head\":27,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372efa\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee9\"},\"m2\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":19,\"head\":18,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ee9\"},\"m2\":{\"start\":26,\"end\":28,\"head\":27,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372efa\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["the","gunman","is","accused","of","commandeering","the","bus","in","the","north","german","city","of","bremen","and","holding","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"lemmas":["the","gunman","be","accuse","of","commandeer","the","bus","in","the","north","german","city","of","breman","and","hold","16","people","hostage","during","a","75-mile","police","chase","down","the","autobahn","."]
+,"posTags":["DT","NN","VBZ","VBN","IN","VBG","DT","NN","IN","DT","NN","JJ","NN","IN","NNS","CC","VBG","CD","NNS","NN","IN","DT","JJ","NN","VB","IN","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","O","B-VP","B-NP","I-NP","B-NP","B-PP","B-NP","I-NP","I-NP","B-VP","B-ADVP","B-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,7,5,7,12,12,12,8,12,13,5,5,18,16,24,19,23,23,20,18,24,27,25,-2]
+,"deprels":["det","nsubjpass","auxpass","root","prep","pcomp","det","dobj","prep","det","nn","amod","pobj","prep","pobj","cc","conj","num","dobj","nsubj","prep","det","amod","pobj","rcmod","advmod","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN gunman)) (VP (VBZ is) (VP (VBN accused) (PP (IN of) (S (VP (VP (VBG commandeering) (NP (NP (DT the) (NN bus)) (PP (IN in) (NP (NP (DT the) (NN north) (JJ german) (NN city)) (PP (IN of) (NP (NNS bremen))))))) (CC and) (VP (VBG holding) (NP (NP (CD 16) (NNS people)) (SBAR (S (NP (NP (NN hostage)) (PP (IN during) (NP (DT a) (JJ 75-mile) (NN police)))) (VP (VB chase) (ADVP (IN down) (NP (DT the) (NN autobahn))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":23,\"end\":24,\"head\":23,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef8\"},\"m2\":{\"start\":26,\"end\":28,\"head\":27,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372efa\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f01\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372efe\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f05\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eee\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f05\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f03\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f05\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f00\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f05\"},\"m2\":{\"start\":14,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f01\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eee\"},\"m2\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f03\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eee\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f00\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eee\"},\"m2\":{\"start\":14,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f01\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":null,\"subtype\":null,\"phraseType\":\"PRO\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eee\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372efe\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f03\"},\"m2\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f00\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f03\"},\"m2\":{\"start\":14,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f01\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":9,\"head\":8,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f03\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372efe\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f00\"},\"m2\":{\"start\":14,\"end\":18,\"head\":17,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f01\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["negotiators","say","he","demanded","the","release","of","four","prisoners",",","including","ramzi","binalshibh",",","a","september","11th","suspect","apprehended","last","year","in","pakistan","."]
+,"lemmas":["negotiator","say","he","demand","the","release","of","four","prisoner",",","include","ramzus","binalshibh",",","a","september","11th","suspect","apprehend","last","year","in","pakistan","."]
+,"posTags":["NNS","VBP","PRP","VBD","DT","NN","IN","CD","NNS",",","VBG","NN","NN",",","DT","NNP","JJ","JJ","VBN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-PP","B-NP","I-NP","O","B-NP","I-NP","B-ADVP","B-ADJP","B-VP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,-1,3,1,5,3,5,8,6,-2,3,12,10,-2,15,12,17,15,15,20,18,18,21,-2]
+,"deprels":["nsubj","root","nsubj","ccomp","det","dobj","prep","num","pobj",null,"prep","nn","pobj",null,"det","appos","advmod","rcmod","vmod","amod","tmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS negotiators)) (VP (VBP say) (SBAR (S (NP (PRP he)) (VP (VBD demanded) (NP (NP (DT the) (NN release)) (PP (IN of) (NP (CD four) (NNS prisoners)))) (, ,) (PP (VBG including) (NP (NP (NN ramzi) (NN binalshibh)) (, ,) (NP (NP (NP (DT a) (NNP september)) (RRC (ADVP (JJ 11th)) (ADJP (JJ suspect)))) (VP (VBN apprehended) (NP-TMP (JJ last) (NN year)) (PP (IN in) (NP (NN pakistan))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":11,\"end\":13,\"head\":12,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372f00\"},\"m2\":{\"start\":22,\"end\":23,\"head\":22,\"type\":null,\"subtype\":null,\"phraseType\":\"NAM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372efe\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["police","captured","the","17-year-old","hijacking","suspect","without","firing","a","shot","."]
+,"lemmas":["police","capture","the","17-year-old","hijacking","suspect","without","firing","a","shot","."]
+,"posTags":["NN","VBD","DT","JJ","NN","NN","IN","NN","DT","NN","."]
+,"chunks":["B-NP","B-VP","B-NP","I-NP","I-NP","I-NP","B-PP","B-NP","B-NP","I-NP","O"]
+,"parents":[1,-1,5,5,5,1,1,6,9,7,-2]
+,"deprels":["nsubj","root","det","amod","nn","dobj","prep","pobj","det","dep",null]
+,"naryTree":"((ROOT (S (NP (NN police)) (VP (VBD captured) (NP (DT the) (JJ 17-year-old) (NN hijacking) (NN suspect)) (PP (IN without) (NP (NP (NN firing)) (NP (DT a) (NN shot))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372ef7\"},\"m2\":{\"start\":2,\"end\":6,\"head\":5,\"type\":null,\"subtype\":null,\"phraseType\":\"NOM\",\"id\":\"8edf8d3b-b929-20eb-8eaf-000057372eef\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

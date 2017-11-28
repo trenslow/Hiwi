@@ -1,0 +1,310 @@
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"GPE\",\"subtype\":\"Continent\",\"phraseType\":\"NAM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962ab\"},\"m2\":{\"start\":1,\"end\":4,\"head\":3,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a8\"}}]"
+,"relLabels":["PART-WHOLE-Geographical(Arg-2,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"GPE\",\"subtype\":\"Continent\",\"phraseType\":\"NAM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962ab\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a9\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"GPE\",\"subtype\":\"Continent\",\"phraseType\":\"NAM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962ab\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"GPE\",\"subtype\":\"Continent\",\"phraseType\":\"NAM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962ab\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-000069096295\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"GPE\",\"subtype\":\"Continent\",\"phraseType\":\"NAM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962ab\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962b5\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":4,\"head\":3,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a8\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a9\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":4,\"head\":3,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a8\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":4,\"head\":3,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a8\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-000069096295\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":4,\"head\":3,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a8\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962b5\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a9\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a3\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a9\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-000069096295\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a9\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962b5\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a3\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-000069096295\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a3\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962b5\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["in","the","african","nation","of","nigeria",",","an","islamic","court","delayed","the","appeal","of","a","woman","condemned","to","death","by","stoning","."]
+,"lemmas":["in","the","african","nation","of","nigerium",",","a","islamic","court","delay","the","appeal","of","a","woman","condemn","to","death","by","stone","."]
+,"posTags":["IN","DT","JJ","NN","IN","NNS",",","DT","JJ","NN","VBD","DT","NN","IN","DT","NN","VBN","TO","NN","IN","VBG","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","B-PP","B-NP","O","B-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","B-PP","B-NP","B-PP","B-VP","O"]
+,"parents":[10,3,3,0,3,4,-2,9,9,10,-1,12,10,12,15,13,15,16,17,16,19,-2]
+,"deprels":["prep","det","amod","pobj","prep","pobj",null,"det","amod","nsubj","root","det","dobj","prep","det","pobj","vmod","prep","pobj","prep","pcomp",null]
+,"naryTree":"((ROOT (S (PP (IN in) (NP (NP (DT the) (JJ african) (NN nation)) (PP (IN of) (NP (NNS nigeria))))) (, ,) (NP (DT an) (JJ islamic) (NN court)) (VP (VBD delayed) (NP (NP (DT the) (NN appeal)) (PP (IN of) (NP (NP (DT a) (NN woman)) (VP (VBN condemned) (PP (TO to) (NP (NN death))) (PP (IN by) (S (VP (VBG stoning))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-000069096295\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962b5\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["the","court","says","it","will","not","hear","this","case","until","late","august","."]
+,"lemmas":["the","court","say","it","will","not","hear","this","case","until","late","august","."]
+,"posTags":["DT","NN","VBZ","PRP","MD","RB","VB","DT","NN","IN","JJ","NNP","."]
+,"chunks":["B-NP","I-NP","B-VP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[1,2,-1,6,6,6,2,8,6,6,11,9,-2]
+,"deprels":["det","nsubj","root","nsubj","aux","neg","ccomp","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (DT the) (NN court)) (VP (VBZ says) (SBAR (S (NP (PRP it)) (VP (MD will) (RB not) (VP (VB hear) (NP (DT this) (NN case)) (PP (IN until) (NP (JJ late) (NNP august)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-000069096296\"},\"m2\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-000069096294\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["the","31-year-old","mother","of","three","was","convicted","in","march","of","having","sex","outside","of","marriage","."]
+,"lemmas":["the","31-year-old","mother","of","three","be","convict","in","march","of","have","sex","outside","of","marriage","."]
+,"posTags":["DT","JJ","NN","IN","CD","VBD","VBN","IN","NN","IN","VBG","NN","IN","IN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-VP","B-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[2,2,6,2,3,6,-1,6,7,8,9,10,11,11,13,-2]
+,"deprels":["det","amod","nsubjpass","prep","pobj","auxpass","root","prep","pobj","prep","pcomp","dobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (DT the) (JJ 31-year-old) (NN mother)) (PP (IN of) (NP (CD three)))) (VP (VBD was) (VP (VBN convicted) (PP (IN in) (NP (NP (NN march)) (PP (IN of) (S (VP (VBG having) (NP (NP (NN sex)) (ADVP (IN outside)) (PP (IN of) (NP (NN marriage))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962b6\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962b8\"}}]"
+,"relLabels":["PER-SOC-Family(Arg-1,Arg-1)"]}
+
+{"words":["our","next","guest","this","morning","faced","100","lashes","for","premarital","sex","in","pakistan","."]
+,"lemmas":["we","next","guest","this","morning","face","100","lash","for","premarital","sex","in","pakistan","."]
+,"posTags":["PRP$","JJ","NN","DT","NN","VBD","CD","NNS","IN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,5,4,5,-1,7,5,5,10,8,5,11,-2]
+,"deprels":["poss","amod","nsubj","det","tmod","root","num","dobj","prep","amod","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP$ our) (JJ next) (NN guest)) (NP-TMP (DT this) (NN morning)) (VP (VBD faced) (NP (CD 100) (NNS lashes)) (PP (IN for) (NP (JJ premarital) (NN sex))) (PP (IN in) (NP (NN pakistan)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-00006909629e\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a6\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["our","next","guest","this","morning","faced","100","lashes","for","premarital","sex","in","pakistan","."]
+,"lemmas":["we","next","guest","this","morning","face","100","lash","for","premarital","sex","in","pakistan","."]
+,"posTags":["PRP$","JJ","NN","DT","NN","VBD","CD","NNS","IN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,5,4,5,-1,7,5,5,10,8,5,11,-2]
+,"deprels":["poss","amod","nsubj","det","tmod","root","num","dobj","prep","amod","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP$ our) (JJ next) (NN guest)) (NP-TMP (DT this) (NN morning)) (VP (VBD faced) (NP (CD 100) (NNS lashes)) (PP (IN for) (NP (JJ premarital) (NN sex))) (PP (IN in) (NP (NN pakistan)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962af\"},\"m2\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-00006909629e\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["our","next","guest","this","morning","faced","100","lashes","for","premarital","sex","in","pakistan","."]
+,"lemmas":["we","next","guest","this","morning","face","100","lash","for","premarital","sex","in","pakistan","."]
+,"posTags":["PRP$","JJ","NN","DT","NN","VBD","CD","NNS","IN","JJ","NN","IN","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[2,2,5,4,5,-1,7,5,5,10,8,5,11,-2]
+,"deprels":["poss","amod","nsubj","det","tmod","root","num","dobj","prep","amod","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP$ our) (JJ next) (NN guest)) (NP-TMP (DT this) (NN morning)) (VP (VBD faced) (NP (CD 100) (NNS lashes)) (PP (IN for) (NP (JJ premarital) (NN sex))) (PP (IN in) (NP (NN pakistan)))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962af\"},\"m2\":{\"start\":12,\"end\":13,\"head\":12,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a6\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["she","was","there","as","a","journalist","in","the","wake","of","the","9/11","attacks","."]
+,"lemmas":["she","be","there","as","a","journalist","in","the","wake","of","the","9/11","attack","."]
+,"posTags":["PRP","VBD","RB","IN","DT","NN","IN","DT","NN","IN","DT","CD","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,1,5,3,5,8,6,8,12,12,9,-2]
+,"deprels":["nsubj","root","advmod","prep","det","pobj","prep","det","pobj","prep","det","num","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP she)) (VP (VBD was) (ADVP (RB there)) (PP (IN as) (NP (NP (DT a) (NN journalist)) (PP (IN in) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (DT the) (CD 9/11) (NNS attacks)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-00006909629f\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a5\"}}]"
+,"relLabels":["PHYS-Located(Arg-1,Arg-1)"]}
+
+{"words":["she","was","there","as","a","journalist","in","the","wake","of","the","9/11","attacks","."]
+,"lemmas":["she","be","there","as","a","journalist","in","the","wake","of","the","9/11","attack","."]
+,"posTags":["PRP","VBD","RB","IN","DT","NN","IN","DT","NN","IN","DT","CD","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,1,5,3,5,8,6,8,12,12,9,-2]
+,"deprels":["nsubj","root","advmod","prep","det","pobj","prep","det","pobj","prep","det","num","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP she)) (VP (VBD was) (ADVP (RB there)) (PP (IN as) (NP (NP (DT a) (NN journalist)) (PP (IN in) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (DT the) (CD 9/11) (NNS attacks)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-00006909629f\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a0\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["she","was","there","as","a","journalist","in","the","wake","of","the","9/11","attacks","."]
+,"lemmas":["she","be","there","as","a","journalist","in","the","wake","of","the","9/11","attack","."]
+,"posTags":["PRP","VBD","RB","IN","DT","NN","IN","DT","NN","IN","DT","CD","NNS","."]
+,"chunks":["B-NP","B-VP","B-ADVP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,-1,1,1,5,3,5,8,6,8,12,12,9,-2]
+,"deprels":["nsubj","root","advmod","prep","det","pobj","prep","det","pobj","prep","det","num","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP she)) (VP (VBD was) (ADVP (RB there)) (PP (IN as) (NP (NP (DT a) (NN journalist)) (PP (IN in) (NP (NP (DT the) (NN wake)) (PP (IN of) (NP (DT the) (CD 9/11) (NNS attacks)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a5\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a0\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["she","has","written","about","her","experience","in","the","book","``","tantrika","''","traveling","the","road","of","divine","love","."]
+,"lemmas":["she","have","write","about","she","experience","in","the","book","``","tantrika","''","travel","the","road","of","divine","love","."]
+,"posTags":["PRP","VBZ","VBN","IN","PRP$","NN","IN","DT","NN","``","FW","''","VBG","DT","NN","IN","JJ","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","I-NP","I-NP","O","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,2,5,3,5,8,6,-2,8,-2,2,14,12,14,17,15,-2]
+,"deprels":["nsubj","aux","root","prep","poss","pobj","prep","det","pobj",null,"dep",null,"xcomp","det","dobj","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (PRP she)) (VP (VBZ has) (VP (VBN written) (PP (IN about) (NP (NP (PRP$ her) (NN experience)) (PP (IN in) (NP (DT the) (NN book) (`` ``) (FW tantrika) ('' ''))))) (S (VP (VBG traveling) (NP (NP (DT the) (NN road)) (PP (IN of) (NP (JJ divine) (NN love)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962a1\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-000069096298\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["a","traveling","reporter","now","on","leave","and","joins","us","to","tell","her","story","."]
+,"lemmas":["a","travel","reporter","now","on","leave","and","join","we","to","tell","she","story","."]
+,"posTags":["DT","VBG","NN","RB","IN","NN","CC","VBZ","PRP","TO","VB","PRP$","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,4,2,2,7,10,7,12,10,-2]
+,"deprels":["det","amod","root","advmod","dep","pobj","cc","conj","dobj","aux","xcomp","poss","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT a) (VBG traveling) (NN reporter)) (PP (ADVP (RB now)) (IN on) (NP (NN leave)))) (CC and) (S (VP (VBZ joins) (S (NP (PRP us)) (VP (TO to) (VP (VB tell) (NP (PRP$ her) (NN story))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-000069096299\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962ad\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["a","traveling","reporter","now","on","leave","and","joins","us","to","tell","her","story","."]
+,"lemmas":["a","travel","reporter","now","on","leave","and","join","we","to","tell","she","story","."]
+,"posTags":["DT","VBG","NN","RB","IN","NN","CC","VBZ","PRP","TO","VB","PRP$","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,4,2,2,7,10,7,12,10,-2]
+,"deprels":["det","amod","root","advmod","dep","pobj","cc","conj","dobj","aux","xcomp","poss","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT a) (VBG traveling) (NN reporter)) (PP (ADVP (RB now)) (IN on) (NP (NN leave)))) (CC and) (S (VP (VBZ joins) (S (NP (PRP us)) (VP (TO to) (VP (VB tell) (NP (PRP$ her) (NN story))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"ce3627ad-e074-9c0c-6c45-000069096299\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-00006909629a\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["a","traveling","reporter","now","on","leave","and","joins","us","to","tell","her","story","."]
+,"lemmas":["a","travel","reporter","now","on","leave","and","join","we","to","tell","she","story","."]
+,"posTags":["DT","VBG","NN","RB","IN","NN","CC","VBZ","PRP","TO","VB","PRP$","NN","."]
+,"chunks":["B-NP","I-NP","I-NP","B-ADVP","B-PP","B-NP","O","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[2,2,-1,4,2,4,2,2,7,10,7,12,10,-2]
+,"deprels":["det","amod","root","advmod","dep","pobj","cc","conj","dobj","aux","xcomp","poss","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (DT a) (VBG traveling) (NN reporter)) (PP (ADVP (RB now)) (IN on) (NP (NN leave)))) (CC and) (S (VP (VBZ joins) (S (NP (PRP us)) (VP (TO to) (VP (VB tell) (NP (PRP$ her) (NN story))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962ad\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-00006909629a\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["thank","you","for","coming","in","to","share","this","with","us","."]
+,"lemmas":["thank","you","for","come","in","to","share","this","with","we","."]
+,"posTags":["VB","PRP","IN","VBG","IN","TO","VB","DT","IN","PRP","."]
+,"chunks":["B-VP","B-NP","B-PP","B-VP","B-PP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[-1,0,0,2,3,6,3,6,7,8,-2]
+,"deprels":["root","dobj","prep","pcomp","prep","aux","xcomp","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (VP (VB thank) (NP (PRP you)) (PP (IN for) (S (VP (VBG coming) (PP (IN in)) (S (VP (TO to) (VP (VB share) (NP (NP (DT this)) (PP (IN with) (NP (PRP us))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-00006909629b\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962ae\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["as","i","understand","it",",","you","say","you","were","facing","a","sentence","of","100","lashes",",","had","not","yet","been","sentenced","that","?"]
+,"lemmas":["as","i","understand","it",",","you","say","you","be","face","a","sentence","of","100","lash",",","have","not","yet","be","sentence","that","?"]
+,"posTags":["IN","FW","VBP","PRP",",","PRP","VBP","PRP","VBD","VBG","DT","NN","IN","CD","NNS",",","VBD","RB","RB","VBN","VBN","IN","."]
+,"chunks":["B-SBAR","B-NP","B-VP","B-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","I-VP","I-VP","I-VP","I-VP","B-ADVP","O"]
+,"parents":[2,2,20,2,-2,6,20,9,9,6,11,9,11,14,12,-2,20,20,20,20,-1,20,-2]
+,"deprels":["mark","nsubj","advcl","dobj",null,"nsubj","parataxis","nsubj","aux","ccomp","det","dobj","prep","num","pobj",null,"aux","neg","advmod","auxpass","root","advmod",null]
+,"naryTree":"((ROOT (S (SBAR (IN as) (S (NP (FW i)) (VP (VBP understand) (NP (PRP it))))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP say) (SBAR (S (NP (PRP you)) (VP (VBD were) (VP (VBG facing) (NP (NP (DT a) (NN sentence)) (PP (IN of) (NP (CD 100) (NNS lashes)))))))))) (, ,)) (VP (VBD had) (RB not) (ADVP (RB yet)) (VP (VBN been) (VP (VBN sentenced) (ADVP (IN that))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962ba\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-00006909629c\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["as","i","understand","it",",","you","say","you","were","facing","a","sentence","of","100","lashes",",","had","not","yet","been","sentenced","that","?"]
+,"lemmas":["as","i","understand","it",",","you","say","you","be","face","a","sentence","of","100","lash",",","have","not","yet","be","sentence","that","?"]
+,"posTags":["IN","FW","VBP","PRP",",","PRP","VBP","PRP","VBD","VBG","DT","NN","IN","CD","NNS",",","VBD","RB","RB","VBN","VBN","IN","."]
+,"chunks":["B-SBAR","B-NP","B-VP","B-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","I-VP","I-VP","I-VP","I-VP","B-ADVP","O"]
+,"parents":[2,2,20,2,-2,6,20,9,9,6,11,9,11,14,12,-2,20,20,20,20,-1,20,-2]
+,"deprels":["mark","nsubj","advcl","dobj",null,"nsubj","parataxis","nsubj","aux","ccomp","det","dobj","prep","num","pobj",null,"aux","neg","advmod","auxpass","root","advmod",null]
+,"naryTree":"((ROOT (S (SBAR (IN as) (S (NP (FW i)) (VP (VBP understand) (NP (PRP it))))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP say) (SBAR (S (NP (PRP you)) (VP (VBD were) (VP (VBG facing) (NP (NP (DT a) (NN sentence)) (PP (IN of) (NP (CD 100) (NNS lashes)))))))))) (, ,)) (VP (VBD had) (RB not) (ADVP (RB yet)) (VP (VBN been) (VP (VBN sentenced) (ADVP (IN that))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-0000690962ba\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-00006909629d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+
+{"words":["as","i","understand","it",",","you","say","you","were","facing","a","sentence","of","100","lashes",",","had","not","yet","been","sentenced","that","?"]
+,"lemmas":["as","i","understand","it",",","you","say","you","be","face","a","sentence","of","100","lash",",","have","not","yet","be","sentence","that","?"]
+,"posTags":["IN","FW","VBP","PRP",",","PRP","VBP","PRP","VBD","VBG","DT","NN","IN","CD","NNS",",","VBD","RB","RB","VBN","VBN","IN","."]
+,"chunks":["B-SBAR","B-NP","B-VP","B-NP","O","B-NP","B-VP","B-NP","B-VP","I-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O","B-VP","I-VP","I-VP","I-VP","I-VP","B-ADVP","O"]
+,"parents":[2,2,20,2,-2,6,20,9,9,6,11,9,11,14,12,-2,20,20,20,20,-1,20,-2]
+,"deprels":["mark","nsubj","advcl","dobj",null,"nsubj","parataxis","nsubj","aux","ccomp","det","dobj","prep","num","pobj",null,"aux","neg","advmod","auxpass","root","advmod",null]
+,"naryTree":"((ROOT (S (SBAR (IN as) (S (NP (FW i)) (VP (VBP understand) (NP (PRP it))))) (PRN (, ,) (S (NP (PRP you)) (VP (VBP say) (SBAR (S (NP (PRP you)) (VP (VBD were) (VP (VBG facing) (NP (NP (DT a) (NN sentence)) (PP (IN of) (NP (CD 100) (NNS lashes)))))))))) (, ,)) (VP (VBD had) (RB not) (ADVP (RB yet)) (VP (VBN been) (VP (VBN sentenced) (ADVP (IN that))))) (. ?))))"
+,"nePairs":"[{\"m1\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-00006909629c\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"ce3627ad-e074-9c0c-6c45-00006909629d\"}}]"
+,"relLabels":["NO_RELATION-(Arg-1,Arg-1)"]}
+

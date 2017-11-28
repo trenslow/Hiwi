@@ -4,7 +4,6 @@ import operator
 import os
 from parameters import *
 import nltk
-import string
 import sys
 import unicodedata
 

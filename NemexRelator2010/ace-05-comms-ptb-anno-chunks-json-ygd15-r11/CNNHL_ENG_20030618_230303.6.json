@@ -1,0 +1,80 @@
+{"words":["at","least","ten","people","have","been","injured","and","at","least","five","homes","have","burned","in","benton","harbor","since","the","rioting","began","."]
+,"lemmas":["at","least","ten","people","have","be","injure","and","at","least","five","home","have","burn","in","benton","harbor","since","the","rioting","begin","."]
+,"posTags":["IN","JJS","CD","NNS","VBP","VBN","VBN","CC","IN","JJS","CD","NNS","VBP","VBN","IN","NN","NN","IN","DT","NN","VBD","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","I-VP","O","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","I-NP","B-VP","O"]
+,"parents":[2,0,3,6,6,6,-1,6,10,8,11,13,13,6,13,16,14,20,19,20,13,-2]
+,"deprels":["quantmod","mwe","num","nsubjpass","aux","auxpass","root","cc","quantmod","mwe","num","nsubj","aux","conj","prep","nn","pobj","mark","det","nsubj","advcl",null]
+,"naryTree":"((ROOT (S (S (NP (QP (IN at) (JJS least) (CD ten)) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBN injured))))) (CC and) (S (NP (QP (IN at) (JJS least) (CD five)) (NNS homes)) (VP (VBP have) (VP (VBN burned) (PP (IN in) (NP (NN benton) (NN harbor))) (SBAR (IN since) (S (NP (DT the) (NN rioting)) (VP (VBD began))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde2586\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde257b\"}}]"
+,"relLabels":["PART-WHOLE(Arg-1,Arg-2)"]}
+
+{"words":["at","least","ten","people","have","been","injured","and","at","least","five","homes","have","burned","in","benton","harbor","since","the","rioting","began","."]
+,"lemmas":["at","least","ten","people","have","be","injure","and","at","least","five","home","have","burn","in","benton","harbor","since","the","rioting","begin","."]
+,"posTags":["IN","JJS","CD","NNS","VBP","VBN","VBN","CC","IN","JJS","CD","NNS","VBP","VBN","IN","NN","NN","IN","DT","NN","VBD","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","I-VP","O","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","I-NP","B-VP","O"]
+,"parents":[2,0,3,6,6,6,-1,6,10,8,11,13,13,6,13,16,14,20,19,20,13,-2]
+,"deprels":["quantmod","mwe","num","nsubjpass","aux","auxpass","root","cc","quantmod","mwe","num","nsubj","aux","conj","prep","nn","pobj","mark","det","nsubj","advcl",null]
+,"naryTree":"((ROOT (S (S (NP (QP (IN at) (JJS least) (CD ten)) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBN injured))))) (CC and) (S (NP (QP (IN at) (JJS least) (CD five)) (NNS homes)) (VP (VBP have) (VP (VBN burned) (PP (IN in) (NP (NN benton) (NN harbor))) (SBAR (IN since) (S (NP (DT the) (NN rioting)) (VP (VBD began))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde2584\"},\"m2\":{\"start\":15,\"end\":17,\"head\":16,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NAM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde257b\"}}]"
+,"relLabels":["PHYS(Arg-1,Arg-1)"]}
+
+{"words":["at","least","ten","people","have","been","injured","and","at","least","five","homes","have","burned","in","benton","harbor","since","the","rioting","began","."]
+,"lemmas":["at","least","ten","people","have","be","injure","and","at","least","five","home","have","burn","in","benton","harbor","since","the","rioting","begin","."]
+,"posTags":["IN","JJS","CD","NNS","VBP","VBN","VBN","CC","IN","JJS","CD","NNS","VBP","VBN","IN","NN","NN","IN","DT","NN","VBD","."]
+,"chunks":["B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","I-VP","O","B-NP","I-NP","I-NP","I-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-SBAR","B-NP","I-NP","B-VP","O"]
+,"parents":[2,0,3,6,6,6,-1,6,10,8,11,13,13,6,13,16,14,20,19,20,13,-2]
+,"deprels":["quantmod","mwe","num","nsubjpass","aux","auxpass","root","cc","quantmod","mwe","num","nsubj","aux","conj","prep","nn","pobj","mark","det","nsubj","advcl",null]
+,"naryTree":"((ROOT (S (S (NP (QP (IN at) (JJS least) (CD ten)) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBN injured))))) (CC and) (S (NP (QP (IN at) (JJS least) (CD five)) (NNS homes)) (VP (VBP have) (VP (VBN burned) (PP (IN in) (NP (NN benton) (NN harbor))) (SBAR (IN since) (S (NP (DT the) (NN rioting)) (VP (VBD began))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde2584\"},\"m2\":{\"start\":8,\"end\":12,\"head\":11,\"type\":\"FAC\",\"subtype\":\"Building-Grounds\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde2586\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["police","are","still","looking","for","the","arsonists","."]
+,"lemmas":["police","be","still","look","for","the","arsonist","."]
+,"posTags":["NNS","VBP","RB","VBG","IN","DT","NNS","."]
+,"chunks":["B-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,3,6,4,-2]
+,"deprels":["nsubj","aux","advmod","root","prep","det","pobj",null]
+,"naryTree":"((ROOT (S (NP (NNS police)) (VP (VBP are) (ADVP (RB still)) (VP (VBG looking) (PP (IN for) (NP (DT the) (NNS arsonists))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde257e\"},\"m2\":{\"start\":5,\"end\":7,\"head\":6,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde2580\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["but","city","officials","say","several","people","have","been","arrested","on","civil","disobedience","charges","."]
+,"lemmas":["but","city","official","say","several","people","have","be","arrest","on","civil","disobedience","charge","."]
+,"posTags":["CC","NN","NNS","VBP","JJ","NNS","VBP","VBN","VBN","IN","JJ","NN","NNS","."]
+,"chunks":["O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[3,2,3,-1,5,8,8,8,3,8,12,12,9,-2]
+,"deprels":["cc","nn","nsubj","root","amod","nsubjpass","aux","auxpass","ccomp","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (CC but) (NP (NN city) (NNS officials)) (VP (VBP say) (SBAR (S (NP (JJ several) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBN arrested) (PP (IN on) (NP (JJ civil) (NN disobedience) (NNS charges))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde257c\"},\"m2\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde2582\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["but","city","officials","say","several","people","have","been","arrested","on","civil","disobedience","charges","."]
+,"lemmas":["but","city","official","say","several","people","have","be","arrest","on","civil","disobedience","charge","."]
+,"posTags":["CC","NN","NNS","VBP","JJ","NNS","VBP","VBN","VBN","IN","JJ","NN","NNS","."]
+,"chunks":["O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[3,2,3,-1,5,8,8,8,3,8,12,12,9,-2]
+,"deprels":["cc","nn","nsubj","root","amod","nsubjpass","aux","auxpass","ccomp","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (CC but) (NP (NN city) (NNS officials)) (VP (VBP say) (SBAR (S (NP (JJ several) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBN arrested) (PP (IN on) (NP (JJ civil) (NN disobedience) (NNS charges))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":2,\"head\":1,\"type\":\"GPE\",\"subtype\":\"Population-Center\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde257c\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde258a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["but","city","officials","say","several","people","have","been","arrested","on","civil","disobedience","charges","."]
+,"lemmas":["but","city","official","say","several","people","have","be","arrest","on","civil","disobedience","charge","."]
+,"posTags":["CC","NN","NNS","VBP","JJ","NNS","VBP","VBN","VBN","IN","JJ","NN","NNS","."]
+,"chunks":["O","B-NP","I-NP","B-VP","B-NP","I-NP","B-VP","I-VP","I-VP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[3,2,3,-1,5,8,8,8,3,8,12,12,9,-2]
+,"deprels":["cc","nn","nsubj","root","amod","nsubjpass","aux","auxpass","ccomp","prep","amod","nn","pobj",null]
+,"naryTree":"((ROOT (S (CC but) (NP (NN city) (NNS officials)) (VP (VBP say) (SBAR (S (NP (JJ several) (NNS people)) (VP (VBP have) (VP (VBN been) (VP (VBN arrested) (PP (IN on) (NP (JJ civil) (NN disobedience) (NNS charges))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde2582\"},\"m2\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde258a\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["one","person","was","arrested","for","assault","with","a","deadly","weapon","."]
+,"lemmas":["one","person","be","arrest","for","assault","with","a","deadly","weapon","."]
+,"posTags":["CD","NN","VBD","VBN","IN","NN","IN","DT","JJ","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","I-NP","O"]
+,"parents":[1,3,3,-1,3,4,3,9,9,6,-2]
+,"deprels":["num","nsubjpass","auxpass","root","prep","pobj","prep","det","amod","pobj",null]
+,"naryTree":"((ROOT (S (NP (CD one) (NN person)) (VP (VBD was) (VP (VBN arrested) (PP (IN for) (NP (NN assault))) (PP (IN with) (NP (DT a) (JJ deadly) (NN weapon))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde258c\"},\"m2\":{\"start\":7,\"end\":10,\"head\":9,\"type\":\"WEA\",\"subtype\":\"Underspecified\",\"phraseType\":\"NOM\",\"id\":\"f75acea9-d6d1-818b-9eef-00007fde2588\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+

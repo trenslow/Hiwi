@@ -1,0 +1,290 @@
+{"words":["for","the","latest","on","the","company","to","avoid","bankruptcy",",","check","with","rhonda","schaffler","."]
+,"lemmas":["for","the","latest","on","the","company","to","avoid","bankruptcy",",","check","with","rhonda","schaffler","."]
+,"posTags":["IN","DT","JJS","IN","DT","NN","TO","VB","NN",",","NN","IN","NN","NN","."]
+,"chunks":["B-PP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-NP","O","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[-1,2,0,2,5,3,7,5,7,-2,8,10,13,11,-2]
+,"deprels":["root","det","pobj","prep","det","pobj","aux","vmod","dobj",null,"appos","prep","nn","pobj",null]
+,"naryTree":"((ROOT (FRAG (PP (IN for) (NP (NP (DT the) (JJS latest)) (PP (IN on) (NP (DT the) (NN company) (S (VP (TO to) (VP (VB avoid) (NP (NP (NN bankruptcy)) (, ,) (NP (NP (NN check)) (PP (IN with) (NP (NN rhonda) (NN schaffler)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":6,\"head\":5,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9c6\"},\"m2\":{\"start\":12,\"end\":14,\"head\":13,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9cd\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["interesting","story","because","we","thought","things","were","wrapped","up","a","couple","district","attorneys","ago","."]
+,"lemmas":["interesting","story","because","we","think","thing","be","wrap","up","a","couple","district","attorney","ago","."]
+,"posTags":["JJ","NN","IN","PRP","VBD","NNS","VBD","VBN","RP","DT","NN","NN","NNS","RB","."]
+,"chunks":["B-NP","I-NP","B-SBAR","B-NP","B-VP","B-NP","B-VP","I-VP","B-PRT","B-NP","I-NP","I-NP","B-NP","B-ADVP","O"]
+,"parents":[1,7,4,4,1,4,7,-1,7,11,11,7,13,11,-2]
+,"deprels":["amod","nsubjpass","mark","nsubj","dep","dobj","auxpass","root","prt","det","nn","dobj","npadvmod","advmod",null]
+,"naryTree":"((ROOT (S (NP (NP (JJ interesting) (NN story)) (SBAR (IN because) (S (NP (PRP we)) (VP (VBD thought) (NP (NNS things)))))) (VP (VBD were) (VP (VBN wrapped) (PRT (RP up)) (NP (NP (DT a) (NN couple) (NN district)) (ADVP (NP (NNS attorneys)) (RB ago))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9e1\"},\"m2\":{\"start\":9,\"end\":13,\"head\":12,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9df\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["what","'s","go","on","is","that","union","members","became","outraged","after","learning","about","the","airline","'s","executive","compensation","plan","where","woi","would","have","paid","huge","bonuses","even","in","bankruptcy","."]
+,"lemmas":["what","be","go","on","be","that","union","member","become","outraged","after","learn","about","the","airline","'s","executive","compensation","plan","where","wous","would","have","pay","huge","bonus","even","in","bankruptcy","."]
+,"posTags":["WP","VBZ","VB","RP","VBZ","IN","NN","NNS","VBD","JJ","IN","VBG","IN","DT","NN","POS","NN","NN","NN","WRB","NN","MD","VB","VBN","JJ","NNS","RB","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PRT","B-VP","B-SBAR","B-NP","I-NP","B-VP","B-ADJP","B-PP","B-VP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[2,2,4,2,-1,8,7,8,4,8,9,10,11,14,18,14,18,18,12,23,23,23,23,8,25,23,23,23,27,-2]
+,"deprels":["nsubj","aux","csubj","prt","root","mark","nn","nsubj","ccomp","acomp","prep","pcomp","prep","det","poss","possessive","nn","nn","pobj","advmod","nsubj","aux","aux","advcl","amod","dobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VB go) (PRT (RP on)))))) (VP (VBZ is) (SBAR (IN that) (S (NP (NN union) (NNS members)) (VP (VBD became) (ADJP (JJ outraged) (PP (IN after) (S (VP (VBG learning) (PP (IN about) (NP (NP (DT the) (NN airline) (POS 's)) (NN executive) (NN compensation) (NN plan))))))) (SBAR (WHADVP (WRB where)) (S (NP (NN woi)) (VP (MD would) (VP (VB have) (VP (VBN paid) (NP (JJ huge) (NNS bonuses)) (ADVP (RB even)) (PP (IN in) (NP (NN bankruptcy)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d5\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d9\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["what","'s","go","on","is","that","union","members","became","outraged","after","learning","about","the","airline","'s","executive","compensation","plan","where","woi","would","have","paid","huge","bonuses","even","in","bankruptcy","."]
+,"lemmas":["what","be","go","on","be","that","union","member","become","outraged","after","learn","about","the","airline","'s","executive","compensation","plan","where","wous","would","have","pay","huge","bonus","even","in","bankruptcy","."]
+,"posTags":["WP","VBZ","VB","RP","VBZ","IN","NN","NNS","VBD","JJ","IN","VBG","IN","DT","NN","POS","NN","NN","NN","WRB","NN","MD","VB","VBN","JJ","NNS","RB","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PRT","B-VP","B-SBAR","B-NP","I-NP","B-VP","B-ADJP","B-PP","B-VP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[2,2,4,2,-1,8,7,8,4,8,9,10,11,14,18,14,18,18,12,23,23,23,23,8,25,23,23,23,27,-2]
+,"deprels":["nsubj","aux","csubj","prt","root","mark","nn","nsubj","ccomp","acomp","prep","pcomp","prep","det","poss","possessive","nn","nn","pobj","advmod","nsubj","aux","aux","advcl","amod","dobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VB go) (PRT (RP on)))))) (VP (VBZ is) (SBAR (IN that) (S (NP (NN union) (NNS members)) (VP (VBD became) (ADJP (JJ outraged) (PP (IN after) (S (VP (VBG learning) (PP (IN about) (NP (NP (DT the) (NN airline) (POS 's)) (NN executive) (NN compensation) (NN plan))))))) (SBAR (WHADVP (WRB where)) (S (NP (NN woi)) (VP (MD would) (VP (VB have) (VP (VBN paid) (NP (JJ huge) (NNS bonuses)) (ADVP (RB even)) (PP (IN in) (NP (NN bankruptcy)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d5\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9c8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["what","'s","go","on","is","that","union","members","became","outraged","after","learning","about","the","airline","'s","executive","compensation","plan","where","woi","would","have","paid","huge","bonuses","even","in","bankruptcy","."]
+,"lemmas":["what","be","go","on","be","that","union","member","become","outraged","after","learn","about","the","airline","'s","executive","compensation","plan","where","wous","would","have","pay","huge","bonus","even","in","bankruptcy","."]
+,"posTags":["WP","VBZ","VB","RP","VBZ","IN","NN","NNS","VBD","JJ","IN","VBG","IN","DT","NN","POS","NN","NN","NN","WRB","NN","MD","VB","VBN","JJ","NNS","RB","IN","NN","."]
+,"chunks":["B-NP","B-VP","I-VP","B-PRT","B-VP","B-SBAR","B-NP","I-NP","B-VP","B-ADJP","B-PP","B-VP","B-PP","B-NP","I-NP","B-NP","I-NP","I-NP","I-NP","B-ADVP","B-NP","B-VP","I-VP","I-VP","B-NP","I-NP","B-ADVP","B-PP","B-NP","O"]
+,"parents":[2,2,4,2,-1,8,7,8,4,8,9,10,11,14,18,14,18,18,12,23,23,23,23,8,25,23,23,23,27,-2]
+,"deprels":["nsubj","aux","csubj","prt","root","mark","nn","nsubj","ccomp","acomp","prep","pcomp","prep","det","poss","possessive","nn","nn","pobj","advmod","nsubj","aux","aux","advcl","amod","dobj","advmod","prep","pobj",null]
+,"naryTree":"((ROOT (S (SBAR (WHNP (WP what)) (S (VP (VBZ 's) (VP (VB go) (PRT (RP on)))))) (VP (VBZ is) (SBAR (IN that) (S (NP (NN union) (NNS members)) (VP (VBD became) (ADJP (JJ outraged) (PP (IN after) (S (VP (VBG learning) (PP (IN about) (NP (NP (DT the) (NN airline) (POS 's)) (NN executive) (NN compensation) (NN plan))))))) (SBAR (WHADVP (WRB where)) (S (NP (NN woi)) (VP (MD would) (VP (VB have) (VP (VBN paid) (NP (JJ huge) (NNS bonuses)) (ADVP (RB even)) (PP (IN in) (NP (NN bankruptcy)))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d9\"},\"m2\":{\"start\":13,\"end\":15,\"head\":14,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9c8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["on","friday",",","american","withdrew","the","plan","and","its","chief","executive","even","apologized","to","union","leaders","."]
+,"lemmas":["on","friday",",","american","withdraw","the","plan","and","its","chief","executive","even","apologize","to","union","leader","."]
+,"posTags":["IN","NNP",",","JJ","VBD","DT","NN","CC","PRP$","JJ","NN","RB","VBD","TO","NN","NNS","."]
+,"chunks":["B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,0,-2,4,-1,6,12,6,10,10,6,12,4,12,15,13,-2]
+,"deprels":["prep","pobj",null,"nsubj","root","det","nsubj","cc","poss","amod","conj","advmod","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN on) (NP (NNP friday))) (, ,) (NP (JJ american)) (VP (VBD withdrew) (SBAR (S (NP (NP (DT the) (NN plan)) (CC and) (NP (PRP$ its) (JJ chief) (NN executive))) (ADVP (RB even)) (VP (VBD apologized) (PP (TO to) (NP (NN union) (NNS leaders))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9ca\"},\"m2\":{\"start\":8,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d3\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["on","friday",",","american","withdrew","the","plan","and","its","chief","executive","even","apologized","to","union","leaders","."]
+,"lemmas":["on","friday",",","american","withdraw","the","plan","and","its","chief","executive","even","apologize","to","union","leader","."]
+,"posTags":["IN","NNP",",","JJ","VBD","DT","NN","CC","PRP$","JJ","NN","RB","VBD","TO","NN","NNS","."]
+,"chunks":["B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,0,-2,4,-1,6,12,6,10,10,6,12,4,12,15,13,-2]
+,"deprels":["prep","pobj",null,"nsubj","root","det","nsubj","cc","poss","amod","conj","advmod","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN on) (NP (NNP friday))) (, ,) (NP (JJ american)) (VP (VBD withdrew) (SBAR (S (NP (NP (DT the) (NN plan)) (CC and) (NP (PRP$ its) (JJ chief) (NN executive))) (ADVP (RB even)) (VP (VBD apologized) (PP (TO to) (NP (NN union) (NNS leaders))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d6\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d1\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["on","friday",",","american","withdrew","the","plan","and","its","chief","executive","even","apologized","to","union","leaders","."]
+,"lemmas":["on","friday",",","american","withdraw","the","plan","and","its","chief","executive","even","apologize","to","union","leader","."]
+,"posTags":["IN","NNP",",","JJ","VBD","DT","NN","CC","PRP$","JJ","NN","RB","VBD","TO","NN","NNS","."]
+,"chunks":["B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,0,-2,4,-1,6,12,6,10,10,6,12,4,12,15,13,-2]
+,"deprels":["prep","pobj",null,"nsubj","root","det","nsubj","cc","poss","amod","conj","advmod","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN on) (NP (NNP friday))) (, ,) (NP (JJ american)) (VP (VBD withdrew) (SBAR (S (NP (NP (DT the) (NN plan)) (CC and) (NP (PRP$ its) (JJ chief) (NN executive))) (ADVP (RB even)) (VP (VBD apologized) (PP (TO to) (NP (NN union) (NNS leaders))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9c9\"},\"m2\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9ca\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["on","friday",",","american","withdrew","the","plan","and","its","chief","executive","even","apologized","to","union","leaders","."]
+,"lemmas":["on","friday",",","american","withdraw","the","plan","and","its","chief","executive","even","apologize","to","union","leader","."]
+,"posTags":["IN","NNP",",","JJ","VBD","DT","NN","CC","PRP$","JJ","NN","RB","VBD","TO","NN","NNS","."]
+,"chunks":["B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,0,-2,4,-1,6,12,6,10,10,6,12,4,12,15,13,-2]
+,"deprels":["prep","pobj",null,"nsubj","root","det","nsubj","cc","poss","amod","conj","advmod","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN on) (NP (NNP friday))) (, ,) (NP (JJ american)) (VP (VBD withdrew) (SBAR (S (NP (NP (DT the) (NN plan)) (CC and) (NP (PRP$ its) (JJ chief) (NN executive))) (ADVP (RB even)) (VP (VBD apologized) (PP (TO to) (NP (NN union) (NNS leaders))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9c9\"},\"m2\":{\"start\":8,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["on","friday",",","american","withdrew","the","plan","and","its","chief","executive","even","apologized","to","union","leaders","."]
+,"lemmas":["on","friday",",","american","withdraw","the","plan","and","its","chief","executive","even","apologize","to","union","leader","."]
+,"posTags":["IN","NNP",",","JJ","VBD","DT","NN","CC","PRP$","JJ","NN","RB","VBD","TO","NN","NNS","."]
+,"chunks":["B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,0,-2,4,-1,6,12,6,10,10,6,12,4,12,15,13,-2]
+,"deprels":["prep","pobj",null,"nsubj","root","det","nsubj","cc","poss","amod","conj","advmod","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN on) (NP (NNP friday))) (, ,) (NP (JJ american)) (VP (VBD withdrew) (SBAR (S (NP (NP (DT the) (NN plan)) (CC and) (NP (PRP$ its) (JJ chief) (NN executive))) (ADVP (RB even)) (VP (VBD apologized) (PP (TO to) (NP (NN union) (NNS leaders))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9c9\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["on","friday",",","american","withdrew","the","plan","and","its","chief","executive","even","apologized","to","union","leaders","."]
+,"lemmas":["on","friday",",","american","withdraw","the","plan","and","its","chief","executive","even","apologize","to","union","leader","."]
+,"posTags":["IN","NNP",",","JJ","VBD","DT","NN","CC","PRP$","JJ","NN","RB","VBD","TO","NN","NNS","."]
+,"chunks":["B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,0,-2,4,-1,6,12,6,10,10,6,12,4,12,15,13,-2]
+,"deprels":["prep","pobj",null,"nsubj","root","det","nsubj","cc","poss","amod","conj","advmod","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN on) (NP (NNP friday))) (, ,) (NP (JJ american)) (VP (VBD withdrew) (SBAR (S (NP (NP (DT the) (NN plan)) (CC and) (NP (PRP$ its) (JJ chief) (NN executive))) (ADVP (RB even)) (VP (VBD apologized) (PP (TO to) (NP (NN union) (NNS leaders))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9c9\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["on","friday",",","american","withdrew","the","plan","and","its","chief","executive","even","apologized","to","union","leaders","."]
+,"lemmas":["on","friday",",","american","withdraw","the","plan","and","its","chief","executive","even","apologize","to","union","leader","."]
+,"posTags":["IN","NNP",",","JJ","VBD","DT","NN","CC","PRP$","JJ","NN","RB","VBD","TO","NN","NNS","."]
+,"chunks":["B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,0,-2,4,-1,6,12,6,10,10,6,12,4,12,15,13,-2]
+,"deprels":["prep","pobj",null,"nsubj","root","det","nsubj","cc","poss","amod","conj","advmod","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN on) (NP (NNP friday))) (, ,) (NP (JJ american)) (VP (VBD withdrew) (SBAR (S (NP (NP (DT the) (NN plan)) (CC and) (NP (PRP$ its) (JJ chief) (NN executive))) (ADVP (RB even)) (VP (VBD apologized) (PP (TO to) (NP (NN union) (NNS leaders))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9ca\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["on","friday",",","american","withdrew","the","plan","and","its","chief","executive","even","apologized","to","union","leaders","."]
+,"lemmas":["on","friday",",","american","withdraw","the","plan","and","its","chief","executive","even","apologize","to","union","leader","."]
+,"posTags":["IN","NNP",",","JJ","VBD","DT","NN","CC","PRP$","JJ","NN","RB","VBD","TO","NN","NNS","."]
+,"chunks":["B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,0,-2,4,-1,6,12,6,10,10,6,12,4,12,15,13,-2]
+,"deprels":["prep","pobj",null,"nsubj","root","det","nsubj","cc","poss","amod","conj","advmod","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN on) (NP (NNP friday))) (, ,) (NP (JJ american)) (VP (VBD withdrew) (SBAR (S (NP (NP (DT the) (NN plan)) (CC and) (NP (PRP$ its) (JJ chief) (NN executive))) (ADVP (RB even)) (VP (VBD apologized) (PP (TO to) (NP (NN union) (NNS leaders))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":9,\"head\":8,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9ca\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["on","friday",",","american","withdrew","the","plan","and","its","chief","executive","even","apologized","to","union","leaders","."]
+,"lemmas":["on","friday",",","american","withdraw","the","plan","and","its","chief","executive","even","apologize","to","union","leader","."]
+,"posTags":["IN","NNP",",","JJ","VBD","DT","NN","CC","PRP$","JJ","NN","RB","VBD","TO","NN","NNS","."]
+,"chunks":["B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,0,-2,4,-1,6,12,6,10,10,6,12,4,12,15,13,-2]
+,"deprels":["prep","pobj",null,"nsubj","root","det","nsubj","cc","poss","amod","conj","advmod","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN on) (NP (NNP friday))) (, ,) (NP (JJ american)) (VP (VBD withdrew) (SBAR (S (NP (NP (DT the) (NN plan)) (CC and) (NP (PRP$ its) (JJ chief) (NN executive))) (ADVP (RB even)) (VP (VBD apologized) (PP (TO to) (NP (NN union) (NNS leaders))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d3\"},\"m2\":{\"start\":14,\"end\":15,\"head\":14,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d6\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["on","friday",",","american","withdrew","the","plan","and","its","chief","executive","even","apologized","to","union","leaders","."]
+,"lemmas":["on","friday",",","american","withdraw","the","plan","and","its","chief","executive","even","apologize","to","union","leader","."]
+,"posTags":["IN","NNP",",","JJ","VBD","DT","NN","CC","PRP$","JJ","NN","RB","VBD","TO","NN","NNS","."]
+,"chunks":["B-PP","B-NP","O","B-NP","B-VP","B-NP","I-NP","O","B-NP","I-NP","I-NP","B-ADVP","B-VP","B-PP","B-NP","I-NP","O"]
+,"parents":[4,0,-2,4,-1,6,12,6,10,10,6,12,4,12,15,13,-2]
+,"deprels":["prep","pobj",null,"nsubj","root","det","nsubj","cc","poss","amod","conj","advmod","ccomp","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (PP (IN on) (NP (NNP friday))) (, ,) (NP (JJ american)) (VP (VBD withdrew) (SBAR (S (NP (NP (DT the) (NN plan)) (CC and) (NP (PRP$ its) (JJ chief) (NN executive))) (ADVP (RB even)) (VP (VBD apologized) (PP (TO to) (NP (NN union) (NNS leaders))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":8,\"end\":11,\"head\":10,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d3\"},\"m2\":{\"start\":14,\"end\":16,\"head\":15,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["union","members","are","still","sang","gri","and","they","are","demanding","another","vote","."]
+,"lemmas":["union","member","be","still","sing","grus","and","they","be","demand","another","vote","."]
+,"posTags":["NN","NNS","VBP","RB","VBN","NN","CC","PRP","VBP","VBG","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,4,4,9,9,4,11,9,-2]
+,"deprels":["nn","nsubjpass","auxpass","advmod","root","dobj","cc","nsubj","aux","conj","det","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NN union) (NNS members)) (VP (VBP are) (ADVP (RB still)) (VP (VBN sang) (NP (NN gri))))) (CC and) (S (NP (PRP they)) (VP (VBP are) (VP (VBG demanding) (NP (DT another) (NN vote))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d7\"},\"m2\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9da\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["union","members","are","still","sang","gri","and","they","are","demanding","another","vote","."]
+,"lemmas":["union","member","be","still","sing","grus","and","they","be","demand","another","vote","."]
+,"posTags":["NN","NNS","VBP","RB","VBN","NN","CC","PRP","VBP","VBG","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,4,4,9,9,4,11,9,-2]
+,"deprels":["nn","nsubjpass","auxpass","advmod","root","dobj","cc","nsubj","aux","conj","det","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NN union) (NNS members)) (VP (VBP are) (ADVP (RB still)) (VP (VBN sang) (NP (NN gri))))) (CC and) (S (NP (PRP they)) (VP (VBP are) (VP (VBG demanding) (NP (DT another) (NN vote))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9d7\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9db\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["union","members","are","still","sang","gri","and","they","are","demanding","another","vote","."]
+,"lemmas":["union","member","be","still","sing","grus","and","they","be","demand","another","vote","."]
+,"posTags":["NN","NNS","VBP","RB","VBN","NN","CC","PRP","VBP","VBG","DT","NN","."]
+,"chunks":["B-NP","I-NP","B-VP","I-VP","I-VP","B-NP","O","B-NP","B-VP","I-VP","B-NP","I-NP","O"]
+,"parents":[1,4,4,4,-1,4,4,9,9,4,11,9,-2]
+,"deprels":["nn","nsubjpass","auxpass","advmod","root","dobj","cc","nsubj","aux","conj","det","dobj",null]
+,"naryTree":"((ROOT (S (S (NP (NN union) (NNS members)) (VP (VBP are) (ADVP (RB still)) (VP (VBN sang) (NP (NN gri))))) (CC and) (S (NP (PRP they)) (VP (VBP are) (VP (VBG demanding) (NP (DT another) (NN vote))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9da\"},\"m2\":{\"start\":7,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9db\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["american","and","its","rivals","have","suffered","from","declines","in","business","travel","."]
+,"lemmas":["american","and","its","rival","have","suffer","from","decline","in","business","travel","."]
+,"posTags":["NN","CC","PRP$","NNS","VBP","VBN","IN","NNS","IN","NN","NN","."]
+,"chunks":["B-NP","O","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[5,0,3,0,5,-1,5,6,7,10,8,-2]
+,"deprels":["nsubj","cc","poss","conj","aux","root","prep","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN american)) (CC and) (NP (PRP$ its) (NNS rivals))) (VP (VBP have) (VP (VBN suffered) (PP (IN from) (NP (NP (NNS declines)) (PP (IN in) (NP (NN business) (NN travel))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9cb\"},\"m2\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9c5\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["american","and","its","rivals","have","suffered","from","declines","in","business","travel","."]
+,"lemmas":["american","and","its","rival","have","suffer","from","decline","in","business","travel","."]
+,"posTags":["NN","CC","PRP$","NNS","VBP","VBN","IN","NNS","IN","NN","NN","."]
+,"chunks":["B-NP","O","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[5,0,3,0,5,-1,5,6,7,10,8,-2]
+,"deprels":["nsubj","cc","poss","conj","aux","root","prep","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN american)) (CC and) (NP (PRP$ its) (NNS rivals))) (VP (VBP have) (VP (VBN suffered) (PP (IN from) (NP (NP (NNS declines)) (PP (IN in) (NP (NN business) (NN travel))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NAM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9cb\"},\"m2\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9b3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["american","and","its","rivals","have","suffered","from","declines","in","business","travel","."]
+,"lemmas":["american","and","its","rival","have","suffer","from","decline","in","business","travel","."]
+,"posTags":["NN","CC","PRP$","NNS","VBP","VBN","IN","NNS","IN","NN","NN","."]
+,"chunks":["B-NP","O","B-NP","I-NP","B-VP","I-VP","B-PP","B-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[5,0,3,0,5,-1,5,6,7,10,8,-2]
+,"deprels":["nsubj","cc","poss","conj","aux","root","prep","pobj","prep","nn","pobj",null]
+,"naryTree":"((ROOT (S (NP (NP (NN american)) (CC and) (NP (PRP$ its) (NNS rivals))) (VP (VBP have) (VP (VBN suffered) (PP (IN from) (NP (NP (NNS declines)) (PP (IN in) (NP (NN business) (NN travel))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9c5\"},\"m2\":{\"start\":2,\"end\":4,\"head\":3,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9b3\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["over","the","past","three","years",",","businesses","have","been","cutting","back","their","travel","expenses","to","save","money","."]
+,"lemmas":["over","the","past","three","year",",","business","have","be","cut","back","they","travel","expense","to","save","money","."]
+,"posTags":["IN","DT","JJ","CD","NNS",",","NNS","VBP","VBN","VBG","RP","PRP$","NN","NNS","TO","VB","NN","."]
+,"chunks":["B-PP","B-NP","I-NP","I-NP","I-NP","O","B-NP","B-VP","I-VP","I-VP","B-PRT","B-NP","I-NP","I-NP","B-VP","I-VP","B-NP","O"]
+,"parents":[9,4,4,4,0,-2,9,9,9,-1,9,13,13,9,15,9,15,-2]
+,"deprels":["prep","det","amod","num","pobj",null,"nsubj","aux","aux","root","prt","poss","nn","dobj","aux","vmod","dobj",null]
+,"naryTree":"((ROOT (S (PP (IN over) (NP (DT the) (JJ past) (CD three) (NNS years))) (, ,) (NP (NNS businesses)) (VP (VBP have) (VP (VBN been) (VP (VBG cutting) (PRT (RP back)) (NP (PRP$ their) (NN travel) (NNS expenses)) (S (VP (TO to) (VP (VB save) (NP (NN money)))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":7,\"head\":6,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9b7\"},\"m2\":{\"start\":11,\"end\":12,\"head\":11,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9b8\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["and","now","experts","say","they","'re","going","to","keep","doing","that",",","even","when","the","economy","picks","up",",","e-mail",",","video",",","web","conferencing","becoming","popular","alternatives","to","face-to-face","meetings","."]
+,"lemmas":["and","now","expert","say","they","be","go","to","keep","do","that",",","even","when","the","economy","pick","up",",","e-mail",",","video",",","web","conferencing","become","popular","alternative","to","face-to-face","meeting","."]
+,"posTags":["CC","RB","NNS","VBP","PRP","VBP","VBG","TO","VB","VBG","IN",",","RB","WRB","DT","NN","VBZ","RP",",","JJ",",","NN",",","NN","NN","VBG","JJ","NNS","TO","JJ","NNS","."]
+,"chunks":["O","B-ADVP","B-NP","B-VP","B-NP","B-VP","I-VP","B-VP","I-VP","B-VP","B-SBAR","O","B-ADVP","I-ADVP","B-NP","I-NP","B-VP","B-PRT","O","B-NP","I-NP","I-NP","I-NP","I-NP","I-NP","B-VP","B-NP","I-NP","B-PP","B-NP","I-NP","O"]
+,"parents":[3,3,3,-1,6,6,3,8,6,8,25,-2,13,16,15,16,25,16,-2,24,-2,24,-2,24,25,9,27,25,25,30,28,-2]
+,"deprels":["cc","advmod","nsubj","root","nsubj","aux","ccomp","aux","xcomp","xcomp","mark",null,"advmod","advmod","det","nsubj","dep","prt",null,"amod",null,"dep",null,"dep","nsubj","ccomp","amod","xcomp","prep","amod","pobj",null]
+,"naryTree":"((ROOT (S (CC and) (ADVP (RB now)) (NP (NNS experts)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP 're) (VP (VBG going) (S (VP (TO to) (VP (VB keep) (S (VP (VBG doing) (SBAR (IN that) (PRN (, ,) (SBAR (WHADVP (RB even) (WRB when)) (S (NP (DT the) (NN economy)) (VP (VBZ picks) (PRT (RP up))))) (, ,)) (S (NP (JJ e-mail) (, ,) (NN video) (, ,) (NN web) (NN conferencing)) (VP (VBG becoming) (NP (JJ popular) (NNS alternatives)) (PP (TO to) (NP (JJ face-to-face) (NNS meetings)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9bd\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9b9\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["according","to","business","travel","coalition",",","younger","techs","heavy","managers","are","n't","so","keen","on","jumping","on","a","plane","."]
+,"lemmas":["accord","to","business","travel","coalition",",","younger","tech","heavy","manager","be","not","so","keen","on","jump","on","a","plane","."]
+,"posTags":["VBG","TO","NN","NN","NN",",","JJR","NNS","JJ","NNS","VBP","RB","RB","JJ","IN","VBG","RP","DT","NN","."]
+,"chunks":["B-PP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","O","B-ADJP","I-ADJP","B-PP","B-VP","B-PRT","B-NP","I-NP","O"]
+,"parents":[13,0,4,4,1,-2,7,13,9,7,13,13,13,-1,13,14,15,18,15,-2]
+,"deprels":["prep","pcomp","nn","nn","pobj",null,"amod","nsubj","amod","dep","cop","neg","advmod","root","prep","pcomp","prt","det","dobj",null]
+,"naryTree":"((ROOT (S (PP (VBG according) (PP (TO to) (NP (NN business) (NN travel) (NN coalition)))) (, ,) (NP (NP (JJR younger) (NNS techs)) (NP (JJ heavy) (NNS managers))) (VP (VBP are) (RB n't) (ADJP (RB so) (JJ keen) (PP (IN on) (S (VP (VBG jumping) (PRT (RP on)) (NP (DT a) (NN plane))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9cf\"},\"m2\":{\"start\":6,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9c1\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["according","to","business","travel","coalition",",","younger","techs","heavy","managers","are","n't","so","keen","on","jumping","on","a","plane","."]
+,"lemmas":["accord","to","business","travel","coalition",",","younger","tech","heavy","manager","be","not","so","keen","on","jump","on","a","plane","."]
+,"posTags":["VBG","TO","NN","NN","NN",",","JJR","NNS","JJ","NNS","VBP","RB","RB","JJ","IN","VBG","RP","DT","NN","."]
+,"chunks":["B-PP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","O","B-ADJP","I-ADJP","B-PP","B-VP","B-PRT","B-NP","I-NP","O"]
+,"parents":[13,0,4,4,1,-2,7,13,9,7,13,13,13,-1,13,14,15,18,15,-2]
+,"deprels":["prep","pcomp","nn","nn","pobj",null,"amod","nsubj","amod","dep","cop","neg","advmod","root","prep","pcomp","prt","det","dobj",null]
+,"naryTree":"((ROOT (S (PP (VBG according) (PP (TO to) (NP (NN business) (NN travel) (NN coalition)))) (, ,) (NP (NP (JJR younger) (NNS techs)) (NP (JJ heavy) (NNS managers))) (VP (VBP are) (RB n't) (ADJP (RB so) (JJ keen) (PP (IN on) (S (VP (VBG jumping) (PRT (RP on)) (NP (DT a) (NN plane))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9c1\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9bf\"}}]"
+,"relLabels":["ART(Arg-1,Arg-2)"]}
+
+{"words":["according","to","business","travel","coalition",",","younger","techs","heavy","managers","are","n't","so","keen","on","jumping","on","a","plane","."]
+,"lemmas":["accord","to","business","travel","coalition",",","younger","tech","heavy","manager","be","not","so","keen","on","jump","on","a","plane","."]
+,"posTags":["VBG","TO","NN","NN","NN",",","JJR","NNS","JJ","NNS","VBP","RB","RB","JJ","IN","VBG","RP","DT","NN","."]
+,"chunks":["B-PP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","O","B-ADJP","I-ADJP","B-PP","B-VP","B-PRT","B-NP","I-NP","O"]
+,"parents":[13,0,4,4,1,-2,7,13,9,7,13,13,13,-1,13,14,15,18,15,-2]
+,"deprels":["prep","pcomp","nn","nn","pobj",null,"amod","nsubj","amod","dep","cop","neg","advmod","root","prep","pcomp","prt","det","dobj",null]
+,"naryTree":"((ROOT (S (PP (VBG according) (PP (TO to) (NP (NN business) (NN travel) (NN coalition)))) (, ,) (NP (NP (JJR younger) (NNS techs)) (NP (JJ heavy) (NNS managers))) (VP (VBP are) (RB n't) (ADJP (RB so) (JJ keen) (PP (IN on) (S (VP (VBG jumping) (PRT (RP on)) (NP (DT a) (NN plane))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9bb\"},\"m2\":{\"start\":6,\"end\":8,\"head\":7,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9cf\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["according","to","business","travel","coalition",",","younger","techs","heavy","managers","are","n't","so","keen","on","jumping","on","a","plane","."]
+,"lemmas":["accord","to","business","travel","coalition",",","younger","tech","heavy","manager","be","not","so","keen","on","jump","on","a","plane","."]
+,"posTags":["VBG","TO","NN","NN","NN",",","JJR","NNS","JJ","NNS","VBP","RB","RB","JJ","IN","VBG","RP","DT","NN","."]
+,"chunks":["B-PP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","O","B-ADJP","I-ADJP","B-PP","B-VP","B-PRT","B-NP","I-NP","O"]
+,"parents":[13,0,4,4,1,-2,7,13,9,7,13,13,13,-1,13,14,15,18,15,-2]
+,"deprels":["prep","pcomp","nn","nn","pobj",null,"amod","nsubj","amod","dep","cop","neg","advmod","root","prep","pcomp","prt","det","dobj",null]
+,"naryTree":"((ROOT (S (PP (VBG according) (PP (TO to) (NP (NN business) (NN travel) (NN coalition)))) (, ,) (NP (NP (JJR younger) (NNS techs)) (NP (JJ heavy) (NNS managers))) (VP (VBP are) (RB n't) (ADJP (RB so) (JJ keen) (PP (IN on) (S (VP (VBG jumping) (PRT (RP on)) (NP (DT a) (NN plane))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9bb\"},\"m2\":{\"start\":6,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Group\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9c1\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["according","to","business","travel","coalition",",","younger","techs","heavy","managers","are","n't","so","keen","on","jumping","on","a","plane","."]
+,"lemmas":["accord","to","business","travel","coalition",",","younger","tech","heavy","manager","be","not","so","keen","on","jump","on","a","plane","."]
+,"posTags":["VBG","TO","NN","NN","NN",",","JJR","NNS","JJ","NNS","VBP","RB","RB","JJ","IN","VBG","RP","DT","NN","."]
+,"chunks":["B-PP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","O","B-ADJP","I-ADJP","B-PP","B-VP","B-PRT","B-NP","I-NP","O"]
+,"parents":[13,0,4,4,1,-2,7,13,9,7,13,13,13,-1,13,14,15,18,15,-2]
+,"deprels":["prep","pcomp","nn","nn","pobj",null,"amod","nsubj","amod","dep","cop","neg","advmod","root","prep","pcomp","prt","det","dobj",null]
+,"naryTree":"((ROOT (S (PP (VBG according) (PP (TO to) (NP (NN business) (NN travel) (NN coalition)))) (, ,) (NP (NP (JJR younger) (NNS techs)) (NP (JJ heavy) (NNS managers))) (VP (VBP are) (RB n't) (ADJP (RB so) (JJ keen) (PP (IN on) (S (VP (VBG jumping) (PRT (RP on)) (NP (DT a) (NN plane))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":2,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Non-Governmental\",\"phraseType\":\"NAM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9bb\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9bf\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["according","to","business","travel","coalition",",","younger","techs","heavy","managers","are","n't","so","keen","on","jumping","on","a","plane","."]
+,"lemmas":["accord","to","business","travel","coalition",",","younger","tech","heavy","manager","be","not","so","keen","on","jump","on","a","plane","."]
+,"posTags":["VBG","TO","NN","NN","NN",",","JJR","NNS","JJ","NNS","VBP","RB","RB","JJ","IN","VBG","RP","DT","NN","."]
+,"chunks":["B-PP","B-PP","B-NP","I-NP","I-NP","O","B-NP","I-NP","B-NP","I-NP","B-VP","O","B-ADJP","I-ADJP","B-PP","B-VP","B-PRT","B-NP","I-NP","O"]
+,"parents":[13,0,4,4,1,-2,7,13,9,7,13,13,13,-1,13,14,15,18,15,-2]
+,"deprels":["prep","pcomp","nn","nn","pobj",null,"amod","nsubj","amod","dep","cop","neg","advmod","root","prep","pcomp","prt","det","dobj",null]
+,"naryTree":"((ROOT (S (PP (VBG according) (PP (TO to) (NP (NN business) (NN travel) (NN coalition)))) (, ,) (NP (NP (JJR younger) (NNS techs)) (NP (JJ heavy) (NNS managers))) (VP (VBP are) (RB n't) (ADJP (RB so) (JJ keen) (PP (IN on) (S (VP (VBG jumping) (PRT (RP on)) (NP (DT a) (NN plane))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":6,\"end\":8,\"head\":7,\"type\":\"ORG\",\"subtype\":\"Commercial\",\"phraseType\":\"PRO\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9cf\"},\"m2\":{\"start\":17,\"end\":19,\"head\":18,\"type\":\"VEH\",\"subtype\":\"Air\",\"phraseType\":\"NOM\",\"id\":\"e90a1cf0-6206-15a5-bd18-000073c2b9bf\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

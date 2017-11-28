@@ -1,0 +1,310 @@
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c11\"},\"m2\":{\"start\":1,\"end\":6,\"head\":5,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c13\"}}]"
+,"relLabels":["ORG-AFF(Arg-1,Arg-2)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c11\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c11\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c11\"},\"m2\":{\"start\":23,\"end\":25,\"head\":24,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c09\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":3,\"head\":2,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c11\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":6,\"head\":5,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c13\"},\"m2\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0e\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":6,\"head\":5,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c13\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":6,\"head\":5,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c13\"},\"m2\":{\"start\":23,\"end\":25,\"head\":24,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c09\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":1,\"end\":6,\"head\":5,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c13\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0e\"},\"m2\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0b\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0e\"},\"m2\":{\"start\":23,\"end\":25,\"head\":24,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c09\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":13,\"end\":14,\"head\":13,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0e\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0b\"},\"m2\":{\"start\":23,\"end\":25,\"head\":24,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c09\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":17,\"end\":18,\"head\":17,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0b\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["knew","saddam","hussein","'s","rej","geemg","is","no","more",",","the","focus","in","iraq","is","turning","from","military","action","to","rebuilding","which","means","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"lemmas":["know","saddam","hussein","'s","rej","geemg","be","no","more",",","the","focus","in","iraq","be","turn","from","military","action","to","rebuild","which","mean","the","coalition","'s","role","in","the","country","will","have","to","change","."]
+,"posTags":["VBD","NN","NN","POS","NN","NN","VBZ","DT","RBR",",","DT","NN","IN","NN","VBZ","VBG","IN","JJ","NN","TO","VBG","WDT","VBZ","DT","NN","POS","NN","IN","DT","NN","MD","VB","TO","VB","."]
+,"chunks":["B-VP","B-NP","I-NP","B-NP","I-NP","I-NP","B-VP","B-ADVP","I-ADVP","O","B-NP","I-NP","B-PP","B-NP","B-VP","I-VP","B-PP","B-NP","I-NP","B-PP","B-VP","B-NP","B-VP","B-NP","I-NP","B-NP","I-NP","B-PP","B-NP","I-NP","B-VP","I-VP","B-VP","I-VP","O"]
+,"parents":[15,2,5,2,5,6,0,8,6,-2,11,15,11,12,15,-1,15,18,16,15,19,22,20,24,26,24,31,26,29,27,31,22,33,31,-2]
+,"deprels":["ccomp","nn","poss","possessive","nn","nsubj","ccomp","neg","advmod",null,"det","nsubj","prep","pobj","aux","root","prep","amod","pobj","prep","pcomp","nsubj","ccomp","det","poss","possessive","nsubj","prep","det","pobj","aux","ccomp","aux","xcomp",null]
+,"naryTree":"((ROOT (S (S (VP (VBD knew) (SBAR (S (NP (NP (NN saddam) (NN hussein) (POS 's)) (NN rej) (NN geemg)) (VP (VBZ is) (ADVP (DT no) (RBR more))))))) (, ,) (NP (NP (DT the) (NN focus)) (PP (IN in) (NP (NN iraq)))) (VP (VBZ is) (VP (VBG turning) (PP (IN from) (NP (JJ military) (NN action))) (PP (TO to) (S (VP (VBG rebuilding) (SBAR (WHNP (WDT which)) (S (VP (VBZ means) (SBAR (S (NP (NP (NP (DT the) (NN coalition) (POS 's)) (NN role)) (PP (IN in) (NP (DT the) (NN country)))) (VP (MD will) (VP (VB have) (S (VP (TO to) (VP (VB change)))))))))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":23,\"end\":25,\"head\":24,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c09\"},\"m2\":{\"start\":28,\"end\":30,\"head\":29,\"type\":\"GPE\",\"subtype\":\"Nation\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0f\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c00\"},\"m2\":{\"start\":3,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c03\"}}]"
+,"relLabels":["ORG-AFF(Arg-2,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0c\"},\"m2\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c04\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0c\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c00\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0c\"},\"m2\":{\"start\":3,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c03\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0c\"},\"m2\":{\"start\":0,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c02\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":1,\"head\":0,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c0c\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c07\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c04\"},\"m2\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c00\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c04\"},\"m2\":{\"start\":3,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c03\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c04\"},\"m2\":{\"start\":0,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c02\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":2,\"head\":1,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c04\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c07\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c00\"},\"m2\":{\"start\":0,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c02\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":4,\"end\":5,\"head\":4,\"type\":\"ORG\",\"subtype\":\"Government\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c00\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c07\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c03\"},\"m2\":{\"start\":0,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c02\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":6,\"head\":5,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NOM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c03\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c07\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["military","analyst","and","retired","army","general","claudia","kennedy","joins","me","with","a","look","at","possibilitys","."]
+,"lemmas":["military","analyst","and","retire","army","general","claudium","kennedy","join","I","with","a","look","at","possibility","."]
+,"posTags":["JJ","NN","CC","VBD","NN","JJ","NN","NN","VBZ","PRP","IN","DT","NN","IN","NNS","."]
+,"chunks":["B-NP","I-NP","O","B-VP","B-NP","B-NP","I-NP","I-NP","B-VP","B-NP","B-PP","B-NP","I-NP","B-PP","B-NP","O"]
+,"parents":[1,3,1,-1,3,7,7,8,4,8,8,12,10,12,13,-2]
+,"deprels":["amod","nsubj","cc","root","dobj","amod","nn","nsubj","rcmod","dobj","prep","det","pobj","prep","pobj",null]
+,"naryTree":"((ROOT (S (NP (JJ military) (NX (NX (NN analyst)) (CC and))) (VP (VBD retired) (NP (NP (NN army)) (SBAR (S (NP (JJ general) (NN claudia) (NN kennedy)) (VP (VBZ joins) (NP (PRP me)) (PP (IN with) (NP (NP (DT a) (NN look)) (PP (IN at) (NP (NNS possibilitys)))))))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":0,\"end\":8,\"head\":7,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"NAM\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c02\"},\"m2\":{\"start\":9,\"end\":10,\"head\":9,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c07\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+
+{"words":["good","to","have","you","with","us","."]
+,"lemmas":["good","to","have","you","with","we","."]
+,"posTags":["JJ","TO","VB","PRP","IN","PRP","."]
+,"chunks":["B-ADJP","B-VP","I-VP","B-NP","B-PP","B-NP","O"]
+,"parents":[-1,2,0,2,2,4,-2]
+,"deprels":["root","aux","dep","dobj","prep","pobj",null]
+,"naryTree":"((ROOT (FRAG (ADJP (JJ good)) (S (VP (TO to) (VP (VB have) (NP (PRP you)) (PP (IN with) (NP (PRP us)))))) (. .))))"
+,"nePairs":"[{\"m1\":{\"start\":3,\"end\":4,\"head\":3,\"type\":\"PER\",\"subtype\":\"Individual\",\"phraseType\":\"PRO\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70c05\"},\"m2\":{\"start\":5,\"end\":6,\"head\":5,\"type\":\"ORG\",\"subtype\":\"Media\",\"phraseType\":\"PRO\",\"id\":\"3ce97eb7-4fc2-cd3c-b6e3-00002de70bfe\"}}]"
+,"relLabels":["NO_RELATION(Arg-1,Arg-1)"]}
+

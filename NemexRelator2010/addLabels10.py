@@ -1,6 +1,6 @@
 import itertools
 import sys
-from parameters import *
+from parameters10 import *
 
 
 def read_labels(file):

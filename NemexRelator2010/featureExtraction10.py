@@ -2,7 +2,7 @@ import re
 import itertools
 import operator
 import os
-from parameters import *
+from parameters10 import *
 import nltk
 import sys
 import unicodedata
@@ -92,46 +92,48 @@ def learn_words(wor_file, sent_index):
     with open(wor_file, 'w+') as vocab:
         for token in unique_tokens:
             vocab.write(token + '\n')
+    return unique_tokens
 
 
-def learn_suffixes(suf_file, sent_index):
+def learn_suffixes(suf_file, voc):
     unique_suffixes = set()
-    for sentence in sent_index.values():
-        for token in clean_and_tokenize(sentence)[0]:
-            if len(token) >= max_suffix_size:
-                sliced_token = token[-max_suffix_size:]
-            else:
-                sliced_token = token
-            unique_suffixes.update([token[i:] for i, char in enumerate(sliced_token)])
+    for token in voc:
+        if len(token) >= max_suffix_size:
+            sliced_token = token[-max_suffix_size:]
+        else:
+            sliced_token = token
+        unique_suffixes.update([token[i:] for i, char in enumerate(sliced_token)])
     with open(suf_file, 'w+') as suffixes:
         for suffix in unique_suffixes:
             suffixes.write(suffix + '\n')
 
 
 def learn_shapes(shp_file, sent_index):
-    unique_shapes = []
-    for sentence in sent_index.values():
-        tokens = clean_and_tokenize(sentence)[0]
-        for i, token in enumerate(tokens):
-            vector = [0, 0, 0, 0, 0, 0, 0]
-            if any(char.isupper() for char in token):
-                vector[0] = 1
-            if '-' in token:
-                vector[1] = 1
-            if any(char.isdigit() for char in token):
-                vector[2] = 1
-            if i == 0 and token[0].isupper():
-                vector[3] = 1
-            if token[0].islower():
-                vector[4] = 1
-            if '_' in token:
-                vector[5] = 1
-            if '"' in token:
-                vector[6] = 1
-            tup_vec = tuple(vector)
-            if tup_vec not in unique_shapes:
-                unique_shapes.append(tup_vec)
+    # unique_shapes = []
+    # for sentence in sent_index.values():
+    #     tokens = clean_and_tokenize(sentence)[0]
+    #     for i, token in enumerate(tokens):
+    #         vector = [0, 0, 0, 0, 0, 0, 0]
+    #         if any(char.isupper() for char in token):
+    #             vector[0] = 1
+    #         if '-' in token:
+    #             vector[1] = 1
+    #         if any(char.isdigit() for char in token):
+    #             vector[2] = 1
+    #         if i == 0 and token[0].isupper():
+    #             vector[3] = 1
+    #         if token[0].islower():
+    #             vector[4] = 1
+    #         if '_' in token:
+    #             vector[5] = 1
+    #         if '"' in token:
+    #             vector[6] = 1
+    #         tup_vec = tuple(vector)
+    #         if tup_vec not in unique_shapes:
+    #             unique_shapes.append(tup_vec)
 
+    # currently keeping the above code in case until testing can be done
+    unique_shapes = list(itertools.product(range(2), repeat=7))  # change repeat value for how many shape features used
     with open(shp_file, 'w+') as shapes:
         for shape in unique_shapes:
             shapes.write(str(shape) + '\n')
@@ -183,9 +185,9 @@ if __name__ == '__main__':
     print('writing label file...')
     learn_labels(label_file, train_label_index)
     print('writing words file...')
-    learn_words(words_file, train_sentence_index)
+    vocab = learn_words(words_file, train_sentence_index)
     print('writing suffix file..')
-    learn_suffixes(suffix_file, train_sentence_index)
+    learn_suffixes(suffix_file, vocab)
     print('writing shape file...')
     learn_shapes(shape_file, train_sentence_index)
     print('writing POS tags file...')

@@ -3,6 +3,7 @@ try:
 except ImportError:
     import xml.etree.ElementTree as ET
 import re
+import itertools
 
 
 def create_relation_index(rel_path, rel_out):
@@ -65,7 +66,7 @@ def collect_texts(dat_file):
 
 
 def create_record(txts, rel_idx, ent_idx, rec_file):
-    uniq_wrds, uniq_shps = set(), set()
+    uniq_wrds = set()
     count = 0
     with open(rec_file, 'w+') as rec:
         for abs_id, rels in rel_idx.items():
@@ -89,25 +90,7 @@ def create_record(txts, rel_idx, ent_idx, rec_file):
                 to_write = tuple([count, tokens_with_punc, e1, e2, rel, s_len])
                 rec.write(str(to_write) + '\n')
 
-                for i, token in enumerate(tokens_with_punc):
-                    shape_vec = [0, 0, 0, 0, 0, 0, 0]
-                    if any(char.isupper() for char in token):
-                        shape_vec[0] = 1
-                    if '-' in token:
-                        shape_vec[1] = 1
-                    if any(char.isdigit() for char in token):
-                        shape_vec[2] = 1
-                    if i == 0 and token[0].isupper():
-                        shape_vec[3] = 1
-                    if token[0].islower():
-                        shape_vec[4] = 1
-                    if '_' in token:
-                        shape_vec[5] = 1
-                    if '"' in token:
-                        shape_vec[6] = 1
-                    uniq_shps.add(tuple(shape_vec))
-
-    return uniq_wrds, uniq_shps
+    return uniq_wrds, list(itertools.product(range(2), repeat=7))
 
 
 def merge_punc(tkn_lst):

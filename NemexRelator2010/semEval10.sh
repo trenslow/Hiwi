@@ -11,13 +11,13 @@ libLinDir="/home/tyler/liblinear-2.11"
 semEvalScorerDir=${mainDir}"/SemEval2010_task8_all_data/SemEval2010_task8_scorer-v1.2"
 
 echo "---running feature extraction---"
-python3 featureExtraction.py
+python3 featureExtraction10.py
 ret=$?
 if [ ${ret} == 1 ]; then
      exit 1
 fi
 echo "---converting sentences to vectors---"
-python3 sent2vec.py
+python3 sent2vec10.py
 
 cd ${libLinDir}
 echo "---training LibLinear model---"
@@ -27,6 +27,6 @@ echo "---predicting on test set---"
 
 cd ${mainDir}
 echo "---adding labels to LibLinear output---"
-python3 addLabels.py ${s} ${c} ${e}
+python3 addLabels10.py ${s} ${c} ${e}
 echo "---scoring model---"
 perl ${semEvalScorerDir}"/semeval2010_task8_scorer-v1.2.pl" ${modelDir}${out_name}"_predictions_with_labels.txt" answer_key.txt

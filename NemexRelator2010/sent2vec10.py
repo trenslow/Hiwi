@@ -1,6 +1,6 @@
 import ast
 import re
-from parameters import *
+from parameters10 import *
 from collections import Counter
 import operator
 if fire_tagger:
@@ -24,7 +24,7 @@ def read_shape_file(file, unkwn):
     with open(file) as f:
         for i, line in enumerate(f):
             shps[ast.literal_eval(line)] = i
-        shps[unkwn] = len(shps)
+    shps[unkwn] = len(shps)
     return shps
 
 
@@ -33,7 +33,7 @@ def read_feat_file(file, unkwn):
     with open(file) as f:
         for i, item in enumerate(f):
             feats[item.strip()] = i
-        feats[unkwn] = len(feats)
+    feats[unkwn] = len(feats)
     return feats
 
 
@@ -193,7 +193,7 @@ def pad_middle(lst, m, e1, e2):
 def slice_middle(lst, avg_m, e1, e2):
     if after_e1:
         return lst[:e1+avg_m] + lst[e2:]
-    elif before_e2:
+    if before_e2:
         return lst[:e1] + lst[e2-avg_m:]
 
 
@@ -222,23 +222,43 @@ if __name__ == '__main__':
     punc = set(string.punctuation)
     records_and_outs = [(path_to_feat_folder + 'record_train.txt', path_to_model_folder + 'libLinearInput_train.txt'),
                         (path_to_feat_folder + 'record_test.txt', path_to_model_folder + 'libLinearInput_test.txt')]
+    num_words = 0
+    num_positions = 0
+    num_clusters = 0
+    num_suffixes = 0
+    num_shapes = 0
+    num_tags = 0
+    num_embeddings = 0
+    char_emb_dims = 0
+    cat_dims = 0
 
-    if marlin:
-        clusters = read_clusters(path_to_feat_folder + 'en_marlin_cluster_1000')
-    elif brown:
-        clusters = read_clusters(path_to_feat_folder + 'en_brown_1000')
+    if fire_words:
+        words = read_feat_file(path_to_feat_folder + 'vocab.txt', unknown)
+        num_words = len(words)
+    if fire_clusters:
+        if marlin:
+            clusters = read_clusters(path_to_feat_folder + 'en_marlin_cluster_1000')
+        elif brown:
+            clusters = read_clusters(path_to_feat_folder + 'en_brown_1000')
+        num_clusters = max(clusters.values()) + 1
     if fire_suffixes:
         suffixes = read_feat_file(path_to_feat_folder + 'suffixes.txt', unknown)
+        num_suffixes = len(suffixes)
     if fire_shapes:
         shapes = read_shape_file(path_to_feat_folder + 'shapes.txt', unknown)
+        num_shapes = len(shapes)
     if fire_tagger:
         tags = read_tags(path_to_feat_folder + 'tags.txt')
+        num_tags = len(tags)
     if fire_embeddings:
         embeddings = read_embeddings(path_to_feat_folder + 'numberbatch-en.txt')
+        num_embeddings = len(embeddings['0'])
     if fire_char_embeddings:
         char_embeddings = read_embeddings(path_to_feat_folder + 'numberbatch-en-char.txt')
+        char_emb_dims = len(char_embeddings['0'])
     if fire_unicode_cats:
         unicode_categories = read_cats(path_to_feat_folder + 'categories.txt')
+        cat_dims = len(unicode_categories)
 
     for record_file, out_file in records_and_outs:
         which = re.findall(r'record_(.*?).txt', record_file)[0]
@@ -248,8 +268,7 @@ if __name__ == '__main__':
         sentence_labels = [record[4] for record in records]
         with open(path_to_feat_folder + 'labels.txt') as labs:
             labels = {lab.strip(): i for i, lab in enumerate(labs)}
-        words = read_feat_file(path_to_feat_folder + 'vocab.txt', unknown)
-        num_words = len(words) if fire_words else 0
+
         if 'train' in record_file:
             all_M_vals = [record[6] for record in records]
             M = max(all_M_vals)
@@ -263,19 +282,12 @@ if __name__ == '__main__':
         if fire_tagger:
             tagged_sents = pos_tag_sents([[w if w is not None else 'none' for w in sent] for sent in norm_sents])
 
-        num_clusters = max(clusters.values()) + 1 if fire_clusters else 0
-        num_suffixes = len(suffixes) if fire_suffixes else 0
-        num_shapes = len(shapes) if fire_shapes else 0
-        num_tags = len(tags) if fire_tagger else 0
-        num_embeddings = len(embeddings['0']) if fire_embeddings else 0
         if max_suffix_size == 0:
             word_lengths = [len(w) for w in words]
             suffix_length = sum(word_lengths) // num_words
         else:
             suffix_length = max_suffix_size
-        char_emb_dims = len(char_embeddings['0']) if fire_char_embeddings else 0
         num_char_embeddings = suffix_length * char_emb_dims
-        cat_dims = len(unicode_categories) if fire_unicode_cats else 0
         num_cats = cat_dims * suffix_length
         len_token_vec = num_words + num_positions + num_clusters + num_suffixes + num_shapes + num_tags + num_embeddings + num_char_embeddings + num_cats
         feat_val = ':1.0'
@@ -297,33 +309,27 @@ if __name__ == '__main__':
                         if fire_words:
                             if token in words:
                                 feat_pos = offset + words[token] + 1
-                                token_feat = str(feat_pos) + feat_val
-                                token_feats.append(token_feat)
                             else:
                                 feat_pos = offset + words[unknown] + 1
-                                token_feat = str(feat_pos) + feat_val
-                                token_feats.append(token_feat)
+                            token_feat = str(feat_pos) + feat_val
+                            token_feats.append(token_feat)
                         if fire_positions:
                             if pos_vecs[idx] in positions:
                                 feat_pos = offset + positions[pos_vecs[idx]] + num_words + 1
-                                token_feat = str(feat_pos) + feat_val
-                                token_feats.append(token_feat)
                             else:
                                 feat_pos = offset + positions[unknown] + num_words + 1
-                                token_feat = str(feat_pos) + feat_val
-                                token_feats.append(offset + positions[unknown] + num_words + 1)
+                            token_feat = str(feat_pos) + feat_val
+                            token_feats.append(token_feat)
                         if fire_clusters:
                             temp_token = ''.join('0' if char.isdigit() else char for char in token)
                             if any(char.isalpha() for char in temp_token) and len(temp_token) > 1:
                                 temp_token = ''.join(char for char in temp_token if char not in string.punctuation)
                             if temp_token in clusters:
                                 feat_pos = offset + clusters[temp_token] + num_words + num_positions + 1
-                                token_feat = str(feat_pos) + feat_val
-                                token_feats.append(token_feat)
                             else:
                                 feat_pos = offset + clusters['<RARE>'] + num_words + num_positions + 1
-                                token_feat = str(feat_pos) + feat_val
-                                token_feats.append(token_feat)
+                            token_feat = str(feat_pos) + feat_val
+                            token_feats.append(token_feat)
                         if fire_suffixes:
                             suffix_vec = []
                             for j in range(len(token)):
@@ -354,14 +360,9 @@ if __name__ == '__main__':
                             if '"' in token:
                                 shape_vec[6] = 1
                             tup_vec = tuple(shape_vec)
-                            if tup_vec in shapes:
-                                feat_pos = offset + shapes[tup_vec] + num_words + num_positions + num_clusters + num_suffixes + 1
-                                token_feat = str(feat_pos) + feat_val
-                                token_feats.append(token_feat)
-                            else:
-                                feat_pos = offset + shapes[unknown] + num_words + num_positions + num_clusters + num_suffixes + 1
-                                token_feat = str(feat_pos) + feat_val
-                                token_feats.append(token_feat)
+                            feat_pos = offset + shapes[tup_vec] + num_words + num_positions + num_clusters + num_suffixes + 1
+                            token_feat = str(feat_pos) + feat_val
+                            token_feats.append(token_feat)
                         if fire_tagger:
                             current_tag = tagged_sent[idx][1]
                             feat_pos = offset + tags[current_tag] + num_shapes + num_words + num_positions + num_clusters + num_suffixes + 1
@@ -404,38 +405,33 @@ if __name__ == '__main__':
                                 token_feats.append(char_feat)
 
                     else:
+                        unknown_word = None
+                        unknown_position = None
+                        unknown_cluster = None
+                        unknown_suffix = None
+                        unknown_shape = None
+                        unknown_tag = None
+                        # not handling unknown embeddings because they don't have indices
                         if fire_words:
                             feat_pos = offset + words[unknown] + 1
                             unknown_word = str(feat_pos) + feat_val
-                        else:
-                            unknown_word = None
                         if fire_positions:
                             feat_pos = offset + positions[unknown] + num_words + 1
                             unknown_position = str(feat_pos) + feat_val
-                        else:
-                            unknown_position = None
                         if fire_clusters:
                             feat_pos = offset + clusters['<RARE>'] + num_words + num_positions + 1
                             unknown_cluster = str(feat_pos) + feat_val
-                        else:
-                            unknown_cluster = None
                         if fire_suffixes:
                             feat_pos = offset + suffixes[unknown] + num_words + num_positions + num_clusters + 1
                             unknown_suffix = str(feat_pos) + feat_val
-                        else:
-                            unknown_suffix = None
                         if fire_shapes:
                             feat_pos = offset + shapes[unknown] + num_words + num_positions + num_clusters + num_suffixes + 1
                             unknown_shape = str(feat_pos) + feat_val
-                        else:
-                            unknown_shape = None
                         if fire_tagger:
                             feat_pos = offset + tags['NN'] + num_shapes + num_words + num_positions + num_clusters + num_suffixes + 1
                             unknown_tag = str(feat_pos) + feat_val
-                        else:
-                            unknown_tag = None
-                        token_feats = [unknown_word, unknown_position, unknown_cluster,
-                                       unknown_suffix, unknown_shape, unknown_tag]
+                        token_feats = [unknown_word, unknown_position, unknown_cluster, unknown_suffix, unknown_shape,
+                                       unknown_tag]
 
                     sentence_feats += token_feats
 

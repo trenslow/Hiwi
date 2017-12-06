@@ -29,4 +29,4 @@ cd ${mainDir}
 echo "---adding labels to LibLinear output---"
 python3 addLabels10.py ${s} ${c} ${e}
 echo "---scoring model---"
-perl ${semEvalScorerDir}"/semeval2010_task8_scorer-v1.2.pl" ${modelDir}${out_name}"_predictions_with_labels.txt" answer_key.txt
+perl ${semEvalScorerDir}"/semeval2010_task8_scorer-v1.2.pl" ${modelDir}${out_name}"_predictions_with_labels.txt" answer_key10.txt

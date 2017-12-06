@@ -7,6 +7,7 @@ if fire_tagger:
     from nltk.tag import pos_tag_sents
 import string
 import unicodedata
+import pandas as pd
 
 
 def read_record(file):
@@ -53,14 +54,20 @@ def read_clusters(file):
 
 def read_embeddings(file):
     embs = {}
-    with open(file) as f:
-        for line in f:
-            split = line.strip().split()
-            if len(split) == 2:
-                continue
-            else:
-                word, vec = split[0], [float(val) for val in split[1:]]
-                embs[word] = vec
+    if '.h5' in file:
+        df = pd.read_hdf(file)
+        for lab, vec in df.iterrows():
+            if '/c/en/' in lab:
+                embs[lab[6:]] = [float(val) for val in vec]
+    else:
+        with open(file) as f:
+            for line in f:
+                split = line.strip().split()
+                if len(split) == 2:
+                    continue
+                else:
+                    word, vec = split[0], [float(val) for val in split[1:]]
+                    embs[word] = vec
     return embs
 
 
@@ -252,6 +259,7 @@ if __name__ == '__main__':
         num_tags = len(tags)
     if fire_embeddings:
         embeddings = read_embeddings(path_to_feat_folder + 'numberbatch-en.txt')
+        # embeddings = read_embeddings(path_to_feat_folder + 'mini.h5')  # slim file for dev purposes
         num_embeddings = len(embeddings['0'])
     if fire_char_embeddings:
         char_embeddings = read_embeddings(path_to_feat_folder + 'numberbatch-en-char.txt')
@@ -281,7 +289,8 @@ if __name__ == '__main__':
         norm_sents = [normalize(M, sentence, avg_M) for sentence in sentences_and_indexes]
         if fire_tagger:
             tagged_sents = pos_tag_sents([[w if w is not None else 'none' for w in sent] for sent in norm_sents])
-
+        else:
+            tagged_sents = None
         if max_suffix_size == 0:
             word_lengths = [len(w) for w in words]
             suffix_length = sum(word_lengths) // num_words
@@ -297,7 +306,7 @@ if __name__ == '__main__':
                 sentence_feats = []
                 current_label = sentence_labels[i]
                 norm_sent = norm_sents[i]
-                if fire_tagger:
+                if tagged_sents:
                     tagged_sent = tagged_sents[i]
                 K = 2 * W + M
                 pos_vecs = vectorize(norm_sent, sentence[1], sentence[2], 2 * K + 2 + 1)

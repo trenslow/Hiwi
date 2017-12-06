@@ -65,10 +65,10 @@ def collect_texts(dat_file):
     return txt_idx, ent_idx
 
 
-def create_record(txts, rel_idx, ent_idx, rec_file):
+def create_record(txts, rel_idx, ent_idx, test_idx, train_out, test_out):
     uniq_wrds = set()
     count = 0
-    with open(rec_file, 'w+') as rec:
+    with open(train_out, 'w+') as rec_train, open(test_out, 'w+') as rec_test:
         for abs_id, rels in rel_idx.items():
             for rel, info in rels.items():
                 count += 1
@@ -88,9 +88,12 @@ def create_record(txts, rel_idx, ent_idx, rec_file):
                 uniq_wrds.update(tokens_with_punc)
                 rel = info[0] + ' REVERSE' if info[1] else info[0]
                 to_write = tuple([count, tokens_with_punc, e1, e2, rel, s_len])
-                rec.write(str(to_write) + '\n')
+                if abs_id in test_idx['1.1']:
+                    rec_test.write(str(to_write) + '\n')
+                else:
+                    rec_train.write(str(to_write) + '\n')
 
-    return uniq_wrds, list(itertools.product(range(2), repeat=7))
+    return uniq_wrds
 
 
 def merge_punc(tkn_lst):
@@ -112,21 +115,41 @@ def index_vocab(voc_file, uniq_wrds):
             voc.write(wrd + '\n')
 
 
-def index_shapes(shp_file, uniq_shps):
+def index_shapes(shp_file):
+    uniq_shps = list(itertools.product(range(2), repeat=7))
     with open(shp_file, 'w+') as shps:
         for shp in uniq_shps:
             shps.write(str(shp) + '\n')
 
 
+def create_testing_index(file):
+    idx = {}
+    with open(file) as f:
+        for line in f:
+            split = line.strip().split()
+            if len(split) == 2:
+                task, abs = split
+            if task not in idx:
+                idx[task] = {abs}
+            else:
+                idx[task].add(abs)
+
+    return idx
+
+
 if __name__ == '__main__':
     path_to_relations = '1.1.relations.txt'
     path_to_data = '1.1.text.xml'
-    record_output = 'features/record.txt'
+    train_record_output = 'features/record_train.txt'
+    test_record_output = 'features/record_test.txt'
     vocab_output = 'features/vocab.txt'
     shapes_output = 'features/shapes.txt'
-    relation_output = 'features/relations.txt'
+    relation_output = 'features/labels.txt'
+    eval_file = 'training-eval.txt'
     relation_index = create_relation_index(path_to_relations, relation_output)
     text_index, entity_index = collect_texts(path_to_data)
-    unique_words, unique_shapes = create_record(text_index, relation_index, entity_index, record_output)
+    testing_abs_index = create_testing_index(eval_file)
+    unique_words = create_record(text_index, relation_index, entity_index,
+                                 testing_abs_index, train_record_output, test_record_output)
     index_vocab(vocab_output, unique_words)
-    index_shapes(shapes_output, unique_shapes)
+    index_shapes(shapes_output)

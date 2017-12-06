@@ -28,7 +28,7 @@ if __name__ == '__main__':
         for line in lines:
             out.write('\t'.join(str(el) for el in line) + '\n')
 
-    with open(path_to_full_test) as test, open('answer_key.txt', 'w+') as key:
+    with open(path_to_full_test) as test, open('answer_key10.txt', 'w+') as key:
         correct_labels = itertools.islice(test, 1, None, 4)
         for i, label in enumerate(correct_labels):
             key.write(str(i) + '\t' + label)

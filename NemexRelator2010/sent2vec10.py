@@ -46,7 +46,7 @@ def read_clusters(file):
             if 'marlin' in file:
                 clusts[wrd] = int(clust)
             elif 'brown' in file:
-                clusts[wrd] = int(clust, 2)
+                clusts[wrd] = int(clust, 2)  # converts binary to int
     if 'brown' in file:
         clusts['<RARE>'] = max(clusts.values()) + 1
     return clusts
@@ -54,20 +54,14 @@ def read_clusters(file):
 
 def read_embeddings(file):
     embs = {}
-    if '.h5' in file:
-        df = pd.read_hdf(file)
-        for lab, vec in df.iterrows():
-            if '/c/en/' in lab:
-                embs[lab[6:]] = [float(val) for val in vec]
-    else:
-        with open(file) as f:
-            for line in f:
-                split = line.strip().split()
-                if len(split) == 2:
-                    continue
-                else:
-                    word, vec = split[0], [float(val) for val in split[1:]]
-                    embs[word] = vec
+    with open(file) as f:
+        for line in f:
+            split = line.strip().split()
+            if len(split) == 2:
+                continue
+            else:
+                word, vec = split[0], [float(val) for val in split[1:]]
+                embs[word] = vec
     return embs
 
 
@@ -259,11 +253,10 @@ if __name__ == '__main__':
         num_tags = len(tags)
     if fire_embeddings:
         embeddings = read_embeddings(path_to_feat_folder + 'numberbatch-en.txt')
-        # embeddings = read_embeddings(path_to_feat_folder + 'mini.h5')  # slim file for dev purposes
-        num_embeddings = len(embeddings['0'])
+        num_embeddings = len(list(embeddings.values())[0])
     if fire_char_embeddings:
         char_embeddings = read_embeddings(path_to_feat_folder + 'numberbatch-en-char.txt')
-        char_emb_dims = len(char_embeddings['0'])
+        char_emb_dims = len(list(char_embeddings.values())[0])
     if fire_unicode_cats:
         unicode_categories = read_cats(path_to_feat_folder + 'categories.txt')
         cat_dims = len(unicode_categories)

@@ -1,7 +1,5 @@
 import ast
-# from sklearn.model_selection import train_test_split
 from parameters18 import *
-import pandas as pd
 import re
 
 
@@ -30,21 +28,14 @@ def read_feat_file(file, unkwn):
 
 def read_embeddings(file):
     embs = {}
-    if '.h5' in file:
-        df = pd.read_hdf(file)
-        for lab, vec in df.iterrows():
-            if '/c/en/' in lab:
-                embs[lab[6:]] = [float(val) for val in vec]
-    else:
-        with open(file) as f:
-            for line in f:
-                split = line.strip().split()
-                if len(split) == 2:
-                    continue
-                else:
-                    word, vec = split[0], [float(val) for val in split[1:]]
-                    embs[word] = vec
-
+    with open(file) as f:
+        for line in f:
+            split = line.strip().split()
+            if len(split) == 2:
+                continue
+            else:
+                word, vec = split[0], [float(val) for val in split[1:]]
+                embs[word] = vec
     return embs
 
 
@@ -60,14 +51,13 @@ def pad_middle(sent, max_len):
 if __name__ == '__main__':
     records_and_outs = [(path_to_feat_folder + 'record_train.txt', path_to_model_folder + 'libLinearInput_train.txt'),
                         (path_to_feat_folder + 'record_test.txt', path_to_model_folder + 'libLinearInput_test.txt')]
-    record_file = 'features/record.txt'
-    vocab_file = 'features/vocab.txt'
-    shapes_file = 'features/shapes.txt'
-    relation_file = 'features/labels.txt'
-    word_embds_file = '/home/tyler/PycharmProjects/Hiwi/NemexRelator2010/features/numberbatch-en.txt'
-    # word_embds_file = '/home/tyler/PycharmProjects/Hiwi/NemexRelator2010/features/mini.h5'  # slim file for dev purposes
+    record_file = path_to_feat_folder + 'record.txt'
+    vocab_file = path_to_feat_folder + 'vocab.txt'
+    shapes_file = path_to_feat_folder + 'shapes.txt'
+    relation_file = path_to_feat_folder + 'labels.txt'
+    # word_embds_file = '/home/tyler/PycharmProjects/Hiwi/NemexRelator2010/features/numberbatch-en.txt'
+    word_embds_file = path_to_feat_folder + 'abstracts-dblp-semeval2018.wcs.txt'  # embds trained on DBLP abstract corpus
     unknown = 'UNK'
-    # record_train, record_test = train_test_split(records, test_size=0.1)
     num_words = 0
     num_shapes = 0
     num_embeddings = 0
@@ -79,7 +69,7 @@ if __name__ == '__main__':
         num_shapes = len(shapes)
     if fire_embeddings:
         embeddings = read_embeddings(word_embds_file)
-        num_embeddings = len(embeddings['0'])
+        num_embeddings = len(list(embeddings.values())[0])
 
     relations = read_feat_file(relation_file, unknown)
     len_token_vec = num_words + num_shapes + num_embeddings

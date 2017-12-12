@@ -4,6 +4,10 @@ except ImportError:
     import xml.etree.ElementTree as ET
 import re
 import itertools
+from parameters18 import *
+from sklearn.model_selection import train_test_split
+import sys
+
 
 
 def create_relation_index(rel_path, rel_out):
@@ -65,33 +69,46 @@ def collect_texts(dat_file):
     return txt_idx, ent_idx
 
 
-def create_record(txts, rel_idx, ent_idx, test_idx, train_out, test_out):
+def create_record(txts, rel_idx, ent_idx, test_idx, train_out, test_out, cross_val):
     uniq_wrds = set()
-    count = 0
-    with open(train_out, 'w+') as rec_train, open(test_out, 'w+') as rec_test:
-        for abs_id, rels in rel_idx.items():
-            for rel, info in rels.items():
-                count += 1
-                e1, e2 = rel
-                rel_patt = e1 + r'(.*?)' + e2
-                rel_text_between = re.findall(rel_patt, txts[abs_id])[0]
-                rel_text_full = e1 + rel_text_between + e2
-                tokens = rel_text_full.split()
-                for i, token in enumerate(tokens):  # replace entity ids with actual entities
-                    if token in ent_idx:
-                        if i == 0 or i == len(tokens)-1:  # if entity in relation, join with underscores if multi-word
-                            tokens[i] = '_'.join(toke for toke in ent_idx[token].split())
-                        else:
-                            tokens[i] = ent_idx[token]
-                tokens_with_punc = list(merge_punc(tokens))
-                s_len = len(tokens_with_punc)
-                uniq_wrds.update(tokens_with_punc)
-                rel = info[0] + ' REVERSE' if info[1] else info[0]
-                to_write = tuple([count, tokens_with_punc, e1, e2, rel, s_len])
-                if abs_id in test_idx['1.1']:
-                    rec_test.write(str(to_write) + '\n')
-                else:
-                    rec_train.write(str(to_write) + '\n')
+    records = []
+    record_test, record_train = [], []
+
+    for abs_id, rels in rel_idx.items():
+        for rel, info in rels.items():
+            e1, e2 = rel
+            rel_patt = e1 + r'(.*?)' + e2
+            rel_text_between = re.findall(rel_patt, txts[abs_id])[0]
+            rel_text_full = e1 + rel_text_between + e2
+            tokens = rel_text_full.split()
+            for i, token in enumerate(tokens):  # replace entity ids with actual entities
+                if token in ent_idx:
+                    if i == 0 or i == len(tokens)-1:  # if entity in relation, join with underscores if multi-word
+                        tokens[i] = '_'.join(toke for toke in ent_idx[token].split())
+                    else:
+                        tokens[i] = ent_idx[token]
+            tokens_with_punc = list(merge_punc(tokens))
+            s_len = len(tokens_with_punc)
+            uniq_wrds.update(tokens_with_punc)
+            rel = info[0] + ' REVERSE' if info[1] else info[0]
+            records.append(tuple([abs_id, tokens_with_punc, e1, e2, rel, s_len]))
+
+    if cross_val:
+        record_train, record_test = train_test_split(records, test_size=0.1)
+    else:
+        for rec in records:
+            if rec[0] in test_idx['1.1']:  # code used for SemEval's test set in training phase
+                record_test.append(rec)
+            else:
+                record_train.append(rec)
+
+    with open(train_out, 'w+') as rec_train:
+        for rec in record_train:
+            rec_train.write(str(rec) + '\n')
+
+    with open(test_out, 'w+') as rec_test:
+        for rec in record_test:
+            rec_test.write(str(rec) + '\n')
 
     return uniq_wrds
 
@@ -116,7 +133,7 @@ def index_vocab(voc_file, uniq_wrds):
 
 
 def index_shapes(shp_file):
-    uniq_shps = list(itertools.product(range(2), repeat=7))
+    uniq_shps = list(itertools.product(range(2), repeat=7))  # repeat number should correspond to dims of shape vector
     with open(shp_file, 'w+') as shps:
         for shp in uniq_shps:
             shps.write(str(shp) + '\n')
@@ -138,18 +155,22 @@ def create_testing_index(file):
 
 
 if __name__ == '__main__':
+    if len(sys.argv) != 2:
+        print('featureExtraction18.py script requires 1 argument')
+        exit(1)
+    cross_validate = sys.argv[1]
     path_to_relations = '1.1.relations.txt'
     path_to_data = '1.1.text.xml'
-    train_record_output = 'features/record_train.txt'
-    test_record_output = 'features/record_test.txt'
-    vocab_output = 'features/vocab.txt'
-    shapes_output = 'features/shapes.txt'
-    relation_output = 'features/labels.txt'
+    train_record_output = path_to_feat_folder + 'record_train.txt'
+    test_record_output = path_to_feat_folder + 'record_test.txt'
+    vocab_output = path_to_feat_folder + 'vocab.txt'
+    shapes_output = path_to_feat_folder + 'shapes.txt'
+    relation_output = path_to_feat_folder + 'labels.txt'
     eval_file = 'training-eval.txt'
     relation_index = create_relation_index(path_to_relations, relation_output)
     text_index, entity_index = collect_texts(path_to_data)
     testing_abs_index = create_testing_index(eval_file)
     unique_words = create_record(text_index, relation_index, entity_index,
-                                 testing_abs_index, train_record_output, test_record_output)
+                                 testing_abs_index, train_record_output, test_record_output, bool(cross_validate))
     index_vocab(vocab_output, unique_words)
     index_shapes(shapes_output)

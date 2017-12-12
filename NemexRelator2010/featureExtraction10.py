@@ -132,7 +132,7 @@ def learn_shapes(shp_file, sent_index):
     #         if tup_vec not in unique_shapes:
     #             unique_shapes.append(tup_vec)
 
-    # currently keeping the above code in case until testing can be done
+    # currently keeping the above code until testing can be done
     unique_shapes = list(itertools.product(range(2), repeat=7))  # change repeat value for how many shape features used
     with open(shp_file, 'w+') as shapes:
         for shape in unique_shapes:

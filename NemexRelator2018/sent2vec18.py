@@ -1,6 +1,7 @@
 import ast
 from parameters18 import *
 import re
+import string
 
 
 def read_record(file):
@@ -39,6 +40,24 @@ def read_embeddings(file):
     return embs
 
 
+def read_clusters(file):
+    clusts = {}
+    with open(file) as f:
+        for line in f:
+            split = line.strip().split()
+            if len(split) == 2:
+                wrd, clust = split
+            else:
+                continue
+            if 'marlin' in file:
+                clusts[wrd] = int(clust)
+            elif 'brown' in file:
+                clusts[wrd] = int(clust, 2)  # converts binary to int
+    if 'brown' in file:
+        clusts['<RARE>'] = max(clusts.values()) + 1
+    return clusts
+
+
 def pad_middle(sent, max_len):
     for i in range(max_len-len(sent)):
         if before_e2:
@@ -57,13 +76,19 @@ if __name__ == '__main__':
     relation_file = path_to_feat_folder + 'labels.txt'
     # word_embds_file = '/home/tyler/PycharmProjects/Hiwi/NemexRelator2010/features/numberbatch-en.txt'
     word_embds_file = path_to_feat_folder + 'abstracts-dblp-semeval2018.wcs.txt'  # embds trained on DBLP abstract corpus
+    cluster_file = path_to_feat_folder + 'dblp_marlin_clusters_1000'
     unknown = 'UNK'
     num_words = 0
     num_shapes = 0
     num_embeddings = 0
+    num_clusters = 0
+
     if fire_words:
         words = read_feat_file(vocab_file, unknown)
         num_words = len(words)
+    if fire_clusters:
+        clusters = read_clusters(cluster_file)
+        num_clusters = max(clusters.values()) + 1
     if fire_shapes:
         shapes = read_shape_file(shapes_file, unknown)
         num_shapes = len(shapes)
@@ -72,7 +97,7 @@ if __name__ == '__main__':
         num_embeddings = len(list(embeddings.values())[0])
 
     relations = read_feat_file(relation_file, unknown)
-    len_token_vec = num_words + num_shapes + num_embeddings
+    len_token_vec = num_words + num_clusters + num_shapes + num_embeddings
     feat_val = ':1.0'
 
     for record_file, out_file in records_and_outs:
@@ -98,6 +123,14 @@ if __name__ == '__main__':
                                 feat_pos = offset + words[unknown] + 1
                             token_feat = str(feat_pos) + feat_val
                             token_feats.append(token_feat)
+                        if fire_clusters:
+                            if token in clusters:
+                                feat_pos = offset + clusters[token] + num_words + 1
+                            else:
+                                feat_pos = offset + clusters['<RARE>'] + num_words + 1
+
+                            token_feat = str(feat_pos) + feat_val
+                            token_feats.append(token_feat)
                         if fire_shapes:
                             shape_vec = [0, 0, 0, 0, 0, 0, 0]
                             if any(char.isupper() for char in token):
@@ -115,28 +148,30 @@ if __name__ == '__main__':
                             if '"' in token:
                                 shape_vec[6] = 1
                             tup_vec = tuple(shape_vec)
-                            feat_pos = offset + shapes[tup_vec] + num_words + 1
+                            feat_pos = offset + shapes[tup_vec] + num_clusters + num_words + 1
                             token_feat = str(feat_pos) + feat_val
                             token_feats.append(token_feat)
                         if fire_embeddings:
-                            temp_token = ''.join('#' if char.isdigit() else char for char in token)
-                            temp_token = ''.join('_' if char == '-' else char for char in temp_token)
-                            lowered = temp_token.lower()
+                            lowered = token.lower()
                             if lowered in embeddings:
                                 vec = embeddings[lowered]
-                                token_feats += [str(offset + n + num_shapes + num_words + 1) + ':' + str(vec[n])
-                                                for n in range(num_embeddings)]
+                                token_feats += [str(offset + n + num_shapes + num_clusters + num_words + 1) + ':' +
+                                                str(vec[n]) for n in range(num_embeddings)]
                     else:
                         unknown_word = None
                         unknown_shape = None
+                        unknown_cluster = None
                         # not handling unknown embeddings because they don't have indices
                         if fire_words:
                             feat_pos = offset + words[unknown] + 1
                             unknown_word = str(feat_pos) + feat_val
+                        if fire_clusters:
+                            feat_pos = offset + clusters['<RARE>'] + num_words + 1
+                            unknown_cluster = str(feat_pos) + feat_val
                         if fire_shapes:
-                            feat_pos = offset + shapes[unknown] + num_words + 1
+                            feat_pos = offset + shapes[unknown] + num_clusters + num_words + 1
                             unknown_shape = str(feat_pos) + feat_val
-                        token_feats = [unknown_word, unknown_shape]
+                        token_feats = [unknown_word, unknown_cluster, unknown_shape]
 
                     sentence_feats += token_feats
                 lib_out.write(str(relations[current_relation]) + ' ')

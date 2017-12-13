@@ -93,14 +93,14 @@ def create_record(txts, rel_idx, ent_idx, test_idx, train_out, test_out, cross_v
             rel = info[0] + ' REVERSE' if info[1] else info[0]
             records.append(tuple([abs_id, tokens_with_punc, e1, e2, rel, s_len]))
 
-    if cross_val:
-        record_train, record_test = train_test_split(records, test_size=0.1)
-    else:
+    if not cross_val:
         for rec in records:
             if rec[0] in test_idx['1.1']:  # code used for SemEval's test set in training phase
                 record_test.append(rec)
             else:
                 record_train.append(rec)
+    else:
+        record_train, record_test = train_test_split(records, test_size=0.1)
 
     with open(train_out, 'w+') as rec_train:
         for rec in record_train:
@@ -158,7 +158,7 @@ if __name__ == '__main__':
     if len(sys.argv) != 2:
         print('featureExtraction18.py script requires 1 argument')
         exit(1)
-    cross_validate = sys.argv[1]
+    cross_validate = False if sys.argv[1] == 'false' else True
     path_to_relations = '1.1.relations.txt'
     path_to_data = '1.1.text.xml'
     train_record_output = path_to_feat_folder + 'record_train.txt'
@@ -171,6 +171,6 @@ if __name__ == '__main__':
     text_index, entity_index = collect_texts(path_to_data)
     testing_abs_index = create_testing_index(eval_file)
     unique_words = create_record(text_index, relation_index, entity_index,
-                                 testing_abs_index, train_record_output, test_record_output, bool(cross_validate))
+                                 testing_abs_index, train_record_output, test_record_output, cross_validate)
     index_vocab(vocab_output, unique_words)
     index_shapes(shapes_output)

@@ -23,8 +23,10 @@ modelDir=${mainDir}"/models/"
 libLinDir="/home/tyler/liblinear-2.11"
 
 resultsDir=${mainDir}"/results/"
+if [ ${crossVal} = true ]; then
 echo "---clearing results directory---"
 rm results/results*.txt
+fi
 
 for i in $(seq 1 ${k});
 do

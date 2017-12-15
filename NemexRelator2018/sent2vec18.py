@@ -35,7 +35,7 @@ def read_embeddings(file):
             if len(split) == 2:
                 continue
             else:
-                word, vec = split[0], [float(val) for val in split[1:]]
+                word, vec = ' '.join(split[:-300]), [float(val) for val in split[-300:]]  # -300 due to # of dims
                 embs[word] = vec
     return embs
 
@@ -74,9 +74,10 @@ if __name__ == '__main__':
     vocab_file = path_to_feat_folder + 'vocab.txt'
     shapes_file = path_to_feat_folder + 'shapes.txt'
     relation_file = path_to_feat_folder + 'labels.txt'
-    # word_embds_file = '/home/tyler/PycharmProjects/Hiwi/NemexRelator2010/features/numberbatch-en.txt'
     word_embds_file = path_to_feat_folder + 'abstracts-dblp-semeval2018.wcs.txt'  # embds trained on DBLP abstract corpus
-    cluster_file = path_to_feat_folder + 'dblp_marlin_clusters_1000'
+    # word_embds_file = path_to_feat_folder + 'acm_abstracts.wcs.txt'
+    # cluster_file = path_to_feat_folder + 'dblp_marlin_clusters_1000'
+    cluster_file = path_to_feat_folder + 'acm_marlin_clusters_1000'
     unknown = 'UNK'
     num_words = 0
     num_shapes = 0

@@ -7,6 +7,7 @@ import itertools
 from parameters18 import *
 from sklearn.model_selection import train_test_split
 import sys
+import string
 
 
 
@@ -43,9 +44,11 @@ def collect_texts(dat_file):
     tree = ET.parse(dat_file)
     doc = tree.getroot()
 
+    # out = open('1.1.text.plain', 'w+')
     for txt in doc:  # looping over each abstract in entire xml doc
         abs_id = txt.get('id')
         whole_abs_text = ''
+        # out_text = ''
         for child in txt:  # children are title and abstract, H93-1076 has entities in title, but no relation
             for el in child.iter():
                 tag = el.tag
@@ -55,16 +58,24 @@ def collect_texts(dat_file):
                     abs_text = el.text
                     if abs_text:
                         whole_abs_text += abs_text
+                        # out_text += abs_text
                 elif tag == 'entity':
                     ent_id = el.get('id')
                     ent_text = el.text
                     ent_idx[ent_id] = ent_text  # collect id to entity mapping to be used later
                     ent_tail = el.tail
                     if ent_tail:
-                        whole_abs_text += ent_id + ' ' + ent_tail
+                        if ent_tail[0] == ' ':
+                            whole_abs_text += ent_id + ent_tail
+                            # out_text += '_'.join(ent_text.split()) + ent_tail
+                        else:
+                            whole_abs_text += ent_id + ' ' + ent_tail
+                            # out_text += '_'.join(ent_text.split()) + ' ' + ent_tail
                     else:
                         whole_abs_text += ent_id
+                        # out_text += ent_id
         txt_idx[abs_id] = whole_abs_text
+        # out.write(out_text + '\n')
 
     return txt_idx, ent_idx
 
@@ -100,7 +111,7 @@ def create_record(txts, rel_idx, ent_idx, test_idx, train_out, test_out, cross_v
             else:
                 record_train.append(rec)
     else:
-        record_train, record_test = train_test_split(records, test_size=0.1)
+        record_train, record_test = train_test_split(records, test_size=0.12785)  # test size chosen to have same test instances as given by SemEval
 
     with open(train_out, 'w+') as rec_train:
         for rec in record_train:

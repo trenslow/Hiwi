@@ -74,7 +74,7 @@ if __name__ == '__main__':
     vocab_file = path_to_feat_folder + 'vocab.txt'
     shapes_file = path_to_feat_folder + 'shapes.txt'
     relation_file = path_to_feat_folder + 'labels.txt'
-    word_embds_file = path_to_feat_folder + 'abstracts-dblp-semeval2018.wcs.txt'  # embds trained on DBLP abstract corpus
+    word_embds_file = path_to_feat_folder + 'abstracts-dblp-semeval2018.wcs.txt'  # smaller embds for dev
     # word_embds_file = path_to_feat_folder + 'acm_abstracts.wcs.txt'
     # cluster_file = path_to_feat_folder + 'dblp_marlin_clusters_1000'
     cluster_file = path_to_feat_folder + 'acm_marlin_clusters_1000'

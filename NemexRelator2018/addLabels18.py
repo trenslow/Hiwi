@@ -24,6 +24,8 @@ if __name__ == '__main__':
         for i, line in enumerate(test):
             rec = ast.literal_eval(line)
             e1, e2, lab = rec[2:5]
+            # e1_id, e2_id = int(e1.split('.')[-1]), int(e2.split('.')[-1])
+            # assert e1_id < e2_id
             test_map[i] = (e1, e2)
             lab_split = lab.split()
             if len(lab_split) == 2:

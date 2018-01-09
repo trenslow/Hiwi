@@ -1,7 +1,7 @@
 import ast
 from parameters18 import *
 import re
-import string
+import sys
 
 
 def read_record(file):
@@ -68,8 +68,13 @@ def pad_middle(sent, max_len):
 
 
 if __name__ == '__main__':
-    records_and_outs = [(path_to_feat_folder + 'record_train.txt', path_to_model_folder + 'libLinearInput_train.txt'),
-                        (path_to_feat_folder + 'record_test.txt', path_to_model_folder + 'libLinearInput_test.txt')]
+    which_set = sys.argv[1]
+    if which_set == '0':
+        which_set = ''
+    which_record_train = 'record_train' + which_set + '.txt'
+    which_record_test = 'record_test' + which_set + '.txt'
+    records_and_outs = [(path_to_feat_folder + which_record_train, path_to_model_folder + 'libLinearInput_train.txt'),
+                        (path_to_feat_folder + which_record_test, path_to_model_folder + 'libLinearInput_test.txt')]
     record_file = path_to_feat_folder + 'record.txt'
     vocab_file = path_to_feat_folder + 'vocab.txt'
     shapes_file = path_to_feat_folder + 'shapes.txt'
@@ -102,13 +107,14 @@ if __name__ == '__main__':
     feat_val = ':1.0'
 
     for record_file, out_file in records_and_outs:
-        which = re.findall(r'record_(.*?).txt', record_file)[0]
-        print('creating LibLinear ' + which + ' file...')
+        records = read_record(record_file)
+        if 'train' in record_file:
+            max_rel_length = max([len(rec[1]) for rec in records])
+            print('creating training file...')
+        elif 'test' in record_file:
+            print('creating test file...')
 
         with open(out_file, 'w+') as lib_out:
-            records = read_record(record_file)
-            if 'train' in record_file:
-                max_rel_length = max([len(rec[1]) for rec in records])
             for rec in records:
                 sentence_feats = []
                 current_relation = rec[4]

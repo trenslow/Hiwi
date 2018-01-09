@@ -12,11 +12,12 @@ def read_labels(file):
 
 
 if __name__ == '__main__':
-    s, c, e = [''.join(char for char in arg if char != '.') for arg in sys.argv[1:]]
-    lib_linear_params = 's' + s + 'c' + c + 'e' + e
-    path_to_predictions = path_to_model_folder + lib_linear_params + '_predictions.txt'
+    which_set = sys.argv[1]
+    if which_set == '0':
+        which_set = ''
+    path_to_predictions = path_to_model_folder + 'predictions.txt'
     path_to_labels = path_to_feat_folder + 'labels.txt'
-    path_to_test = path_to_feat_folder + 'record_test.txt'
+    path_to_test = path_to_feat_folder + 'record_test' + which_set + '.txt'
     labels = read_labels(path_to_labels)
 
     test_map = {}  # for mapping test instances to their corresponding entity pair
@@ -33,7 +34,7 @@ if __name__ == '__main__':
             else:
                 key.write(lab_split[0] + '(' + e1 + ',' + e2 + ')' + '\n')
 
-    with open(path_to_predictions) as predicts, open(path_to_model_folder + lib_linear_params + '_predictions_with_labels.txt', 'w+') as out:
+    with open(path_to_predictions) as predicts, open(path_to_model_folder + 'predictions_with_labels.txt', 'w+') as out:
         # out.write('1.1' + '\n')  # to specify which subtask we're participating in
         for i, line in enumerate(predicts):
             e1, e2 = test_map[i]

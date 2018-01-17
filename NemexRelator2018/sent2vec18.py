@@ -59,12 +59,13 @@ def read_clusters(file):
 
 
 def pad_middle(sent, max_len):
-    for i in range(max_len-len(sent)):
-        if before_e2:
-            sent.insert(-1, None)
-        else:
-            sent.insert(1, None)
-    return sent
+    num_pads = max_len-len(sent)
+    padding = num_pads * [None]
+    if before_e2:
+        return sent[:-1] + padding + [sent[-1]]
+    else:
+        return [sent[0]] + padding + sent[1:]
+
 
 
 if __name__ == '__main__':
@@ -79,6 +80,8 @@ if __name__ == '__main__':
     vocab_file = path_to_feat_folder + 'vocab.txt'
     shapes_file = path_to_feat_folder + 'shapes.txt'
     relation_file = path_to_feat_folder + 'labels.txt'
+    e1_context_file = path_to_feat_folder + 'e1_context.txt'
+    e2_context_file = path_to_feat_folder + 'e2_context.txt'
     word_embds_file = path_to_feat_folder + 'abstracts-dblp-semeval2018.wcs.txt'  # smaller embds for dev
     # word_embds_file = path_to_feat_folder + 'acm_abstracts.wcs.txt'
     # cluster_file = path_to_feat_folder + 'dblp_marlin_clusters_1000'
@@ -88,6 +91,8 @@ if __name__ == '__main__':
     num_shapes = 0
     num_embeddings = 0
     num_clusters = 0
+    num_e1_contexts = 0
+    num_e2_contexts = 0
 
     if fire_words:
         words = read_feat_file(vocab_file, unknown)
@@ -101,6 +106,12 @@ if __name__ == '__main__':
     if fire_embeddings:
         embeddings = read_embeddings(word_embds_file)
         num_embeddings = len(list(embeddings.values())[0])
+    if fire_e1_context:
+        e1_contexts = read_feat_file(e1_context_file, unknown)
+        num_e1_contexts = len(e1_contexts)
+    if fire_e2_context:
+        e2_contexts = read_feat_file(e2_context_file, unknown)
+        num_e2_contexts = len(e2_contexts)
 
     relations = read_feat_file(relation_file, unknown)
     len_token_vec = num_words + num_clusters + num_shapes + num_embeddings
@@ -118,7 +129,8 @@ if __name__ == '__main__':
             for rec in records:
                 sentence_feats = []
                 current_relation = rec[4]
-                norm_sentence = pad_middle(rec[1], max_rel_length)
+                sentence = rec[1]
+                norm_sentence = pad_middle(sentence, max_rel_length)
                 for i, token in enumerate(norm_sentence):
                     offset = i * len_token_vec
                     token_feats = []
@@ -181,5 +193,30 @@ if __name__ == '__main__':
                         token_feats = [unknown_word, unknown_cluster, unknown_shape]
 
                     sentence_feats += token_feats
+                if len(sentence) > 2:
+                    sent_offset = len(norm_sentence) * len_token_vec
+                    e1_context = sentence[1]
+                    e2_context = sentence[-2]
+
+                    if fire_e1_context and fire_e2_context:
+                        e1_context_idx = e1_contexts[e1_context] if e1_context in e1_contexts else e1_contexts[unknown]
+                        e2_context_idx = e2_contexts[e2_context] if e2_context in e2_contexts else e2_contexts[unknown]
+                        e1_pos = sent_offset + e1_context_idx + 1
+                        e2_pos = sent_offset + num_e1_contexts + e2_context_idx + 1
+                        e1_feat = str(e1_pos) + feat_val
+                        e2_feat = str(e2_pos) + feat_val
+                        sentence_feats.append(e1_feat)
+                        sentence_feats.append(e2_feat)
+                    elif fire_e1_context:
+                        e1_context_idx = e1_contexts[e1_context] if e1_context in e1_contexts else e1_contexts[unknown]
+                        e1_pos = sent_offset + e1_context_idx + 1
+                        e1_feat = str(e1_pos) + feat_val
+                        sentence_feats.append(e1_feat)
+                    elif fire_e2_context:
+                        e2_context_idx = e2_contexts[e2_context] if e2_context in e2_contexts else e2_contexts[unknown]
+                        e2_pos = sent_offset + e2_context_idx + 1
+                        e2_feat = str(e2_pos) + feat_val
+                        sentence_feats.append(e2_feat)
+
                 lib_out.write(str(relations[current_relation]) + ' ')
                 lib_out.write(' '.join(i for i in sentence_feats if i) + '\n')

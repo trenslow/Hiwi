@@ -1,8 +1,8 @@
 #!/bin/bash
 
-s=4
+s=1
 c=0.1
-e=0.3
+e=0.1
 out_name="s${s//.}c${c//.}e${e//.}"
 mainDir=$(pwd)
 featDir=${mainDir}"/features/"
@@ -40,7 +40,7 @@ if [ ${k} = "0" ]; then
     python3 addLabels18.py ${k}
 
     echo "---scoring model---"
-    perl "semeval2018_task7_scorer-v1.1.pl" ${modelDir}"predictions_with_labels.txt" answer_key18.txt
+    perl "semeval2018_task7_scorer-v1.2.pl" ${modelDir}"predictions_with_labels.txt" answer_key18.txt
 
 else
     echo "Doing ${k}-fold cross-validation"
@@ -48,7 +48,7 @@ else
     rm results/results*.txt
     for i in $(seq 1 ${1});
     do
-    echo "---current fold: ${k}---"
+    echo "---current fold: ${i}---"
     echo "---running feature extraction---"
     python3 featureExtraction18.py ${k}
 
@@ -66,7 +66,7 @@ else
     python3 addLabels18.py ${i}
 
     echo "---writing results to file---"
-    perl "semeval2018_task7_scorer-v1.1.pl" ${modelDir}"predictions_with_labels.txt" answer_key18.txt > ${resultsDir}"results${i}.txt"
+    perl "semeval2018_task7_scorer-v1.2.pl" ${modelDir}"predictions_with_labels.txt" answer_key18.txt > ${resultsDir}"results${i}.txt"
     done
 
     python3 average.py

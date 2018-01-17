@@ -105,7 +105,7 @@ my $R  = (0 == ($correct * $totalToBeExtracted)) ? 0 : 100.0 * $correct / $total
 printf "%s%d%s%d%s%5.2f%s", 'Recall = ', $correct, '/', $totalToBeExtracted, ' = ', $R, "\%\n";
 
 ### F1-score
-my $F1 = (0 == $P + $R) ? 0 : 2 * $P * $R / ($P + $R);
+my $F1 = (0 == $P + $R) ? 0 : 2.0 * $P * $R / ($P + $R);
 printf "F1 = %0.2f%s \n\n", $F1, '%';
 
 printf "<<< The official score for the extraction scenario is F1 = %0.2f%s >>>\n\n", $F1, '%';
@@ -257,7 +257,7 @@ sub evaluate() {
 				: 100.0 * $$confMatrix{$labelAnswer}{$labelAnswer} / ($$allLabelsProposed{$labelAnswer});
 		my $R  = (0 == $$allLabelsAnswer{$labelAnswer}) ? 0
 				: 100.0 * $$confMatrix{$labelAnswer}{$labelAnswer} / $$allLabelsAnswer{$labelAnswer};
-		my $F1 = (0 == $P + $R) ? 0 : 2 * $P * $R / ($P + $R);
+		my $F1 = (0 == $P + $R) ? 0 : 2.0 * $P * $R / ($P + $R);
 
 		### Output P/R/F1
 		printf "%25s%s%4d%s%4d%s%6.2f", $labelAnswer,
@@ -290,7 +290,7 @@ sub evaluate() {
 	
 	$macroP  /= $distinctLabelsCnt; 
 	$macroR  /= $distinctLabelsCnt;
-	$macroF1 /= $distinctLabelsCnt;
+ 	$macroF1 = (0 == $macroP + $macroR) ? 0 :   2.0 * $macroP * $macroR / ($macroP + $macroR);
 	print "\nMacro-averaged result :\n";
 	printf "%s%6.2f%s%6.2f%s%6.2f%s\n\n\n\n", "P = ", $macroP, "%\tR = ", $macroR, "%\tF1 = ", $macroF1, '%';
 

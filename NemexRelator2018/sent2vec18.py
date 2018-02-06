@@ -1,6 +1,5 @@
 import ast
 from parameters18 import *
-import re
 import sys
 
 
@@ -67,7 +66,6 @@ def pad_middle(sent, max_len):
         return [sent[0]] + padding + sent[1:]
 
 
-
 if __name__ == '__main__':
     which_set = sys.argv[1]
     if which_set == '0':
@@ -79,9 +77,10 @@ if __name__ == '__main__':
     record_file = path_to_feat_folder + 'record.txt'
     vocab_file = path_to_feat_folder + 'vocab.txt'
     shapes_file = path_to_feat_folder + 'shapes.txt'
-    relation_file = path_to_feat_folder + 'labels.txt'
+    label_file = path_to_feat_folder + 'labels.txt'
     e1_context_file = path_to_feat_folder + 'e1_context.txt'
     e2_context_file = path_to_feat_folder + 'e2_context.txt'
+    abstracts_file = path_to_feat_folder + 'abstracts.txt'
     word_embds_file = path_to_feat_folder + 'abstracts-dblp-semeval2018.wcs.txt'  # smaller embds for dev
     # word_embds_file = path_to_feat_folder + 'acm_abstracts.wcs.txt'
     # cluster_file = path_to_feat_folder + 'dblp_marlin_clusters_1000'
@@ -93,6 +92,7 @@ if __name__ == '__main__':
     num_clusters = 0
     num_e1_contexts = 0
     num_e2_contexts = 0
+    num_abstracts = 0
 
     if fire_words:
         words = read_feat_file(vocab_file, unknown)
@@ -113,7 +113,9 @@ if __name__ == '__main__':
         e2_contexts = read_feat_file(e2_context_file, unknown)
         num_e2_contexts = len(e2_contexts)
 
-    relations = read_feat_file(relation_file, unknown)
+    with open(label_file) as labs:
+        labels = {lab.strip(): i for i, lab in enumerate(labs, start=1)}
+
     len_token_vec = num_words + num_clusters + num_shapes + num_embeddings
     feat_val = ':1.0'
 
@@ -154,7 +156,7 @@ if __name__ == '__main__':
                             shape_vec = [0, 0, 0, 0, 0, 0, 0]
                             if any(char.isupper() for char in token):
                                 shape_vec[0] = 1
-                            if '-' in token:
+                            if ',' in token:
                                 shape_vec[1] = 1
                             if any(char.isdigit() for char in token):
                                 shape_vec[2] = 1
@@ -193,8 +195,8 @@ if __name__ == '__main__':
                         token_feats = [unknown_word, unknown_cluster, unknown_shape]
 
                     sentence_feats += token_feats
+                sent_offset = len(norm_sentence) * len_token_vec
                 if len(sentence) > 2:
-                    sent_offset = len(norm_sentence) * len_token_vec
                     e1_context = sentence[1]
                     e2_context = sentence[-2]
 
@@ -218,5 +220,8 @@ if __name__ == '__main__':
                         e2_feat = str(e2_pos) + feat_val
                         sentence_feats.append(e2_feat)
 
-                lib_out.write(str(relations[current_relation]) + ' ')
+                if 'train' in out_file:
+                    lib_out.write(str(labels[current_relation]) + ' ')
+                else:
+                    lib_out.write('0 ')
                 lib_out.write(' '.join(i for i in sentence_feats if i) + '\n')

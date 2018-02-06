@@ -11,17 +11,17 @@ libLinDir="/home/tyler/liblinear-2.11"
 resultsDir=${mainDir}"/results/"
 
 if [ "$#" -ne 1 ]; then
-    echo "script takes only one integer argument, k, for k-fold cross validation"
+    echo "script requires one argument, k, for development.
+    k>0 does k-fold cross val, k=0 uses dev set, k=-1 for submission"
     echo "exiting..."
     exit 1
 else
     k=$1
+    echo "---clearing record files---"
+    rm features/record*.txt
 fi
 
-echo "---clearing records---"
-rm features/record_*.txt
-
-if [ ${k} = "0" ]; then
+if [[ "$k" = "0" ]]; then
     echo "doing training/test on subset given by SemEval organizers"
     echo "---running feature extraction---"
     python3 featureExtraction18.py ${k}
@@ -42,10 +42,31 @@ if [ ${k} = "0" ]; then
     echo "---scoring model---"
     perl "semeval2018_task7_scorer-v1.2.pl" ${modelDir}"predictions_with_labels.txt" answer_key18.txt
 
-else
+elif [[ "$k" = "-1"  ]]; then
+    echo "Creating file for competition submission"
+    echo "---running feature extraction---"
+    python3 featureExtraction18.py ${k}
+
+    echo "---converting sentences to vectors---"
+    python3 sent2vec18.py "0"
+
+    cd ${libLinDir}
+    echo "---training LibLinear model---"
+    ./train -s ${s} -c ${c} -e ${e} ${modelDir}"libLinearInput_train.txt" ${modelDir}${out_name}".model"
+    echo "---predicting on test set---"
+    ./predict ${modelDir}"libLinearInput_test.txt" ${modelDir}${out_name}".model" ${modelDir}"predictions.txt"
+
+    cd ${mainDir}
+    echo "---adding labels to LibLinear output---"
+    python3 addLabels18.py ${k}
+
+    echo "Don't forget to add the task number to the first line of prediction file before submission!!"
+
+elif [[ "$k" >  "0" ]]; then
     echo "Doing ${k}-fold cross-validation"
     echo "---clearing results directory---"
     rm results/results*.txt
+
     for i in $(seq 1 ${1});
     do
     echo "---current fold: ${i}---"

@@ -34,8 +34,8 @@ def read_embeddings(file):
             if len(split) == 2:
                 continue
             else:
-                word, vec = ' '.join(split[:-300]), [float(val) for val in split[-300:]]  # -300 due to # of dims
-                embs[word] = vec
+                word, vect = ' '.join(split[:-300]), [float(val) for val in split[-300:]]  # -300 due to # of dims
+                embs[word] = vect
     return embs
 
 
@@ -196,7 +196,7 @@ if __name__ == '__main__':
 
                     sentence_feats += token_feats
                 sent_offset = len(norm_sentence) * len_token_vec
-                if len(sentence) > 2:
+                if len(sentence) > 2:  # norm sentence not used to avoid padding elements
                     e1_context = sentence[1]
                     e2_context = sentence[-2]
 
@@ -220,8 +220,8 @@ if __name__ == '__main__':
                         e2_feat = str(e2_pos) + feat_val
                         sentence_feats.append(e2_feat)
 
-                if 'train' in out_file:
-                    lib_out.write(str(labels[current_relation]) + ' ')
-                else:
-                    lib_out.write('0 ')
+                #if 'train' in out_file:
+                lib_out.write(str(labels[current_relation]) + ' ')
+                #else:
+                #    lib_out.write('0 ')
                 lib_out.write(' '.join(i for i in sentence_feats if i) + '\n')

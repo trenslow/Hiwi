@@ -14,4 +14,4 @@ for file in results_files:
                 sigma += float(f1_score)
 
 avg = sigma / k
-print('results for own ' + str(k) + '-fold validation: F1 = {0:.2f}%'.format(avg))
+print('results for ' + str(k) + '-fold validation: F1 = {0:.2f}%'.format(avg))

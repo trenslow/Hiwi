@@ -43,10 +43,7 @@ if [[ "$k" = "0"  ]]; then
 
 elif [[ "$k" >  "0" ]]; then
     echo "${k}-fold cross-validation"
-    if [ -z "$(ls -A ${resultsDir})" ]; then
-        echo "---clearing results directory---"
-        rm results/results*.txt
-    fi
+    rm -r ${resultsDir}; mkdir ${resultsDir}
 
     for i in $(seq 1 ${k});
     do

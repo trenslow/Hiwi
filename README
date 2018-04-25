@@ -8,7 +8,3 @@
 -contains all scripts, files and folders necessary to run and evaluate the Nemex system on the SemEval2010 corpus
 -the script semEval.sh calls all necessary scripts for training, testing and evaluation
 ->requires LibLinear (Fan et al. 2008) to be installed and the appropriate path to its directory entered into semEval.sh script
--to be done: properly process the ACE2005 corpus data and run it through the pipeline to evaluate Nemex compared to other published systems
-
-####################################### NemexRelator2018 #######################################
--contains all scripts, files and folders necessary to participate in SemEval2018 task 7 (subtasks TBD)

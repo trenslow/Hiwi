@@ -196,7 +196,7 @@ if __name__ == '__main__':
     output_folder = 'nemexOutputs/'
     create_output_directory(output_folder)
     full_plots = True
-    do_learn = True
+    do_learn = False
 
     # index that keeps track of all the paths to the output files
     # filters out any files that don't have extractions in them

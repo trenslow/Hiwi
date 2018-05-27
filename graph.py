@@ -23,7 +23,9 @@ if __name__ == '__main__':
     extraction_file = sys.argv[1]  # need to do error catch here
     relations = read_file(extraction_file)
     uri = 'bolt://localhost:7687'
-    driver = GraphDatabase.driver(uri, auth=('neo4j', 'password'))
+    username = 'neo4j'
+    password = 'password'
+    driver = GraphDatabase.driver(uri, auth=(username, password))
 
     with driver.session() as sess:
         # clear out database (for development)

@@ -190,9 +190,9 @@ def clean(new_c, unknws):
 
 if __name__ == '__main__':
     system_regex = r'extractions-(.*?).txt'
-    nyt_folder = 'ClausIE/nyt/'
-    reverb_folder = 'ClausIE/reverb/'
-    wiki_folder = 'ClausIE/wikipedia/'
+    nyt_folder = 'ClausIE_data/nyt/'
+    reverb_folder = 'ClausIE_data/reverb/'
+    wiki_folder = 'ClausIE_data/wikipedia/'
     output_folder = 'nemexOutputs/'
     create_output_directory(output_folder)
     full_plots = True
@@ -230,7 +230,7 @@ if __name__ == '__main__':
         with open(path_to_gold, encoding='latin-1') as f:
             sentence_index = {i: sent for i, sent in enumerate([line for line in f
                                                                 if len(line.strip().split('\t')) == 1])}
-        data_set_name = re.findall(r'ClausIE/(.*?)/', path)[0]
+        data_set_name = re.findall(r'ClausIE_data/(.*?)/', path)[0]
         for system, out_file in sorted(data.items(), key=operator.itemgetter(0)):
             # read gold standard data into dictionary
             gold_index = read_extraction_file(path_to_gold)
@@ -263,7 +263,6 @@ if __name__ == '__main__':
                                 learned_corrects[i].append(c_extr)
                     print('for the system: ' + system + ' on data set ' + data_set_name)
                     print('# of correct learned extractions:', sum([len(extrs) for extrs in learned_corrects.values()]))
-
 
                 num_unknowns = sum([len(e) for e in unknowns.values()])
                 with open(output_folder + data_set_name + '/' + system + '_estimation.txt', 'w+') as est_results:
